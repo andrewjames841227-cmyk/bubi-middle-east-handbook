@@ -1,18 +1,8 @@
 [
   {
     "path": "index.html",
-    "bytes": 99971,
-    "sha256": "e1cd148146d873ae0574e8828f5155a8ff4b58700a2c2f992564a910de38f8c0"
-  },
-  {
-    "path": "files/presentation.pdf",
-    "bytes": 549008,
-    "sha256": "69cde4d93cc0227ac7490b302ea222547b1ab507d2fb22e70bfc9b39dedce205"
-  },
-  {
-    "path": "files/manual.docx",
-    "bytes": 67022,
-    "sha256": "a00051c46315eef3536929cfbe1cd040b2fb734b81f3a8a19120b362b8472de6"
+    "bytes": 109961,
+    "sha256": "f55f1216600dd26cc6a99144af401fab48c252fd4fa8b6a4c5776aeba36008e2"
   },
   {
     "path": "files/complete-v2.1.zip",
@@ -20,9 +10,9 @@
     "sha256": "d50faafb1ba562ff339535c4744af7b6e29b15eb4dd59254ff6c9606f937b0c4"
   },
   {
-    "path": "files/presentation.pptx",
-    "bytes": 92813,
-    "sha256": "ebff8e58c349a12391292234f123fd80ef383792e59202f525fe421d2f4aa6e0"
+    "path": "files/manual.docx",
+    "bytes": 67022,
+    "sha256": "a00051c46315eef3536929cfbe1cd040b2fb734b81f3a8a19120b362b8472de6"
   },
   {
     "path": "files/manual.pdf",
@@ -33,5 +23,15 @@
     "path": "files/model.xlsx",
     "bytes": 131980,
     "sha256": "c6b36bc6872f32006c9f74ede35758b7cc746d47573809c77d4da486fb74473a"
+  },
+  {
+    "path": "files/presentation.pdf",
+    "bytes": 549008,
+    "sha256": "69cde4d93cc0227ac7490b302ea222547b1ab507d2fb22e70bfc9b39dedce205"
+  },
+  {
+    "path": "files/presentation.pptx",
+    "bytes": 92813,
+    "sha256": "ebff8e58c349a12391292234f123fd80ef383792e59202f525fe421d2f4aa6e0"
   }
 ]

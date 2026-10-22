@@ -1,8 +1,23 @@
 [
   {
     "path": "index.html",
-    "bytes": 109961,
-    "sha256": "f55f1216600dd26cc6a99144af401fab48c252fd4fa8b6a4c5776aeba36008e2"
+    "bytes": 184596,
+    "sha256": "c1eb78c5e9ed265c59e01e469bad518757e45b4844ba83690d2c4cda3771f7bb"
+  },
+  {
+    "path": "files/business-model-v3.json",
+    "bytes": 42816,
+    "sha256": "748b81fea3e2c1bbd2d05d0171bb7ba2443a7a34bbe7ef7f2c1efa553c470a73"
+  },
+  {
+    "path": "files/business-report-v3.pdf",
+    "bytes": 373431,
+    "sha256": "a61085a5261d7f1a2ad9b20fcfccf25291f30e92a0054213c01b707f6f32a61b"
+  },
+  {
+    "path": "files/business-sources-v3.json",
+    "bytes": 3146,
+    "sha256": "876b1e66e70d476252c40eae196642371a9168e196d719033471f844048c4797"
   },
   {
     "path": "files/complete-v2.1.zip",

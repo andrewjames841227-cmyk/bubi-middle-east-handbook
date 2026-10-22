@@ -1,0 +1,86 @@
+[
+  [
+    "S01",
+    "CBUAE Financial Stability Report 2024",
+    "2024统计；2026-10-22核验",
+    "https://www.centralbank.ae/media/kaqlwo0h/cbuae-fsr-report_2025_en.pdf",
+    "正文49–51页：活跃汇款商67家、境外汇款1478亿AED、汇款收入15亿AED。统计口径有限，非2026现值。"
+  ],
+  [
+    "S02",
+    "VARA Public Register",
+    "2026-10-22读取",
+    "https://www.vara.ae/en/licenses-and-register/public-register/",
+    "59条持牌结果，多种活动；不是59家交易所。IPA不允许营业。候选机构不代表布比合作客户。"
+  ],
+  [
+    "S03",
+    "Chainalysis MENA 2025",
+    "2025-10-23发布",
+    "https://www.chainalysis.com/blog/middle-east-north-africa-crypto-adoption-2025/",
+    "UAE 2024–2025窗口接收超560亿美元，为研究机构链上估计，非交易所成交或用户数。"
+  ],
+  [
+    "S04a",
+    "DLD Property Token Ownership Certificate",
+    "2025-05-29发布",
+    "https://dubailand.gov.ae/en/news-media/dubai-land-department-unveils-first-of-its-kind-property-token-ownership-certificate/",
+    "首项目224投资者，等待申请超6000；不等于付费客户池。"
+  ],
+  [
+    "S04b",
+    "DLD Tokenisation Phase II",
+    "2026-02-09发布",
+    "https://backoffice.dubailand.gov.ae/en/news-media/dubai-land-department-launches-phase-ii-of-the-real-estate-tokenisation-project-enabling-resale-in-the-secondary-market-from-20-february/",
+    "约780万地产代币可转售的受控试点，不是美元规模。"
+  ],
+  [
+    "S05",
+    "CBUAE Payment Token Services Regulation",
+    "2026-10-22读取",
+    "https://rulebook.centralbank.ae/en/rulebook/payment-token-services-regulation",
+    "支付代币发行/转换/托管转移的监管框架；技术排除条件不等于经营金融业务许可。"
+  ],
+  [
+    "S06",
+    "VARA Virtual Asset Issuance Rulebook",
+    "2026-10-22读取",
+    "https://rulebooks.vara.ae/entiresection/293",
+    "按发行类别、权利与商业模式判断要求；监管许可不是价值背书。"
+  ],
+  [
+    "S07",
+    "布比科技官网及本地既有资料",
+    "2026-10-22读取官网",
+    "https://www.bubi.cn/",
+    "官网描述数字信任与底层技术方向；不能证明完整交易所产品或中东持牌资质。"
+  ],
+  [
+    "S08",
+    "CBUAE General FAQ",
+    "2026-10-22读取",
+    "https://centralbank.ae/en/general-faq/",
+    "纯技术与实际金融活动边界按行为判断；不是按软件名称。"
+  ],
+  [
+    "S09",
+    "SAMA历史风险提示",
+    "2018-08-12；仅历史背景",
+    "https://sama.gov.sa/en-us/mediacenter/news/pages/news12082018.aspx",
+    "旧公告不作为2026完整法律结论；当前具体活动须重新核实。"
+  ],
+  [
+    "L01",
+    "用户既有v2.1经营模型",
+    "2026-10-20版本",
+    "files/model.xlsx",
+    "固定费用及总部工时预算参照；不是实际费用或审计数据。"
+  ],
+  [
+    "H",
+    "本版经营规划假设",
+    "2026-10-22编制",
+    "files/business-model-v3.json",
+    "客户数、转化率、价格、费率、投入与进度全部为待验证假设；可复算，不是观测事实。"
+  ]
+]

@@ -1,0 +1,59 @@
+{
+  "version": "3.2-public",
+  "publication_date": "2026-10-28",
+  "scope": "Planning report; figures are conditional assumptions, not audited results or approved budgets.",
+  "sources": [
+    {
+      "id": "P01",
+      "title": "BUBIX core technology",
+      "url": "https://www.bubi.cn/core-tech",
+      "use": "Public technology positioning; not evidence of tested performance or commercial results"
+    },
+    {
+      "id": "P02",
+      "title": "Zetrix AI Annual Report 2025, Note 31",
+      "url": "https://www.insage.com.my/interactiveAR/ZETRIX/interactiveAR2025/262/",
+      "use": "Listed-group service revenue reference, not BUBIX revenue or profit"
+    },
+    {
+      "id": "P03",
+      "title": "VARA Issuance Guidance",
+      "url": "https://rulebooks.vara.ae/rulebook/i-guidance-topic-0",
+      "use": "Classification reference by token features and rights; not a licensing conclusion for this project"
+    },
+    {
+      "id": "C01",
+      "type": "Brand background materials",
+      "public_original": false,
+      "status": "Material statements; selected counts require independent verification"
+    },
+    {
+      "id": "C02",
+      "type": "Infrastructure and operating-model background",
+      "public_original": false,
+      "status": "Material statements, not financial evidence"
+    },
+    {
+      "id": "M01",
+      "type": "Regional business context",
+      "public_original": false,
+      "status": "Original communications and files excluded"
+    },
+    {
+      "id": "J01",
+      "type": "Regional role responsibilities",
+      "public_original": false,
+      "status": "Role scope, not evidence of orders"
+    },
+    {
+      "id": "Q01",
+      "type": "Profit-definition check",
+      "status": "Currency, beneficiary, pre-tax / after-tax basis and year remain undefined"
+    },
+    {
+      "id": "H",
+      "type": "Planning assumptions",
+      "status": "Counts, prices, costs, timing, shares and rates require validation"
+    }
+  ]
+}

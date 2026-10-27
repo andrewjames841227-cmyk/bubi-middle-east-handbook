@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-28",
+  "conclusion": "The commercial direction aligns with the mandate. Regional leadership must connect verified access, procurement, contracts, collections and joint operations.",
+  "scope": "Review of plan coverage, not a role-eligibility assessment. Actual relationships, customer budgets, orders and authorization remain unverified.",
+  "items": [
+    {
+      "id": "R01",
+      "requirement": "Develop 1-2 countries and national-level digital-trust cooperation",
+      "source": "J01 responsibility 1; M01 regional development",
+      "current": "Primary and reserve markets and a national phase-one slot are included",
+      "gap": "Define reserve-market selection and stage gates",
+      "action": "Prioritize the UAE. Assess the reserve country against verifiable access, procurement needs, delivery conditions and required capital; avoid simultaneous heavy investment before qualification.",
+      "deliverable": "Country-entry memo, budget owner and authorization map",
+      "owner": "Regional lead; strategy and finance review",
+      "gate": "Primary market has a credible sponsor and procurement path; reserve market has a verifiable introduction route"
+    },
+    {
+      "id": "R02",
+      "requirement": "Reach leading enterprises, family groups and government business decision-makers; lead negotiations",
+      "source": "J01 responsibility 2; M01 strategic access",
+      "current": "Government, group and local-partner channels are listed",
+      "gap": "Convert contacts into decision, procurement and payment paths",
+      "action": "Record verified introductions, decision authority, procurement organization, paying entity, business problem and agreed next step. Introduction does not establish authorization.",
+      "deliverable": "Relationship register, decision map, meeting minutes and negotiation records",
+      "owner": "Regional lead; headquarters commercial support",
+      "gate": "Verify meetings and contacts; explain authority and budget paths without inventing relationships"
+    },
+    {
+      "id": "R03",
+      "requirement": "Full-stack international industrial public blockchain services and joint operations",
+      "source": "J01 responsibility 3, line A; C02 build-operate model",
+      "current": "Infrastructure delivery and continuing operations are covered",
+      "gap": "Distinguish product layers from business lines",
+      "action": "Define line A: local strategic entity, bounded software and governance phase, node and application onboarding, then recurring operating charges.",
+      "deliverable": "Line-A architecture, SOW, governance plan and fee / operating agreement outline",
+      "owner": "Regional business, architecture and operations",
+      "gate": "Clear responsibility for nodes, permissions, upgrades, service levels, acceptance and operating charges"
+    },
+    {
+      "id": "R04",
+      "requirement": "Build and operate asset-digitization and trusted cross-border trade platforms",
+      "source": "J01 responsibilities 3, line B, and 4",
+      "current": "RWA, trusted trade, identity and AI capabilities are listed",
+      "gap": "Link each capability to an independent buyer and commercial contract",
+      "action": "Define line B: leading industry / trade buyer, rights and credential workflows, paid implementation and service, then incremental billable events. A and B may share infrastructure, but procurement and revenue remain separate.",
+      "deliverable": "Buyer value map, data / rights workflow and pilot-to-production contract boundary",
+      "owner": "Regional business, product and industry solutions",
+      "gate": "Confirmed buyer problem, paid entitlements, data permissions and acceptance baseline"
+    },
+    {
+      "id": "R05",
+      "requirement": "National-level digital-trust infrastructure excludes hardware from default scope",
+      "source": "J01 responsibility 3",
+      "current": "Initial nodes and interfaces have scope limits",
+      "gap": "Avoid treating USD 5-10m as hardware contracting or entirely BUBIX-funded",
+      "action": "Specify software, governance, integration and operations. Hardware and base-cloud procurement need separate accountable entities and quotations.",
+      "deliverable": "Scope / exclusions schedule and responsibility matrix",
+      "owner": "Architecture, project management and commercial teams",
+      "gate": "Contract scope, external procurement and capacity assumptions agree"
+    },
+    {
+      "id": "R06",
+      "requirement": "Own regional results with actual cash collection as the central measure",
+      "source": "J01 responsibility 5",
+      "current": "Contracts, revenue and collections are separated",
+      "gap": "Add an end-to-end register tied to role accountability",
+      "action": "Track authorized need, budget path, formal quotation, effective contract, acceptance / invoice and cash receipt; record amount, currency, date and owner at each stage.",
+      "deliverable": "Regional pipeline, contract-to-cash bridge and overdue-receivable action log",
+      "owner": "Regional business advances collections; finance confirms accounting",
+      "gate": "Effective contracts, bank receipts and acceptance records. Planned 480 / 363.75 / 425 in USD 10,000 are not approved KPIs"
+    },
+    {
+      "id": "R07",
+      "requirement": "Build and operate the local organization, train teams and coordinate partners",
+      "source": "J01 responsibility 6; M01 UAE organization",
+      "current": "Fixed costs and local partners have placeholders",
+      "gap": "Define organization, on-site cadence and headquarters support",
+      "action": "Confirm resident or project-based deployment, working language, commercial / solution / delivery / finance ownership, training and headquarters scheduling. Release staffing as contracts and service workloads develop.",
+      "deliverable": "Organization chart, on-site / travel plan and headquarters / training schedule",
+      "owner": "Regional business with headquarters organization and delivery",
+      "gate": "Confirm responsibilities and resource schedules before committing to delivery or local service"
+    },
+    {
+      "id": "R08",
+      "requirement": "Use a JV for local operations and long-term economic participation",
+      "source": "J01 responsibility 6; C02 joint operations",
+      "current": "Four ledgers distinguish supplier and platform economics",
+      "gap": "Turn illustrative ownership into negotiable operating terms",
+      "action": "Prepare terms for capital, equity / control, IP, procurement, operations, revenue deductions, service sharing, audit, settlement and exit. The 30% share is sensitivity only.",
+      "deliverable": "Local-operation term sheet and service / revenue-sharing settlement framework",
+      "owner": "Regional coordination; headquarters investment, finance and legal review",
+      "gate": "Executable attribution, settlement basis and accountability; account separately for dividends and services"
+    },
+    {
+      "id": "R09",
+      "requirement": "Provide policy and competitive intelligence for international decisions",
+      "source": "J01 responsibility 7",
+      "current": "Public research and policy review are included",
+      "gap": "Create recurring intelligence products with decision feedback",
+      "action": "Issue weekly pipeline / policy briefs and monthly competitor / partner maps. Record source, date, impact, proposed action and decision for each item.",
+      "deliverable": "Country brief, competitor price / scope comparison and headquarters decision agenda",
+      "owner": "Regional lead; solution and strategy review",
+      "gate": "Intelligence changes sequencing, pricing, scope or resources; information volume alone is not value"
+    },
+    {
+      "id": "R10",
+      "requirement": "Translate technical value into an executive RWA + AI narrative",
+      "source": "J01 responsibility 4 and qualifications 1/4; M01 communication",
+      "current": "Brand, content and evidence cards are planned",
+      "gap": "Create distinct executive, procurement and technical materials",
+      "action": "Prepare a 90-second value story, 5-minute demonstration, technical evidence appendix and commercial / operating plan. Link each capability to buyer outcomes, measurement and acceptance.",
+      "deliverable": "Executive brief, demo script, value-measurement card and proposal template",
+      "owner": "Regional business, product and brand content",
+      "gate": "RWA / AI themes correspond to deliverable use cases; communication advances procurement"
+    },
+    {
+      "id": "R11",
+      "requirement": "Verify access, establish feasibility, then disclose materials in stages",
+      "source": "M01 development sequence",
+      "current": "The 90-day plan has stages",
+      "gap": "Specify disclosure levels and justify validation spending",
+      "action": "Use public overviews for initial contact. Share controlled technical / commercial materials after confirming needs and procurement paths. Approve a minimum validation work-package budget separately.",
+      "deliverable": "Verified relationship records, requirements memo, disclosure tiers and validation budget",
+      "owner": "Regional business, information authorization and finance approval",
+      "gate": "No heavy investment without access evidence. USD 500k remains a historical placeholder, not a launch recommendation"
+    },
+    {
+      "id": "R12",
+      "requirement": "HAA sales workflow with verifiable, traceable communication",
+      "source": "M01 HAA and value communication",
+      "current": "Business confirmation, AI assistance and expert review are covered",
+      "gap": "Keep sales-assistance AI separate from billable AI-product evidence",
+      "action": "Use HAA for sales preparation and review. Include Agentic AI products in contracts only when buyer need, product scope and charging conditions are established.",
+      "deliverable": "HAA template, source / assumption register and product-validation checklist",
+      "owner": "Regional business with product / technical review",
+      "gate": "Generated content does not establish authorization, budget, performance or customer acceptance"
+    },
+    {
+      "id": "R13",
+      "requirement": "English, cross-cultural communication, strategic-account experience and extended travel",
+      "source": "J01 qualifications 1-6",
+      "current": "The business path is designed",
+      "gap": "Actual access, working language, project history and on-site ability lack verification",
+      "action": "Verify through business demonstrations, checkable project experience, communication records, language scenarios and an on-site plan. Separate plan coverage from candidate qualification.",
+      "deliverable": "Resource / capability verification checklist, deployment plan and role authority / support",
+      "owner": "Role authorization and organizational review",
+      "gate": "Do not infer available relationships or conclude eligibility without evidence"
+    },
+    {
+      "id": "R14",
+      "requirement": "Align contribution, performance and incentives",
+      "source": "M01 contribution / reward principles; J01 collections focus",
+      "current": "Contribution and collection models are defined",
+      "gap": "Define attribution and incentive triggers",
+      "action": "Record contribution to acquisition, contracting, collection, delivery margin and recurring operations. Agree triggers, deductions, recognition timing and post-departure settlement separately; no assumed rate.",
+      "deliverable": "Regional performance-attribution and incentive framework",
+      "owner": "Regional business, organization and finance review",
+      "gate": "Use verifiable operating outcomes; ecosystem volume or token valuation does not replace realized contribution"
+    }
+  ]
+}

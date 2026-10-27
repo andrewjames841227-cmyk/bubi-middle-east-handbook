@@ -1,0 +1,138 @@
+{
+  "checks": [
+    {
+      "check": "Y1 external revenue",
+      "pass": true,
+      "actual": 125,
+      "expected": 125
+    },
+    {
+      "check": "Y1 contribution",
+      "pass": true,
+      "actual": -331.25,
+      "expected": -331.25
+    },
+    {
+      "check": "Y1 direct cost",
+      "pass": true,
+      "actual": 56.25,
+      "expected": 56.25
+    },
+    {
+      "check": "Y2 external revenue",
+      "pass": true,
+      "actual": 480,
+      "expected": 480
+    },
+    {
+      "check": "Y2 contribution",
+      "pass": true,
+      "actual": 64.0,
+      "expected": 64
+    },
+    {
+      "check": "Y2 direct cost",
+      "pass": true,
+      "actual": 216.0,
+      "expected": 216.0
+    },
+    {
+      "check": "Y3 external revenue",
+      "pass": true,
+      "actual": 1000,
+      "expected": 1000
+    },
+    {
+      "check": "Y3 contribution",
+      "pass": true,
+      "actual": 300.0,
+      "expected": 300
+    },
+    {
+      "check": "Y3 direct cost",
+      "pass": true,
+      "actual": 450.0,
+      "expected": 450.0
+    },
+    {
+      "check": "CNY share1 low",
+      "pass": true,
+      "actual": 2000.0,
+      "expected": 2000
+    },
+    {
+      "check": "CNY share1 high",
+      "pass": true,
+      "actual": 3000.0000000000005,
+      "expected": 3000
+    },
+    {
+      "check": "CNY share0.3 low",
+      "pass": true,
+      "actual": 2000.0,
+      "expected": 2000
+    },
+    {
+      "check": "CNY share0.3 high",
+      "pass": true,
+      "actual": 3000.0000000000005,
+      "expected": 3000
+    },
+    {
+      "check": "USD share1 low",
+      "pass": true,
+      "actual": 2000.0,
+      "expected": 2000
+    },
+    {
+      "check": "USD share1 high",
+      "pass": true,
+      "actual": 3000.0,
+      "expected": 3000
+    },
+    {
+      "check": "USD share0.3 low",
+      "pass": true,
+      "actual": 2000.0,
+      "expected": 2000
+    },
+    {
+      "check": "USD share0.3 high",
+      "pass": true,
+      "actual": 3000.0,
+      "expected": 3000
+    },
+    {
+      "check": "Capital envelope",
+      "pass": true,
+      "actual": 750,
+      "expected": 750
+    },
+    {
+      "check": "Y1 50% demand",
+      "pass": true,
+      "actual": -365.625,
+      "expected": -365.625
+    },
+    {
+      "check": "Y1 20% fixed/build overrun",
+      "pass": true,
+      "actual": -411.25,
+      "expected": -411.25
+    },
+    {
+      "check": "Y1 50% cash collection",
+      "pass": true,
+      "actual": -393.75,
+      "expected": -393.75
+    },
+    {
+      "check": "Y1 simple closing cash",
+      "pass": true,
+      "actual": 418.75,
+      "expected": 418.75
+    }
+  ],
+  "count": 22,
+  "scope": "Arithmetic only; does not validate demand, pricing, approvals or accounting"
+}

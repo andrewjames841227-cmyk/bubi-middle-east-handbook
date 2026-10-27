@@ -1,0 +1,408 @@
+{
+  "scope": "Independent contract/month reconciliation; validates arithmetic only, not prices, budgets, capacity or likelihood",
+  "count": 67,
+  "checks": [
+    {
+      "check": "保守进入 contract sum",
+      "actual": 115.0,
+      "expected": 115,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 revenue per contract",
+      "actual": 102.5,
+      "expected": 102.5,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 cash per contract",
+      "actual": 115.0,
+      "expected": 115.0,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 engineering",
+      "actual": 32.0,
+      "expected": 32.0,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 direct plus support plus commission",
+      "actual": 58.125,
+      "expected": 58.125,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 contribution",
+      "actual": -27.625,
+      "expected": -27.625,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 cash balance",
+      "actual": -15.75,
+      "expected": -15.75,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 backlog",
+      "actual": 12.5,
+      "expected": 12.5,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 funding",
+      "actual": 54.95,
+      "expected": 54.95,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M1 cash roll",
+      "actual": -6.0,
+      "expected": -6.0,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M2 cash roll",
+      "actual": -8.375,
+      "expected": -8.375,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M3 cash roll",
+      "actual": -17.875,
+      "expected": -17.875,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M4 cash roll",
+      "actual": -13.125,
+      "expected": -13.125,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M5 cash roll",
+      "actual": -22.625,
+      "expected": -22.625,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M6 cash roll",
+      "actual": -9.15,
+      "expected": -9.15,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M7 cash roll",
+      "actual": -22.75,
+      "expected": -22.75,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M8 cash roll",
+      "actual": -9.75,
+      "expected": -9.75,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M9 cash roll",
+      "actual": -23.35,
+      "expected": -23.35,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M10 cash roll",
+      "actual": -36.95,
+      "expected": -36.95,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M11 cash roll",
+      "actual": -9.250000000000004,
+      "expected": -9.25,
+      "pass_": true
+    },
+    {
+      "check": "保守进入 M12 cash roll",
+      "actual": -15.750000000000004,
+      "expected": -15.75,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 contract sum",
+      "actual": 480.0,
+      "expected": 480,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 revenue per contract",
+      "actual": 363.75,
+      "expected": 363.75,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 cash per contract",
+      "actual": 425.0,
+      "expected": 425.0,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 engineering",
+      "actual": 126.0,
+      "expected": 126.0,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 direct plus support plus commission",
+      "actual": 223.46527777777777,
+      "expected": 223.46527777777777,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 contribution",
+      "actual": 20.28472222222223,
+      "expected": 20.28472222222223,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 cash balance",
+      "actual": 78.47222222222223,
+      "expected": 78.47222222222223,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 backlog",
+      "actual": 116.25,
+      "expected": 116.25,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 funding",
+      "actual": 60.75,
+      "expected": 60.75,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M1 cash roll",
+      "actual": -10.0,
+      "expected": -10.0,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M2 cash roll",
+      "actual": -16.375,
+      "expected": -16.375,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M3 cash roll",
+      "actual": -26.25,
+      "expected": -26.25,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M4 cash roll",
+      "actual": -20.275,
+      "expected": -20.275,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M5 cash roll",
+      "actual": -30.75,
+      "expected": -30.75,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M6 cash roll",
+      "actual": 33.388888888888886,
+      "expected": 33.388888888888886,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M7 cash roll",
+      "actual": 12.027777777777779,
+      "expected": 12.027777777777779,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M8 cash roll",
+      "actual": -29.28333333333333,
+      "expected": -29.28333333333333,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M9 cash roll",
+      "actual": 92.30555555555556,
+      "expected": 92.30555555555556,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M10 cash roll",
+      "actual": 58.09444444444445,
+      "expected": 58.09444444444445,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M11 cash roll",
+      "actual": 23.88333333333334,
+      "expected": 23.88333333333334,
+      "pass_": true
+    },
+    {
+      "check": "JD目标情景 M12 cash roll",
+      "actual": 78.47222222222223,
+      "expected": 78.47222222222223,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 contract sum",
+      "actual": 875.0,
+      "expected": 875,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 revenue per contract",
+      "actual": 565.0,
+      "expected": 565.0,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 cash per contract",
+      "actual": 679.0,
+      "expected": 679.0,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 engineering",
+      "actual": 218.0,
+      "expected": 218.0,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 direct plus support plus commission",
+      "actual": 382.69444444444446,
+      "expected": 382.69444444444446,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 contribution",
+      "actual": 2.305555555555543,
+      "expected": 2.305555555555543,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 cash balance",
+      "actual": 110.60555555555555,
+      "expected": 110.60555555555555,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 backlog",
+      "actual": 310.0,
+      "expected": 310.0,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 funding",
+      "actual": 86.25,
+      "expected": 86.25,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M1 cash roll",
+      "actual": -15.0,
+      "expected": -15.0,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M2 cash roll",
+      "actual": -26.375,
+      "expected": -26.375,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M3 cash roll",
+      "actual": -41.25,
+      "expected": -41.25,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M4 cash roll",
+      "actual": -36.65,
+      "expected": -36.65,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M5 cash roll",
+      "actual": 3.138888888888893,
+      "expected": 3.138888888888893,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M6 cash roll",
+      "actual": 7.00277777777778,
+      "expected": 7.00277777777778,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M7 cash roll",
+      "actual": -32.18333333333333,
+      "expected": -32.18333333333333,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M8 cash roll",
+      "actual": 110.59444444444443,
+      "expected": 110.59444444444443,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M9 cash roll",
+      "actual": 81.87222222222222,
+      "expected": 81.87222222222223,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M10 cash roll",
+      "actual": 45.55,
+      "expected": 45.550000000000004,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M11 cash roll",
+      "actual": 166.42777777777778,
+      "expected": 166.42777777777778,
+      "pass_": true
+    },
+    {
+      "check": "条件挑战 M12 cash roll",
+      "actual": 110.60555555555555,
+      "expected": 110.60555555555555,
+      "pass_": true
+    },
+    {
+      "check": "base bookings analytical",
+      "actual": 480.0,
+      "expected": 480,
+      "pass_": true
+    },
+    {
+      "check": "base revenue analytical",
+      "actual": 363.75,
+      "expected": 363.75,
+      "pass_": true
+    },
+    {
+      "check": "no nation target revenue",
+      "actual": 176.25,
+      "expected": 176.25,
+      "pass_": true
+    },
+    {
+      "check": "cash delay does not alter P&L",
+      "actual": 20.28472222222223,
+      "expected": 20.28472222222223,
+      "pass_": true
+    }
+  ]
+}

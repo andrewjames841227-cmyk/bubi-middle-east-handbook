@@ -1,0 +1,84 @@
+{
+  "units": "USD 10,000",
+  "basis": "planning scenario, not forecast",
+  "operator": [
+    {
+      "year": 1,
+      "baas": 60,
+      "api": 10,
+      "workflow": 40,
+      "ai": 15,
+      "revenue": 125,
+      "variable": 56.25,
+      "fixed": 120,
+      "initial_tech": 280,
+      "contribution": -331.25
+    },
+    {
+      "year": 2,
+      "baas": 240,
+      "api": 60,
+      "workflow": 120,
+      "ai": 60,
+      "revenue": 480,
+      "variable": 216.0,
+      "fixed": 200,
+      "initial_tech": 0,
+      "contribution": 64.0
+    },
+    {
+      "year": 3,
+      "baas": 480,
+      "api": 200,
+      "workflow": 200,
+      "ai": 120,
+      "revenue": 1000,
+      "variable": 450.0,
+      "fixed": 250,
+      "initial_tech": 0,
+      "contribution": 300.0
+    }
+  ],
+  "reverse": [
+    {
+      "currency": "CNY",
+      "fx": 7,
+      "share": 1,
+      "margin": 0.3,
+      "revenue_low": 952.3809523809524,
+      "revenue_high": 1428.5714285714287
+    },
+    {
+      "currency": "CNY",
+      "fx": 7,
+      "share": 0.3,
+      "margin": 0.3,
+      "revenue_low": 3174.603174603175,
+      "revenue_high": 4761.904761904762
+    },
+    {
+      "currency": "USD",
+      "fx": 1,
+      "share": 1,
+      "margin": 0.3,
+      "revenue_low": 6666.666666666667,
+      "revenue_high": 10000.0
+    },
+    {
+      "currency": "USD",
+      "fx": 1,
+      "share": 0.3,
+      "margin": 0.3,
+      "revenue_low": 22222.222222222223,
+      "revenue_high": 33333.333333333336
+    }
+  ],
+  "capital": [
+    280,
+    120,
+    100,
+    100,
+    50,
+    100
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "version": "3.2-public",
+  "publication_date": "2026-10-27",
+  "scope": "Planning report; figures are conditional assumptions, not audited results or approved budgets.",
+  "sources": [
+    {
+      "id": "P01",
+      "title": "布比科技核心技术",
+      "url": "https://www.bubi.cn/core-tech",
+      "use": "公开技术定位，不证明性能测试或经营成果"
+    },
+    {
+      "id": "P02",
+      "title": "Zetrix AI Annual Report 2025, Note31",
+      "url": "https://www.insage.com.my/interactiveAR/ZETRIX/interactiveAR2025/262/",
+      "use": "上市集团相关服务收入参照；非BUBIX收入或利润"
+    },
+    {
+      "id": "P03",
+      "title": "VARA Issuance Guidance",
+      "url": "https://rulebooks.vara.ae/rulebook/i-guidance-topic-0",
+      "use": "按代币特征与权利义务分类的参考；不构成本项目许可结论"
+    },
+    {
+      "id": "C01",
+      "type": "品牌介绍背景资料",
+      "public_original": false,
+      "status": "资料陈述，部分数量口径待独立核验"
+    },
+    {
+      "id": "C02",
+      "type": "基础设施及运营模式背景资料",
+      "public_original": false,
+      "status": "资料陈述，非财务证明"
+    },
+    {
+      "id": "M01",
+      "type": "区域业务需求背景资料",
+      "public_original": false,
+      "status": "不附沟通记录或原始文件"
+    },
+    {
+      "id": "J01",
+      "type": "区域业务职责说明",
+      "public_original": false,
+      "status": "岗位范围，不证明现有订单"
+    },
+    {
+      "id": "Q01",
+      "type": "利润目标口径核查",
+      "status": "币种、归属、税前税后及年份尚未明确"
+    },
+    {
+      "id": "H",
+      "type": "经营规划假设",
+      "status": "数量、报价、成本、排期、份额与费率均为待验证参数"
+    }
+  ]
+}

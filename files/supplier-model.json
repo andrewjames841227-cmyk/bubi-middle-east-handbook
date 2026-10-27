@@ -1,0 +1,2049 @@
+{
+  "version": "3.1-JD",
+  "as_of": "2026-10-26",
+  "unit": "万美元；M1为获准启动月",
+  "classification": "经营规划假设；非历史实际、客户预算或概率预测",
+  "products": {
+    "D": {
+      "name": "企业付费方案与验证",
+      "fee": 15,
+      "annual": 0,
+      "duration": 2,
+      "em": 4,
+      "external": 3,
+      "support_cost": 0,
+      "scope": "独立交付方案、业务基线与接口验证；不抵扣后续实施为基准假设"
+    },
+    "E": {
+      "name": "企业资产数字化／可信贸易平台",
+      "fee": 70,
+      "annual": 15,
+      "duration": 5,
+      "em": 24,
+      "external": 14,
+      "support_cost": 6,
+      "scope": "一个企业主体群、一个主业务流程、最多3类接口；不含资金运营和硬件"
+    },
+    "N": {
+      "name": "国家级合作平台一期软件与治理",
+      "fee": 250,
+      "annual": 30,
+      "duration": 9,
+      "em": 90,
+      "external": 55,
+      "support_cost": 12,
+      "scope": "一个本地运营主体、最多5个机构节点、2个优先应用、最多5类接口；不含全国铺设、硬件和无限定制"
+    }
+  },
+  "fixed_budget": [
+    [
+      "区域负责人",
+      30
+    ],
+    [
+      "企业商务负责人",
+      18
+    ],
+    [
+      "本地项目协调",
+      12
+    ],
+    [
+      "本地伙伴服务",
+      12
+    ],
+    [
+      "差旅与决策层交流",
+      12
+    ],
+    [
+      "法律税务与投标",
+      12
+    ],
+    [
+      "内容与行业传播",
+      12
+    ],
+    [
+      "办公工具及行政",
+      12
+    ]
+  ],
+  "cases": [
+    {
+      "name": "保守进入",
+      "description": "2验证＋1企业；无国家项目",
+      "contracts": [
+        {
+          "id": "D1",
+          "kind": "D",
+          "name": "企业付费方案与验证",
+          "start": 2,
+          "end": 3,
+          "fee": 15,
+          "annual": 0,
+          "full_direct_cost": 7,
+          "em": 4,
+          "scope": "独立交付方案、业务基线与接口验证；不抵扣后续实施为基准假设",
+          "recognition": [
+            [
+              3,
+              15
+            ]
+          ],
+          "receipts": [
+            [
+              2,
+              7.5
+            ],
+            [
+              4,
+              7.5
+            ]
+          ]
+        },
+        {
+          "id": "D2",
+          "kind": "D",
+          "name": "企业付费方案与验证",
+          "start": 4,
+          "end": 5,
+          "fee": 15,
+          "annual": 0,
+          "full_direct_cost": 7,
+          "em": 4,
+          "scope": "独立交付方案、业务基线与接口验证；不抵扣后续实施为基准假设",
+          "recognition": [
+            [
+              5,
+              15
+            ]
+          ],
+          "receipts": [
+            [
+              4,
+              7.5
+            ],
+            [
+              6,
+              7.5
+            ]
+          ]
+        },
+        {
+          "id": "E1",
+          "kind": "E",
+          "name": "企业资产数字化／可信贸易平台",
+          "start": 6,
+          "end": 10,
+          "fee": 70,
+          "annual": 15,
+          "full_direct_cost": 38,
+          "em": 24,
+          "scope": "一个企业主体群、一个主业务流程、最多3类接口；不含资金运营和硬件",
+          "recognition": [
+            [
+              10,
+              70
+            ]
+          ],
+          "receipts": [
+            [
+              6,
+              21.0
+            ],
+            [
+              8,
+              28.0
+            ],
+            [
+              11,
+              21.0
+            ]
+          ]
+        }
+      ],
+      "months": [
+        {
+          "month": 1,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 6.0,
+          "cogs": 0.0,
+          "out": 6.0,
+          "net": -6.0,
+          "cum": -6.0
+        },
+        {
+          "month": 2,
+          "bookings": 15.0,
+          "revenue": 0.0,
+          "cash": 7.5,
+          "project_cost": 3.5,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.375,
+          "em": 2.0,
+          "fixed": 6.0,
+          "cogs": 3.5,
+          "out": 9.875,
+          "net": -2.375,
+          "cum": -8.375
+        },
+        {
+          "month": 3,
+          "bookings": 0.0,
+          "revenue": 15.0,
+          "cash": 0.0,
+          "project_cost": 3.5,
+          "support_cost": 0.0,
+          "commission_cost": 0.75,
+          "commission_cash": 0.0,
+          "em": 2.0,
+          "fixed": 6.0,
+          "cogs": 4.25,
+          "out": 9.5,
+          "net": -9.5,
+          "cum": -17.875
+        },
+        {
+          "month": 4,
+          "bookings": 15.0,
+          "revenue": 0.0,
+          "cash": 15.0,
+          "project_cost": 3.5,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.75,
+          "em": 2.0,
+          "fixed": 6.0,
+          "cogs": 3.5,
+          "out": 10.25,
+          "net": 4.75,
+          "cum": -13.125
+        },
+        {
+          "month": 5,
+          "bookings": 0.0,
+          "revenue": 15.0,
+          "cash": 0.0,
+          "project_cost": 3.5,
+          "support_cost": 0.0,
+          "commission_cost": 0.75,
+          "commission_cash": 0.0,
+          "em": 2.0,
+          "fixed": 6.0,
+          "cogs": 4.25,
+          "out": 9.5,
+          "net": -9.5,
+          "cum": -22.625
+        },
+        {
+          "month": 6,
+          "bookings": 85.0,
+          "revenue": 0.0,
+          "cash": 28.5,
+          "project_cost": 7.6,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 1.425,
+          "em": 4.8,
+          "fixed": 6.0,
+          "cogs": 7.6,
+          "out": 15.025,
+          "net": 13.475,
+          "cum": -9.15
+        },
+        {
+          "month": 7,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "cash": 0.0,
+          "project_cost": 7.6,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.0,
+          "em": 4.8,
+          "fixed": 6.0,
+          "cogs": 7.6,
+          "out": 13.6,
+          "net": -13.6,
+          "cum": -22.75
+        },
+        {
+          "month": 8,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "cash": 28.0,
+          "project_cost": 7.6,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 1.4000000000000001,
+          "em": 4.8,
+          "fixed": 6.0,
+          "cogs": 7.6,
+          "out": 15.0,
+          "net": 13.0,
+          "cum": -9.75
+        },
+        {
+          "month": 9,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "cash": 0.0,
+          "project_cost": 7.6,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.0,
+          "em": 4.8,
+          "fixed": 6.0,
+          "cogs": 7.6,
+          "out": 13.6,
+          "net": -13.6,
+          "cum": -23.35
+        },
+        {
+          "month": 10,
+          "bookings": 0.0,
+          "revenue": 70.0,
+          "cash": 0.0,
+          "project_cost": 7.6,
+          "support_cost": 0.0,
+          "commission_cost": 3.5,
+          "commission_cash": 0.0,
+          "em": 4.8,
+          "fixed": 6.0,
+          "cogs": 11.1,
+          "out": 13.6,
+          "net": -13.6,
+          "cum": -36.95
+        },
+        {
+          "month": 11,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 36.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 1.8,
+          "em": 0.0,
+          "fixed": 6.0,
+          "cogs": 0.5625,
+          "out": 8.3,
+          "net": 27.7,
+          "cum": -9.250000000000004
+        },
+        {
+          "month": 12,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 6.0,
+          "cogs": 0.5625,
+          "out": 6.5,
+          "net": -6.5,
+          "cum": -15.750000000000004
+        },
+        {
+          "month": 13,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.5625,
+          "out": 0.5,
+          "net": -0.5,
+          "cum": -16.250000000000004
+        },
+        {
+          "month": 14,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.5625,
+          "out": 0.5,
+          "net": -0.5,
+          "cum": -16.750000000000004
+        },
+        {
+          "month": 15,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.5625,
+          "out": 0.5,
+          "net": -0.5,
+          "cum": -17.250000000000004
+        },
+        {
+          "month": 16,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.5625,
+          "out": 0.5,
+          "net": -0.5,
+          "cum": -17.750000000000004
+        },
+        {
+          "month": 17,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.5625,
+          "out": 0.5,
+          "net": -0.5,
+          "cum": -18.250000000000004
+        },
+        {
+          "month": 18,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.5625,
+          "out": 0.5,
+          "net": -0.5,
+          "cum": -18.750000000000004
+        },
+        {
+          "month": 19,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.5625,
+          "out": 0.5,
+          "net": -0.5,
+          "cum": -19.250000000000004
+        },
+        {
+          "month": 20,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.5625,
+          "out": 0.5,
+          "net": -0.5,
+          "cum": -19.750000000000004
+        },
+        {
+          "month": 21,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.5625,
+          "out": 0.5,
+          "net": -0.5,
+          "cum": -20.250000000000004
+        },
+        {
+          "month": 22,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.5625,
+          "out": 0.5,
+          "net": -0.5,
+          "cum": -20.750000000000004
+        },
+        {
+          "month": 23,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.0,
+          "out": 0.0,
+          "net": 0.0,
+          "cum": -20.750000000000004
+        },
+        {
+          "month": 24,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 0.0,
+          "out": 0.0,
+          "net": 0.0,
+          "cum": -20.750000000000004
+        }
+      ],
+      "summary": {
+        "bookings": 115.0,
+        "revenue": 102.5,
+        "cash": 115.0,
+        "cogs": 58.125,
+        "fixed": 72.0,
+        "out": 130.75,
+        "net": -15.75,
+        "em": 32.0,
+        "gross": 44.375,
+        "op": -27.625,
+        "gross_margin": 0.4329268292682927,
+        "peak_need": 36.95,
+        "reserve": 18.0,
+        "funding": 54.95,
+        "peak_fte": 6.3999999999999995,
+        "contracted_arr": 15,
+        "live_arr": 15,
+        "signed_production": 1,
+        "accepted_production": 1,
+        "backlog": 12.5,
+        "full_em": 32
+      }
+    },
+    {
+      "name": "JD目标情景",
+      "description": "2验证＋2企业＋1国家一期",
+      "contracts": [
+        {
+          "id": "D1",
+          "kind": "D",
+          "name": "企业付费方案与验证",
+          "start": 2,
+          "end": 3,
+          "fee": 15,
+          "annual": 0,
+          "full_direct_cost": 7,
+          "em": 4,
+          "scope": "独立交付方案、业务基线与接口验证；不抵扣后续实施为基准假设",
+          "recognition": [
+            [
+              3,
+              15
+            ]
+          ],
+          "receipts": [
+            [
+              2,
+              7.5
+            ],
+            [
+              4,
+              7.5
+            ]
+          ]
+        },
+        {
+          "id": "D2",
+          "kind": "D",
+          "name": "企业付费方案与验证",
+          "start": 3,
+          "end": 4,
+          "fee": 15,
+          "annual": 0,
+          "full_direct_cost": 7,
+          "em": 4,
+          "scope": "独立交付方案、业务基线与接口验证；不抵扣后续实施为基准假设",
+          "recognition": [
+            [
+              4,
+              15
+            ]
+          ],
+          "receipts": [
+            [
+              3,
+              7.5
+            ],
+            [
+              5,
+              7.5
+            ]
+          ]
+        },
+        {
+          "id": "E1",
+          "kind": "E",
+          "name": "企业资产数字化／可信贸易平台",
+          "start": 4,
+          "end": 8,
+          "fee": 70,
+          "annual": 15,
+          "full_direct_cost": 38,
+          "em": 24,
+          "scope": "一个企业主体群、一个主业务流程、最多3类接口；不含资金运营和硬件",
+          "recognition": [
+            [
+              8,
+              70
+            ]
+          ],
+          "receipts": [
+            [
+              4,
+              21.0
+            ],
+            [
+              6,
+              28.0
+            ],
+            [
+              9,
+              21.0
+            ]
+          ]
+        },
+        {
+          "id": "E2",
+          "kind": "E",
+          "name": "企业资产数字化／可信贸易平台",
+          "start": 7,
+          "end": 11,
+          "fee": 70,
+          "annual": 15,
+          "full_direct_cost": 38,
+          "em": 24,
+          "scope": "一个企业主体群、一个主业务流程、最多3类接口；不含资金运营和硬件",
+          "recognition": [
+            [
+              11,
+              70
+            ]
+          ],
+          "receipts": [
+            [
+              7,
+              21.0
+            ],
+            [
+              9,
+              28.0
+            ],
+            [
+              12,
+              21.0
+            ]
+          ]
+        },
+        {
+          "id": "N1",
+          "kind": "N",
+          "name": "国家级合作平台一期软件与治理",
+          "start": 6,
+          "end": 14,
+          "fee": 250,
+          "annual": 30,
+          "full_direct_cost": 145,
+          "em": 90,
+          "scope": "一个本地运营主体、最多5个机构节点、2个优先应用、最多5类接口；不含全国铺设、硬件和无限定制",
+          "recognition": [
+            [
+              8,
+              100.0
+            ],
+            [
+              11,
+              87.5
+            ],
+            [
+              14,
+              62.5
+            ]
+          ],
+          "receipts": [
+            [
+              6,
+              75.0
+            ],
+            [
+              9,
+              100.0
+            ],
+            [
+              12,
+              50.0
+            ],
+            [
+              15,
+              25.0
+            ]
+          ]
+        }
+      ],
+      "months": [
+        {
+          "month": 1,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 10.0,
+          "cogs": 0.0,
+          "out": 10.0,
+          "net": -10.0,
+          "cum": -10.0
+        },
+        {
+          "month": 2,
+          "bookings": 15.0,
+          "revenue": 0.0,
+          "cash": 7.5,
+          "project_cost": 3.5,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.375,
+          "em": 2.0,
+          "fixed": 10.0,
+          "cogs": 3.5,
+          "out": 13.875,
+          "net": -6.375,
+          "cum": -16.375
+        },
+        {
+          "month": 3,
+          "bookings": 15.0,
+          "revenue": 15.0,
+          "cash": 7.5,
+          "project_cost": 7.0,
+          "support_cost": 0.0,
+          "commission_cost": 0.75,
+          "commission_cash": 0.375,
+          "em": 4.0,
+          "fixed": 10.0,
+          "cogs": 7.75,
+          "out": 17.375,
+          "net": -9.875,
+          "cum": -26.25
+        },
+        {
+          "month": 4,
+          "bookings": 85.0,
+          "revenue": 15.0,
+          "cash": 28.5,
+          "project_cost": 11.1,
+          "support_cost": 0.0,
+          "commission_cost": 0.75,
+          "commission_cash": 1.425,
+          "em": 6.8,
+          "fixed": 10.0,
+          "cogs": 11.85,
+          "out": 22.525,
+          "net": 5.975000000000001,
+          "cum": -20.275
+        },
+        {
+          "month": 5,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "cash": 7.5,
+          "project_cost": 7.6,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.375,
+          "em": 4.8,
+          "fixed": 10.0,
+          "cogs": 7.6,
+          "out": 17.975,
+          "net": -10.475000000000001,
+          "cum": -30.75
+        },
+        {
+          "month": 6,
+          "bookings": 280.0,
+          "revenue": 0.0,
+          "cash": 103.0,
+          "project_cost": 23.71111111111111,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 5.15,
+          "em": 14.8,
+          "fixed": 10.0,
+          "cogs": 23.71111111111111,
+          "out": 38.86111111111111,
+          "net": 64.13888888888889,
+          "cum": 33.388888888888886
+        },
+        {
+          "month": 7,
+          "bookings": 85.0,
+          "revenue": 0.0,
+          "cash": 21.0,
+          "project_cost": 31.31111111111111,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 1.05,
+          "em": 19.6,
+          "fixed": 10.0,
+          "cogs": 31.31111111111111,
+          "out": 42.36111111111111,
+          "net": -21.361111111111107,
+          "cum": 12.027777777777779
+        },
+        {
+          "month": 8,
+          "bookings": 0.0,
+          "revenue": 170.0,
+          "cash": 0.0,
+          "project_cost": 31.31111111111111,
+          "support_cost": 0.0,
+          "commission_cost": 8.5,
+          "commission_cash": 0.0,
+          "em": 19.6,
+          "fixed": 10.0,
+          "cogs": 39.81111111111111,
+          "out": 41.31111111111111,
+          "net": -41.31111111111111,
+          "cum": -29.28333333333333
+        },
+        {
+          "month": 9,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 164.0,
+          "project_cost": 23.71111111111111,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 8.200000000000001,
+          "em": 14.8,
+          "fixed": 10.0,
+          "cogs": 24.27361111111111,
+          "out": 42.41111111111111,
+          "net": 121.58888888888889,
+          "cum": 92.30555555555556
+        },
+        {
+          "month": 10,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 0.0,
+          "project_cost": 23.71111111111111,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 0.0,
+          "em": 14.8,
+          "fixed": 10.0,
+          "cogs": 24.27361111111111,
+          "out": 34.21111111111111,
+          "net": -34.21111111111111,
+          "cum": 58.09444444444445
+        },
+        {
+          "month": 11,
+          "bookings": 0.0,
+          "revenue": 158.75,
+          "cash": 0.0,
+          "project_cost": 23.71111111111111,
+          "support_cost": 0.5,
+          "commission_cost": 7.9375,
+          "commission_cash": 0.0,
+          "em": 14.8,
+          "fixed": 10.0,
+          "cogs": 32.14861111111111,
+          "out": 34.21111111111111,
+          "net": -34.21111111111111,
+          "cum": 23.88333333333334
+        },
+        {
+          "month": 12,
+          "bookings": 0.0,
+          "revenue": 2.5,
+          "cash": 86.0,
+          "project_cost": 16.11111111111111,
+          "support_cost": 1.0,
+          "commission_cost": 0.125,
+          "commission_cash": 4.3,
+          "em": 10.0,
+          "fixed": 10.0,
+          "cogs": 17.23611111111111,
+          "out": 31.41111111111111,
+          "net": 54.58888888888889,
+          "cum": 78.47222222222223
+        },
+        {
+          "month": 13,
+          "bookings": 0.0,
+          "revenue": 2.5,
+          "cash": 0.0,
+          "project_cost": 16.11111111111111,
+          "support_cost": 1.0,
+          "commission_cost": 0.125,
+          "commission_cash": 0.0,
+          "em": 10.0,
+          "fixed": 0.0,
+          "cogs": 17.23611111111111,
+          "out": 17.11111111111111,
+          "net": -17.11111111111111,
+          "cum": 61.361111111111114
+        },
+        {
+          "month": 14,
+          "bookings": 0.0,
+          "revenue": 65.0,
+          "cash": 0.0,
+          "project_cost": 16.11111111111111,
+          "support_cost": 1.0,
+          "commission_cost": 3.25,
+          "commission_cash": 0.0,
+          "em": 10.0,
+          "fixed": 0.0,
+          "cogs": 20.36111111111111,
+          "out": 17.11111111111111,
+          "net": -17.11111111111111,
+          "cum": 44.25
+        },
+        {
+          "month": 15,
+          "bookings": 0.0,
+          "revenue": 5.0,
+          "cash": 55.0,
+          "project_cost": 0.0,
+          "support_cost": 2.0,
+          "commission_cost": 0.25,
+          "commission_cash": 2.75,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 2.25,
+          "out": 4.75,
+          "net": 50.25,
+          "cum": 94.5
+        },
+        {
+          "month": 16,
+          "bookings": 0.0,
+          "revenue": 5.0,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 2.0,
+          "commission_cost": 0.25,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 2.25,
+          "out": 2.0,
+          "net": -2.0,
+          "cum": 92.5
+        },
+        {
+          "month": 17,
+          "bookings": 0.0,
+          "revenue": 5.0,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 2.0,
+          "commission_cost": 0.25,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 2.25,
+          "out": 2.0,
+          "net": -2.0,
+          "cum": 90.5
+        },
+        {
+          "month": 18,
+          "bookings": 0.0,
+          "revenue": 5.0,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 2.0,
+          "commission_cost": 0.25,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 2.25,
+          "out": 2.0,
+          "net": -2.0,
+          "cum": 88.5
+        },
+        {
+          "month": 19,
+          "bookings": 0.0,
+          "revenue": 5.0,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 2.0,
+          "commission_cost": 0.25,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 2.25,
+          "out": 2.0,
+          "net": -2.0,
+          "cum": 86.5
+        },
+        {
+          "month": 20,
+          "bookings": 0.0,
+          "revenue": 5.0,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 2.0,
+          "commission_cost": 0.25,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 2.25,
+          "out": 2.0,
+          "net": -2.0,
+          "cum": 84.5
+        },
+        {
+          "month": 21,
+          "bookings": 0.0,
+          "revenue": 3.75,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 1.5,
+          "commission_cost": 0.1875,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 1.6875,
+          "out": 1.5,
+          "net": -1.5,
+          "cum": 83.0
+        },
+        {
+          "month": 22,
+          "bookings": 0.0,
+          "revenue": 3.75,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 1.5,
+          "commission_cost": 0.1875,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 1.6875,
+          "out": 1.5,
+          "net": -1.5,
+          "cum": 81.5
+        },
+        {
+          "month": 23,
+          "bookings": 0.0,
+          "revenue": 3.75,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 1.5,
+          "commission_cost": 0.1875,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 1.6875,
+          "out": 1.5,
+          "net": -1.5,
+          "cum": 80.0
+        },
+        {
+          "month": 24,
+          "bookings": 0.0,
+          "revenue": 2.5,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 1.0,
+          "commission_cost": 0.125,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 1.125,
+          "out": 1.0,
+          "net": -1.0,
+          "cum": 79.0
+        }
+      ],
+      "summary": {
+        "bookings": 480.0,
+        "revenue": 363.75,
+        "cash": 425.0,
+        "cogs": 223.46527777777777,
+        "fixed": 120.0,
+        "out": 346.52777777777777,
+        "net": 78.47222222222223,
+        "em": 126.0,
+        "gross": 140.28472222222223,
+        "op": 20.28472222222223,
+        "gross_margin": 0.3856624665903017,
+        "peak_need": 30.75,
+        "reserve": 30.0,
+        "funding": 60.75,
+        "peak_fte": 26.133333333333336,
+        "contracted_arr": 60,
+        "live_arr": 30,
+        "signed_production": 3,
+        "accepted_production": 2,
+        "backlog": 116.25,
+        "full_em": 146
+      }
+    },
+    {
+      "name": "条件挑战",
+      "description": "4验证＋3企业＋2国家一期",
+      "contracts": [
+        {
+          "id": "D1",
+          "kind": "D",
+          "name": "企业付费方案与验证",
+          "start": 2,
+          "end": 3,
+          "fee": 15,
+          "annual": 0,
+          "full_direct_cost": 7,
+          "em": 4,
+          "scope": "独立交付方案、业务基线与接口验证；不抵扣后续实施为基准假设",
+          "recognition": [
+            [
+              3,
+              15
+            ]
+          ],
+          "receipts": [
+            [
+              2,
+              7.5
+            ],
+            [
+              4,
+              7.5
+            ]
+          ]
+        },
+        {
+          "id": "D2",
+          "kind": "D",
+          "name": "企业付费方案与验证",
+          "start": 3,
+          "end": 4,
+          "fee": 15,
+          "annual": 0,
+          "full_direct_cost": 7,
+          "em": 4,
+          "scope": "独立交付方案、业务基线与接口验证；不抵扣后续实施为基准假设",
+          "recognition": [
+            [
+              4,
+              15
+            ]
+          ],
+          "receipts": [
+            [
+              3,
+              7.5
+            ],
+            [
+              5,
+              7.5
+            ]
+          ]
+        },
+        {
+          "id": "D3",
+          "kind": "D",
+          "name": "企业付费方案与验证",
+          "start": 4,
+          "end": 5,
+          "fee": 15,
+          "annual": 0,
+          "full_direct_cost": 7,
+          "em": 4,
+          "scope": "独立交付方案、业务基线与接口验证；不抵扣后续实施为基准假设",
+          "recognition": [
+            [
+              5,
+              15
+            ]
+          ],
+          "receipts": [
+            [
+              4,
+              7.5
+            ],
+            [
+              6,
+              7.5
+            ]
+          ]
+        },
+        {
+          "id": "D4",
+          "kind": "D",
+          "name": "企业付费方案与验证",
+          "start": 5,
+          "end": 6,
+          "fee": 15,
+          "annual": 0,
+          "full_direct_cost": 7,
+          "em": 4,
+          "scope": "独立交付方案、业务基线与接口验证；不抵扣后续实施为基准假设",
+          "recognition": [
+            [
+              6,
+              15
+            ]
+          ],
+          "receipts": [
+            [
+              5,
+              7.5
+            ],
+            [
+              7,
+              7.5
+            ]
+          ]
+        },
+        {
+          "id": "E1",
+          "kind": "E",
+          "name": "企业资产数字化／可信贸易平台",
+          "start": 4,
+          "end": 8,
+          "fee": 70,
+          "annual": 15,
+          "full_direct_cost": 38,
+          "em": 24,
+          "scope": "一个企业主体群、一个主业务流程、最多3类接口；不含资金运营和硬件",
+          "recognition": [
+            [
+              8,
+              70
+            ]
+          ],
+          "receipts": [
+            [
+              4,
+              21.0
+            ],
+            [
+              6,
+              28.0
+            ],
+            [
+              9,
+              21.0
+            ]
+          ]
+        },
+        {
+          "id": "E2",
+          "kind": "E",
+          "name": "企业资产数字化／可信贸易平台",
+          "start": 6,
+          "end": 10,
+          "fee": 70,
+          "annual": 15,
+          "full_direct_cost": 38,
+          "em": 24,
+          "scope": "一个企业主体群、一个主业务流程、最多3类接口；不含资金运营和硬件",
+          "recognition": [
+            [
+              10,
+              70
+            ]
+          ],
+          "receipts": [
+            [
+              6,
+              21.0
+            ],
+            [
+              8,
+              28.0
+            ],
+            [
+              11,
+              21.0
+            ]
+          ]
+        },
+        {
+          "id": "E3",
+          "kind": "E",
+          "name": "企业资产数字化／可信贸易平台",
+          "start": 8,
+          "end": 12,
+          "fee": 70,
+          "annual": 15,
+          "full_direct_cost": 38,
+          "em": 24,
+          "scope": "一个企业主体群、一个主业务流程、最多3类接口；不含资金运营和硬件",
+          "recognition": [
+            [
+              12,
+              70
+            ]
+          ],
+          "receipts": [
+            [
+              8,
+              21.0
+            ],
+            [
+              10,
+              28.0
+            ],
+            [
+              13,
+              21.0
+            ]
+          ]
+        },
+        {
+          "id": "N1",
+          "kind": "N",
+          "name": "国家级合作平台一期软件与治理",
+          "start": 5,
+          "end": 13,
+          "fee": 250,
+          "annual": 30,
+          "full_direct_cost": 145,
+          "em": 90,
+          "scope": "一个本地运营主体、最多5个机构节点、2个优先应用、最多5类接口；不含全国铺设、硬件和无限定制",
+          "recognition": [
+            [
+              7,
+              100.0
+            ],
+            [
+              10,
+              87.5
+            ],
+            [
+              13,
+              62.5
+            ]
+          ],
+          "receipts": [
+            [
+              5,
+              75.0
+            ],
+            [
+              8,
+              100.0
+            ],
+            [
+              11,
+              50.0
+            ],
+            [
+              14,
+              25.0
+            ]
+          ]
+        },
+        {
+          "id": "N2",
+          "kind": "N",
+          "name": "国家级合作平台一期软件与治理",
+          "start": 8,
+          "end": 16,
+          "fee": 250,
+          "annual": 30,
+          "full_direct_cost": 145,
+          "em": 90,
+          "scope": "一个本地运营主体、最多5个机构节点、2个优先应用、最多5类接口；不含全国铺设、硬件和无限定制",
+          "recognition": [
+            [
+              10,
+              100.0
+            ],
+            [
+              13,
+              87.5
+            ],
+            [
+              16,
+              62.5
+            ]
+          ],
+          "receipts": [
+            [
+              8,
+              75.0
+            ],
+            [
+              11,
+              100.0
+            ],
+            [
+              14,
+              50.0
+            ],
+            [
+              17,
+              25.0
+            ]
+          ]
+        }
+      ],
+      "months": [
+        {
+          "month": 1,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 15.0,
+          "cogs": 0.0,
+          "out": 15.0,
+          "net": -15.0,
+          "cum": -15.0
+        },
+        {
+          "month": 2,
+          "bookings": 15.0,
+          "revenue": 0.0,
+          "cash": 7.5,
+          "project_cost": 3.5,
+          "support_cost": 0.0,
+          "commission_cost": 0.0,
+          "commission_cash": 0.375,
+          "em": 2.0,
+          "fixed": 15.0,
+          "cogs": 3.5,
+          "out": 18.875,
+          "net": -11.375,
+          "cum": -26.375
+        },
+        {
+          "month": 3,
+          "bookings": 15.0,
+          "revenue": 15.0,
+          "cash": 7.5,
+          "project_cost": 7.0,
+          "support_cost": 0.0,
+          "commission_cost": 0.75,
+          "commission_cash": 0.375,
+          "em": 4.0,
+          "fixed": 15.0,
+          "cogs": 7.75,
+          "out": 22.375,
+          "net": -14.875,
+          "cum": -41.25
+        },
+        {
+          "month": 4,
+          "bookings": 100.0,
+          "revenue": 15.0,
+          "cash": 36.0,
+          "project_cost": 14.6,
+          "support_cost": 0.0,
+          "commission_cost": 0.75,
+          "commission_cash": 1.8,
+          "em": 8.8,
+          "fixed": 15.0,
+          "cogs": 15.35,
+          "out": 31.4,
+          "net": 4.600000000000001,
+          "cum": -36.65
+        },
+        {
+          "month": 5,
+          "bookings": 295.0,
+          "revenue": 15.0,
+          "cash": 90.0,
+          "project_cost": 30.71111111111111,
+          "support_cost": 0.0,
+          "commission_cost": 0.75,
+          "commission_cash": 4.5,
+          "em": 18.8,
+          "fixed": 15.0,
+          "cogs": 31.46111111111111,
+          "out": 50.21111111111111,
+          "net": 39.78888888888889,
+          "cum": 3.138888888888893
+        },
+        {
+          "month": 6,
+          "bookings": 85.0,
+          "revenue": 15.0,
+          "cash": 56.5,
+          "project_cost": 34.81111111111111,
+          "support_cost": 0.0,
+          "commission_cost": 0.75,
+          "commission_cash": 2.825,
+          "em": 21.6,
+          "fixed": 15.0,
+          "cogs": 35.56111111111111,
+          "out": 52.63611111111111,
+          "net": 3.863888888888887,
+          "cum": 7.00277777777778
+        },
+        {
+          "month": 7,
+          "bookings": 0.0,
+          "revenue": 100.0,
+          "cash": 7.5,
+          "project_cost": 31.31111111111111,
+          "support_cost": 0.0,
+          "commission_cost": 5.0,
+          "commission_cash": 0.375,
+          "em": 19.6,
+          "fixed": 15.0,
+          "cogs": 36.31111111111111,
+          "out": 46.68611111111111,
+          "net": -39.18611111111111,
+          "cum": -32.18333333333333
+        },
+        {
+          "month": 8,
+          "bookings": 365.0,
+          "revenue": 70.0,
+          "cash": 224.0,
+          "project_cost": 55.022222222222226,
+          "support_cost": 0.0,
+          "commission_cost": 3.5,
+          "commission_cash": 11.200000000000001,
+          "em": 34.4,
+          "fixed": 15.0,
+          "cogs": 58.522222222222226,
+          "out": 81.22222222222223,
+          "net": 142.77777777777777,
+          "cum": 110.59444444444443
+        },
+        {
+          "month": 9,
+          "bookings": 0.0,
+          "revenue": 1.25,
+          "cash": 36.0,
+          "project_cost": 47.42222222222222,
+          "support_cost": 0.5,
+          "commission_cost": 0.0625,
+          "commission_cash": 1.8,
+          "em": 29.6,
+          "fixed": 15.0,
+          "cogs": 47.98472222222222,
+          "out": 64.72222222222221,
+          "net": -28.722222222222214,
+          "cum": 81.87222222222222
+        },
+        {
+          "month": 10,
+          "bookings": 0.0,
+          "revenue": 258.75,
+          "cash": 28.0,
+          "project_cost": 47.42222222222222,
+          "support_cost": 0.5,
+          "commission_cost": 12.9375,
+          "commission_cash": 1.4000000000000001,
+          "em": 29.6,
+          "fixed": 15.0,
+          "cogs": 60.85972222222222,
+          "out": 64.32222222222222,
+          "net": -36.32222222222222,
+          "cum": 45.55
+        },
+        {
+          "month": 11,
+          "bookings": 0.0,
+          "revenue": 2.5,
+          "cash": 186.0,
+          "project_cost": 39.82222222222222,
+          "support_cost": 1.0,
+          "commission_cost": 0.125,
+          "commission_cash": 9.3,
+          "em": 24.8,
+          "fixed": 15.0,
+          "cogs": 40.94722222222222,
+          "out": 65.12222222222222,
+          "net": 120.87777777777778,
+          "cum": 166.42777777777778
+        },
+        {
+          "month": 12,
+          "bookings": 0.0,
+          "revenue": 72.5,
+          "cash": 0.0,
+          "project_cost": 39.82222222222222,
+          "support_cost": 1.0,
+          "commission_cost": 3.625,
+          "commission_cash": 0.0,
+          "em": 24.8,
+          "fixed": 15.0,
+          "cogs": 44.44722222222222,
+          "out": 55.82222222222222,
+          "net": -55.82222222222222,
+          "cum": 110.60555555555555
+        },
+        {
+          "month": 13,
+          "bookings": 0.0,
+          "revenue": 153.75,
+          "cash": 36.0,
+          "project_cost": 32.22222222222222,
+          "support_cost": 1.5,
+          "commission_cost": 7.6875,
+          "commission_cash": 1.8,
+          "em": 20.0,
+          "fixed": 0.0,
+          "cogs": 41.40972222222222,
+          "out": 35.52222222222222,
+          "net": 0.4777777777777814,
+          "cum": 111.08333333333334
+        },
+        {
+          "month": 14,
+          "bookings": 0.0,
+          "revenue": 6.25,
+          "cash": 105.0,
+          "project_cost": 16.11111111111111,
+          "support_cost": 2.5,
+          "commission_cost": 0.3125,
+          "commission_cash": 5.25,
+          "em": 10.0,
+          "fixed": 0.0,
+          "cogs": 18.92361111111111,
+          "out": 23.86111111111111,
+          "net": 81.13888888888889,
+          "cum": 192.22222222222223
+        },
+        {
+          "month": 15,
+          "bookings": 0.0,
+          "revenue": 6.25,
+          "cash": 0.0,
+          "project_cost": 16.11111111111111,
+          "support_cost": 2.5,
+          "commission_cost": 0.3125,
+          "commission_cash": 0.0,
+          "em": 10.0,
+          "fixed": 0.0,
+          "cogs": 18.92361111111111,
+          "out": 18.61111111111111,
+          "net": -18.61111111111111,
+          "cum": 173.61111111111111
+        },
+        {
+          "month": 16,
+          "bookings": 0.0,
+          "revenue": 68.75,
+          "cash": 0.0,
+          "project_cost": 16.11111111111111,
+          "support_cost": 2.5,
+          "commission_cost": 3.4375,
+          "commission_cash": 0.0,
+          "em": 10.0,
+          "fixed": 0.0,
+          "cogs": 22.04861111111111,
+          "out": 18.61111111111111,
+          "net": -18.61111111111111,
+          "cum": 155.0
+        },
+        {
+          "month": 17,
+          "bookings": 0.0,
+          "revenue": 8.75,
+          "cash": 55.0,
+          "project_cost": 0.0,
+          "support_cost": 3.5,
+          "commission_cost": 0.4375,
+          "commission_cash": 2.75,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 3.9375,
+          "out": 6.25,
+          "net": 48.75,
+          "cum": 203.75
+        },
+        {
+          "month": 18,
+          "bookings": 0.0,
+          "revenue": 8.75,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 3.5,
+          "commission_cost": 0.4375,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 3.9375,
+          "out": 3.5,
+          "net": -3.5,
+          "cum": 200.25
+        },
+        {
+          "month": 19,
+          "bookings": 0.0,
+          "revenue": 8.75,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 3.5,
+          "commission_cost": 0.4375,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 3.9375,
+          "out": 3.5,
+          "net": -3.5,
+          "cum": 196.75
+        },
+        {
+          "month": 20,
+          "bookings": 0.0,
+          "revenue": 8.75,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 3.5,
+          "commission_cost": 0.4375,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 3.9375,
+          "out": 3.5,
+          "net": -3.5,
+          "cum": 193.25
+        },
+        {
+          "month": 21,
+          "bookings": 0.0,
+          "revenue": 7.5,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 3.0,
+          "commission_cost": 0.375,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 3.375,
+          "out": 3.0,
+          "net": -3.0,
+          "cum": 190.25
+        },
+        {
+          "month": 22,
+          "bookings": 0.0,
+          "revenue": 7.5,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 3.0,
+          "commission_cost": 0.375,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 3.375,
+          "out": 3.0,
+          "net": -3.0,
+          "cum": 187.25
+        },
+        {
+          "month": 23,
+          "bookings": 0.0,
+          "revenue": 6.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 2.5,
+          "commission_cost": 0.3125,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 2.8125,
+          "out": 2.5,
+          "net": -2.5,
+          "cum": 184.75
+        },
+        {
+          "month": 24,
+          "bookings": 0.0,
+          "revenue": 6.25,
+          "cash": 0.0,
+          "project_cost": 0.0,
+          "support_cost": 2.5,
+          "commission_cost": 0.3125,
+          "commission_cash": 0.0,
+          "em": 0.0,
+          "fixed": 0.0,
+          "cogs": 2.8125,
+          "out": 2.5,
+          "net": -2.5,
+          "cum": 182.25
+        }
+      ],
+      "summary": {
+        "bookings": 875.0,
+        "revenue": 565.0,
+        "cash": 679.0,
+        "cogs": 382.69444444444446,
+        "fixed": 180.0,
+        "out": 568.3944444444444,
+        "net": 110.60555555555555,
+        "em": 218.0,
+        "gross": 182.30555555555554,
+        "op": 2.305555555555543,
+        "gross_margin": 0.32266470009832837,
+        "peak_need": 41.25,
+        "reserve": 45.0,
+        "funding": 86.25,
+        "peak_fte": 45.86666666666667,
+        "contracted_arr": 105,
+        "live_arr": 30,
+        "signed_production": 5,
+        "accepted_production": 3,
+        "backlog": 310.0,
+        "full_em": 268
+      }
+    }
+  ],
+  "stress": [
+    {
+      "name": "目标情景",
+      "bookings": 480.0,
+      "revenue": 363.75,
+      "cash": 425.0,
+      "cogs": 223.46527777777777,
+      "fixed": 120.0,
+      "out": 346.52777777777777,
+      "net": 78.47222222222223,
+      "em": 126.0,
+      "gross": 140.28472222222223,
+      "op": 20.28472222222223,
+      "gross_margin": 0.3856624665903017,
+      "peak_need": 30.75,
+      "reserve": 30.0,
+      "funding": 60.75,
+      "peak_fte": 26.133333333333336,
+      "contracted_arr": 60,
+      "live_arr": 30,
+      "signed_production": 3,
+      "accepted_production": 2,
+      "backlog": 116.25,
+      "full_em": 146
+    },
+    {
+      "name": "国家一期未签，固定费不变",
+      "bookings": 200.0,
+      "revenue": 176.25,
+      "cash": 200.0,
+      "cogs": 101.3125,
+      "fixed": 120.0,
+      "out": 222.5,
+      "net": -22.5,
+      "em": 56.0,
+      "gross": 74.9375,
+      "op": -45.0625,
+      "gross_margin": 0.425177304964539,
+      "peak_need": 52.2,
+      "reserve": 30.0,
+      "funding": 82.2,
+      "peak_fte": 12.799999999999999,
+      "contracted_arr": 30,
+      "live_arr": 30,
+      "signed_production": 2,
+      "accepted_production": 2,
+      "backlog": 23.75,
+      "full_em": 56
+    },
+    {
+      "name": "所有签约延后3个月",
+      "bookings": 480.0,
+      "revenue": 201.25,
+      "cash": 339.0,
+      "cogs": 149.80694444444444,
+      "fixed": 120.0,
+      "out": 276.69444444444446,
+      "net": 62.30555555555556,
+      "em": 86.4,
+      "gross": 51.44305555555556,
+      "op": -68.55694444444444,
+      "gross_margin": 0.2556176673567978,
+      "peak_need": 60.75,
+      "reserve": 30.0,
+      "funding": 90.75,
+      "peak_fte": 26.133333333333336,
+      "contracted_arr": 60,
+      "live_arr": 15,
+      "signed_production": 3,
+      "accepted_production": 1,
+      "backlog": 278.75,
+      "full_em": 146
+    },
+    {
+      "name": "回款延后2个月",
+      "bookings": 480.0,
+      "revenue": 363.75,
+      "cash": 339.0,
+      "cogs": 223.46527777777777,
+      "fixed": 120.0,
+      "out": 342.22777777777776,
+      "net": -3.2277777777777636,
+      "em": 126.0,
+      "gross": 140.28472222222223,
+      "op": 20.28472222222223,
+      "gross_margin": 0.3856624665903017,
+      "peak_need": 105.77222222222221,
+      "reserve": 30.0,
+      "funding": 135.7722222222222,
+      "peak_fte": 26.133333333333336,
+      "contracted_arr": 60,
+      "live_arr": 30,
+      "signed_production": 3,
+      "accepted_production": 2,
+      "backlog": 116.25,
+      "full_em": 146
+    },
+    {
+      "name": "价格下降15%",
+      "bookings": 408.0,
+      "revenue": 309.1875,
+      "cash": 361.25,
+      "cogs": 220.73715277777777,
+      "fixed": 120.0,
+      "out": 343.34027777777777,
+      "net": 17.90972222222223,
+      "em": 126.0,
+      "gross": 88.45034722222223,
+      "op": -31.549652777777766,
+      "gross_margin": 0.2860734901062373,
+      "peak_need": 54.22083333333333,
+      "reserve": 30.0,
+      "funding": 84.22083333333333,
+      "peak_fte": 26.133333333333336,
+      "contracted_arr": 51.0,
+      "live_arr": 25.5,
+      "signed_production": 3,
+      "accepted_production": 2,
+      "backlog": 98.8125,
+      "full_em": 146
+    },
+    {
+      "name": "项目与支持成本增加20%",
+      "bookings": 480.0,
+      "revenue": 363.75,
+      "cash": 425.0,
+      "cogs": 264.5208333333333,
+      "fixed": 120.0,
+      "out": 387.5833333333333,
+      "net": 37.416666666666686,
+      "em": 126.0,
+      "gross": 99.22916666666669,
+      "op": -20.770833333333314,
+      "gross_margin": 0.272794959908362,
+      "peak_need": 52.389999999999986,
+      "reserve": 30.0,
+      "funding": 82.38999999999999,
+      "peak_fte": 26.133333333333336,
+      "contracted_arr": 60,
+      "live_arr": 30,
+      "signed_production": 3,
+      "accepted_production": 2,
+      "backlog": 116.25,
+      "full_em": 146
+    },
+    {
+      "name": "两笔验证费抵扣实施",
+      "bookings": 450.0,
+      "revenue": 333.75,
+      "cash": 395.0,
+      "cogs": 221.96527777777777,
+      "fixed": 120.0,
+      "out": 345.02777777777777,
+      "net": 49.97222222222223,
+      "em": 126.0,
+      "gross": 111.78472222222223,
+      "op": -8.215277777777771,
+      "gross_margin": 0.3349354972950479,
+      "peak_need": 43.53333333333334,
+      "reserve": 30.0,
+      "funding": 73.53333333333333,
+      "peak_fte": 26.133333333333336,
+      "contracted_arr": 60,
+      "live_arr": 30,
+      "signed_production": 3,
+      "accepted_production": 2,
+      "backlog": 116.25,
+      "full_em": 146
+    }
+  ],
+  "assumptions": {
+    "price_basis": "范围与人月成本反推的建议报价，无可比中东实际成交验证",
+    "labor_unit": "1万美元/有效工程人月；仅用于设计假设，不是布比实际人力成本",
+    "cost_recognition": "实施成本在工作月份全部计入，不资本化；收入按可独立验收里程碑假设计入；财务需按合同另审",
+    "cash": "首年已签合同24个月收款追踪；M13起不含新业务和区域固定费用，不作为第二年预算",
+    "commission": "利润表按收入5%，现金按回款5%；无重复额外JV分成",
+    "support": "年支持自最终验收次月起12个月，全年预付；合同额计入完整一年支持",
+    "country": "主攻一个国家（UAE为工作假设），另一国储备（沙特）；不是两国各建全团队",
+    "jv": "软件供货、成本、现金均为BUBIX供货主体视角；JV股权、分红、GMV、未经合同明确的服务分成均未计入",
+    "funding_exclusions": "税费、保证金、JV资本、受限资金、汇率风险、牌照及客户资产储备须另测，不代表为零",
+    "pipeline": "3个生产客户仅为目标槽位，尚无真实客户、合同或预算；2个验证对应2个企业客户，国家项目自身包含设计工作"
+  }
+}

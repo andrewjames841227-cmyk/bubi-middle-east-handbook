@@ -1,0 +1,330 @@
+{
+  "version": "3.3",
+  "as_of": "2026-10-28",
+  "basis": {
+    "zh": "目标接洽池，非已确认意向、订单或预测；当前BUBIX项目阶段均为S0，近期可触达性待核实。",
+    "en": "A planned outreach pool, not confirmed intent, orders or forecast. All BUBIX-specific entries are S0; current access is unverified."
+  },
+  "accounts": [
+    {
+      "id": "A01",
+      "name": "Saif Belhasa Holding",
+      "kind": "buyer",
+      "priority": "P1",
+      "window": "D1–30",
+      "entry": {
+        "zh": "原有集团项目接洽线索重新核实；先定位工业、汽车或技术业务中的一个实际法人和流程负责人。",
+        "en": "Revalidate the prior group-project lead; identify one legal entity and process owner in industrial, automotive or technology operations."
+      },
+      "offer": {
+        "zh": "供应商履约、车辆/设备证照与跨公司验收记录核验；一期仅选一种凭证和两类参与方。",
+        "en": "Verify supplier performance, vehicle / equipment credentials or cross-entity acceptance records. Start with one credential type and two participant roles."
+      },
+      "role": {
+        "zh": "业务运营负责人＋IT架构＋采购/财务；集团高层负责转介，不替代买方。",
+        "en": "Business operations + IT architecture + procurement / finance. Executive access supports referral, not buyer qualification."
+      },
+      "next": {
+        "zh": "D1–7核实旧接口；D8–15安排30分钟问题访谈；D16–30取得匿名样本和流程图。",
+        "en": "D1–7 revalidate access; D8–15 run a 30-minute discovery; D16–30 obtain an anonymized sample and workflow."
+      },
+      "gate": {
+        "zh": "明确付费法人、数据授权人、现有系统及核验成本，才进入有价方案。",
+        "en": "Confirm paying entity, data authority, current systems and verification cost before a priced proposal."
+      },
+      "stop": {
+        "zh": "若只有集团介绍、无业务负责人或数据样本，保留为资源线索，不进入金额预测。",
+        "en": "If access stops at a group introduction without a process owner or sample, retain as a lead with no forecast value."
+      },
+      "source": [
+        "W01",
+        "W02"
+      ],
+      "stage": "S0"
+    },
+    {
+      "id": "A02",
+      "name": "Al-Futtaim",
+      "kind": "buyer",
+      "priority": "P1",
+      "window": "D1–30",
+      "entry": {
+        "zh": "复核既往集团接洽对应的是Al-Futtaim的具体公司与业务部，避免与Majid Al Futtaim混淆。",
+        "en": "Confirm the exact Al-Futtaim company and division behind the prior lead; do not conflate it with Majid Al Futtaim."
+      },
+      "offer": {
+        "zh": "汽车售后/供应商跨方凭证、地产供应商对账；优先选单业务单元的小范围流程验证。",
+        "en": "Cross-party automotive / supplier credentials or property-supplier reconciliation; choose a bounded workflow in one business unit."
+      },
+      "role": {
+        "zh": "业务单元数字化负责人＋供应链/运营＋采购；金融服务仅在许可边界清楚后另议。",
+        "en": "Business-unit digital lead + supply chain / operations + procurement. Financial-service use cases require a separately defined permission boundary."
+      },
+      "next": {
+        "zh": "以一页业务假设请求引荐；确认现有ERP/API及重复核验环节；共同定义基线。",
+        "en": "Request a referral with a one-page use-case hypothesis; establish ERP/API constraints and repeated checks; agree a measurement baseline."
+      },
+      "gate": {
+        "zh": "有跨组织重复核验问题、流程负责人及可开放测试范围。",
+        "en": "A cross-organization verification problem, accountable process owner and permitted test scope."
+      },
+      "stop": {
+        "zh": "若现有系统已覆盖且无跨方信任问题，不强推上链，转为普通集成评估或退出。",
+        "en": "If current systems suffice and no cross-party trust problem exists, assess ordinary integration or exit."
+      },
+      "source": [
+        "W03"
+      ],
+      "stage": "S0"
+    },
+    {
+      "id": "A03",
+      "name": "Emaar",
+      "kind": "buyer",
+      "priority": "P1",
+      "window": "D8–45",
+      "entry": {
+        "zh": "既往商圈项目接洽经验可作为复联入口；先请求转介商管运营、数字化或供应商管理。",
+        "en": "Prior retail-property engagement provides a recontact hypothesis; seek a referral to mall operations, digital or supplier management."
+      },
+      "offer": {
+        "zh": "租户/供应商履约凭证、工程验收及跨组织对账；先做一项B2B工作流，不从不动产代币发行切入。",
+        "en": "Tenant / supplier performance evidence, project acceptance or reconciliation. Start with a B2B workflow, not real-estate token issuance."
+      },
+      "role": {
+        "zh": "商管/资产运营负责人＋数字化＋采购法务；租赁经纪入口须转到实际流程买方。",
+        "en": "Property operations + digital + procurement / legal. A leasing intermediary must refer to the actual workflow buyer."
+      },
+      "next": {
+        "zh": "D8–15复联；D16–30需求访谈；D31–45形成可评审的流程/SOW。",
+        "en": "D8–15 recontact; D16–30 discovery; D31–45 prepare a reviewable workflow / SOW."
+      },
+      "gate": {
+        "zh": "明确采购法人、数据来源、现有系统边界及可测量验收标准。",
+        "en": "Confirm purchasing entity, data source, system boundary and measurable acceptance criteria."
+      },
+      "stop": {
+        "zh": "房地产洽谈不等于数字化采购权；未转介到业务买方时不报项目金额。",
+        "en": "Property discussions do not confer digital procurement authority. No opportunity value before a buyer referral."
+      },
+      "source": [
+        "W04"
+      ],
+      "stage": "S0"
+    },
+    {
+      "id": "C01",
+      "name": "Huawei MEA",
+      "kind": "channel",
+      "priority": "P1",
+      "window": "D1–30",
+      "entry": {
+        "zh": "先复核终端生态原接口；再申请转介企业业务/云伙伴团队，两个业务体系分别核实。",
+        "en": "Revalidate the consumer-ecosystem contact, then request an introduction to enterprise / cloud partners; validate each organization separately."
+      },
+      "offer": {
+        "zh": "联合方案、云/集成适配与共同客户发现；华为是候选渠道，不默认是付款客户。",
+        "en": "Joint solution design, cloud / integration fit and shared customer discovery. Huawei is a channel candidate, not an assumed paying buyer."
+      },
+      "role": {
+        "zh": "原接口人→企业/云伙伴经理→方案架构师；新团队接受后才进入联合方案。",
+        "en": "Original contact → enterprise / cloud partner manager → solution architect; proceed only after the relevant team accepts the referral."
+      },
+      "next": {
+        "zh": "提交两页技术边界与买方场景；确认转介、伙伴准入、售前资源和商机归属。",
+        "en": "Submit a two-page scope and use-case brief; establish referral, partner onboarding, presales resources and opportunity ownership."
+      },
+      "gate": {
+        "zh": "伙伴团队确认技术适配和共同客户；渠道引荐与最终客户收入分开。",
+        "en": "Partner-team confirmation, technical fit and a named end customer. Separate referrals from end-customer revenue."
+      },
+      "stop": {
+        "zh": "终端流量合作经验不等于华为云/政企业务授权；不得把184.8万月活当BUBIX可售客户。",
+        "en": "Consumer-traffic experience is not cloud / enterprise authorization; the 1.848m audience claim is not BUBIX sales inventory."
+      },
+      "source": [
+        "W05"
+      ],
+      "stage": "S0"
+    },
+    {
+      "id": "C02",
+      "name": "DMCC / member-trader discovery",
+      "kind": "channel",
+      "priority": "P1",
+      "window": "D8–45",
+      "entry": {
+        "zh": "从生态/商品贸易团队进入，争取定位1–2家独立贸易成员；成员企业须单独确认。",
+        "en": "Enter through ecosystem / commodity teams and identify 1–2 independent member traders; qualify each member separately."
+      },
+      "offer": {
+        "zh": "现有Tradeflow等平台之外的凭证衔接或跨境协同缺口；先调查互补价值，不宣称替代既有基础设施。",
+        "en": "Investigate credential interoperability or cross-border gaps outside existing platforms such as Tradeflow; establish complementarity, not a replacement claim."
+      },
+      "role": {
+        "zh": "生态/商品业务团队＋候选贸易企业运营、财务与IT；DMCC不自动作为平台买方。",
+        "en": "Ecosystem / commodity teams + trader operations, finance and IT. DMCC is not automatically the platform buyer."
+      },
+      "next": {
+        "zh": "D8–15确认准入路径；D16–30访谈成员痛点；D31–45选择可提供样本的贸易机构。",
+        "en": "D8–15 confirm access route; D16–30 interview members; D31–45 select a trader able to supply test data."
+      },
+      "gate": {
+        "zh": "至少一家独立买方确认需求、数据权限和采购路径；每家单独建账户。",
+        "en": "At least one independent buyer confirms need, data rights and procurement path; create a distinct account for each."
+      },
+      "stop": {
+        "zh": "自由区设立、生态活动或会员身份不等于订单；未形成独立买方不计销售机会。",
+        "en": "Registration, events or membership are not orders; no qualified opportunity without an independent buyer."
+      },
+      "source": [
+        "W06",
+        "W07"
+      ],
+      "stage": "S0"
+    },
+    {
+      "id": "V01",
+      "name": "海南佳寿 / 鳄宇宙 · Hainan Jiashou",
+      "kind": "validation",
+      "priority": "P2",
+      "window": "D16–60",
+      "entry": {
+        "zh": "复联既往独立顾问项目，先确认公司主体、项目现状及资料使用授权。",
+        "en": "Recontact the prior advisory project; confirm legal entity, present status and permission to use materials."
+      },
+      "offer": {
+        "zh": "实体产业身份、批次记录与贸易凭证演示样本；只作为待验证技术/案例入口。",
+        "en": "Industrial identity, batch records and trade-credential demonstration; a candidate validation / reference route."
+      },
+      "role": {
+        "zh": "现任经营负责人＋数字产品/供应链负责人；境外买方另行确认。",
+        "en": "Current business lead + digital-product / supply-chain owner. Qualify any overseas buyer separately."
+      },
+      "next": {
+        "zh": "核验旧项目状态，取得可公开或脱敏的业务样本；BUBIX技术团队评估可复用性。",
+        "en": "Verify project status, obtain authorized anonymized samples, and assess reusability with BUBIX engineers."
+      },
+      "gate": {
+        "zh": "授权样本、真实记录、场景适配通过；有独立采购需求才建销售机会。",
+        "en": "Authorized real-world sample and technical fit; create a sales opportunity only for independent paid demand."
+      },
+      "stop": {
+        "zh": "国内项目不记作中东收入；资产数量、NFA概念或旧项目经历不计为新订单。",
+        "en": "Do not count domestic activity as Middle East revenue, or asset quantities / NFA concepts / past work as new orders."
+      },
+      "source": [],
+      "stage": "S0"
+    },
+    {
+      "id": "R01",
+      "name": "Saudi strategic industry / asset route",
+      "kind": "reserve",
+      "priority": "P3",
+      "window": "D46–90+",
+      "entry": {
+        "zh": "沙特战略商务资源列为待核实引荐路径；先确定具体企业、授权与业务负责人。",
+        "en": "Treat Saudi strategic access as an unverified referral route; identify a legal entity, authority and business owner first."
+      },
+      "offer": {
+        "zh": "产业供应链或资产记录的企业级场景；国家级底座作为后续机会，不列90日必达签约。",
+        "en": "Enterprise supply-chain or asset-record use cases. National infrastructure is a later opportunity, not a required 90-day contract."
+      },
+      "role": {
+        "zh": "实际运营公司＋采购机构；关系通路不等于政府或基金授权。",
+        "en": "Actual operating company and purchasing body; access does not confer government or fund authorization."
+      },
+      "next": {
+        "zh": "先书面确认转介主体和最小商业问题，符合门槛再安排出访。",
+        "en": "Confirm referring entity and a bounded business problem in writing before travel."
+      },
+      "gate": {
+        "zh": "具名买方、业务赞助、预算路径及本地交付条件齐备。",
+        "en": "Named buyer, business sponsor, budget path and local delivery conditions."
+      },
+      "stop": {
+        "zh": "没有具体买方就保持储备，不把PIF/NEOM等整个生态记为客户。",
+        "en": "Remain a reserve route without a buyer; never count an entire PIF / NEOM ecosystem as a customer."
+      },
+      "source": [],
+      "stage": "S0"
+    },
+    {
+      "id": "R02",
+      "name": "Pan-Arab industry matching route",
+      "kind": "reserve",
+      "priority": "P3",
+      "window": "D31–90+",
+      "entry": {
+        "zh": "泛阿拉伯顾问/机构资源仅作为行业交流与转介入口，先核验证明文件及授权范围。",
+        "en": "Use pan-Arab advisory / institutional access only for industry dialogue and referrals, subject to credentials and authority verification."
+      },
+      "offer": {
+        "zh": "小范围行业闭门交流，寻找明确需求的产业买方；不按覆盖国家数量放大商机。",
+        "en": "Small industry roundtables to identify buyers with specific needs; country coverage does not multiply opportunities."
+      },
+      "role": {
+        "zh": "机构业务协调方＋独立产业买方；双方责任分别确认。",
+        "en": "Institutional coordinator and independent industry buyer; establish responsibilities separately."
+      },
+      "next": {
+        "zh": "先确认职衔/证书、当前联系与活动授权；拿到具名企业转介后进入常规销售流程。",
+        "en": "Verify credentials, current access and event authority; enter normal sales qualification only after a named company referral."
+      },
+      "gate": {
+        "zh": "具体企业、业务问题和可安排的工作会议。",
+        "en": "Specific company, business problem and an agreed working meeting."
+      },
+      "stop": {
+        "zh": "顾问身份不等于22国采购、政府授权或收入保证。",
+        "en": "Advisory status is not procurement authority across 22 countries or a revenue guarantee."
+      },
+      "source": [],
+      "stage": "S0"
+    }
+  ],
+  "sources": [
+    {
+      "id": "W01",
+      "title": "Saif Belhasa Holding / official business portfolio",
+      "url": "https://saifbelhasaholding.com/",
+      "supports": "Business-domain fit only; does not establish a relationship or buying intent"
+    },
+    {
+      "id": "W02",
+      "title": "Belhasa Tech Solutions / group and ICT positioning",
+      "url": "https://belhasatechsolutions.com/about",
+      "supports": "Possible technology-channel fit; exact company and referral to be confirmed"
+    },
+    {
+      "id": "W03",
+      "title": "Al-Futtaim / divisions",
+      "url": "https://www.alfuttaim.com/en/divisions/",
+      "supports": "Automotive, real estate and other operating domains; not demand"
+    },
+    {
+      "id": "W04",
+      "title": "Emaar Properties / investor relations",
+      "url": "https://www.emaar.com/en/investor-relations/emaar-properties-pjsc",
+      "supports": "Property business scope; not digital-procurement authority"
+    },
+    {
+      "id": "W05",
+      "title": "Huawei Cloud / partner ecosystem",
+      "url": "https://www.huaweicloud.com/intl/en-us/partners/work_with_partners/index.html",
+      "supports": "Public partner route; consumer contacts do not establish enterprise access"
+    },
+    {
+      "id": "W06",
+      "title": "DMCC / crypto and blockchain ecosystem",
+      "url": "https://dmcc.ae/ecosystems/crypto-and-blockchain",
+      "supports": "Ecosystem entry route, not procurement or customer authorization"
+    },
+    {
+      "id": "W07",
+      "title": "DMCC Tradeflow / existing platform",
+      "url": "https://dmcc.ae/ecosystems/financial-services/tradeflow",
+      "supports": "Existing commodity registration infrastructure; validate complementary gaps"
+    }
+  ]
+}

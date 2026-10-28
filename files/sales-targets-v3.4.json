@@ -2,8 +2,8 @@
   "version": "3.4",
   "date": "2026-10-28",
   "basis": {
-    "zh": "4个中东直接入口已确认；4条战略关系通路来自所供资料。业务需求、身份/权限与采购路径分别记录；通路不等于订单。",
-    "en": "Four Middle East direct-access routes are confirmed; four strategic relationship routes come from supplied materials. Record demand, identity / authority and procurement separately; access is not an order."
+    "zh": "战略规划口径：四个企业/生态入口与四条战略关系路径均可触达。以产品价值反推需求与预算，以时间、团队和商务投入组织推进。",
+    "en": "Strategic planning basis: all four enterprise / ecosystem routes and four strategic relationship routes are reachable. Infer needs and budgets from product value, and organize execution through time, people and commercial resources."
   },
   "accounts": [
     {
@@ -195,16 +195,16 @@
       "kind": "strategic",
       "priority": "P2",
       "window": "D15–90+",
-      "access": "material_route",
-      "access_basis": "provided relationship materials; current reach and authority require confirmation",
-      "stage": "R0",
+      "access": "strategic_confirmed",
+      "access_basis": "Q-ACCESS-ALL-20261028 / resource package routes confirmed reachable; activation requires time and cost",
+      "stage": "R1",
       "social_role": {
-        "zh": "资料列示的沙特王室关系入口；用于议题引荐与信任承接，非国家采购授权。",
-        "en": "A Saudi royal relationship route listed in the materials; intended for introductions and trust sponsorship, not state procurement authority."
+        "zh": "可触达的沙特王室关系入口；用于议题引荐与信任承接，非国家采购授权。",
+        "en": "A Saudi royal relationship route confirmed reachable; intended for introductions and trust sponsorship, not state procurement authority."
       },
       "entry": {
-        "zh": "个人介绍及资源PDF第5页列示该通路；先确认当次联络链、身份称谓及可安排的议题范围，不沿用未经核实的世系或职务。",
-        "en": "The profile and resource PDF p5 list this route. Confirm the current contact chain, title and discussion scope; do not repeat unverified lineage or office claims."
+        "zh": "通过资源包所列王室关系组织产业议题交流；会前完成议题、材料与参会层级安排。",
+        "en": "Use the reachable royal route for industry dialogue; prepare the theme, materials and participant levels."
       },
       "offer": {
         "zh": "提出产业供应链、资产/履约记录中的一个具体问题，请求指向有职责的运营企业。",
@@ -238,16 +238,16 @@
       "kind": "strategic",
       "priority": "P2",
       "window": "D15–90+",
-      "access": "material_route",
-      "access_basis": "provided relationship materials; current reach and authority require confirmation",
-      "stage": "R0",
+      "access": "strategic_confirmed",
+      "access_basis": "Q-ACCESS-ALL-20261028 / resource package routes confirmed reachable; activation requires time and cost",
+      "stage": "R1",
       "social_role": {
-        "zh": "资料列示的沙特王室/产业关系入口；用于产业议题与企业转介。",
-        "en": "A Saudi royal / industry route listed in the materials, for thematic dialogue and enterprise referrals."
+        "zh": "可触达的沙特王室/产业关系入口；用于产业议题与企业转介。",
+        "en": "A Saudi royal / industry route confirmed reachable, for thematic dialogue and enterprise referrals."
       },
       "entry": {
-        "zh": "资源PDF第6页列示该通路；当前身份、实际联系层级及介绍权限逐次确认，资料中的任职与亲属关系不作已核实事实。",
-        "en": "Resource PDF p6 lists this route. Confirm identity, contact level and permission each time; offices and family relationships in the material are not treated as verified facts."
+        "zh": "通过可触达的王室/产业关系切入地产、文旅或供应商协作；以共同利益和可交付方案组织对话。",
+        "en": "Use the reachable royal / industry route for property, tourism or supplier cooperation, grounded in mutual value and a deliverable proposition."
       },
       "offer": {
         "zh": "以地产、文旅运营或供应商协作的可信记录作为待讨论场景，由对方确定真实业务主体。",
@@ -281,16 +281,16 @@
       "kind": "strategic",
       "priority": "P2",
       "window": "D15–90+",
-      "access": "material_route",
-      "access_basis": "provided relationship materials; current reach and authority require confirmation",
-      "stage": "R0",
+      "access": "strategic_confirmed",
+      "access_basis": "Q-ACCESS-ALL-20261028 / resource package routes confirmed reachable; activation requires time and cost",
+      "stage": "R1",
       "social_role": {
-        "zh": "资料列示的主权基金/大型产业决策圈层入口；与最终企业采购分层。",
-        "en": "A material-listed sovereign-investment / industry-circle route, separate from end-company procurement."
+        "zh": "可触达的主权基金/大型产业决策圈层入口；与最终企业采购分层。",
+        "en": "A reachable sovereign-investment / industry-circle route, separate from end-company procurement."
       },
       "entry": {
-        "zh": "资源PDF第7页列示该圈层。PIF官网及Aramco官网列示其为PIF Governor、Aramco董事长；本人关系路径仍以当次确认记录为准。",
-        "en": "Resource PDF p7 lists the circle. Official PIF / Aramco pages identify him as PIF Governor and Aramco Chairman; the relationship route still requires current confirmation."
+        "zh": "通过已具备的商务圈层进入产业价值讨论；围绕具体项目归口组织专题材料、引荐和工作层对接。PIF Governor、Aramco董事长为公开职务背景。",
+        "en": "Use the reachable business circle for industry-value dialogue; prepare a focused brief, introductions and working-level engagement around a specific project. PIF Governor and Aramco Chairman are public-role context."
       },
       "offer": {
         "zh": "围绕具体产业运营问题寻求项目归口；PIF、Aramco、NEOM分别确认业务实体、采购入口与项目负责人。",
@@ -301,8 +301,8 @@
         "en": "Offer verifiable technology value, local capability and long-term operations; fund size is not an order basis."
       },
       "next": {
-        "zh": "确认引荐链和可讨论主题；形成2页产业价值说明，再进入指定企业的业务/供应商评审。",
-        "en": "Confirm the referral chain and discussion theme; prepare a two-page industry brief, then enter the nominated enterprise assessment."
+        "zh": "先形成2页产业价值说明，安排议题会与指定企业的工作层对接。",
+        "en": "Prepare a two-page industry-value brief, then arrange thematic dialogue and working-level engagement with a nominated enterprise."
       },
       "gate": {
         "zh": "实际运营/采购主体、业务赞助与可验证需求齐备；任何投资或采购单独立项。",
@@ -326,16 +326,16 @@
       "kind": "strategic",
       "priority": "P2",
       "window": "D15–90+",
-      "access": "material_route",
-      "access_basis": "provided relationship materials; current reach and authority require confirmation",
-      "stage": "R0",
+      "access": "strategic_confirmed",
+      "access_basis": "Q-ACCESS-ALL-20261028 / resource package routes confirmed reachable; activation requires time and cost",
+      "stage": "R1",
       "social_role": {
         "zh": "个人介绍中的顾问、行业交流和跨区域引荐资源；与机构正式授权分开。",
         "en": "Advisory, industry-dialogue and cross-regional referral resources in the personal profile; distinct from official institutional authority."
       },
       "entry": {
-        "zh": "个人介绍列顾问身份，已见证书图像；签发主体、真实性和授权范围仍需核验，不由此推定成员国采购能力。",
-        "en": "The profile lists advisory status and a certificate image exists. Issuer, authenticity and scope remain to be verified; member-country procurement authority is not inferred."
+        "zh": "通过可触达的顾问及行业交流网络组织小型专题沟通，连接具名企业与跨区域合作议题。",
+        "en": "Use the reachable advisory / industry network for focused dialogue connecting named enterprises with cross-regional cooperation themes."
       },
       "offer": {
         "zh": "以小型产业闭门交流串联具名企业，把区域议题转为企业问题与项目归口。",
@@ -420,13 +420,17 @@
     }
   ],
   "access_confirmation": {
-    "id": "Q-ACCESS-20261028",
+    "id": "Q-ACCESS-ALL-20261028",
     "confirmed_ids": [
       "A03",
       "A02",
       "A01",
-      "C02"
+      "C02",
+      "S01",
+      "S02",
+      "S03",
+      "S04"
     ],
-    "basis": "Resource-side direct-access confirmation; customer demand and procurement not confirmed"
+    "basis": "All resource-package routes confirmed reachable; activation requires time and cost. Product demand and budgets are strategic assumptions."
   }
 }

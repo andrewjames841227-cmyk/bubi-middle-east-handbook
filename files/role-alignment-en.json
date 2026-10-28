@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "conclusion": "The commercial direction aligns with the mandate. Regional leadership must connect verified access, procurement, contracts, collections and joint operations.",
-  "scope": "Strategic alignment: start with reachable relationships, define demand and budgets through products, and connect project cadence to contracts, delivery, cash and local operations.",
+  "scope": "Eight reachable routes; a three-year vision and12–24month initial cycle. Model relationships, customer calendars, technical effort and funding separately.",
   "items": [
     {
       "id": "R01",
@@ -9,7 +9,7 @@
       "source": "J01 responsibility 1; M01 regional development",
       "current": "Four core UAE routes lead; Saudi strategic relationships form the second-country reserve.",
       "gap": "Use distinct products, coordination costs and cadences rather than deploying fully across both countries at once.",
-      "action": "Progress UAE enterprise use cases first; use reachable Saudi strategic relationships to develop industry platforms and joint operations, scaling resources with theme maturity.",
+      "action": "Prioritize four UAE routes and nurture Saudi strategic relationships. Y1entry and alignment, Y2production, Y3replication / platform cooperation.",
       "deliverable": "Country-entry memo, budget owner and authorization map",
       "owner": "Regional lead; strategy and finance review",
       "gate": "Primary market has a credible sponsor and procurement path; reserve market has a verifiable introduction route"
@@ -67,7 +67,7 @@
       "action": "Track authorized need, budget path, formal quotation, effective contract, acceptance / invoice and cash receipt; record amount, currency, date and owner at each stage.",
       "deliverable": "Regional pipeline, contract-to-cash bridge and overdue-receivable action log",
       "owner": "Regional business advances collections; finance confirms accounting",
-      "gate": "Effective contracts, bank receipts and acceptance records. Planned 480 / 363.75 / 425 in USD 10,000 are not approved KPIs"
+      "gate": "Manage results through effective contracts, acceptance and receipts; distinguish the current enterprise model from historical major-platform slots."
     },
     {
       "id": "R07",
@@ -117,12 +117,12 @@
       "id": "R11",
       "requirement": "Verify access, establish feasibility, then disclose materials in stages",
       "source": "M01 development sequence",
-      "current": "Activate core and strategic routes in sequence; proposed 90-day commercial / presales resources: USD85,000–135,000.",
-      "gap": "Allocate effort to themes, demos, visits and ongoing coordination; prioritize the strongest project momentum.",
-      "action": "Start with public product themes, then provide technical, commercial and operational materials as cooperation progresses. Allocate resources to the project cadence.",
+      "current": "12–24month initial cycle and three-year vision; Y1fixedresourcesUSD272,400, orUSD313,260with15%reserve.",
+      "gap": "Allow for customer delays, holidays, visits, rework and team capacity.",
+      "action": "M1–2orientation / relationships; M3–4themes; M5–8discovery; M9–12boundedpilot; Y2production; Y3replication.",
       "deliverable": "Verified relationship records, requirements memo, disclosure tiers and validation budget",
       "owner": "Regional business, information authorization and finance approval",
-      "gate": "Prioritize four core routes and at most two strategic paths initially; resource platform construction and pilot delivery separately."
+      "gate": "Review quarterly; use the six-month delayed case when needed. First-quarter funding is included in the annual budget."
     },
     {
       "id": "R12",
@@ -141,7 +141,7 @@
       "source": "J01 qualifications 1-6",
       "current": "All four enterprise / ecosystem routes and four strategic relationship routes are reachable; progress them through time, coordination and deliverable propositions.",
       "gap": "Translate relationship capacity into English commercial materials, cross-cultural coordination, working teams and on-site schedules.",
-      "action": "Prepare bilingual briefs and demos around product themes; organize executive dialogue, working teams, visits and ongoing follow-through by project.",
+      "action": "Use an illustrative20-day month for relationships, preparation, coordination and buffer. Allow for counterpart schedules and travel; technical effort is not the complete sales cycle.",
       "deliverable": "Resource / capability verification checklist, deployment plan and role authority / support",
       "owner": "Role authorization and organizational review",
       "gate": "At execution, assign role authority, presales support, travel resources and on-site arrangements."

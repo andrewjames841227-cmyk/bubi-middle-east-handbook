@@ -1,5 +1,3 @@
-# BUBIX v3.4 / Middle East Relationships & Projects
+# BUBIX v3.5 / Three-year Middle East strategy
 
-Chinese: index.html / English: en.html
-
-Four direct Middle East routes plus four reachable strategic relationship paths. Product-led strategic planning; activation requires time and commercial resources. Wasta is translated into trust sponsorship, deliverable reciprocity, joint working teams and formal procurement. Sources and relationship boundaries remain visible. Personal portfolio and originals are unchanged.
+Fixed opening slogan preserved. Three-year vision;12–24month initial cycle. Human capacity, client-calendar time, technical effort and delay paths separated. Product-derived36-month cash model and base / six-month slip scenarios. Chinese index.html; English en.html.

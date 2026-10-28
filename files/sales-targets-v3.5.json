@@ -1,0 +1,436 @@
+{
+  "version": "3.5",
+  "date": "2026-10-28",
+  "basis": {
+    "zh": "战略资源均可触达；以三年愿景、12–24个月首轮主周期组织推进。前期关系经营、客户排期与交付作业分别安排，按季度滚动调整。",
+    "en": "All strategic resources are reachable. Plan around a three-year vision and12–24month initial cycle. Distinguish relationship development, customer schedules and delivery effort, reviewing quarterly."
+  },
+  "accounts": [
+    {
+      "id": "A03",
+      "name": "Emaar",
+      "kind": "buyer",
+      "priority": "P1",
+      "window": "Y1–Y2 / M1–8",
+      "entry": {
+        "zh": "先以既有信任关系提出商管/资产运营的业务议题；尊重原有联络链，约定由对方指定业务与数字化负责人。",
+        "en": "Use the existing trust relationship to frame a property-operations issue; respect the contact chain and ask the counterpart to nominate operations and digital owners."
+      },
+      "offer": {
+        "zh": "租户/供应商履约凭证、工程验收及跨组织对账；先做一项B2B工作流，不从不动产代币发行切入。",
+        "en": "Tenant / supplier performance evidence, project acceptance or reconciliation. Start with a B2B workflow, not real-estate token issuance."
+      },
+      "role": {
+        "zh": "商管/资产运营负责人＋数字化＋采购法务；租赁经纪入口须转到实际流程买方。",
+        "en": "Property operations + digital + procurement / legal. A leasing intermediary must refer to the actual workflow buyer."
+      },
+      "next": {
+        "zh": "会前提交一页议题和两页执行说明；直接安排关系/业务会；会后2–3个工作日整理共识，下一次沟通时间与对方约定、对口负责人和下一步。",
+        "en": "Send a one-page agenda and two-page execution brief; arrange a direct relationship / business meeting; confirm agreement, owners and next actions within2–3workingdays, agreeing the next contact date with the counterpart."
+      },
+      "gate": {
+        "zh": "关系赞助人认可议题，并由具体业务负责人确认问题、权限及下一步；采购预算另行核实。",
+        "en": "The relationship sponsor accepts the theme and a business owner confirms the problem, authority and next step; qualify procurement funding separately."
+      },
+      "stop": {
+        "zh": "房地产洽谈不等于数字化采购权；未转介到业务买方时不报项目金额。",
+        "en": "Property discussions do not confer digital procurement authority. No opportunity value before a buyer referral."
+      },
+      "source": [
+        "W04"
+      ],
+      "stage": "S0",
+      "access": "direct_confirmed",
+      "access_basis": "Q-ACCESS-20261028 / four retained Middle East organizations",
+      "social_role": {
+        "zh": "直接对话入口；会前明确业务赞助人与正式工作组。",
+        "en": "Direct dialogue; identify the business sponsor and formal working group before progressing."
+      },
+      "reciprocity": {
+        "zh": "先完成一份租户/供应商履约或工程验收流程诊断，再共同评估可信记录的价值。",
+        "en": "Offer a bounded tenant / supplier or project-acceptance process review, then assess the value of verifiable records together."
+      }
+    },
+    {
+      "id": "A02",
+      "name": "Al-Futtaim",
+      "kind": "buyer",
+      "priority": "P1",
+      "window": "Y1–Y2 / M1–8",
+      "entry": {
+        "zh": "从现有集团关系进入具体业务单元；以一个可共同承担的小问题建立部门间信任与交付记录。",
+        "en": "Enter a specific business unit through the existing group relationship; build departmental trust through a small, jointly owned problem."
+      },
+      "offer": {
+        "zh": "汽车售后/供应商跨方凭证、地产供应商对账；优先选单业务单元的小范围流程验证。",
+        "en": "Cross-party automotive / supplier credentials or property-supplier reconciliation; choose a bounded workflow in one business unit."
+      },
+      "role": {
+        "zh": "业务单元数字化负责人＋供应链/运营＋采购；金融服务仅在许可边界清楚后另议。",
+        "en": "Business-unit digital lead + supply chain / operations + procurement. Financial-service use cases require a separately defined permission boundary."
+      },
+      "next": {
+        "zh": "会前提交一页议题和两页执行说明；直接安排关系/业务会；会后2–3个工作日整理共识，下一次沟通时间与对方约定、对口负责人和下一步。",
+        "en": "Send a one-page agenda and two-page execution brief; arrange a direct relationship / business meeting; confirm agreement, owners and next actions within2–3workingdays, agreeing the next contact date with the counterpart."
+      },
+      "gate": {
+        "zh": "关系赞助人认可议题，并由具体业务负责人确认问题、权限及下一步；采购预算另行核实。",
+        "en": "The relationship sponsor accepts the theme and a business owner confirms the problem, authority and next step; qualify procurement funding separately."
+      },
+      "stop": {
+        "zh": "若现有系统已覆盖且无跨方信任问题，不强推上链，转为普通集成评估或退出。",
+        "en": "If current systems suffice and no cross-party trust problem exists, assess ordinary integration or exit."
+      },
+      "source": [
+        "W03"
+      ],
+      "stage": "S0",
+      "access": "direct_confirmed",
+      "access_basis": "Q-ACCESS-20261028 / four retained Middle East organizations",
+      "social_role": {
+        "zh": "直接对话入口；会前明确业务赞助人与正式工作组。",
+        "en": "Direct dialogue; identify the business sponsor and formal working group before progressing."
+      },
+      "reciprocity": {
+        "zh": "以汽车/供应商凭证或跨单位对账作为共同工作议题，形成可复核流程与人员培训。",
+        "en": "Co-design an automotive / supplier credential or reconciliation workflow, with reviewable processes and staff training."
+      }
+    },
+    {
+      "id": "A01",
+      "name": "Saif Belhasa Holding",
+      "kind": "buyer",
+      "priority": "P1",
+      "window": "Y1–Y2 / M1–8",
+      "entry": {
+        "zh": "由现有直接入口协调家族/集团赞助人与职业管理团队；将高层认可落实为具名的运营工作组。",
+        "en": "Use direct access to align the family / group sponsor with professional management, turning executive support into a named operating team."
+      },
+      "offer": {
+        "zh": "供应商履约、车辆/设备证照与跨公司验收记录核验；一期仅选一种凭证和两类参与方。",
+        "en": "Verify supplier performance, vehicle / equipment credentials or cross-entity acceptance records. Start with one credential type and two participant roles."
+      },
+      "role": {
+        "zh": "业务运营负责人＋IT架构＋采购/财务；集团高层负责转介，不替代买方。",
+        "en": "Business operations + IT architecture + procurement / finance. Executive access supports referral, not buyer qualification."
+      },
+      "next": {
+        "zh": "会前提交一页议题和两页执行说明；直接安排关系/业务会；会后2–3个工作日整理共识，下一次沟通时间与对方约定、对口负责人和下一步。",
+        "en": "Send a one-page agenda and two-page execution brief; arrange a direct relationship / business meeting; confirm agreement, owners and next actions within2–3workingdays, agreeing the next contact date with the counterpart."
+      },
+      "gate": {
+        "zh": "关系赞助人认可议题，并由具体业务负责人确认问题、权限及下一步；采购预算另行核实。",
+        "en": "The relationship sponsor accepts the theme and a business owner confirms the problem, authority and next step; qualify procurement funding separately."
+      },
+      "stop": {
+        "zh": "若只有集团介绍、无业务负责人或数据样本，保留为资源线索，不进入金额预测。",
+        "en": "If access stops at a group introduction without a process owner or sample, retain as a lead with no forecast value."
+      },
+      "source": [
+        "W01",
+        "W02"
+      ],
+      "stage": "S0",
+      "access": "direct_confirmed",
+      "access_basis": "Q-ACCESS-20261028 / four retained Middle East organizations",
+      "social_role": {
+        "zh": "直接对话入口；会前明确业务赞助人与正式工作组。",
+        "en": "Direct dialogue; identify the business sponsor and formal working group before progressing."
+      },
+      "reciprocity": {
+        "zh": "围绕工业、汽车或供应商记录开展小范围验证；以交付、知识分享和本地团队能力建设回馈合作。",
+        "en": "Validate an industrial, automotive or supplier-record workflow; contribute delivery, knowledge sharing and local team capability."
+      }
+    },
+    {
+      "id": "C02",
+      "name": "DMCC / member-trader discovery",
+      "kind": "ecosystem",
+      "priority": "P1",
+      "window": "Y1–Y2 / M1–8",
+      "entry": {
+        "zh": "与DMCC建立生态层面的信任与议题合作，再由其推荐适配成员；成员公司单独决定采购。",
+        "en": "Build ecosystem-level trust and an agreed theme with DMCC, then seek suitable member referrals; members make their own purchasing decisions."
+      },
+      "offer": {
+        "zh": "现有Tradeflow等平台之外的凭证衔接或跨境协同缺口；先调查互补价值，不宣称替代既有基础设施。",
+        "en": "Investigate credential interoperability or cross-border gaps outside existing platforms such as Tradeflow; establish complementarity, not a replacement claim."
+      },
+      "role": {
+        "zh": "生态/商品业务团队＋候选贸易企业运营、财务与IT；DMCC不自动作为平台买方。",
+        "en": "Ecosystem / commodity teams + trader operations, finance and IT. DMCC is not automatically the platform buyer."
+      },
+      "next": {
+        "zh": "会前提交一页议题和两页执行说明；直接安排关系/业务会；会后2–3个工作日整理共识，下一次沟通时间与对方约定、对口负责人和下一步。",
+        "en": "Send a one-page agenda and two-page execution brief; arrange a direct relationship / business meeting; confirm agreement, owners and next actions within2–3workingdays, agreeing the next contact date with the counterpart."
+      },
+      "gate": {
+        "zh": "关系赞助人认可议题，并由具体业务负责人确认问题、权限及下一步；采购预算另行核实。",
+        "en": "The relationship sponsor accepts the theme and a business owner confirms the problem, authority and next step; qualify procurement funding separately."
+      },
+      "stop": {
+        "zh": "自由区设立、生态活动或会员身份不等于订单；未形成独立买方不计销售机会。",
+        "en": "Registration, events or membership are not orders; no qualified opportunity without an independent buyer."
+      },
+      "source": [
+        "W06",
+        "W07"
+      ],
+      "stage": "S0",
+      "access": "direct_confirmed",
+      "access_basis": "Q-ACCESS-20261028 / four retained Middle East organizations",
+      "social_role": {
+        "zh": "直接对话入口；会前明确业务赞助人与正式工作组。",
+        "en": "Direct dialogue; identify the business sponsor and formal working group before progressing."
+      },
+      "reciprocity": {
+        "zh": "提供贸易凭证互操作演示与小型业务交流；先理解Tradeflow等既有系统，再评估协作缺口。",
+        "en": "Offer a trade-credential interoperability demo and focused dialogue; understand existing systems such as Tradeflow before assessing gaps."
+      }
+    },
+    {
+      "id": "S01",
+      "name": "Nayef bin Abdullah bin Saud route",
+      "name_zh": "纳伊夫·本·阿卜杜拉·本·沙特通路",
+      "kind": "strategic",
+      "priority": "P2",
+      "window": "Y1–Y2 / M2–24+",
+      "access": "strategic_confirmed",
+      "access_basis": "Q-ACCESS-ALL-20261028 / resource package routes confirmed reachable; activation requires time and cost",
+      "stage": "R1",
+      "social_role": {
+        "zh": "可触达的沙特王室关系入口；用于议题引荐与信任承接，非国家采购授权。",
+        "en": "A Saudi royal relationship route confirmed reachable; intended for introductions and trust sponsorship, not state procurement authority."
+      },
+      "entry": {
+        "zh": "通过资源包所列王室关系组织产业议题交流；会前完成议题、材料与参会层级安排。",
+        "en": "Use the reachable royal route for industry dialogue; prepare the theme, materials and participant levels."
+      },
+      "offer": {
+        "zh": "提出产业供应链、资产/履约记录中的一个具体问题，请求指向有职责的运营企业。",
+        "en": "Present one industrial supply-chain or asset / performance-record problem and seek a referral to an accountable operating company."
+      },
+      "reciprocity": {
+        "zh": "贡献产业方案、技术演示和本地能力建设；对引荐人反馈可核实进度，不以个人报酬交换影响力。",
+        "en": "Contribute solutions, demonstrations and local capability; give the introducer verifiable progress, without buying influence."
+      },
+      "next": {
+        "zh": "先发送可转发的一页议题，征得转介同意；获企业联系人后安排小范围工作会。",
+        "en": "Send a forwardable one-page theme and obtain permission to refer; arrange a focused working meeting after an enterprise owner is identified."
+      },
+      "gate": {
+        "zh": "具名运营企业、业务赞助人及明确问题；符合条件后建立独立买方账户。",
+        "en": "Named operating company, business sponsor and defined problem; only then create a separate buyer account."
+      },
+      "stop": {
+        "zh": "不以关系通路推断王室投资承诺、政府担保或项目预算。",
+        "en": "Do not infer royal investment, government guarantee or a project budget from access."
+      },
+      "source": [
+        "P-NET p5",
+        "P-CV p4"
+      ]
+    },
+    {
+      "id": "S02",
+      "name": "Turki bin Khalid bin Faisal route",
+      "name_zh": "图尔基·本·哈立德·本·费萨尔通路",
+      "kind": "strategic",
+      "priority": "P2",
+      "window": "Y1–Y2 / M2–24+",
+      "access": "strategic_confirmed",
+      "access_basis": "Q-ACCESS-ALL-20261028 / resource package routes confirmed reachable; activation requires time and cost",
+      "stage": "R1",
+      "social_role": {
+        "zh": "可触达的沙特王室/产业关系入口；用于产业议题与企业转介。",
+        "en": "A Saudi royal / industry route confirmed reachable, for thematic dialogue and enterprise referrals."
+      },
+      "entry": {
+        "zh": "通过可触达的王室/产业关系切入地产、文旅或供应商协作；以共同利益和可交付方案组织对话。",
+        "en": "Use the reachable royal / industry route for property, tourism or supplier cooperation, grounded in mutual value and a deliverable proposition."
+      },
+      "offer": {
+        "zh": "以地产、文旅运营或供应商协作的可信记录作为待讨论场景，由对方确定真实业务主体。",
+        "en": "Propose verifiable records for property, tourism operations or supplier collaboration; let the counterpart identify the actual business entity."
+      },
+      "reciprocity": {
+        "zh": "提供适配本地议题的方案和可检验小成果，尊重既有赞助关系及长期合作节奏。",
+        "en": "Offer relevant solutions and testable small outcomes, respecting existing sponsorship and long-term cooperation."
+      },
+      "next": {
+        "zh": "先讨论主题适配与合作利益，再请对方指定工作层；双方确认后进入方案共创。",
+        "en": "Discuss fit and mutual value, then invite a nominated working-level owner; co-design only after agreement."
+      },
+      "gate": {
+        "zh": "业务拥有者接受议题且愿提供流程信息；采购权与付款主体另行确认。",
+        "en": "A process owner accepts the theme and shares workflow information; qualify purchasing authority and payer separately."
+      },
+      "stop": {
+        "zh": "对话不自动构成背书；不将礼节性会面计为商机或收入。",
+        "en": "Dialogue is not endorsement; courtesy meetings are not opportunities or revenue."
+      },
+      "source": [
+        "P-NET p6",
+        "P-CV p4"
+      ]
+    },
+    {
+      "id": "S03",
+      "name": "Yasir Al-Rumayyan business-circle route",
+      "name_zh": "Yasir Al-Rumayyan 相关商务圈层",
+      "kind": "strategic",
+      "priority": "P2",
+      "window": "Y1–Y2 / M2–24+",
+      "access": "strategic_confirmed",
+      "access_basis": "Q-ACCESS-ALL-20261028 / resource package routes confirmed reachable; activation requires time and cost",
+      "stage": "R1",
+      "social_role": {
+        "zh": "可触达的主权基金/大型产业决策圈层入口；与最终企业采购分层。",
+        "en": "A reachable sovereign-investment / industry-circle route, separate from end-company procurement."
+      },
+      "entry": {
+        "zh": "通过已具备的商务圈层进入产业价值讨论；围绕具体项目归口组织专题材料、引荐和工作层对接。PIF Governor、Aramco董事长为公开职务背景。",
+        "en": "Use the reachable business circle for industry-value dialogue; prepare a focused brief, introductions and working-level engagement around a specific project. PIF Governor and Aramco Chairman are public-role context."
+      },
+      "offer": {
+        "zh": "围绕具体产业运营问题寻求项目归口；PIF、Aramco、NEOM分别确认业务实体、采购入口与项目负责人。",
+        "en": "Seek an accountable project owner around a specific operating problem. Qualify PIF, Aramco and NEOM entities, procurement routes and project owners separately."
+      },
+      "reciprocity": {
+        "zh": "以可复核技术价值、本地能力培养与长期运营承诺形成合作理由，不使用基金规模替代订单依据。",
+        "en": "Offer verifiable technology value, local capability and long-term operations; fund size is not an order basis."
+      },
+      "next": {
+        "zh": "先形成2页产业价值说明，安排议题会与指定企业的工作层对接。",
+        "en": "Prepare a two-page industry-value brief, then arrange thematic dialogue and working-level engagement with a nominated enterprise."
+      },
+      "gate": {
+        "zh": "实际运营/采购主体、业务赞助与可验证需求齐备；任何投资或采购单独立项。",
+        "en": "Identify operator / buyer, sponsor and verifiable demand; investment and procurement are separate decisions."
+      },
+      "stop": {
+        "zh": "不把一个圈层视为同时获得三家机构授权；不沿用原件“PIF主席/NEOM董事长”的合并归属。",
+        "en": "One relationship circle does not authorize all three institutions. Do not carry forward conflated PIF / NEOM leadership claims."
+      },
+      "source": [
+        "P-NET p7",
+        "P-CV p4",
+        "W08",
+        "W09"
+      ]
+    },
+    {
+      "id": "S04",
+      "name": "Pan-Arab advisory and industry route",
+      "name_zh": "泛阿拉伯顾问与机构交流通路",
+      "kind": "strategic",
+      "priority": "P2",
+      "window": "Y1–Y2 / M2–24+",
+      "access": "strategic_confirmed",
+      "access_basis": "Q-ACCESS-ALL-20261028 / resource package routes confirmed reachable; activation requires time and cost",
+      "stage": "R1",
+      "social_role": {
+        "zh": "个人介绍中的顾问、行业交流和跨区域引荐资源；与机构正式授权分开。",
+        "en": "Advisory, industry-dialogue and cross-regional referral resources in the personal profile; distinct from official institutional authority."
+      },
+      "entry": {
+        "zh": "通过可触达的顾问及行业交流网络组织小型专题沟通，连接具名企业与跨区域合作议题。",
+        "en": "Use the reachable advisory / industry network for focused dialogue connecting named enterprises with cross-regional cooperation themes."
+      },
+      "offer": {
+        "zh": "以小型产业闭门交流串联具名企业，把区域议题转为企业问题与项目归口。",
+        "en": "Use focused industry dialogue to connect named companies and translate regional themes into owned business problems."
+      },
+      "reciprocity": {
+        "zh": "分享行业研究、培训和经过授权的项目经验，形成长期可兑现的合作价值。",
+        "en": "Share industry insight, training and authorized project experience to build sustained, deliverable value."
+      },
+      "next": {
+        "zh": "先确认交流权限、召集对象和披露范围；获得具体企业引荐后再建销售账户。",
+        "en": "Confirm convening permission, participants and disclosure scope; create a sales account only after a specific company referral."
+      },
+      "gate": {
+        "zh": "具名企业、对口业务角色、会议议题与下一步形成记录。",
+        "en": "Record a named company, relevant role, meeting theme and next action."
+      },
+      "stop": {
+        "zh": "顾问/荣誉称谓不写成联盟官方采购或22国授权；关系细节仅按约定范围披露。",
+        "en": "Advisory / honorary titles are not official procurement or authority across 22 countries; disclose relationship details only within agreed scope."
+      },
+      "source": [
+        "P-CV p1,4",
+        "P-CERT"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "W01",
+      "title": "Saif Belhasa Holding / official business portfolio",
+      "url": "https://saifbelhasaholding.com/",
+      "supports": "Business-domain fit only; does not establish a relationship or buying intent"
+    },
+    {
+      "id": "W02",
+      "title": "Belhasa Tech Solutions / group and ICT positioning",
+      "url": "https://belhasatechsolutions.com/about",
+      "supports": "Possible technology-channel fit; exact company and referral to be confirmed"
+    },
+    {
+      "id": "W03",
+      "title": "Al-Futtaim / divisions",
+      "url": "https://www.alfuttaim.com/en/divisions/",
+      "supports": "Automotive, real estate and other operating domains; not demand"
+    },
+    {
+      "id": "W04",
+      "title": "Emaar Properties / investor relations",
+      "url": "https://www.emaar.com/en/investor-relations/emaar-properties-pjsc",
+      "supports": "Property business scope; not digital-procurement authority"
+    },
+    {
+      "id": "W06",
+      "title": "DMCC / crypto and blockchain ecosystem",
+      "url": "https://dmcc.ae/ecosystems/crypto-and-blockchain",
+      "supports": "Ecosystem entry route, not procurement or customer authorization"
+    },
+    {
+      "id": "W07",
+      "title": "DMCC Tradeflow / existing platform",
+      "url": "https://dmcc.ae/ecosystems/financial-services/tradeflow",
+      "supports": "Existing commodity registration infrastructure; validate complementary gaps"
+    },
+    {
+      "id": "W08",
+      "title": "PIF / official leadership",
+      "url": "https://www.pif.gov.sa/en/who-we-are/our-leadership/",
+      "supports": "Public role only; not evidence of a personal relationship"
+    },
+    {
+      "id": "W09",
+      "title": "Aramco / official board",
+      "url": "https://www.aramco.com/en/about-us/our-leadership/board-of-directors",
+      "supports": "Public role only; not endorsement or procurement authority"
+    },
+    {
+      "id": "W10",
+      "title": "Wasta: Advancing a Holistic Model / Cambridge Core",
+      "url": "https://www.cambridge.org/core/journals/management-and-organization-review/article/wasta-advancing-a-holistic-model-to-bridge-the-micromacro-divide/84B909B307A93B7703A654F2E649E064",
+      "supports": "Social capital, trust and contextual variation; not a universal rule for every Gulf organization"
+    }
+  ],
+  "access_confirmation": {
+    "id": "Q-ACCESS-ALL-20261028",
+    "confirmed_ids": [
+      "A03",
+      "A02",
+      "A01",
+      "C02",
+      "S01",
+      "S02",
+      "S03",
+      "S04"
+    ],
+    "basis": "All resource-package routes confirmed reachable; activation requires time and cost. Product demand and budgets are strategic assumptions."
+  }
+}

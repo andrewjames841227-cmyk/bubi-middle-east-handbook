@@ -1,0 +1,356 @@
+{
+  "checks": [
+    {
+      "name": "D cost",
+      "actual": 8912.5,
+      "expected": 8912.5,
+      "passed": true
+    },
+    {
+      "name": "V cost",
+      "actual": 32775.0,
+      "expected": 32775.0,
+      "passed": true
+    },
+    {
+      "name": "E cost",
+      "actual": 113849.99999999999,
+      "expected": 113850.0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 revenue",
+      "actual": 85000.0,
+      "expected": 85000,
+      "passed": true
+    },
+    {
+      "name": "base Y1 direct",
+      "actual": 50600.0,
+      "expected": 50600.0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 receipts",
+      "actual": 79500.0,
+      "expected": 79500.0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 bookings",
+      "actual": 85000.0,
+      "expected": 85000,
+      "passed": true
+    },
+    {
+      "name": "base Y1 support_revenue",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 fixed",
+      "actual": 272400,
+      "expected": 272400,
+      "passed": true
+    },
+    {
+      "name": "base Y1 contribution",
+      "actual": -238000.0,
+      "expected": -238000.0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 reserve",
+      "actual": 313260.0,
+      "expected": 313260.0,
+      "passed": true
+    },
+    {
+      "name": "base Y2 revenue",
+      "actual": 533000.0,
+      "expected": 533000,
+      "passed": true
+    },
+    {
+      "name": "base Y2 direct",
+      "actual": 325387.5,
+      "expected": 325387.5,
+      "passed": true
+    },
+    {
+      "name": "base Y2 receipts",
+      "actual": 448500.0,
+      "expected": 448500.0,
+      "passed": true
+    },
+    {
+      "name": "base Y2 bookings",
+      "actual": 515000.0,
+      "expected": 515000,
+      "passed": true
+    },
+    {
+      "name": "base Y2 support_revenue",
+      "actual": 18000.0,
+      "expected": 18000,
+      "passed": true
+    },
+    {
+      "name": "base Y2 fixed",
+      "actual": 302000.0,
+      "expected": 302000,
+      "passed": true
+    },
+    {
+      "name": "base Y2 contribution",
+      "actual": -94387.5,
+      "expected": -94387.5,
+      "passed": true
+    },
+    {
+      "name": "base Y2 reserve",
+      "actual": 347300.0,
+      "expected": 347300.0,
+      "passed": true
+    },
+    {
+      "name": "base Y3 revenue",
+      "actual": 1059000.0,
+      "expected": 1059000,
+      "passed": true
+    },
+    {
+      "name": "base Y3 direct",
+      "actual": 623575.0,
+      "expected": 623575.0,
+      "passed": true
+    },
+    {
+      "name": "base Y3 receipts",
+      "actual": 1074500.0,
+      "expected": 1074500.0,
+      "passed": true
+    },
+    {
+      "name": "base Y3 bookings",
+      "actual": 945000.0,
+      "expected": 945000,
+      "passed": true
+    },
+    {
+      "name": "base Y3 support_revenue",
+      "actual": 114000.0,
+      "expected": 114000,
+      "passed": true
+    },
+    {
+      "name": "base Y3 fixed",
+      "actual": 361000.0,
+      "expected": 361000,
+      "passed": true
+    },
+    {
+      "name": "base Y3 contribution",
+      "actual": 74425.0,
+      "expected": 74425.0,
+      "passed": true
+    },
+    {
+      "name": "base Y3 reserve",
+      "actual": 415150.0,
+      "expected": 415149.99999999994,
+      "passed": true
+    },
+    {
+      "name": "base peak cash gap",
+      "actual": 440966.67,
+      "expected": 440966.66666666674,
+      "passed": true
+    },
+    {
+      "name": "base liquidity",
+      "actual": 507111.67,
+      "expected": 507111.66666666674,
+      "passed": true
+    },
+    {
+      "name": "base three-year contribution",
+      "actual": -257962.5,
+      "expected": -257962.5,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 revenue",
+      "actual": 15000.0,
+      "expected": 15000,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 direct",
+      "actual": 8912.5,
+      "expected": 8912.5,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 bookings",
+      "actual": 15000.0,
+      "expected": 15000,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 support_revenue",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 fixed",
+      "actual": 272400,
+      "expected": 272400,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 contribution",
+      "actual": -266312.5,
+      "expected": -266312.5,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 reserve",
+      "actual": 313260.0,
+      "expected": 313260.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 revenue",
+      "actual": 320000.0,
+      "expected": 320000,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 direct",
+      "actual": 201681.25,
+      "expected": 201681.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 receipts",
+      "actual": 275500.0,
+      "expected": 275500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 bookings",
+      "actual": 335000.0,
+      "expected": 335000,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 support_revenue",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 fixed",
+      "actual": 302000.0,
+      "expected": 302000,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 contribution",
+      "actual": -183681.25,
+      "expected": -183681.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 reserve",
+      "actual": 347300.0,
+      "expected": 347300.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 revenue",
+      "actual": 590000.0,
+      "expected": 590000,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 direct",
+      "actual": 410293.75,
+      "expected": 410293.75,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 receipts",
+      "actual": 707500.0,
+      "expected": 707500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 bookings",
+      "actual": 750000.0,
+      "expected": 750000,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 support_revenue",
+      "actual": 60000.0,
+      "expected": 60000,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 fixed",
+      "actual": 361000.0,
+      "expected": 361000,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 contribution",
+      "actual": -181293.75,
+      "expected": -181293.75,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 reserve",
+      "actual": 415150.0,
+      "expected": 415149.99999999994,
+      "passed": true
+    },
+    {
+      "name": "delay6 peak cash gap",
+      "actual": 610414.58,
+      "expected": 610414.5833333337,
+      "passed": true
+    },
+    {
+      "name": "delay6 liquidity",
+      "actual": 701976.77,
+      "expected": 701976.7708333337,
+      "passed": true
+    },
+    {
+      "name": "delay6 three-year contribution",
+      "actual": -631287.5,
+      "expected": -631287.5,
+      "passed": true
+    },
+    {
+      "name": "capacity days",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    }
+  ],
+  "passed": 58,
+  "scenario_basis": "authored planning inputs; not actual company finances or measured regional cycle",
+  "base_cumulative_contribution": -257962.5,
+  "deferred_cumulative_contribution": -631287.5
+}

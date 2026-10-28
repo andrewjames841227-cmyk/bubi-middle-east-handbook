@@ -1,3 +1,3 @@
-# BUBIX v3.5 / Three-year Middle East strategy
+# BUBIX v3.6 / Local Branch and Resident Leadership
 
-Fixed opening slogan preserved. Three-year vision;12–24month initial cycle. Human capacity, client-calendar time, technical effort and delay paths separated. Product-derived36-month cash model and base / six-month slip scenarios. Chinese index.html; English en.html.
+Practical local entity / staffing / legal / accounting / PRO route, candidate experience and Cotti UAE operating references. Chinese and English website plus standalone executive PDFs. Fixed brand anchor retained. Private originals are not published.

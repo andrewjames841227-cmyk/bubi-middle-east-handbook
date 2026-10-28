@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "conclusion": "The commercial direction aligns with the mandate. Regional leadership must connect verified access, procurement, contracts, collections and joint operations.",
-  "scope": "Eight reachable routes; a three-year vision and12–24month initial cycle. Model relationships, customer calendars, technical effort and funding separately.",
+  "scope": "Operate through a local branch and resident lead, coordinating qualified legal, tax, PRO and technical specialists.",
   "items": [
     {
       "id": "R01",
@@ -73,12 +73,12 @@
       "id": "R07",
       "requirement": "Build and operate the local organization, train teams and coordinate partners",
       "source": "J01 responsibility 6; M01 UAE organization",
-      "current": "Fixed costs and local partners have placeholders",
+      "current": "Plan 3/4/5 resident roles in Y1/Y2/Y3; include permits, insurance, payroll and professional support.",
       "gap": "Define organization, on-site cadence and headquarters support",
-      "action": "Confirm resident or project-based deployment, working language, commercial / solution / delivery / finance ownership, training and headquarters scheduling. Release staffing as contracts and service workloads develop.",
+      "action": "Establish locally, with a resident lead and staged coordination / engineering roles. HQ provides project-based architecture and delivery.",
       "deliverable": "Organization chart, on-site / travel plan and headquarters / training schedule",
       "owner": "Regional business with headquarters organization and delivery",
-      "gate": "Confirm responsibilities and resource schedules before committing to delivery or local service"
+      "gate": "Complete applicable local registration, authority and employment requirements; commuting BD does not replace local operations."
     },
     {
       "id": "R08",
@@ -117,12 +117,12 @@
       "id": "R11",
       "requirement": "Verify access, establish feasibility, then disclose materials in stages",
       "source": "M01 development sequence",
-      "current": "12–24month initial cycle and three-year vision; Y1fixedresourcesUSD272,400, orUSD313,260with15%reserve.",
+      "current": "Y1 resident fixed resources USD389,400; USD447,810 with 15% reserve. The first quarter is included in the annual total.",
       "gap": "Allow for customer delays, holidays, visits, rework and team capacity.",
-      "action": "M1–2orientation / relationships; M3–4themes; M5–8discovery; M9–12boundedpilot; Y2production; Y3replication.",
+      "action": "Set entity and product permissions, retain legal / accounting / PRO support, and progress relationships to working teams and projects.",
       "deliverable": "Verified relationship records, requirements memo, disclosure tiers and validation budget",
       "owner": "Regional business, information authorization and finance approval",
-      "gate": "Review quarterly; use the six-month delayed case when needed. First-quarter funding is included in the annual budget."
+      "gate": "Review quarterly. Credit resident-engineer-covered labour from project costs; replan staffing and funds as customer schedules move."
     },
     {
       "id": "R12",

@@ -1,0 +1,6615 @@
+{
+  "version": "3.6",
+  "passed": 1101,
+  "checks": [
+    {
+      "name": "D delivery cost",
+      "actual": 8912.5,
+      "expected": 8912.5,
+      "passed": true
+    },
+    {
+      "name": "D milestone percentages",
+      "actual": 1.0,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "name": "V delivery cost",
+      "actual": 32775.0,
+      "expected": 32775.0,
+      "passed": true
+    },
+    {
+      "name": "V milestone percentages",
+      "actual": 1.0,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "name": "E delivery cost",
+      "actual": 113849.99999999999,
+      "expected": 113850.0,
+      "passed": true
+    },
+    {
+      "name": "E milestone percentages",
+      "actual": 1.0,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "name": "Y1 annual fixed rows",
+      "actual": 389400,
+      "expected": 389400,
+      "passed": true
+    },
+    {
+      "name": "Y2 annual fixed rows",
+      "actual": 469400,
+      "expected": 469400,
+      "passed": true
+    },
+    {
+      "name": "Y3 annual fixed rows",
+      "actual": 613000,
+      "expected": 613000,
+      "passed": true
+    },
+    {
+      "name": "base M1 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M1 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M1 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M1 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M1 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M1 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M1 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M1 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M1 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M1 fixed",
+      "actual": 32800,
+      "expected": 32800,
+      "passed": true
+    },
+    {
+      "name": "base M1 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M1 contribution",
+      "actual": -32800.0,
+      "expected": -32800.0,
+      "passed": true
+    },
+    {
+      "name": "base M1 cash_net",
+      "actual": -32800.0,
+      "expected": -32800.0,
+      "passed": true
+    },
+    {
+      "name": "base M1 cumulative_cash",
+      "actual": -32800.0,
+      "expected": -32800.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 fixed",
+      "actual": 33800,
+      "expected": 33800,
+      "passed": true
+    },
+    {
+      "name": "base M2 deposit_out",
+      "actual": 5000,
+      "expected": 5000,
+      "passed": true
+    },
+    {
+      "name": "base M2 contribution",
+      "actual": -33800.0,
+      "expected": -33800.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 cash_net",
+      "actual": -38800.0,
+      "expected": -38800.0,
+      "passed": true
+    },
+    {
+      "name": "base M2 cumulative_cash",
+      "actual": -71600.0,
+      "expected": -71600.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 fixed",
+      "actual": 28050,
+      "expected": 28050,
+      "passed": true
+    },
+    {
+      "name": "base M3 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M3 contribution",
+      "actual": -28050.0,
+      "expected": -28050.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 cash_net",
+      "actual": -28050.0,
+      "expected": -28050.0,
+      "passed": true
+    },
+    {
+      "name": "base M3 cumulative_cash",
+      "actual": -99650.0,
+      "expected": -99650.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 fixed",
+      "actual": 31050,
+      "expected": 31050,
+      "passed": true
+    },
+    {
+      "name": "base M4 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M4 contribution",
+      "actual": -31050.0,
+      "expected": -31050.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 cash_net",
+      "actual": -31050.0,
+      "expected": -31050.0,
+      "passed": true
+    },
+    {
+      "name": "base M4 cumulative_cash",
+      "actual": -130700.0,
+      "expected": -130700.0,
+      "passed": true
+    },
+    {
+      "name": "base M5 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M5 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "base M5 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "passed": true
+    },
+    {
+      "name": "base M5 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M5 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M5 person_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "passed": true
+    },
+    {
+      "name": "base M5 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M5 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M5 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M5 fixed",
+      "actual": 29050,
+      "expected": 29050,
+      "passed": true
+    },
+    {
+      "name": "base M5 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M5 contribution",
+      "actual": -33506.25,
+      "expected": -33506.25,
+      "passed": true
+    },
+    {
+      "name": "base M5 cash_net",
+      "actual": -24506.25,
+      "expected": -24506.25,
+      "passed": true
+    },
+    {
+      "name": "base M5 cumulative_cash",
+      "actual": -155206.25,
+      "expected": -155206.25,
+      "passed": true
+    },
+    {
+      "name": "base M6 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M6 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M6 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "passed": true
+    },
+    {
+      "name": "base M6 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M6 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M6 person_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "passed": true
+    },
+    {
+      "name": "base M6 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M6 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M6 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M6 fixed",
+      "actual": 28250,
+      "expected": 28250,
+      "passed": true
+    },
+    {
+      "name": "base M6 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M6 contribution",
+      "actual": -17706.25,
+      "expected": -17706.25,
+      "passed": true
+    },
+    {
+      "name": "base M6 cash_net",
+      "actual": -32706.25,
+      "expected": -32706.25,
+      "passed": true
+    },
+    {
+      "name": "base M6 cumulative_cash",
+      "actual": -187912.5,
+      "expected": -187912.5,
+      "passed": true
+    },
+    {
+      "name": "base M7 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M7 receipts",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "base M7 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M7 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M7 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M7 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M7 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M7 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M7 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M7 fixed",
+      "actual": 33300,
+      "expected": 33300,
+      "passed": true
+    },
+    {
+      "name": "base M7 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M7 contribution",
+      "actual": -33300.0,
+      "expected": -33300.0,
+      "passed": true
+    },
+    {
+      "name": "base M7 cash_net",
+      "actual": -27300.0,
+      "expected": -27300.0,
+      "passed": true
+    },
+    {
+      "name": "base M7 cumulative_cash",
+      "actual": -215212.5,
+      "expected": -215212.5,
+      "passed": true
+    },
+    {
+      "name": "base M8 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M8 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "base M8 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "passed": true
+    },
+    {
+      "name": "base M8 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M8 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M8 person_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "passed": true
+    },
+    {
+      "name": "base M8 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M8 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M8 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M8 fixed",
+      "actual": 35250,
+      "expected": 35250,
+      "passed": true
+    },
+    {
+      "name": "base M8 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M8 contribution",
+      "actual": -39706.25,
+      "expected": -39706.25,
+      "passed": true
+    },
+    {
+      "name": "base M8 cash_net",
+      "actual": -30706.25,
+      "expected": -30706.25,
+      "passed": true
+    },
+    {
+      "name": "base M8 cumulative_cash",
+      "actual": -245918.75,
+      "expected": -245918.75,
+      "passed": true
+    },
+    {
+      "name": "base M9 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M9 receipts",
+      "actual": 22000.0,
+      "expected": 22000.0,
+      "passed": true
+    },
+    {
+      "name": "base M9 direct",
+      "actual": 6181.25,
+      "expected": 6181.25,
+      "passed": true
+    },
+    {
+      "name": "base M9 bookings",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "passed": true
+    },
+    {
+      "name": "base M9 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M9 person_weeks",
+      "actual": 3.9166666666666665,
+      "expected": 3.9166666666666665,
+      "passed": true
+    },
+    {
+      "name": "base M9 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M9 resident_engineer_credit",
+      "actual": 9200.0,
+      "expected": 9200.0,
+      "passed": true
+    },
+    {
+      "name": "base M9 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M9 fixed",
+      "actual": 34050,
+      "expected": 34050,
+      "passed": true
+    },
+    {
+      "name": "base M9 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M9 contribution",
+      "actual": -25231.25,
+      "expected": -25231.25,
+      "passed": true
+    },
+    {
+      "name": "base M9 cash_net",
+      "actual": -18231.25,
+      "expected": -18231.25,
+      "passed": true
+    },
+    {
+      "name": "base M9 cumulative_cash",
+      "actual": -264150.0,
+      "expected": -264150.0,
+      "passed": true
+    },
+    {
+      "name": "base M10 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M10 receipts",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "base M10 direct",
+      "actual": 1725.0,
+      "expected": 1725.0,
+      "passed": true
+    },
+    {
+      "name": "base M10 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M10 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M10 person_weeks",
+      "actual": 2.6666666666666665,
+      "expected": 2.6666666666666665,
+      "passed": true
+    },
+    {
+      "name": "base M10 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M10 resident_engineer_credit",
+      "actual": 9200.0,
+      "expected": 9200.0,
+      "passed": true
+    },
+    {
+      "name": "base M10 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M10 fixed",
+      "actual": 35250,
+      "expected": 35250,
+      "passed": true
+    },
+    {
+      "name": "base M10 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M10 contribution",
+      "actual": -36975.0,
+      "expected": -36975.0,
+      "passed": true
+    },
+    {
+      "name": "base M10 cash_net",
+      "actual": -30975.0,
+      "expected": -30975.0,
+      "passed": true
+    },
+    {
+      "name": "base M10 cumulative_cash",
+      "actual": -295125.0,
+      "expected": -295125.0,
+      "passed": true
+    },
+    {
+      "name": "base M11 revenue",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "passed": true
+    },
+    {
+      "name": "base M11 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M11 direct",
+      "actual": 1725.0,
+      "expected": 1725.0,
+      "passed": true
+    },
+    {
+      "name": "base M11 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M11 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M11 person_weeks",
+      "actual": 2.6666666666666665,
+      "expected": 2.6666666666666665,
+      "passed": true
+    },
+    {
+      "name": "base M11 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M11 resident_engineer_credit",
+      "actual": 9200.0,
+      "expected": 9200.0,
+      "passed": true
+    },
+    {
+      "name": "base M11 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M11 fixed",
+      "actual": 34050,
+      "expected": 34050,
+      "passed": true
+    },
+    {
+      "name": "base M11 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M11 contribution",
+      "actual": 19225.0,
+      "expected": 19225.0,
+      "passed": true
+    },
+    {
+      "name": "base M11 cash_net",
+      "actual": -35775.0,
+      "expected": -35775.0,
+      "passed": true
+    },
+    {
+      "name": "base M11 cumulative_cash",
+      "actual": -330900.0,
+      "expected": -330900.0,
+      "passed": true
+    },
+    {
+      "name": "base M12 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M12 receipts",
+      "actual": 27500.0,
+      "expected": 27500.0,
+      "passed": true
+    },
+    {
+      "name": "base M12 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M12 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M12 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M12 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M12 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M12 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M12 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M12 fixed",
+      "actual": 34500,
+      "expected": 34500,
+      "passed": true
+    },
+    {
+      "name": "base M12 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M12 contribution",
+      "actual": -34500.0,
+      "expected": -34500.0,
+      "passed": true
+    },
+    {
+      "name": "base M12 cash_net",
+      "actual": -7000.0,
+      "expected": -7000.0,
+      "passed": true
+    },
+    {
+      "name": "base M12 cumulative_cash",
+      "actual": -337900.0,
+      "expected": -337900.0,
+      "passed": true
+    },
+    {
+      "name": "base M13 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M13 receipts",
+      "actual": 5500.0,
+      "expected": 5500.0,
+      "passed": true
+    },
+    {
+      "name": "base M13 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M13 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M13 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M13 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M13 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M13 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M13 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M13 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M13 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M13 contribution",
+      "actual": -37116.666666666664,
+      "expected": -37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M13 cash_net",
+      "actual": -31616.666666666664,
+      "expected": -31616.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M13 cumulative_cash",
+      "actual": -369516.6666666667,
+      "expected": -369516.6666666667,
+      "passed": true
+    },
+    {
+      "name": "base M14 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M14 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "base M14 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "passed": true
+    },
+    {
+      "name": "base M14 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M14 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M14 person_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "passed": true
+    },
+    {
+      "name": "base M14 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M14 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M14 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M14 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M14 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M14 contribution",
+      "actual": -41572.916666666664,
+      "expected": -41572.916666666664,
+      "passed": true
+    },
+    {
+      "name": "base M14 cash_net",
+      "actual": -32572.916666666664,
+      "expected": -32572.916666666664,
+      "passed": true
+    },
+    {
+      "name": "base M14 cumulative_cash",
+      "actual": -402089.5833333334,
+      "expected": -402089.5833333334,
+      "passed": true
+    },
+    {
+      "name": "base M15 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M15 receipts",
+      "actual": 76000.0,
+      "expected": 76000.0,
+      "passed": true
+    },
+    {
+      "name": "base M15 direct",
+      "actual": 31529.903846153848,
+      "expected": 31529.903846153848,
+      "passed": true
+    },
+    {
+      "name": "base M15 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "passed": true
+    },
+    {
+      "name": "base M15 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M15 person_weeks",
+      "actual": 9.916666666666666,
+      "expected": 9.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M15 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M15 resident_engineer_credit",
+      "actual": 12313.846153846152,
+      "expected": 12313.846153846152,
+      "passed": true
+    },
+    {
+      "name": "base M15 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M15 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M15 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M15 contribution",
+      "actual": -53646.570512820515,
+      "expected": -53646.570512820515,
+      "passed": true
+    },
+    {
+      "name": "base M15 cash_net",
+      "actual": 7353.429487179492,
+      "expected": 7353.429487179492,
+      "passed": true
+    },
+    {
+      "name": "base M15 cumulative_cash",
+      "actual": -394736.1538461539,
+      "expected": -394736.1538461539,
+      "passed": true
+    },
+    {
+      "name": "base M16 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M16 receipts",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "base M16 direct",
+      "actual": 27073.653846153848,
+      "expected": 27073.653846153848,
+      "passed": true
+    },
+    {
+      "name": "base M16 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M16 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M16 person_weeks",
+      "actual": 8.666666666666666,
+      "expected": 8.666666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M16 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M16 resident_engineer_credit",
+      "actual": 12313.846153846152,
+      "expected": 12313.846153846152,
+      "passed": true
+    },
+    {
+      "name": "base M16 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M16 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M16 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M16 contribution",
+      "actual": -64190.320512820515,
+      "expected": -64190.320512820515,
+      "passed": true
+    },
+    {
+      "name": "base M16 cash_net",
+      "actual": -58190.320512820515,
+      "expected": -58190.320512820515,
+      "passed": true
+    },
+    {
+      "name": "base M16 cumulative_cash",
+      "actual": -452926.4743589744,
+      "expected": -452926.4743589744,
+      "passed": true
+    },
+    {
+      "name": "base M17 revenue",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "passed": true
+    },
+    {
+      "name": "base M17 receipts",
+      "actual": 72000.0,
+      "expected": 72000.0,
+      "passed": true
+    },
+    {
+      "name": "base M17 direct",
+      "actual": 27073.653846153848,
+      "expected": 27073.653846153848,
+      "passed": true
+    },
+    {
+      "name": "base M17 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M17 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M17 person_weeks",
+      "actual": 8.666666666666666,
+      "expected": 8.666666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M17 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M17 resident_engineer_credit",
+      "actual": 12313.846153846152,
+      "expected": 12313.846153846152,
+      "passed": true
+    },
+    {
+      "name": "base M17 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M17 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M17 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M17 contribution",
+      "actual": -9190.320512820512,
+      "expected": -9190.320512820512,
+      "passed": true
+    },
+    {
+      "name": "base M17 cash_net",
+      "actual": 7809.679487179492,
+      "expected": 7809.679487179492,
+      "passed": true
+    },
+    {
+      "name": "base M17 cumulative_cash",
+      "actual": -445116.7948717949,
+      "expected": -445116.7948717949,
+      "passed": true
+    },
+    {
+      "name": "base M18 revenue",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "passed": true
+    },
+    {
+      "name": "base M18 receipts",
+      "actual": 36500.0,
+      "expected": 36500.0,
+      "passed": true
+    },
+    {
+      "name": "base M18 direct",
+      "actual": 20038.75,
+      "expected": 20038.75,
+      "passed": true
+    },
+    {
+      "name": "base M18 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M18 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M18 person_weeks",
+      "actual": 7.25,
+      "expected": 7.25,
+      "passed": true
+    },
+    {
+      "name": "base M18 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M18 resident_engineer_credit",
+      "actual": 12879.999999999998,
+      "expected": 12879.999999999998,
+      "passed": true
+    },
+    {
+      "name": "base M18 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M18 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M18 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M18 contribution",
+      "actual": 122844.58333333334,
+      "expected": 122844.58333333334,
+      "passed": true
+    },
+    {
+      "name": "base M18 cash_net",
+      "actual": -20655.416666666664,
+      "expected": -20655.416666666664,
+      "passed": true
+    },
+    {
+      "name": "base M18 cumulative_cash",
+      "actual": -465772.21153846156,
+      "expected": -465772.21153846156,
+      "passed": true
+    },
+    {
+      "name": "base M19 revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "passed": true
+    },
+    {
+      "name": "base M19 receipts",
+      "actual": 41500.0,
+      "expected": 41500.0,
+      "passed": true
+    },
+    {
+      "name": "base M19 direct",
+      "actual": 4656.25,
+      "expected": 4656.25,
+      "passed": true
+    },
+    {
+      "name": "base M19 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M19 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "base M19 person_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "passed": true
+    },
+    {
+      "name": "base M19 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M19 resident_engineer_credit",
+      "actual": 700.0,
+      "expected": 700,
+      "passed": true
+    },
+    {
+      "name": "base M19 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M19 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M19 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M19 contribution",
+      "actual": -27772.916666666664,
+      "expected": -27772.916666666664,
+      "passed": true
+    },
+    {
+      "name": "base M19 cash_net",
+      "actual": -4272.916666666664,
+      "expected": -4272.916666666664,
+      "passed": true
+    },
+    {
+      "name": "base M19 cumulative_cash",
+      "actual": -470045.12820512825,
+      "expected": -470045.12820512825,
+      "passed": true
+    },
+    {
+      "name": "base M20 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "base M20 receipts",
+      "actual": 27000.0,
+      "expected": 27000.0,
+      "passed": true
+    },
+    {
+      "name": "base M20 direct",
+      "actual": 200.0,
+      "expected": 200.0,
+      "passed": true
+    },
+    {
+      "name": "base M20 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M20 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "base M20 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M20 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M20 resident_engineer_credit",
+      "actual": 700.0,
+      "expected": 700,
+      "passed": true
+    },
+    {
+      "name": "base M20 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M20 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M20 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M20 contribution",
+      "actual": -38316.666666666664,
+      "expected": -38316.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M20 cash_net",
+      "actual": -14316.666666666664,
+      "expected": -14316.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M20 cumulative_cash",
+      "actual": -484361.79487179493,
+      "expected": -484361.79487179493,
+      "passed": true
+    },
+    {
+      "name": "base M21 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "base M21 receipts",
+      "actual": 57000.0,
+      "expected": 57000.0,
+      "passed": true
+    },
+    {
+      "name": "base M21 direct",
+      "actual": 16587.5,
+      "expected": 16587.5,
+      "passed": true
+    },
+    {
+      "name": "base M21 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "passed": true
+    },
+    {
+      "name": "base M21 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "base M21 person_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "passed": true
+    },
+    {
+      "name": "base M21 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M21 resident_engineer_credit",
+      "actual": 12774.999999999998,
+      "expected": 12774.999999999998,
+      "passed": true
+    },
+    {
+      "name": "base M21 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M21 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M21 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M21 contribution",
+      "actual": -54704.166666666664,
+      "expected": -54704.166666666664,
+      "passed": true
+    },
+    {
+      "name": "base M21 cash_net",
+      "actual": -704.1666666666642,
+      "expected": -704.1666666666642,
+      "passed": true
+    },
+    {
+      "name": "base M21 cumulative_cash",
+      "actual": -485065.9615384616,
+      "expected": -485065.9615384616,
+      "passed": true
+    },
+    {
+      "name": "base M22 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "base M22 receipts",
+      "actual": 34000.0,
+      "expected": 34000.0,
+      "passed": true
+    },
+    {
+      "name": "base M22 direct",
+      "actual": 32499.51923076923,
+      "expected": 32499.51923076923,
+      "passed": true
+    },
+    {
+      "name": "base M22 bookings",
+      "actual": 70000.0,
+      "expected": 70000.0,
+      "passed": true
+    },
+    {
+      "name": "base M22 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "base M22 person_weeks",
+      "actual": 9.916666666666666,
+      "expected": 9.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M22 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M22 resident_engineer_credit",
+      "actual": 12244.23076923077,
+      "expected": 12244.23076923077,
+      "passed": true
+    },
+    {
+      "name": "base M22 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M22 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M22 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M22 contribution",
+      "actual": -70616.18589743589,
+      "expected": -70616.18589743589,
+      "passed": true
+    },
+    {
+      "name": "base M22 cash_net",
+      "actual": -39616.18589743589,
+      "expected": -39616.18589743589,
+      "passed": true
+    },
+    {
+      "name": "base M22 cumulative_cash",
+      "actual": -524682.1474358975,
+      "expected": -524682.1474358975,
+      "passed": true
+    },
+    {
+      "name": "base M23 revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "passed": true
+    },
+    {
+      "name": "base M23 receipts",
+      "actual": 75000.0,
+      "expected": 75000.0,
+      "passed": true
+    },
+    {
+      "name": "base M23 direct",
+      "actual": 32499.51923076923,
+      "expected": 32499.51923076923,
+      "passed": true
+    },
+    {
+      "name": "base M23 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M23 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "base M23 person_weeks",
+      "actual": 9.916666666666666,
+      "expected": 9.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M23 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M23 resident_engineer_credit",
+      "actual": 12244.23076923077,
+      "expected": 12244.23076923077,
+      "passed": true
+    },
+    {
+      "name": "base M23 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M23 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M23 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M23 contribution",
+      "actual": -55616.18589743589,
+      "expected": -55616.18589743589,
+      "passed": true
+    },
+    {
+      "name": "base M23 cash_net",
+      "actual": 1383.8141025641016,
+      "expected": 1383.8141025641016,
+      "passed": true
+    },
+    {
+      "name": "base M23 cumulative_cash",
+      "actual": -523298.3333333334,
+      "expected": -523298.3333333334,
+      "passed": true
+    },
+    {
+      "name": "base M24 revenue",
+      "actual": 238000.0,
+      "expected": 238000.0,
+      "passed": true
+    },
+    {
+      "name": "base M24 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "base M24 direct",
+      "actual": 28043.26923076923,
+      "expected": 28043.26923076923,
+      "passed": true
+    },
+    {
+      "name": "base M24 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M24 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "base M24 person_weeks",
+      "actual": 8.666666666666666,
+      "expected": 8.666666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M24 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M24 resident_engineer_credit",
+      "actual": 12244.23076923077,
+      "expected": 12244.23076923077,
+      "passed": true
+    },
+    {
+      "name": "base M24 projects_accepted",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "base M24 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "base M24 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M24 contribution",
+      "actual": 168840.06410256412,
+      "expected": 168840.06410256412,
+      "passed": true
+    },
+    {
+      "name": "base M24 cash_net",
+      "actual": -60159.93589743589,
+      "expected": -60159.93589743589,
+      "passed": true
+    },
+    {
+      "name": "base M24 cumulative_cash",
+      "actual": -583458.2692307692,
+      "expected": -583458.2692307692,
+      "passed": true
+    },
+    {
+      "name": "base M25 revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "base M25 receipts",
+      "actual": 120500.0,
+      "expected": 120500.0,
+      "passed": true
+    },
+    {
+      "name": "base M25 direct",
+      "actual": 17592.5,
+      "expected": 17592.5,
+      "passed": true
+    },
+    {
+      "name": "base M25 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "passed": true
+    },
+    {
+      "name": "base M25 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "base M25 person_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "passed": true
+    },
+    {
+      "name": "base M25 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M25 resident_engineer_credit",
+      "actual": 12670.0,
+      "expected": 12670.000000000002,
+      "passed": true
+    },
+    {
+      "name": "base M25 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M25 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M25 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M25 contribution",
+      "actual": -62675.833333333336,
+      "expected": -62675.833333333336,
+      "passed": true
+    },
+    {
+      "name": "base M25 cash_net",
+      "actual": 51824.166666666664,
+      "expected": 51824.166666666664,
+      "passed": true
+    },
+    {
+      "name": "base M25 cumulative_cash",
+      "actual": -531634.1025641026,
+      "expected": -531634.1025641026,
+      "passed": true
+    },
+    {
+      "name": "base M26 revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "base M26 receipts",
+      "actual": 60500.0,
+      "expected": 60500.0,
+      "passed": true
+    },
+    {
+      "name": "base M26 direct",
+      "actual": 33469.13461538461,
+      "expected": 33469.13461538461,
+      "passed": true
+    },
+    {
+      "name": "base M26 bookings",
+      "actual": 70000.0,
+      "expected": 70000.0,
+      "passed": true
+    },
+    {
+      "name": "base M26 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "base M26 person_weeks",
+      "actual": 9.916666666666666,
+      "expected": 9.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M26 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M26 resident_engineer_credit",
+      "actual": 12174.615384615387,
+      "expected": 12174.615384615387,
+      "passed": true
+    },
+    {
+      "name": "base M26 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M26 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M26 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M26 contribution",
+      "actual": -78552.46794871794,
+      "expected": -78552.46794871794,
+      "passed": true
+    },
+    {
+      "name": "base M26 cash_net",
+      "actual": -24052.467948717946,
+      "expected": -24052.467948717946,
+      "passed": true
+    },
+    {
+      "name": "base M26 cumulative_cash",
+      "actual": -555686.5705128206,
+      "expected": -555686.5705128206,
+      "passed": true
+    },
+    {
+      "name": "base M27 revenue",
+      "actual": 21000.0,
+      "expected": 21000.0,
+      "passed": true
+    },
+    {
+      "name": "base M27 receipts",
+      "actual": 132000.0,
+      "expected": 132000.0,
+      "passed": true
+    },
+    {
+      "name": "base M27 direct",
+      "actual": 61728.97727272727,
+      "expected": 61728.97727272727,
+      "passed": true
+    },
+    {
+      "name": "base M27 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "passed": true
+    },
+    {
+      "name": "base M27 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "base M27 person_weeks",
+      "actual": 15.916666666666666,
+      "expected": 15.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M27 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "base M27 resident_engineer_credit",
+      "actual": 12377.272727272728,
+      "expected": 12377.272727272728,
+      "passed": true
+    },
+    {
+      "name": "base M27 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M27 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M27 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M27 contribution",
+      "actual": -91812.31060606061,
+      "expected": -91812.31060606061,
+      "passed": true
+    },
+    {
+      "name": "base M27 cash_net",
+      "actual": 19187.6893939394,
+      "expected": 19187.6893939394,
+      "passed": true
+    },
+    {
+      "name": "base M27 cumulative_cash",
+      "actual": -536498.8811188812,
+      "expected": -536498.8811188812,
+      "passed": true
+    },
+    {
+      "name": "base M28 revenue",
+      "actual": 241000.0,
+      "expected": 241000.0,
+      "passed": true
+    },
+    {
+      "name": "base M28 receipts",
+      "actual": 21000.0,
+      "expected": 21000.0,
+      "passed": true
+    },
+    {
+      "name": "base M28 direct",
+      "actual": 61728.97727272727,
+      "expected": 61728.97727272727,
+      "passed": true
+    },
+    {
+      "name": "base M28 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M28 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "base M28 person_weeks",
+      "actual": 15.916666666666666,
+      "expected": 15.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M28 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "base M28 resident_engineer_credit",
+      "actual": 12377.272727272728,
+      "expected": 12377.272727272728,
+      "passed": true
+    },
+    {
+      "name": "base M28 projects_accepted",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "base M28 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M28 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M28 contribution",
+      "actual": 128187.68939393939,
+      "expected": 128187.68939393939,
+      "passed": true
+    },
+    {
+      "name": "base M28 cash_net",
+      "actual": -91812.31060606061,
+      "expected": -91812.31060606061,
+      "passed": true
+    },
+    {
+      "name": "base M28 cumulative_cash",
+      "actual": -628311.1917249418,
+      "expected": -628311.1917249418,
+      "passed": true
+    },
+    {
+      "name": "base M29 revenue",
+      "actual": 24000.0,
+      "expected": 24000.0,
+      "passed": true
+    },
+    {
+      "name": "base M29 receipts",
+      "actual": 195500.0,
+      "expected": 195500.0,
+      "passed": true
+    },
+    {
+      "name": "base M29 direct",
+      "actual": 51516.25,
+      "expected": 51516.25,
+      "passed": true
+    },
+    {
+      "name": "base M29 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "passed": true
+    },
+    {
+      "name": "base M29 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "base M29 person_weeks",
+      "actual": 13.25,
+      "expected": 13.25,
+      "passed": true
+    },
+    {
+      "name": "base M29 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "base M29 resident_engineer_credit",
+      "actual": 12564.999999999998,
+      "expected": 12565.0,
+      "passed": true
+    },
+    {
+      "name": "base M29 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M29 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M29 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M29 contribution",
+      "actual": -78599.58333333334,
+      "expected": -78599.58333333334,
+      "passed": true
+    },
+    {
+      "name": "base M29 cash_net",
+      "actual": 92900.41666666666,
+      "expected": 92900.41666666666,
+      "passed": true
+    },
+    {
+      "name": "base M29 cumulative_cash",
+      "actual": -535410.7750582752,
+      "expected": -535410.7750582752,
+      "passed": true
+    },
+    {
+      "name": "base M30 revenue",
+      "actual": 189000.0,
+      "expected": 189000.0,
+      "passed": true
+    },
+    {
+      "name": "base M30 receipts",
+      "actual": 60500.0,
+      "expected": 60500.0,
+      "passed": true
+    },
+    {
+      "name": "base M30 direct",
+      "actual": 58256.818181818184,
+      "expected": 58256.81818181818,
+      "passed": true
+    },
+    {
+      "name": "base M30 bookings",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "passed": true
+    },
+    {
+      "name": "base M30 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "base M30 person_weeks",
+      "actual": 14.666666666666666,
+      "expected": 14.666666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M30 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "base M30 resident_engineer_credit",
+      "actual": 12293.181818181816,
+      "expected": 12293.18181818182,
+      "passed": true
+    },
+    {
+      "name": "base M30 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M30 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M30 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M30 contribution",
+      "actual": 79659.84848484848,
+      "expected": 79659.84848484848,
+      "passed": true
+    },
+    {
+      "name": "base M30 cash_net",
+      "actual": -48840.15151515152,
+      "expected": -48840.15151515151,
+      "passed": true
+    },
+    {
+      "name": "base M30 cumulative_cash",
+      "actual": -584250.9265734267,
+      "expected": -584250.9265734267,
+      "passed": true
+    },
+    {
+      "name": "base M31 revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "passed": true
+    },
+    {
+      "name": "base M31 receipts",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "passed": true
+    },
+    {
+      "name": "base M31 direct",
+      "actual": 63697.15909090909,
+      "expected": 63697.15909090909,
+      "passed": true
+    },
+    {
+      "name": "base M31 bookings",
+      "actual": 195000.0,
+      "expected": 195000.0,
+      "passed": true
+    },
+    {
+      "name": "base M31 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "passed": true
+    },
+    {
+      "name": "base M31 person_weeks",
+      "actual": 15.916666666666666,
+      "expected": 15.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M31 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "base M31 resident_engineer_credit",
+      "actual": 12209.09090909091,
+      "expected": 12209.09090909091,
+      "passed": true
+    },
+    {
+      "name": "base M31 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M31 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M31 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M31 contribution",
+      "actual": -102780.49242424243,
+      "expected": -102780.49242424243,
+      "passed": true
+    },
+    {
+      "name": "base M31 cash_net",
+      "actual": 65219.507575757576,
+      "expected": 65219.507575757576,
+      "passed": true
+    },
+    {
+      "name": "base M31 cumulative_cash",
+      "actual": -519031.4189976691,
+      "expected": -519031.4189976691,
+      "passed": true
+    },
+    {
+      "name": "base M32 revenue",
+      "actual": 262000.0,
+      "expected": 262000.0,
+      "passed": true
+    },
+    {
+      "name": "base M32 receipts",
+      "actual": 30000.0,
+      "expected": 30000.0,
+      "passed": true
+    },
+    {
+      "name": "base M32 direct",
+      "actual": 63697.15909090909,
+      "expected": 63697.15909090909,
+      "passed": true
+    },
+    {
+      "name": "base M32 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M32 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "passed": true
+    },
+    {
+      "name": "base M32 person_weeks",
+      "actual": 15.916666666666666,
+      "expected": 15.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M32 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "base M32 resident_engineer_credit",
+      "actual": 12209.09090909091,
+      "expected": 12209.09090909091,
+      "passed": true
+    },
+    {
+      "name": "base M32 projects_accepted",
+      "actual": 3,
+      "expected": 3.0,
+      "passed": true
+    },
+    {
+      "name": "base M32 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M32 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M32 contribution",
+      "actual": 147219.50757575757,
+      "expected": 147219.50757575757,
+      "passed": true
+    },
+    {
+      "name": "base M32 cash_net",
+      "actual": -84780.49242424243,
+      "expected": -84780.49242424243,
+      "passed": true
+    },
+    {
+      "name": "base M32 cumulative_cash",
+      "actual": -603811.9114219116,
+      "expected": -603811.9114219116,
+      "passed": true
+    },
+    {
+      "name": "base M33 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M33 receipts",
+      "actual": 229500.0,
+      "expected": 229500.0,
+      "passed": true
+    },
+    {
+      "name": "base M33 direct",
+      "actual": 60225.0,
+      "expected": 60225.0,
+      "passed": true
+    },
+    {
+      "name": "base M33 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "passed": true
+    },
+    {
+      "name": "base M33 support_revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M33 person_weeks",
+      "actual": 14.666666666666666,
+      "expected": 14.666666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M33 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "base M33 resident_engineer_credit",
+      "actual": 12125.0,
+      "expected": 12125.0,
+      "passed": true
+    },
+    {
+      "name": "base M33 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M33 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M33 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M33 contribution",
+      "actual": -96308.33333333334,
+      "expected": -96308.33333333334,
+      "passed": true
+    },
+    {
+      "name": "base M33 cash_net",
+      "actual": 118191.66666666666,
+      "expected": 118191.66666666666,
+      "passed": true
+    },
+    {
+      "name": "base M33 cumulative_cash",
+      "actual": -485620.24475524493,
+      "expected": -485620.24475524493,
+      "passed": true
+    },
+    {
+      "name": "base M34 revenue",
+      "actual": 195000.0,
+      "expected": 195000.0,
+      "passed": true
+    },
+    {
+      "name": "base M34 receipts",
+      "actual": 47500.0,
+      "expected": 47500.0,
+      "passed": true
+    },
+    {
+      "name": "base M34 direct",
+      "actual": 64681.25,
+      "expected": 64681.25,
+      "passed": true
+    },
+    {
+      "name": "base M34 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M34 support_revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "base M34 person_weeks",
+      "actual": 15.916666666666666,
+      "expected": 15.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M34 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "base M34 resident_engineer_credit",
+      "actual": 12125.0,
+      "expected": 12125.0,
+      "passed": true
+    },
+    {
+      "name": "base M34 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M34 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M34 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M34 contribution",
+      "actual": 79235.41666666666,
+      "expected": 79235.41666666666,
+      "passed": true
+    },
+    {
+      "name": "base M34 cash_net",
+      "actual": -68264.58333333334,
+      "expected": -68264.58333333334,
+      "passed": true
+    },
+    {
+      "name": "base M34 cumulative_cash",
+      "actual": -553884.8280885783,
+      "expected": -553884.8280885783,
+      "passed": true
+    },
+    {
+      "name": "base M35 revenue",
+      "actual": 88000.0,
+      "expected": 88000.0,
+      "passed": true
+    },
+    {
+      "name": "base M35 receipts",
+      "actual": 123000.0,
+      "expected": 123000.0,
+      "passed": true
+    },
+    {
+      "name": "base M35 direct",
+      "actual": 37347.596153846156,
+      "expected": 37347.596153846156,
+      "passed": true
+    },
+    {
+      "name": "base M35 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M35 support_revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "passed": true
+    },
+    {
+      "name": "base M35 person_weeks",
+      "actual": 9.916666666666666,
+      "expected": 9.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "base M35 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M35 resident_engineer_credit",
+      "actual": 11896.153846153846,
+      "expected": 11896.153846153844,
+      "passed": true
+    },
+    {
+      "name": "base M35 projects_accepted",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "base M35 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M35 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M35 contribution",
+      "actual": -430.92948717949184,
+      "expected": -430.92948717949184,
+      "passed": true
+    },
+    {
+      "name": "base M35 cash_net",
+      "actual": 34569.07051282051,
+      "expected": 34569.07051282051,
+      "passed": true
+    },
+    {
+      "name": "base M35 cumulative_cash",
+      "actual": -519315.7575757578,
+      "expected": -519315.7575757578,
+      "passed": true
+    },
+    {
+      "name": "base M36 revenue",
+      "actual": 198000.0,
+      "expected": 198000.0,
+      "passed": true
+    },
+    {
+      "name": "base M36 receipts",
+      "actual": 69500.0,
+      "expected": 69500.0,
+      "passed": true
+    },
+    {
+      "name": "base M36 direct",
+      "actual": 21612.5,
+      "expected": 21612.5,
+      "passed": true
+    },
+    {
+      "name": "base M36 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base M36 support_revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "passed": true
+    },
+    {
+      "name": "base M36 person_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "passed": true
+    },
+    {
+      "name": "base M36 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M36 resident_engineer_credit",
+      "actual": 12249.999999999998,
+      "expected": 12250.0,
+      "passed": true
+    },
+    {
+      "name": "base M36 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "base M36 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "base M36 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base M36 contribution",
+      "actual": 125304.16666666666,
+      "expected": 125304.16666666666,
+      "passed": true
+    },
+    {
+      "name": "base M36 cash_net",
+      "actual": -3195.8333333333358,
+      "expected": -3195.8333333333358,
+      "passed": true
+    },
+    {
+      "name": "base M36 cumulative_cash",
+      "actual": -522511.5909090911,
+      "expected": -522511.5909090911,
+      "passed": true
+    },
+    {
+      "name": "base Y1 revenue",
+      "actual": 85000.0,
+      "expected": 85000.0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 direct",
+      "actual": 23000.0,
+      "expected": 23000.0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 fixed",
+      "actual": 389400,
+      "expected": 389400,
+      "passed": true
+    },
+    {
+      "name": "base Y1 receipts",
+      "actual": 79500.0,
+      "expected": 79500.0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 bookings",
+      "actual": 85000.0,
+      "expected": 85000.0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 resident_engineer_credit",
+      "actual": 27600.0,
+      "expected": 27600.0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 deposit_out",
+      "actual": 5000.0,
+      "expected": 5000,
+      "passed": true
+    },
+    {
+      "name": "base Y1 contribution",
+      "actual": -327400.0,
+      "expected": -327400.0,
+      "passed": true
+    },
+    {
+      "name": "base Y1 envelope",
+      "actual": 447810.0,
+      "expected": 447809.99999999994,
+      "passed": true
+    },
+    {
+      "name": "base Y1 D accepted",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "name": "base Y1 V accepted",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "name": "base Y1 E accepted",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base Y2 revenue",
+      "actual": 533000.0,
+      "expected": 533000.0,
+      "passed": true
+    },
+    {
+      "name": "base Y2 direct",
+      "actual": 224658.27,
+      "expected": 224658.26923076925,
+      "passed": true
+    },
+    {
+      "name": "base Y2 fixed",
+      "actual": 469400.0,
+      "expected": 469400.0,
+      "passed": true
+    },
+    {
+      "name": "base Y2 receipts",
+      "actual": 448500.0,
+      "expected": 448500.0,
+      "passed": true
+    },
+    {
+      "name": "base Y2 bookings",
+      "actual": 515000.0,
+      "expected": 515000.0,
+      "passed": true
+    },
+    {
+      "name": "base Y2 support_revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "passed": true
+    },
+    {
+      "name": "base Y2 resident_engineer_credit",
+      "actual": 100729.23,
+      "expected": 100729.23076923077,
+      "passed": true
+    },
+    {
+      "name": "base Y2 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base Y2 contribution",
+      "actual": -161058.27,
+      "expected": -161058.2692307692,
+      "passed": true
+    },
+    {
+      "name": "base Y2 envelope",
+      "actual": 539810.0,
+      "expected": 539810.0,
+      "passed": true
+    },
+    {
+      "name": "base Y2 D accepted",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "name": "base Y2 V accepted",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "name": "base Y2 E accepted",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "name": "base Y3 revenue",
+      "actual": 1257000.0,
+      "expected": 1257000.0,
+      "passed": true
+    },
+    {
+      "name": "base Y3 direct",
+      "actual": 595553.32,
+      "expected": 595553.3216783217,
+      "passed": true
+    },
+    {
+      "name": "base Y3 fixed",
+      "actual": 613000.0,
+      "expected": 613000.0,
+      "passed": true
+    },
+    {
+      "name": "base Y3 receipts",
+      "actual": 1269500.0,
+      "expected": 1269500.0,
+      "passed": true
+    },
+    {
+      "name": "base Y3 bookings",
+      "actual": 1125000.0,
+      "expected": 1125000.0,
+      "passed": true
+    },
+    {
+      "name": "base Y3 support_revenue",
+      "actual": 132000.0,
+      "expected": 132000.0,
+      "passed": true
+    },
+    {
+      "name": "base Y3 resident_engineer_credit",
+      "actual": 147271.68,
+      "expected": 147271.67832167834,
+      "passed": true
+    },
+    {
+      "name": "base Y3 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "base Y3 contribution",
+      "actual": 48446.68,
+      "expected": 48446.678321678264,
+      "passed": true
+    },
+    {
+      "name": "base Y3 envelope",
+      "actual": 704950.0,
+      "expected": 704950.0,
+      "passed": true
+    },
+    {
+      "name": "base Y3 D accepted",
+      "actual": 4,
+      "expected": 4,
+      "passed": true
+    },
+    {
+      "name": "base Y3 V accepted",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "name": "base Y3 E accepted",
+      "actual": 5,
+      "expected": 5,
+      "passed": true
+    },
+    {
+      "name": "base peak cash gap",
+      "actual": 628311.19,
+      "expected": 628311.1917249418,
+      "passed": true
+    },
+    {
+      "name": "base liquidity",
+      "actual": 722557.87,
+      "expected": 722557.8704836831,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 fixed",
+      "actual": 32800,
+      "expected": 32800,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 contribution",
+      "actual": -32800.0,
+      "expected": -32800.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 cash_net",
+      "actual": -32800.0,
+      "expected": -32800.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M1 cumulative_cash",
+      "actual": -32800.0,
+      "expected": -32800.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 fixed",
+      "actual": 33800,
+      "expected": 33800,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 deposit_out",
+      "actual": 5000,
+      "expected": 5000,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 contribution",
+      "actual": -33800.0,
+      "expected": -33800.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 cash_net",
+      "actual": -38800.0,
+      "expected": -38800.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M2 cumulative_cash",
+      "actual": -71600.0,
+      "expected": -71600.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 fixed",
+      "actual": 28050,
+      "expected": 28050,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 contribution",
+      "actual": -28050.0,
+      "expected": -28050.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 cash_net",
+      "actual": -28050.0,
+      "expected": -28050.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M3 cumulative_cash",
+      "actual": -99650.0,
+      "expected": -99650.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 fixed",
+      "actual": 31050,
+      "expected": 31050,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 contribution",
+      "actual": -31050.0,
+      "expected": -31050.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 cash_net",
+      "actual": -31050.0,
+      "expected": -31050.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M4 cumulative_cash",
+      "actual": -130700.0,
+      "expected": -130700.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 fixed",
+      "actual": 29050,
+      "expected": 29050,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 contribution",
+      "actual": -29050.0,
+      "expected": -29050.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 cash_net",
+      "actual": -29050.0,
+      "expected": -29050.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M5 cumulative_cash",
+      "actual": -159750.0,
+      "expected": -159750.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 fixed",
+      "actual": 28250,
+      "expected": 28250,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 contribution",
+      "actual": -28250.0,
+      "expected": -28250.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 cash_net",
+      "actual": -28250.0,
+      "expected": -28250.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M6 cumulative_cash",
+      "actual": -188000.0,
+      "expected": -188000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 fixed",
+      "actual": 33300,
+      "expected": 33300,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 contribution",
+      "actual": -33300.0,
+      "expected": -33300.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 cash_net",
+      "actual": -33300.0,
+      "expected": -33300.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M7 cumulative_cash",
+      "actual": -221300.0,
+      "expected": -221300.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 fixed",
+      "actual": 35250,
+      "expected": 35250,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 contribution",
+      "actual": -35250.0,
+      "expected": -35250.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 cash_net",
+      "actual": -35250.0,
+      "expected": -35250.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M8 cumulative_cash",
+      "actual": -256550.0,
+      "expected": -256550.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 fixed",
+      "actual": 34050,
+      "expected": 34050,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 contribution",
+      "actual": -34050.0,
+      "expected": -34050.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 cash_net",
+      "actual": -34050.0,
+      "expected": -34050.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M9 cumulative_cash",
+      "actual": -290600.0,
+      "expected": -290600.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 fixed",
+      "actual": 35250,
+      "expected": 35250,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 contribution",
+      "actual": -35250.0,
+      "expected": -35250.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 cash_net",
+      "actual": -35250.0,
+      "expected": -35250.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M10 cumulative_cash",
+      "actual": -325850.0,
+      "expected": -325850.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 person_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 fixed",
+      "actual": 34050,
+      "expected": 34050,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 contribution",
+      "actual": -38506.25,
+      "expected": -38506.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 cash_net",
+      "actual": -29506.25,
+      "expected": -29506.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M11 cumulative_cash",
+      "actual": -355356.25,
+      "expected": -355356.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 person_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 fixed",
+      "actual": 34500,
+      "expected": 34500,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 contribution",
+      "actual": -23956.25,
+      "expected": -23956.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 cash_net",
+      "actual": -38956.25,
+      "expected": -38956.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M12 cumulative_cash",
+      "actual": -394312.5,
+      "expected": -394312.5,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 receipts",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 contribution",
+      "actual": -37116.666666666664,
+      "expected": -37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 cash_net",
+      "actual": -31116.666666666664,
+      "expected": -31116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M13 cumulative_cash",
+      "actual": -425429.1666666667,
+      "expected": -425429.1666666667,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 person_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 contribution",
+      "actual": -41572.916666666664,
+      "expected": -41572.916666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 cash_net",
+      "actual": -32572.916666666664,
+      "expected": -32572.916666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M14 cumulative_cash",
+      "actual": -458002.0833333334,
+      "expected": -458002.0833333334,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 receipts",
+      "actual": 22000.0,
+      "expected": 22000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 direct",
+      "actual": 6181.25,
+      "expected": 6181.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 bookings",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 person_weeks",
+      "actual": 3.9166666666666665,
+      "expected": 3.9166666666666665,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 resident_engineer_credit",
+      "actual": 9200.0,
+      "expected": 9200.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 contribution",
+      "actual": -28297.916666666664,
+      "expected": -28297.916666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 cash_net",
+      "actual": -21297.916666666664,
+      "expected": -21297.916666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M15 cumulative_cash",
+      "actual": -479300.00000000006,
+      "expected": -479300.00000000006,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 receipts",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 direct",
+      "actual": 1725.0,
+      "expected": 1725.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 person_weeks",
+      "actual": 2.6666666666666665,
+      "expected": 2.6666666666666665,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 resident_engineer_credit",
+      "actual": 9200.0,
+      "expected": 9200.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 contribution",
+      "actual": -38841.666666666664,
+      "expected": -38841.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 cash_net",
+      "actual": -32841.666666666664,
+      "expected": -32841.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M16 cumulative_cash",
+      "actual": -512141.66666666674,
+      "expected": -512141.66666666674,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 revenue",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 direct",
+      "actual": 1725.0,
+      "expected": 1725.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 person_weeks",
+      "actual": 2.6666666666666665,
+      "expected": 2.6666666666666665,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 resident_engineer_credit",
+      "actual": 9200.0,
+      "expected": 9200.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 contribution",
+      "actual": 16158.333333333336,
+      "expected": 16158.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 cash_net",
+      "actual": -38841.666666666664,
+      "expected": -38841.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M17 cumulative_cash",
+      "actual": -550983.3333333334,
+      "expected": -550983.3333333334,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 receipts",
+      "actual": 27500.0,
+      "expected": 27500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 fixed",
+      "actual": 37116.666666666664,
+      "expected": 37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 contribution",
+      "actual": -37116.666666666664,
+      "expected": -37116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 cash_net",
+      "actual": -9616.666666666664,
+      "expected": -9616.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M18 cumulative_cash",
+      "actual": -560600.0,
+      "expected": -560600.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 receipts",
+      "actual": 5500.0,
+      "expected": 5500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 contribution",
+      "actual": -41116.666666666664,
+      "expected": -41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 cash_net",
+      "actual": -35616.666666666664,
+      "expected": -35616.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M19 cumulative_cash",
+      "actual": -596216.6666666666,
+      "expected": -596216.6666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 person_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 contribution",
+      "actual": -45572.916666666664,
+      "expected": -45572.916666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 cash_net",
+      "actual": -36572.916666666664,
+      "expected": -36572.916666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M20 cumulative_cash",
+      "actual": -632789.5833333333,
+      "expected": -632789.5833333333,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 receipts",
+      "actual": 76000.0,
+      "expected": 76000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 direct",
+      "actual": 31529.903846153848,
+      "expected": 31529.903846153848,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 person_weeks",
+      "actual": 9.916666666666666,
+      "expected": 9.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 resident_engineer_credit",
+      "actual": 12313.846153846152,
+      "expected": 12313.846153846152,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 contribution",
+      "actual": -57646.570512820515,
+      "expected": -57646.570512820515,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 cash_net",
+      "actual": 3353.429487179492,
+      "expected": 3353.429487179492,
+      "passed": true
+    },
+    {
+      "name": "delay6 M21 cumulative_cash",
+      "actual": -629436.1538461538,
+      "expected": -629436.1538461538,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 receipts",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 direct",
+      "actual": 27073.653846153848,
+      "expected": 27073.653846153848,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 person_weeks",
+      "actual": 8.666666666666666,
+      "expected": 8.666666666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 resident_engineer_credit",
+      "actual": 12313.846153846152,
+      "expected": 12313.846153846152,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 contribution",
+      "actual": -68190.32051282052,
+      "expected": -68190.32051282052,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 cash_net",
+      "actual": -62190.320512820515,
+      "expected": -62190.320512820515,
+      "passed": true
+    },
+    {
+      "name": "delay6 M22 cumulative_cash",
+      "actual": -691626.4743589743,
+      "expected": -691626.4743589743,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 revenue",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 receipts",
+      "actual": 72000.0,
+      "expected": 72000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 direct",
+      "actual": 27073.653846153848,
+      "expected": 27073.653846153848,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 person_weeks",
+      "actual": 8.666666666666666,
+      "expected": 8.666666666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 resident_engineer_credit",
+      "actual": 12313.846153846152,
+      "expected": 12313.846153846152,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 contribution",
+      "actual": -13190.320512820512,
+      "expected": -13190.320512820512,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 cash_net",
+      "actual": 3809.679487179492,
+      "expected": 3809.679487179492,
+      "passed": true
+    },
+    {
+      "name": "delay6 M23 cumulative_cash",
+      "actual": -687816.7948717948,
+      "expected": -687816.7948717948,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 revenue",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 receipts",
+      "actual": 36500.0,
+      "expected": 36500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 direct",
+      "actual": 20038.75,
+      "expected": 20038.75,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 person_weeks",
+      "actual": 7.25,
+      "expected": 7.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 resident_engineer_credit",
+      "actual": 12879.999999999998,
+      "expected": 12879.999999999998,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 fixed",
+      "actual": 41116.666666666664,
+      "expected": 41116.666666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 contribution",
+      "actual": 118844.58333333334,
+      "expected": 118844.58333333334,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 cash_net",
+      "actual": -24655.416666666664,
+      "expected": -24655.416666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M24 cumulative_cash",
+      "actual": -712472.2115384614,
+      "expected": -712472.2115384614,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 receipts",
+      "actual": 41500.0,
+      "expected": 41500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 direct",
+      "actual": 4656.25,
+      "expected": 4656.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 person_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 resident_engineer_credit",
+      "actual": 700.0,
+      "expected": 700,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 contribution",
+      "actual": -37739.583333333336,
+      "expected": -37739.583333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 cash_net",
+      "actual": -14239.583333333336,
+      "expected": -14239.583333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M25 cumulative_cash",
+      "actual": -726711.7948717948,
+      "expected": -726711.7948717948,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 receipts",
+      "actual": 27000.0,
+      "expected": 27000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 direct",
+      "actual": 200.0,
+      "expected": 200.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 person_weeks",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 production_active",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 resident_engineer_credit",
+      "actual": 700.0,
+      "expected": 700,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 contribution",
+      "actual": -48283.333333333336,
+      "expected": -48283.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 cash_net",
+      "actual": -24283.333333333336,
+      "expected": -24283.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M26 cumulative_cash",
+      "actual": -750995.1282051281,
+      "expected": -750995.1282051281,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 receipts",
+      "actual": 57000.0,
+      "expected": 57000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 direct",
+      "actual": 16587.5,
+      "expected": 16587.5,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 person_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 resident_engineer_credit",
+      "actual": 12774.999999999998,
+      "expected": 12774.999999999998,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 contribution",
+      "actual": -64670.833333333336,
+      "expected": -64670.833333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 cash_net",
+      "actual": -10670.833333333336,
+      "expected": -10670.833333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M27 cumulative_cash",
+      "actual": -761665.9615384615,
+      "expected": -761665.9615384615,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 receipts",
+      "actual": 34000.0,
+      "expected": 34000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 direct",
+      "actual": 32499.51923076923,
+      "expected": 32499.51923076923,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 bookings",
+      "actual": 70000.0,
+      "expected": 70000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 person_weeks",
+      "actual": 9.916666666666666,
+      "expected": 9.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 resident_engineer_credit",
+      "actual": 12244.23076923077,
+      "expected": 12244.23076923077,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 contribution",
+      "actual": -80582.85256410256,
+      "expected": -80582.85256410256,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 cash_net",
+      "actual": -49582.85256410256,
+      "expected": -49582.85256410256,
+      "passed": true
+    },
+    {
+      "name": "delay6 M28 cumulative_cash",
+      "actual": -811248.814102564,
+      "expected": -811248.814102564,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 receipts",
+      "actual": 75000.0,
+      "expected": 75000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 direct",
+      "actual": 32499.51923076923,
+      "expected": 32499.51923076923,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 person_weeks",
+      "actual": 9.916666666666666,
+      "expected": 9.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 resident_engineer_credit",
+      "actual": 12244.23076923077,
+      "expected": 12244.23076923077,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 contribution",
+      "actual": -65582.85256410256,
+      "expected": -65582.85256410256,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 cash_net",
+      "actual": -8582.85256410257,
+      "expected": -8582.85256410257,
+      "passed": true
+    },
+    {
+      "name": "delay6 M29 cumulative_cash",
+      "actual": -819831.6666666666,
+      "expected": -819831.6666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 revenue",
+      "actual": 238000.0,
+      "expected": 238000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 direct",
+      "actual": 28043.26923076923,
+      "expected": 28043.26923076923,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 person_weeks",
+      "actual": 8.666666666666666,
+      "expected": 8.666666666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 resident_engineer_credit",
+      "actual": 12244.23076923077,
+      "expected": 12244.23076923077,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 projects_accepted",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 contribution",
+      "actual": 158873.39743589744,
+      "expected": 158873.39743589744,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 cash_net",
+      "actual": -70126.60256410256,
+      "expected": -70126.60256410256,
+      "passed": true
+    },
+    {
+      "name": "delay6 M30 cumulative_cash",
+      "actual": -889958.2692307692,
+      "expected": -889958.2692307692,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 receipts",
+      "actual": 120500.0,
+      "expected": 120500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 direct",
+      "actual": 17592.5,
+      "expected": 17592.5,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 person_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 resident_engineer_credit",
+      "actual": 12670.0,
+      "expected": 12670.000000000002,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 contribution",
+      "actual": -62675.833333333336,
+      "expected": -62675.833333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 cash_net",
+      "actual": 51824.166666666664,
+      "expected": 51824.166666666664,
+      "passed": true
+    },
+    {
+      "name": "delay6 M31 cumulative_cash",
+      "actual": -838134.1025641026,
+      "expected": -838134.1025641026,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 receipts",
+      "actual": 60500.0,
+      "expected": 60500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 direct",
+      "actual": 33469.13461538461,
+      "expected": 33469.13461538461,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 bookings",
+      "actual": 70000.0,
+      "expected": 70000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 person_weeks",
+      "actual": 9.916666666666666,
+      "expected": 9.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 production_active",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 resident_engineer_credit",
+      "actual": 12174.615384615387,
+      "expected": 12174.615384615387,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 projects_accepted",
+      "actual": 0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 contribution",
+      "actual": -78552.46794871794,
+      "expected": -78552.46794871794,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 cash_net",
+      "actual": -24052.467948717946,
+      "expected": -24052.467948717946,
+      "passed": true
+    },
+    {
+      "name": "delay6 M32 cumulative_cash",
+      "actual": -862186.5705128206,
+      "expected": -862186.5705128206,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 revenue",
+      "actual": 21000.0,
+      "expected": 21000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 receipts",
+      "actual": 132000.0,
+      "expected": 132000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 direct",
+      "actual": 61728.97727272727,
+      "expected": 61728.97727272727,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 person_weeks",
+      "actual": 15.916666666666666,
+      "expected": 15.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 resident_engineer_credit",
+      "actual": 12377.272727272728,
+      "expected": 12377.272727272728,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 contribution",
+      "actual": -91812.31060606061,
+      "expected": -91812.31060606061,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 cash_net",
+      "actual": 19187.6893939394,
+      "expected": 19187.6893939394,
+      "passed": true
+    },
+    {
+      "name": "delay6 M33 cumulative_cash",
+      "actual": -842998.8811188812,
+      "expected": -842998.8811188812,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 revenue",
+      "actual": 241000.0,
+      "expected": 241000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 receipts",
+      "actual": 21000.0,
+      "expected": 21000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 direct",
+      "actual": 61728.97727272727,
+      "expected": 61728.97727272727,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 person_weeks",
+      "actual": 15.916666666666666,
+      "expected": 15.916666666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 resident_engineer_credit",
+      "actual": 12377.272727272728,
+      "expected": 12377.272727272728,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 projects_accepted",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 contribution",
+      "actual": 128187.68939393939,
+      "expected": 128187.68939393939,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 cash_net",
+      "actual": -91812.31060606061,
+      "expected": -91812.31060606061,
+      "passed": true
+    },
+    {
+      "name": "delay6 M34 cumulative_cash",
+      "actual": -934811.1917249418,
+      "expected": -934811.1917249418,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 revenue",
+      "actual": 24000.0,
+      "expected": 24000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 receipts",
+      "actual": 195500.0,
+      "expected": 195500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 direct",
+      "actual": 51516.25,
+      "expected": 51516.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 person_weeks",
+      "actual": 13.25,
+      "expected": 13.25,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 resident_engineer_credit",
+      "actual": 12564.999999999998,
+      "expected": 12565.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 contribution",
+      "actual": -78599.58333333334,
+      "expected": -78599.58333333334,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 cash_net",
+      "actual": 92900.41666666666,
+      "expected": 92900.41666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M35 cumulative_cash",
+      "actual": -841910.7750582752,
+      "expected": -841910.7750582752,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 revenue",
+      "actual": 189000.0,
+      "expected": 189000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 receipts",
+      "actual": 60500.0,
+      "expected": 60500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 direct",
+      "actual": 58256.818181818184,
+      "expected": 58256.81818181818,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 bookings",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 person_weeks",
+      "actual": 14.666666666666666,
+      "expected": 14.666666666666666,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 production_active",
+      "actual": 2,
+      "expected": 2.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 resident_engineer_credit",
+      "actual": 12293.181818181816,
+      "expected": 12293.18181818182,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 projects_accepted",
+      "actual": 1,
+      "expected": 1.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 fixed",
+      "actual": 51083.333333333336,
+      "expected": 51083.333333333336,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 contribution",
+      "actual": 79659.84848484848,
+      "expected": 79659.84848484848,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 cash_net",
+      "actual": -48840.15151515152,
+      "expected": -48840.15151515151,
+      "passed": true
+    },
+    {
+      "name": "delay6 M36 cumulative_cash",
+      "actual": -890750.9265734267,
+      "expected": -890750.9265734267,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 direct",
+      "actual": 8912.5,
+      "expected": 8912.5,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 fixed",
+      "actual": 389400,
+      "expected": 389400,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 resident_engineer_credit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 deposit_out",
+      "actual": 5000.0,
+      "expected": 5000,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 contribution",
+      "actual": -383312.5,
+      "expected": -383312.5,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 envelope",
+      "actual": 447810.0,
+      "expected": 447809.99999999994,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 D accepted",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 V accepted",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y1 E accepted",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 revenue",
+      "actual": 320000.0,
+      "expected": 320000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 direct",
+      "actual": 124259.71,
+      "expected": 124259.71153846155,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 fixed",
+      "actual": 469400.0,
+      "expected": 469400.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 receipts",
+      "actual": 275500.0,
+      "expected": 275500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 bookings",
+      "actual": 335000.0,
+      "expected": 335000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 resident_engineer_credit",
+      "actual": 77421.54,
+      "expected": 77421.53846153845,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 contribution",
+      "actual": -273659.71,
+      "expected": -273659.7115384615,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 envelope",
+      "actual": 539810.0,
+      "expected": 539810.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 D accepted",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 V accepted",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y2 E accepted",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 revenue",
+      "actual": 770000.0,
+      "expected": 770000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 direct",
+      "actual": 398778.72,
+      "expected": 398778.715034965,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 fixed",
+      "actual": 613000.0,
+      "expected": 613000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 receipts",
+      "actual": 833500.0,
+      "expected": 833500.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 bookings",
+      "actual": 930000.0,
+      "expected": 930000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 support_revenue",
+      "actual": 60000.0,
+      "expected": 60000.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 resident_engineer_credit",
+      "actual": 125365.03,
+      "expected": 125365.03496503497,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 contribution",
+      "actual": -241778.72,
+      "expected": -241778.71503496505,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 envelope",
+      "actual": 704950.0,
+      "expected": 704950.0,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 D accepted",
+      "actual": 4,
+      "expected": 4,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 V accepted",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "name": "delay6 Y3 E accepted",
+      "actual": 3,
+      "expected": 3,
+      "passed": true
+    },
+    {
+      "name": "delay6 peak cash gap",
+      "actual": 934811.19,
+      "expected": 934811.1917249418,
+      "passed": true
+    },
+    {
+      "name": "delay6 liquidity",
+      "actual": 1075032.87,
+      "expected": 1075032.870483683,
+      "passed": true
+    },
+    {
+      "name": "Q1 reserve",
+      "actual": 108847.49999999999,
+      "expected": 108847.5,
+      "passed": true
+    },
+    {
+      "name": "manager monthly time",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    }
+  ],
+  "basis": "Independent event reconstruction from authored planning inputs, not actual finances or guaranteed sales.",
+  "base_cumulative_contribution": -440011.59,
+  "delay_cumulative_contribution": -898750.93
+}

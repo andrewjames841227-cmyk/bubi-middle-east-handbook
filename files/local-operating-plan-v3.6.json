@@ -1,0 +1,561 @@
+{
+  "version": "3.6",
+  "date": "2026-10-28",
+  "name": "侯宇 / Andrew Hau",
+  "position": {
+    "zh": "当地分公司负责人：常驻经营、组织专业服务、开发项目并推进回款。",
+    "en": "Resident branch lead: run local operations, coordinate specialists, develop projects and manage collections."
+  },
+  "promise": {
+    "zh": "在当地注册公司、聘人、缴税、提供服务，把关系做成能签约和交付的业务。",
+    "en": "Register locally, employ people, meet tax duties and provide services, turning relationships into contracted, deliverable business."
+  },
+  "path": [
+    {
+      "zh": "总部确定产品和授权",
+      "en": "HQ sets products and authority"
+    },
+    {
+      "zh": "当地注册分支机构",
+      "en": "Register the local branch"
+    },
+    {
+      "zh": "聘用当地团队并签专业服务",
+      "en": "Hire locally and retain specialists"
+    },
+    {
+      "zh": "通过现有关系安排正式交流",
+      "en": "Use existing relationships for formal dialogue"
+    },
+    {
+      "zh": "选定业务问题并形成方案",
+      "en": "Define a business problem and proposal"
+    },
+    {
+      "zh": "本地主体签约、交付、收款和申报",
+      "en": "Contract, deliver, collect and file locally"
+    }
+  ],
+  "capabilities": [
+    [
+      {
+        "zh": "常驻经营",
+        "en": "Resident operations"
+      },
+      {
+        "zh": "履历包含库迪阿联酋经营职责，能处理现场事项、供应商和总部之间的日常协同。",
+        "en": "The CV includes UAE operating responsibility at Cotti, linking on-site issues, suppliers and headquarters."
+      }
+    ],
+    [
+      {
+        "zh": "当地资源与商务沟通",
+        "en": "Local access and dialogue"
+      },
+      {
+        "zh": "可直接对接Emaar、Al-Futtaim、Saif Belhasa、DMCC；高层关系通过既有介绍链安排。",
+        "en": "Direct access to Emaar, Al-Futtaim, Saif Belhasa and DMCC; use established introduction chains for senior dialogue."
+      }
+    ],
+    [
+      {
+        "zh": "外部服务商组织",
+        "en": "Specialist coordination"
+      },
+      {
+        "zh": "有PRO、律所及财务支持的项目接触经验；明确分工、费用、交付和续期。",
+        "en": "Project experience with PRO, legal and financial support; define scope, fees, outputs and renewals."
+      }
+    ],
+    [
+      {
+        "zh": "经营与费用管理",
+        "en": "Operating and cost control"
+      },
+      {
+        "zh": "以周报、费用、供应商对账和税务配合管理日常经营；总部保留财务审批。",
+        "en": "Use operating reviews, expense control, supplier reconciliation and tax coordination; HQ retains financial approvals."
+      }
+    ],
+    [
+      {
+        "zh": "团队与培训",
+        "en": "People and training"
+      },
+      {
+        "zh": "有当地门店及跨职能协同经历，能够组织招聘、培训、排班和执行跟进。",
+        "en": "Local-store and cross-functional experience supports recruitment, training, scheduling and follow-through."
+      }
+    ],
+    [
+      {
+        "zh": "谈判与合同衔接",
+        "en": "Negotiation and contracts"
+      },
+      {
+        "zh": "能组织开发商和合作方对话，把商务诉求交给律师形成可执行的合同。",
+        "en": "Organize developer / partner dialogue and turn commercial requirements into enforceable contracts with counsel."
+      }
+    ],
+    [
+      {
+        "zh": "产品价值表达",
+        "en": "Product communication"
+      },
+      {
+        "zh": "把技术功能讲成客户业务问题、演示和报价；产品架构与技术承诺由总部专业团队负责。",
+        "en": "Translate features into client problems, demos and prices; HQ specialists own architecture and technical commitments."
+      }
+    ],
+    [
+      {
+        "zh": "中英沟通与总部汇报",
+        "en": "Bilingual communication and reporting"
+      },
+      {
+        "zh": "组织中英商务材料和跨文化沟通；阿语法律文件、政府提交由本地专业人员处理。",
+        "en": "Prepare Chinese / English business materials and cross-cultural dialogue; local specialists handle Arabic legal and government filings."
+      }
+    ]
+  ],
+  "legal_form": {
+    "zh": "经营上采用分公司制，法律上优先评估外国公司分支机构（Branch）。若许可活动或责任安排更适合全资LLC，则采用当地全资子公司，常驻、用工、财税及交付要求不变。不是只设联络地址。",
+    "en": "Use a local branch operating model. First assess a foreign-company Branch; use a wholly owned local LLC if the licensed activity or liability structure fits better. Resident staffing, tax, payroll and delivery stay local; this is more than a mailing address."
+  },
+  "setup_steps": [
+    [
+      {
+        "zh": "定产品和活动",
+        "en": "Define products / activities"
+      },
+      {
+        "zh": "先卖企业软件、接口和数据记录服务；律所逐项判断是否涉及金融或信任服务许可。",
+        "en": "Start with enterprise software, interfaces and data-record services; counsel maps any financial or trust-service licensing."
+      }
+    ],
+    [
+      {
+        "zh": "准备母公司文件",
+        "en": "Prepare parent documents"
+      },
+      {
+        "zh": "公司登记、章程、董事会决议、负责人授权及身份资料；按主管机关要求做认证和阿语翻译。",
+        "en": "Parent registration, articles, board resolution, manager authority and identification; attest and translate as required."
+      }
+    ],
+    [
+      {
+        "zh": "申请牌照与办公",
+        "en": "Licence and office"
+      },
+      {
+        "zh": "与许可机关确认活动和主体，落实实际办公地址、租约及所需分支登记。",
+        "en": "Confirm activities / entity with the licensor, secure an office / lease and complete applicable branch registrations."
+      }
+    ],
+    [
+      {
+        "zh": "开对公银行与财税档案",
+        "en": "Banking and tax records"
+      },
+      {
+        "zh": "向银行提交股权、实益拥有人、资金来源与业务说明；建立企业税、VAT适用判断和月结流程。",
+        "en": "Provide ownership, beneficial owners, funds source and business plan; establish corporate tax, VAT assessment and monthly accounts."
+      }
+    ],
+    [
+      {
+        "zh": "合法雇佣与发薪",
+        "en": "Lawful employment and payroll"
+      },
+      {
+        "zh": "办理工作许可、居留、保险和劳动合同，按适用体系发薪；政府账号与授权归公司管理。",
+        "en": "Arrange work permits, residence, insurance and contracts; pay through the applicable system and control company accounts / mandates."
+      }
+    ],
+    [
+      {
+        "zh": "完成客户准入",
+        "en": "Client onboarding"
+      },
+      {
+        "zh": "用本地主体办理供应商准入，准备合同、税务资料、信息安全和数据权限说明。",
+        "en": "Use the local entity for supplier onboarding, with contracts, tax records, security and data-permission documentation."
+      }
+    ]
+  ],
+  "jobs": [
+    [
+      {
+        "zh": "Y1：3个常驻岗位",
+        "en": "Y1: three resident roles"
+      },
+      {
+        "zh": "负责人；当地运营/政府事务协调（M3起）；解决方案工程师（M7起）。除负责人外，新增2个属地招聘岗位。",
+        "en": "Branch lead; local operations / government-service coordinator from M3; solutions engineer from M7. Two local hires beyond the lead."
+      }
+    ],
+    [
+      {
+        "zh": "Y2：4个常驻岗位",
+        "en": "Y2: four resident roles"
+      },
+      {
+        "zh": "增加本地商务人员；总部售前与交付按项目配合，不替代当地团队。",
+        "en": "Add local business development; HQ presales / delivery supports projects without replacing the local team."
+      }
+    ],
+    [
+      {
+        "zh": "Y3：5个常驻岗位",
+        "en": "Y3: five resident roles"
+      },
+      {
+        "zh": "增加初级分析或客户支持；按季度做产品及流程培训，建立本地交接能力。",
+        "en": "Add junior analysis / client support; provide quarterly product / process training and build local handover capability."
+      }
+    ]
+  ],
+  "social_value": {
+    "zh": "当地招聘、工资与保险、纳税申报、专业服务采购和技术培训都有记录。属地雇佣不等于全部聘用本国公民；Emiratisation等法定义务按人数、活动及主管机关要求单独判断。",
+    "en": "Record local hiring, payroll / insurance, tax filing, local professional procurement and technical training. Local residence-based employment is distinct from citizen hiring; assess Emiratisation duties by size, activity and applicable rules."
+  },
+  "professional_team": [
+    [
+      {
+        "zh": "律所",
+        "en": "Law firm"
+      },
+      {
+        "zh": "主体及活动范围、母公司授权、合同、数据、用工和争议；有金融活动时牵头识别许可路径。",
+        "en": "Entity / activities, authority, contracts, data, employment and disputes; identify regulated-activity approvals when relevant."
+      }
+    ],
+    [
+      {
+        "zh": "会计事务所",
+        "en": "Accounting firm"
+      },
+      {
+        "zh": "建账、月结、税务登记及申报、工资与费用；需审计或税务代理时核实对应资格。",
+        "en": "Books, month-end, tax registration / returns, payroll and expenses; check qualifications for statutory audit or tax representation."
+      }
+    ],
+    [
+      {
+        "zh": "PRO公司",
+        "en": "PRO company"
+      },
+      {
+        "zh": "熟悉政府办事渠道，长期跟进牌照、移民、劳动和证件事项；配专属客户经理与可查办件台账。",
+        "en": "Experienced government-service coordination for licences, immigration, labour and documents, with a dedicated manager and traceable case log."
+      }
+    ]
+  ],
+  "pro_case": {
+    "zh": "库迪资料中有BAK NOVA Government Transaction Centre LLC的双签章PRO协议，以及2026年7月服务发票。协议列有Amer、Tasheel、MoHRE、DET等事务。可作为BUBIX首轮访谈与询价参照，正式范围另签。",
+    "en": "Cotti records include a PRO agreement bearing both parties’ signatures / stamps with BAK NOVA Government Transaction Centre LLC and a July 2026 service invoice. Scope lists Amer, Tasheel, MoHRE and DET work. Use it as an initial interview / quotation reference; agree BUBIX scope separately."
+  },
+  "pro_terms": [
+    {
+      "zh": "长期服务协议：专属负责人、服务清单和续期日期。",
+      "en": "Retainer: dedicated owner, service list and renewal date."
+    },
+    {
+      "zh": "官方费用、服务费和商务引荐费用分列；逐项有凭证。",
+      "en": "Separate official charges, service fees and commercial introduction fees, each documented."
+    },
+    {
+      "zh": "每周更新待办、已提交事项、补件及下一步时间。",
+      "en": "Weekly log of open cases, submissions, requested documents and next dates."
+    },
+    {
+      "zh": "公司账号、文件及授权范围归BUBIX控制；退出时完整移交。",
+      "en": "BUBIX controls accounts, documents and mandate scope; require full exit handover."
+    },
+    {
+      "zh": "政府办理与商业引荐分别约定；审批和采购由主管部门及买方决定。",
+      "en": "Contract government processing and business introductions separately; authorities and buyers decide approvals / procurement."
+    }
+  ],
+  "royal_steps": [
+    [
+      {
+        "zh": "先通过原有介绍人约见",
+        "en": "Arrange through the existing introducer"
+      },
+      {
+        "zh": "确认私人办公室或对口机构、称谓、名单和议题，不群发邀约。",
+        "en": "Agree the office / institution, titles, participants and theme; avoid mass invitations."
+      }
+    ],
+    [
+      {
+        "zh": "会前发一页公司与议题",
+        "en": "Send a one-page company / theme brief"
+      },
+      {
+        "zh": "讲清BUBIX在当地设公司、招人、培训和长期服务的安排，再讲一个具体产业问题。",
+        "en": "Explain local incorporation, jobs, training and long-term service, then one specific industry problem."
+      }
+    ],
+    [
+      {
+        "zh": "第一次以听取需求为主",
+        "en": "Listen at the first meeting"
+      },
+      {
+        "zh": "用简短演示说明产品；询问哪些企业或项目有类似问题，请对方指定业务联系人。",
+        "en": "Use a short demo, ask which companies / projects share the problem and request a named business contact."
+      }
+    ],
+    [
+      {
+        "zh": "由业务团队一起做方案",
+        "en": "Co-design with the business team"
+      },
+      {
+        "zh": "约运营、技术、采购参加工作会，明确现有系统、数据、预算口径及试点范围。",
+        "en": "Meet operations, technology and procurement to map systems, data, budget basis and pilot scope."
+      }
+    ],
+    [
+      {
+        "zh": "交给实际经营主体采购",
+        "en": "Move to the actual operator’s procurement"
+      },
+      {
+        "zh": "分清谁支持、谁使用、谁签字、谁付款；意向、投资和采购分别处理。",
+        "en": "Identify sponsor, user, signatory and payer. Treat interest, investment and procurement separately."
+      }
+    ],
+    [
+      {
+        "zh": "分公司签约和持续服务",
+        "en": "Contract and serve through the branch"
+      },
+      {
+        "zh": "按许可范围签约、交付、开票、收款与申报；定期向介绍人反馈进度和本地贡献。",
+        "en": "Contract within scope, deliver, invoice, collect and file locally; report progress and local contribution to the introducer."
+      }
+    ]
+  ],
+  "conduct": {
+    "zh": "会议纪要、费用用途和授权保持清楚；招待及礼品按公司审批与当地规则办理，不向公职人员支付促成费，不以王室称谓替代法律和采购权限。",
+    "en": "Keep minutes, expense purposes and authority clear. Apply company / local rules to hospitality and gifts; do not pay facilitation fees to public officials or substitute royal titles for legal / purchasing authority."
+  },
+  "example": {
+    "zh": "例如Emaar：由现有入口安排介绍；提出一个工程验收或供应商记录问题；请业务与技术团队评估；做有边界的诊断和试点；由实际采购主体与BUBIX本地机构签约。王室路径同样需要走到有职责的企业或机构。",
+    "en": "For Emaar: use existing access for an introduction, propose a project-acceptance / supplier-record problem, involve process / technical owners, run bounded discovery / pilot and contract with the actual buyer through BUBIX locally. Royal routes likewise need an accountable company / institution."
+  },
+  "compliance": [
+    [
+      {
+        "zh": "企业软件与接口",
+        "en": "Enterprise software / interfaces"
+      },
+      {
+        "zh": "按实际活动取得商业许可，律师出具产品边界说明。软件服务与虚拟资产经营不是同一项许可。",
+        "en": "Obtain the relevant commercial activity licence and a counsel-reviewed perimeter note. Software services and virtual-asset operations are different scopes."
+      }
+    ],
+    [
+      {
+        "zh": "代币、托管、交易、金融产品",
+        "en": "Tokens, custody, exchange, financial products"
+      },
+      {
+        "zh": "涉及受监管活动前，先确定主管机构及对应许可；迪拜VARA不覆盖DIFC，其他地区另查。",
+        "en": "Before regulated activity, identify the regulator and approval. Dubai VARA excludes DIFC; other locations require their own assessment."
+      }
+    ],
+    [
+      {
+        "zh": "数据与电子凭证",
+        "en": "Data and electronic records"
+      },
+      {
+        "zh": "先确认数据权利、存储和跨境传输；上链记录不自动等于产权或政府认证。信任服务另判断许可。",
+        "en": "Establish data rights, hosting and cross-border rules. Ledger records do not automatically establish title / government certification. Assess trust-service licensing separately."
+      }
+    ],
+    [
+      {
+        "zh": "税务与工资",
+        "en": "Tax and payroll"
+      },
+      {
+        "zh": "企业税登记/申报不因暂无利润而省略。一般企业税率档按应税所得判断；VAT按应税供应及进口等规则判断，不能把两种375,000迪拉姆口径混用。",
+        "en": "Corporate-tax registration / filing is not waived simply for lack of profit. Tax bands use taxable income; VAT uses taxable supplies / imports and related rules. Do not mix the two AED375,000 bases."
+      }
+    ],
+    [
+      {
+        "zh": "当地招聘与续证",
+        "en": "Local recruitment / renewals"
+      },
+      {
+        "zh": "工作许可、居留、保险、工资和续期由分公司持续管理；常驻负责人组织，PRO及会计执行专业事项。",
+        "en": "Maintain work permits, residence, insurance, wages and renewals locally; the resident lead coordinates PRO / accounting specialists."
+      }
+    ],
+    [
+      {
+        "zh": "沙特等第二市场",
+        "en": "Saudi / second market"
+      },
+      {
+        "zh": "阿联酋牌照不能替代沙特投资登记、商业登记、用工、税务和数据要求。进入持续经营与当地交付前单独配置。",
+        "en": "A UAE licence does not replace Saudi investment / commercial registration, employment, tax and data requirements. Resource local operations separately before sustained delivery."
+      }
+    ]
+  ],
+  "evidence": [
+    [
+      "C01",
+      {
+        "zh": "本地实体与分支执照",
+        "en": "Local entities / branch licences"
+      },
+      {
+        "zh": "说明当地有实际经营载体；不意味着侯宇从零签署全部注册文件。",
+        "en": "Shows local operating entities; does not attribute every incorporation signature to Andrew."
+      }
+    ],
+    [
+      "C02",
+      {
+        "zh": "BAK NOVA协议与服务发票",
+        "en": "BAK NOVA agreement / service invoice"
+      },
+      {
+        "zh": "说明PRO合作有合同和日常服务记录；不是一句“认识政府”。",
+        "en": "Shows contracted PRO work and service records, beyond a verbal claim of access."
+      }
+    ],
+    [
+      "C03",
+      {
+        "zh": "FTA企业税申报提交回执",
+        "en": "FTA corporate-tax submission acknowledgement"
+      },
+      {
+        "zh": "说明税务申报事务真实存在；提交回执与已付税款分开。",
+        "en": "Shows tax-filing operations; a submission is distinct from proof of payment."
+      }
+    ],
+    [
+      "C04",
+      {
+        "zh": "当地用工与月度薪资资料",
+        "en": "Local employment / monthly payroll records"
+      },
+      {
+        "zh": "说明人员与当地管理事务有记录；不公开员工个人信息。",
+        "en": "Shows documented local staffing and administration; private employee details remain confidential."
+      }
+    ],
+    [
+      "C05",
+      {
+        "zh": "经营周报、法律框架与对接资料",
+        "en": "Operating reviews, legal framework and engagement records"
+      },
+      {
+        "zh": "与履历共同说明经营协调、合同衔接和日常执行经验；不把草案当作已成交合同。",
+        "en": "Together with the CV, supports operations, contract coordination and execution experience; drafts are not completed deals."
+      }
+    ]
+  ],
+  "case_lesson": {
+    "zh": "库迪验证的是“当地实体+常驻团队+PRO+法财税+经营管理”的组织方式。BUBIX可复用这套做法；区块链产品许可与技术交付，仍由相应专业团队负责。",
+    "en": "Cotti demonstrates the local-entity, resident-team, PRO, legal / accounting and operating model. BUBIX can reuse that method; blockchain permissions and technical delivery remain with the relevant specialists."
+  },
+  "decisions": [
+    {
+      "zh": "确定当地设立与经营预算，优先推进迪拜主体及产品活动判断。",
+      "en": "Approve local setup / operating resources and prioritize the Dubai entity / activity assessment."
+    },
+    {
+      "zh": "明确常驻负责人、签约与费用权限；当地团队按阶段招聘。",
+      "en": "Appoint the resident lead, signing / spending authority and staged local hiring."
+    },
+    {
+      "zh": "安排律所、会计与PRO的首轮访谈；以服务范围、报价和责任清单选聘。",
+      "en": "Interview legal, accounting and PRO providers; appoint by scope, quotation and responsibilities."
+    }
+  ],
+  "sources": [
+    {
+      "id": "L01",
+      "title": "Dubai DET / mainland company setup",
+      "url": "https://www.investindubai.gov.ae/en/business-setup/mainland-companies",
+      "scope": "Entity / activity selection and parent-document preparation"
+    },
+    {
+      "id": "L02",
+      "title": "MoET / foreign company services",
+      "url": "https://www.moec.gov.ae/-/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA",
+      "scope": "Foreign branches; official transaction fees / documents to reconfirm at application"
+    },
+    {
+      "id": "L03",
+      "title": "FTA / VAT registration",
+      "url": "https://www.tax.gov.ae/en/services/vat.registration.aspx",
+      "scope": "Resident mandatory threshold AED375,000 taxable supplies/imports over12months or next30days; nonresident rules differ"
+    },
+    {
+      "id": "L04",
+      "title": "MoF / corporate tax guide",
+      "url": "https://mof.gov.ae/en/news/ministry-of-finance-issues-explanatory-guide-for-corporate-tax-purposes/",
+      "scope": "General0percent taxable income up toAED375,000;9percent above, subject to applicable regime"
+    },
+    {
+      "id": "L05",
+      "title": "MoHRE / wage protection",
+      "url": "https://u.ae/en/information-and-services/jobs/employment-in-the-private-sector/payment-of-wages",
+      "scope": "WPS for MoHRE-registered establishments and applicable exclusions"
+    },
+    {
+      "id": "L06",
+      "title": "VARA / licensed activities",
+      "url": "https://www.vara.ae/en/licenses-and-register/licensed-activities/",
+      "scope": "Activity-based regulation; software/DLT label does not settle regulatory perimeter"
+    },
+    {
+      "id": "L07",
+      "title": "VARA / licence applications",
+      "url": "https://www.vara.ae/en/licenses-and-register/licence-applications/",
+      "scope": "Incorporation approval is not permission to conduct regulated activities"
+    },
+    {
+      "id": "L08",
+      "title": "UAE / data and electronic-transaction laws",
+      "url": "https://u.ae/en/Resources/Cyber-laws",
+      "scope": "Personal-data protection, electronic transactions and trust services"
+    },
+    {
+      "id": "L09",
+      "title": "MISA / investment registration FAQ",
+      "url": "https://misa.gov.sa/frequently-asked-questions/",
+      "scope": "Saudi investment registration; conditions depend on activity"
+    },
+    {
+      "id": "L10",
+      "title": "SDAIA / cross-border data clauses",
+      "url": "https://dgp.sdaia.gov.sa/wps/portal/pdp/knowledgecenter/details/StandardContractualClauses",
+      "scope": "Saudi personal-data transfer safeguards"
+    },
+    {
+      "id": "L11",
+      "title": "MoHRE / new-employer guide",
+      "url": "https://mohre.gov.ae/assets/download/c2f061f5/awareness-package-for-new-employers-en.aspx",
+      "scope": "Employment duties and Emiratisation scope; review current applicability"
+    },
+    {
+      "id": "C01-C05",
+      "title": "Cotti UAE supplied operating records / candidate CV",
+      "scope": "Private evidence reviewed; only document classes and bounded conclusions are public. No bank data, tax numbers, signatures or employee identifiers."
+    }
+  ]
+}

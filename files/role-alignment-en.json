@@ -1,7 +1,7 @@
 {
   "date": "2026-10-28",
   "conclusion": "The commercial direction aligns with the mandate. Regional leadership must connect verified access, procurement, contracts, collections and joint operations.",
-  "scope": "Review of plan coverage, not a role-eligibility assessment. Actual relationships, customer budgets, orders and authorization remain unverified.",
+  "scope": "Review of plan coverage, not role eligibility. Four direct routes have resource-side confirmation; buyer demand, budgets, orders and purchasing authority still require counterpart confirmation.",
   "items": [
     {
       "id": "R01",
@@ -139,12 +139,12 @@
       "id": "R13",
       "requirement": "English, cross-cultural communication, strategic-account experience and extended travel",
       "source": "J01 qualifications 1-6",
-      "current": "The business path is designed",
-      "gap": "Actual access, working language, project history and on-site ability lack verification",
-      "action": "Verify through business demonstrations, checkable project experience, communication records, language scenarios and an on-site plan. Separate plan coverage from candidate qualification.",
+      "current": "Resource-side confirmation of direct access to Emaar, Al-Futtaim, Saif Belhasa and DMCC; this does not establish buying intent.",
+      "gap": "Buyer-side process owners, defined needs, budgets and purchasing authority remain unconfirmed. Verify working language, checkable project history and on-site arrangements separately.",
+      "action": "Verify purchasing paths through counterpart-confirmed meetings, discovery memos and authority records. Use demonstrations, checkable project records and an on-site plan for role-execution conditions.",
       "deliverable": "Resource / capability verification checklist, deployment plan and role authority / support",
       "owner": "Role authorization and organizational review",
-      "gate": "Do not infer available relationships or conclude eligibility without evidence"
+      "gate": "Resource-side confirmation does not replace buyer confirmation or role-eligibility checks. Record the source, date and confirming party for each item."
     },
     {
       "id": "R14",

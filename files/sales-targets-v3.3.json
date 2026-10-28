@@ -2,8 +2,8 @@
   "version": "3.3",
   "as_of": "2026-10-28",
   "basis": {
-    "zh": "目标接洽池，非已确认意向、订单或预测；当前BUBIX项目阶段均为S0，近期可触达性待核实。",
-    "en": "A planned outreach pool, not confirmed intent, orders or forecast. All BUBIX-specific entries are S0; current access is unverified."
+    "zh": "目标接洽池，非已确认意向、订单或预测；当前BUBIX项目阶段均为S0，五家直接沟通入口已确认；客户需求、采购授权与预算尚待核实。",
+    "en": "A planned outreach pool, not confirmed intent, orders or forecast. All BUBIX-specific entries are S0; direct access to five organizations is confirmed; demand, procurement authority and buyer budgets remain unverified."
   },
   "accounts": [
     {
@@ -13,8 +13,8 @@
       "priority": "P1",
       "window": "D1–30",
       "entry": {
-        "zh": "原有集团项目接洽线索重新核实；先定位工业、汽车或技术业务中的一个实际法人和流程负责人。",
-        "en": "Revalidate the prior group-project lead; identify one legal entity and process owner in industrial, automotive or technology operations."
+        "zh": "已确认可直接对接；会前定位Saif Belhasa的具体业务法人、流程及拟参加角色。",
+        "en": "Direct communication confirmed; identify the relevant Saif Belhasa entity, workflow and proposed attendees before the meeting."
       },
       "offer": {
         "zh": "供应商履约、车辆/设备证照与跨公司验收记录核验；一期仅选一种凭证和两类参与方。",
@@ -25,8 +25,8 @@
         "en": "Business operations + IT architecture + procurement / finance. Executive access supports referral, not buyer qualification."
       },
       "next": {
-        "zh": "D1–7核实旧接口；D8–15安排30分钟问题访谈；D16–30取得匿名样本和流程图。",
-        "en": "D1–7 revalidate access; D8–15 run a 30-minute discovery; D16–30 obtain an anonymized sample and workflow."
+        "zh": "D1–7完成会前材料、预算与团队准备；D8–15直接组织30分钟需求会；D16–30取得授权样本与流程图。",
+        "en": "D1–7 prepare materials, funding and team; D8–15 arrange a direct 30-minute discovery; D16–30 secure authorized samples and workflow."
       },
       "gate": {
         "zh": "明确付费法人、数据授权人、现有系统及核验成本，才进入有价方案。",
@@ -40,7 +40,9 @@
         "W01",
         "W02"
       ],
-      "stage": "S0"
+      "stage": "S0",
+      "access": "direct_confirmed",
+      "access_basis": "Q-ACCESS-20261028"
     },
     {
       "id": "A02",
@@ -49,8 +51,8 @@
       "priority": "P1",
       "window": "D1–30",
       "entry": {
-        "zh": "复核既往集团接洽对应的是Al-Futtaim的具体公司与业务部，避免与Majid Al Futtaim混淆。",
-        "en": "Confirm the exact Al-Futtaim company and division behind the prior lead; do not conflate it with Majid Al Futtaim."
+        "zh": "已确认可直接对接Al-Futtaim；会前明确业务部及具体公司，避免与Majid Al Futtaim混淆。",
+        "en": "Direct Al-Futtaim communication confirmed; define the division and legal entity, distinct from Majid Al Futtaim."
       },
       "offer": {
         "zh": "汽车售后/供应商跨方凭证、地产供应商对账；优先选单业务单元的小范围流程验证。",
@@ -75,7 +77,9 @@
       "source": [
         "W03"
       ],
-      "stage": "S0"
+      "stage": "S0",
+      "access": "direct_confirmed",
+      "access_basis": "Q-ACCESS-20261028"
     },
     {
       "id": "A03",
@@ -84,8 +88,8 @@
       "priority": "P1",
       "window": "D8–45",
       "entry": {
-        "zh": "既往商圈项目接洽经验可作为复联入口；先请求转介商管运营、数字化或供应商管理。",
-        "en": "Prior retail-property engagement provides a recontact hypothesis; seek a referral to mall operations, digital or supplier management."
+        "zh": "已确认可直接对接Emaar；以商管/资产运营或供应商流程的具体问题，安排对口业务与数字化团队工作会。",
+        "en": "Direct Emaar communication confirmed; arrange a working meeting with relevant operations and digital teams around a defined property / supplier workflow."
       },
       "offer": {
         "zh": "租户/供应商履约凭证、工程验收及跨组织对账；先做一项B2B工作流，不从不动产代币发行切入。",
@@ -96,8 +100,8 @@
         "en": "Property operations + digital + procurement / legal. A leasing intermediary must refer to the actual workflow buyer."
       },
       "next": {
-        "zh": "D8–15复联；D16–30需求访谈；D31–45形成可评审的流程/SOW。",
-        "en": "D8–15 recontact; D16–30 discovery; D31–45 prepare a reviewable workflow / SOW."
+        "zh": "会前准备商业问题与技术边界；D8–15直接组织业务会；D16–30确认样本与需求；D31–45形成SOW。",
+        "en": "Prepare the business problem and technical boundary; D8–15 direct meeting; D16–30 sample and discovery; D31–45 SOW."
       },
       "gate": {
         "zh": "明确采购法人、数据来源、现有系统边界及可测量验收标准。",
@@ -110,7 +114,9 @@
       "source": [
         "W04"
       ],
-      "stage": "S0"
+      "stage": "S0",
+      "access": "direct_confirmed",
+      "access_basis": "Q-ACCESS-20261028"
     },
     {
       "id": "C01",
@@ -119,8 +125,8 @@
       "priority": "P1",
       "window": "D1–30",
       "entry": {
-        "zh": "先复核终端生态原接口；再申请转介企业业务/云伙伴团队，两个业务体系分别核实。",
-        "en": "Revalidate the consumer-ecosystem contact, then request an introduction to enterprise / cloud partners; validate each organization separately."
+        "zh": "已确认可直接对接华为MEA；从既有接口组织工作会，企业/云伙伴团队的参与与技术适配另行落实。",
+        "en": "Direct Huawei MEA communication confirmed; use the existing contact to arrange a working meeting, then secure enterprise / cloud participation and technical fit."
       },
       "offer": {
         "zh": "联合方案、云/集成适配与共同客户发现；华为是候选渠道，不默认是付款客户。",
@@ -145,7 +151,9 @@
       "source": [
         "W05"
       ],
-      "stage": "S0"
+      "stage": "S0",
+      "access": "direct_confirmed",
+      "access_basis": "Q-ACCESS-20261028"
     },
     {
       "id": "C02",
@@ -154,8 +162,8 @@
       "priority": "P1",
       "window": "D8–45",
       "entry": {
-        "zh": "从生态/商品贸易团队进入，争取定位1–2家独立贸易成员；成员企业须单独确认。",
-        "en": "Enter through ecosystem / commodity teams and identify 1–2 independent member traders; qualify each member separately."
+        "zh": "已确认可直接对接DMCC；以生态与商品贸易问题组织工作会，再落实1–2家独立贸易成员。",
+        "en": "Direct DMCC communication confirmed; frame an ecosystem / trade working meeting and then qualify 1–2 independent member traders."
       },
       "offer": {
         "zh": "现有Tradeflow等平台之外的凭证衔接或跨境协同缺口；先调查互补价值，不宣称替代既有基础设施。",
@@ -181,7 +189,9 @@
         "W06",
         "W07"
       ],
-      "stage": "S0"
+      "stage": "S0",
+      "access": "direct_confirmed",
+      "access_basis": "Q-ACCESS-20261028"
     },
     {
       "id": "V01",
@@ -214,7 +224,9 @@
         "en": "Do not count domestic activity as Middle East revenue, or asset quantities / NFA concepts / past work as new orders."
       },
       "source": [],
-      "stage": "S0"
+      "stage": "S0",
+      "access": "to_confirm",
+      "access_basis": "resume_or_background_only"
     },
     {
       "id": "R01",
@@ -247,7 +259,9 @@
         "en": "Remain a reserve route without a buyer; never count an entire PIF / NEOM ecosystem as a customer."
       },
       "source": [],
-      "stage": "S0"
+      "stage": "S0",
+      "access": "to_confirm",
+      "access_basis": "resume_or_background_only"
     },
     {
       "id": "R02",
@@ -280,7 +294,9 @@
         "en": "Advisory status is not procurement authority across 22 countries or a revenue guarantee."
       },
       "source": [],
-      "stage": "S0"
+      "stage": "S0",
+      "access": "to_confirm",
+      "access_basis": "resume_or_background_only"
     }
   ],
   "sources": [
@@ -326,5 +342,18 @@
       "url": "https://dmcc.ae/ecosystems/financial-services/tradeflow",
       "supports": "Existing commodity registration infrastructure; validate complementary gaps"
     }
-  ]
+  ],
+  "access_confirmation": {
+    "id": "Q-ACCESS-20261028",
+    "date": "2026-10-28",
+    "basis": "resource-side confirmation of direct communication; not customer procurement confirmation",
+    "organizations": [
+      "Emaar",
+      "Al-Futtaim",
+      "Saif Belhasa Holding",
+      "Huawei MEA",
+      "DMCC"
+    ],
+    "condition": "adequate budget and detailed executable account plans"
+  }
 }

@@ -1,78 +1,504 @@
 {
-  "version": "4.0-HQ",
-  "basis": "Independent reconstruction of authored planning assumptions, not validation of future client conversion.",
-  "passed": 1015,
+  "version": "4.1-HQ",
+  "basis": "Independent reconstruction of authored inputs; arithmetic validation does not establish future conversion or agreed compensation.",
+  "passed": 1854,
   "checks": [
     {
       "check": "Y1 personal",
-      "actual": 129000,
-      "expected": 129000,
+      "actual": 232414.0231,
+      "expected": 232414.0231,
+      "pass": true
+    },
+    {
+      "check": "Y1 permits",
+      "actual": 7511.686,
+      "expected": 7511.686,
       "pass": true
     },
     {
       "check": "Y1 sales",
-      "actual": 45000,
-      "expected": 45000,
+      "actual": 51000.0,
+      "expected": 51000.0,
       "pass": true
     },
     {
       "check": "Y1 hq",
-      "actual": 36000,
-      "expected": 36000,
+      "actual": 36000.0,
+      "expected": 36000.0,
       "pass": true
     },
     {
       "check": "Y1 fixed",
-      "actual": 210000,
-      "expected": 210000,
+      "actual": 326925.7091,
+      "expected": 326925.7091,
       "pass": true
     },
     {
       "check": "Y2 personal",
-      "actual": 129400,
-      "expected": 129400,
+      "actual": 227414.0231,
+      "expected": 227414.0231,
+      "pass": true
+    },
+    {
+      "check": "Y2 permits",
+      "actual": 4272.2941,
+      "expected": 4272.2941,
       "pass": true
     },
     {
       "check": "Y2 sales",
-      "actual": 54000,
-      "expected": 54000,
+      "actual": 60000.0,
+      "expected": 60000.0,
       "pass": true
     },
     {
       "check": "Y2 hq",
-      "actual": 48000,
-      "expected": 48000,
+      "actual": 48000.0,
+      "expected": 48000.0,
       "pass": true
     },
     {
       "check": "Y2 fixed",
-      "actual": 231400,
-      "expected": 231400,
+      "actual": 339686.3172,
+      "expected": 339686.3172,
       "pass": true
     },
     {
       "check": "Y3 personal",
-      "actual": 134800,
-      "expected": 134800,
+      "actual": 227414.0231,
+      "expected": 227414.0231,
+      "pass": true
+    },
+    {
+      "check": "Y3 permits",
+      "actual": 6178.3526,
+      "expected": 6178.3526,
       "pass": true
     },
     {
       "check": "Y3 sales",
-      "actual": 66000,
-      "expected": 66000,
+      "actual": 72000.0,
+      "expected": 72000.0,
       "pass": true
     },
     {
       "check": "Y3 hq",
-      "actual": 60000,
-      "expected": 60000,
+      "actual": 60000.0,
+      "expected": 60000.0,
       "pass": true
     },
     {
       "check": "Y3 fixed",
-      "actual": 260800,
-      "expected": 260800,
+      "actual": 365592.3758,
+      "expected": 365592.3758,
+      "pass": true
+    },
+    {
+      "check": "native salary Y1",
+      "actual": 163376.4466,
+      "expected": 163376.4466,
+      "pass": true
+    },
+    {
+      "check": "native salary Y2",
+      "actual": 163376.4466,
+      "expected": 163376.4466,
+      "pass": true
+    },
+    {
+      "check": "native salary Y3",
+      "actual": 163376.4466,
+      "expected": 163376.4466,
+      "pass": true
+    },
+    {
+      "check": "native employer Y1",
+      "actual": 9802.5868,
+      "expected": 9802.5868,
+      "pass": true
+    },
+    {
+      "check": "native employer Y2",
+      "actual": 9802.5868,
+      "expected": 9802.5868,
+      "pass": true
+    },
+    {
+      "check": "native employer Y3",
+      "actual": 9802.5868,
+      "expected": 9802.5868,
+      "pass": true
+    },
+    {
+      "check": "native housing Y1",
+      "actual": 24506.467,
+      "expected": 24506.467,
+      "pass": true
+    },
+    {
+      "check": "native housing Y2",
+      "actual": 24506.467,
+      "expected": 24506.467,
+      "pass": true
+    },
+    {
+      "check": "native housing Y3",
+      "actual": 24506.467,
+      "expected": 24506.467,
+      "pass": true
+    },
+    {
+      "check": "native mobility Y1",
+      "actual": 7188.5636,
+      "expected": 7188.5636,
+      "pass": true
+    },
+    {
+      "check": "native mobility Y2",
+      "actual": 7188.5636,
+      "expected": 7188.5636,
+      "pass": true
+    },
+    {
+      "check": "native mobility Y3",
+      "actual": 7188.5636,
+      "expected": 7188.5636,
+      "pass": true
+    },
+    {
+      "check": "native food Y1",
+      "actual": 14908.1007,
+      "expected": 14908.1007,
+      "pass": true
+    },
+    {
+      "check": "native food Y2",
+      "actual": 14908.1007,
+      "expected": 14908.1007,
+      "pass": true
+    },
+    {
+      "check": "native food Y3",
+      "actual": 14908.1007,
+      "expected": 14908.1007,
+      "pass": true
+    },
+    {
+      "check": "native phone Y1",
+      "actual": 1198.0939,
+      "expected": 1198.0939,
+      "pass": true
+    },
+    {
+      "check": "native phone Y2",
+      "actual": 1198.0939,
+      "expected": 1198.0939,
+      "pass": true
+    },
+    {
+      "check": "native phone Y3",
+      "actual": 1198.0939,
+      "expected": 1198.0939,
+      "pass": true
+    },
+    {
+      "check": "native uae_health Y1",
+      "actual": 1633.7645,
+      "expected": 1633.7645,
+      "pass": true
+    },
+    {
+      "check": "native uae_health Y2",
+      "actual": 1633.7645,
+      "expected": 1633.7645,
+      "pass": true
+    },
+    {
+      "check": "native uae_health Y3",
+      "actual": 1633.7645,
+      "expected": 1633.7645,
+      "pass": true
+    },
+    {
+      "check": "native sa_health Y1",
+      "actual": 800.0,
+      "expected": 800.0,
+      "pass": true
+    },
+    {
+      "check": "native sa_health Y2",
+      "actual": 800.0,
+      "expected": 800.0,
+      "pass": true
+    },
+    {
+      "check": "native sa_health Y3",
+      "actual": 800.0,
+      "expected": 800.0,
+      "pass": true
+    },
+    {
+      "check": "native hq_leave Y1",
+      "actual": 4000.0,
+      "expected": 4000.0,
+      "pass": true
+    },
+    {
+      "check": "native hq_leave Y2",
+      "actual": 4000.0,
+      "expected": 4000.0,
+      "pass": true
+    },
+    {
+      "check": "native hq_leave Y3",
+      "actual": 4000.0,
+      "expected": 4000.0,
+      "pass": true
+    },
+    {
+      "check": "native mobilization Y1",
+      "actual": 5000.0,
+      "expected": 5000.0,
+      "pass": true
+    },
+    {
+      "check": "native mobilization Y2",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "native mobilization Y3",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "native uae_permit Y1",
+      "actual": 2178.3526,
+      "expected": 2178.3526,
+      "pass": true
+    },
+    {
+      "check": "native uae_permit Y2",
+      "actual": 272.2941,
+      "expected": 272.2941,
+      "pass": true
+    },
+    {
+      "check": "native uae_permit Y3",
+      "actual": 2178.3526,
+      "expected": 2178.3526,
+      "pass": true
+    },
+    {
+      "check": "native sa_permit Y1",
+      "actual": 5333.3333,
+      "expected": 5333.3333,
+      "pass": true
+    },
+    {
+      "check": "native sa_permit Y2",
+      "actual": 4000.0,
+      "expected": 4000.0,
+      "pass": true
+    },
+    {
+      "check": "native sa_permit Y3",
+      "actual": 4000.0,
+      "expected": 4000.0,
+      "pass": true
+    },
+    {
+      "check": "native gulf_visits Y1",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "native gulf_visits Y2",
+      "actual": 16000.0,
+      "expected": 16000.0,
+      "pass": true
+    },
+    {
+      "check": "native gulf_visits Y3",
+      "actual": 20000.0,
+      "expected": 20000.0,
+      "pass": true
+    },
+    {
+      "check": "native meetings Y1",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "native meetings Y2",
+      "actual": 8000.0,
+      "expected": 8000.0,
+      "pass": true
+    },
+    {
+      "check": "native meetings Y3",
+      "actual": 10000.0,
+      "expected": 10000.0,
+      "pass": true
+    },
+    {
+      "check": "native workshops Y1",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "native workshops Y2",
+      "actual": 8000.0,
+      "expected": 8000.0,
+      "pass": true
+    },
+    {
+      "check": "native workshops Y3",
+      "actual": 10000.0,
+      "expected": 10000.0,
+      "pass": true
+    },
+    {
+      "check": "native materials Y1",
+      "actual": 5000.0,
+      "expected": 5000.0,
+      "pass": true
+    },
+    {
+      "check": "native materials Y2",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "native materials Y3",
+      "actual": 8000.0,
+      "expected": 8000.0,
+      "pass": true
+    },
+    {
+      "check": "native counsel Y1",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "native counsel Y2",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "native counsel Y3",
+      "actual": 8000.0,
+      "expected": 8000.0,
+      "pass": true
+    },
+    {
+      "check": "native pro Y1",
+      "actual": 2000.0,
+      "expected": 2000.0,
+      "pass": true
+    },
+    {
+      "check": "native pro Y2",
+      "actual": 2000.0,
+      "expected": 2000.0,
+      "pass": true
+    },
+    {
+      "check": "native pro Y3",
+      "actual": 2000.0,
+      "expected": 2000.0,
+      "pass": true
+    },
+    {
+      "check": "native employment_service Y1",
+      "actual": 14000.0,
+      "expected": 14000.0,
+      "pass": true
+    },
+    {
+      "check": "native employment_service Y2",
+      "actual": 14000.0,
+      "expected": 14000.0,
+      "pass": true
+    },
+    {
+      "check": "native employment_service Y3",
+      "actual": 14000.0,
+      "expected": 14000.0,
+      "pass": true
+    },
+    {
+      "check": "native presales Y1",
+      "actual": 36000.0,
+      "expected": 36000.0,
+      "pass": true
+    },
+    {
+      "check": "native presales Y2",
+      "actual": 48000.0,
+      "expected": 48000.0,
+      "pass": true
+    },
+    {
+      "check": "native presales Y3",
+      "actual": 60000.0,
+      "expected": 60000.0,
+      "pass": true
+    },
+    {
+      "check": "salary AED annual",
+      "actual": 600000,
+      "expected": 600000,
+      "pass": true
+    },
+    {
+      "check": "salary USD annual",
+      "actual": 163376.4466,
+      "expected": 163376.4466,
+      "pass": true
+    },
+    {
+      "check": "UAE allowance 0",
+      "actual": 8000,
+      "expected": 8000,
+      "pass": true
+    },
+    {
+      "check": "UAE allowance 1",
+      "actual": 1000,
+      "expected": 1000,
+      "pass": true
+    },
+    {
+      "check": "UAE allowance 2",
+      "actual": 8000,
+      "expected": 8000,
+      "pass": true
+    },
+    {
+      "check": "Saudi Arabia allowance 0",
+      "actual": 20000,
+      "expected": 20000,
+      "pass": true
+    },
+    {
+      "check": "Saudi Arabia allowance 1",
+      "actual": 15000,
+      "expected": 15000,
+      "pass": true
+    },
+    {
+      "check": "Saudi Arabia allowance 2",
+      "actual": 15000,
+      "expected": 15000,
       "pass": true
     },
     {
@@ -109,6 +535,228 @@
       "check": "E payment",
       "actual": 1.0,
       "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M1",
+      "actual": 40144.8831,
+      "expected": 40144.8831,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M2",
+      "actual": 24206.1493,
+      "expected": 24206.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M3",
+      "actual": 30339.4826,
+      "expected": 30339.4826,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M4",
+      "actual": 28332.7661,
+      "expected": 28332.7661,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M5",
+      "actual": 24206.1493,
+      "expected": 24206.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M6",
+      "actual": 26206.1493,
+      "expected": 26206.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M7",
+      "actual": 30332.7661,
+      "expected": 30332.7661,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M8",
+      "actual": 21206.1493,
+      "expected": 21206.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M9",
+      "actual": 23206.1493,
+      "expected": 23206.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M10",
+      "actual": 29332.7661,
+      "expected": 29332.7661,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M11",
+      "actual": 23206.1493,
+      "expected": 23206.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M12",
+      "actual": 26206.1493,
+      "expected": 26206.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M13",
+      "actual": 32738.8246,
+      "expected": 32738.8246,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M14",
+      "actual": 24706.1493,
+      "expected": 24706.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M15",
+      "actual": 29506.1493,
+      "expected": 29506.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M16",
+      "actual": 30832.7661,
+      "expected": 30832.7661,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M17",
+      "actual": 24706.1493,
+      "expected": 24706.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M18",
+      "actual": 30706.1493,
+      "expected": 30706.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M19",
+      "actual": 30832.7661,
+      "expected": 30832.7661,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M20",
+      "actual": 24706.1493,
+      "expected": 24706.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M21",
+      "actual": 24706.1493,
+      "expected": 24706.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M22",
+      "actual": 30832.7661,
+      "expected": 30832.7661,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M23",
+      "actual": 24706.1493,
+      "expected": 24706.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M24",
+      "actual": 30706.1493,
+      "expected": 30706.1493,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M25",
+      "actual": 36478.2165,
+      "expected": 36478.2165,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M26",
+      "actual": 26539.4826,
+      "expected": 26539.4826,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M27",
+      "actual": 31339.4826,
+      "expected": 31339.4826,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M28",
+      "actual": 32666.0994,
+      "expected": 32666.0994,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M29",
+      "actual": 26539.4826,
+      "expected": 26539.4826,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M30",
+      "actual": 33539.4826,
+      "expected": 33539.4826,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M31",
+      "actual": 32666.0994,
+      "expected": 32666.0994,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M32",
+      "actual": 26539.4826,
+      "expected": 26539.4826,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M33",
+      "actual": 26539.4826,
+      "expected": 26539.4826,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M34",
+      "actual": 32666.0994,
+      "expected": 32666.0994,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M35",
+      "actual": 26539.4826,
+      "expected": 26539.4826,
+      "pass": true
+    },
+    {
+      "check": "fixed calendar M36",
+      "actual": 33539.4826,
+      "expected": 33539.4826,
+      "pass": true
+    },
+    {
+      "check": "Q1",
+      "actual": 94690.5151,
+      "expected": 94690.5151,
       "pass": true
     },
     {
@@ -155,8 +803,8 @@
     },
     {
       "check": "base M1 fixed",
-      "actual": 23333.3333,
-      "expected": 23333.3333,
+      "actual": 40144.8831,
+      "expected": 40144.8831,
       "pass": true
     },
     {
@@ -173,20 +821,32 @@
     },
     {
       "check": "base M1 contribution",
-      "actual": -23333.3333,
-      "expected": -23333.3333,
+      "actual": -40144.8831,
+      "expected": -40144.8831,
       "pass": true
     },
     {
       "check": "base M1 cash_net",
-      "actual": -25333.3333,
-      "expected": -25333.3333,
+      "actual": -42144.8831,
+      "expected": -42144.8831,
       "pass": true
     },
     {
       "check": "base M1 cumulative_cash",
-      "actual": -25333.3333,
-      "expected": -25333.3333,
+      "actual": -42144.8831,
+      "expected": -42144.8831,
+      "pass": true
+    },
+    {
+      "check": "base M1 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M1 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -233,8 +893,8 @@
     },
     {
       "check": "base M2 fixed",
-      "actual": 17333.3333,
-      "expected": 17333.3333,
+      "actual": 24206.1493,
+      "expected": 24206.1493,
       "pass": true
     },
     {
@@ -251,20 +911,32 @@
     },
     {
       "check": "base M2 contribution",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -24206.1493,
+      "expected": -24206.1493,
       "pass": true
     },
     {
       "check": "base M2 cash_net",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -24206.1493,
+      "expected": -24206.1493,
       "pass": true
     },
     {
       "check": "base M2 cumulative_cash",
-      "actual": -42666.6667,
-      "expected": -42666.6667,
+      "actual": -66351.0324,
+      "expected": -66351.0324,
+      "pass": true
+    },
+    {
+      "check": "base M2 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M2 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -311,8 +983,8 @@
     },
     {
       "check": "base M3 fixed",
-      "actual": 17333.3333,
-      "expected": 17333.3333,
+      "actual": 30339.4826,
+      "expected": 30339.4826,
       "pass": true
     },
     {
@@ -329,20 +1001,32 @@
     },
     {
       "check": "base M3 contribution",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -30339.4826,
+      "expected": -30339.4826,
       "pass": true
     },
     {
       "check": "base M3 cash_net",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -30339.4826,
+      "expected": -30339.4826,
       "pass": true
     },
     {
       "check": "base M3 cumulative_cash",
-      "actual": -60000.0,
-      "expected": -60000.0,
+      "actual": -96690.5151,
+      "expected": -96690.5151,
+      "pass": true
+    },
+    {
+      "check": "base M3 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M3 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -389,8 +1073,8 @@
     },
     {
       "check": "base M4 fixed",
-      "actual": 15333.3333,
-      "expected": 15333.3333,
+      "actual": 28332.7661,
+      "expected": 28332.7661,
       "pass": true
     },
     {
@@ -407,20 +1091,32 @@
     },
     {
       "check": "base M4 contribution",
-      "actual": -19789.5833,
-      "expected": -19789.5833,
+      "actual": -32789.0161,
+      "expected": -32789.0161,
       "pass": true
     },
     {
       "check": "base M4 cash_net",
-      "actual": -10789.5833,
-      "expected": -10789.5833,
+      "actual": -23789.0161,
+      "expected": -23789.0161,
       "pass": true
     },
     {
       "check": "base M4 cumulative_cash",
-      "actual": -70789.5833,
-      "expected": -70789.5833,
+      "actual": -120479.5311,
+      "expected": -120479.5311,
+      "pass": true
+    },
+    {
+      "check": "base M4 project_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "pass": true
+    },
+    {
+      "check": "base M4 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -467,8 +1163,8 @@
     },
     {
       "check": "base M5 fixed",
-      "actual": 17333.3333,
-      "expected": 17333.3333,
+      "actual": 24206.1493,
+      "expected": 24206.1493,
       "pass": true
     },
     {
@@ -485,20 +1181,32 @@
     },
     {
       "check": "base M5 contribution",
-      "actual": -6972.2083,
-      "expected": -6972.2083,
+      "actual": -13845.0243,
+      "expected": -13845.0243,
       "pass": true
     },
     {
       "check": "base M5 cash_net",
-      "actual": -21789.5833,
-      "expected": -21789.5833,
+      "actual": -28662.3993,
+      "expected": -28662.3993,
       "pass": true
     },
     {
       "check": "base M5 cumulative_cash",
-      "actual": -92579.1667,
-      "expected": -92579.1667,
+      "actual": -149141.9305,
+      "expected": -149141.9305,
+      "pass": true
+    },
+    {
+      "check": "base M5 project_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "pass": true
+    },
+    {
+      "check": "base M5 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -545,8 +1253,8 @@
     },
     {
       "check": "base M6 fixed",
-      "actual": 19333.3333,
-      "expected": 19333.3333,
+      "actual": 26206.1493,
+      "expected": 26206.1493,
       "pass": true
     },
     {
@@ -563,20 +1271,32 @@
     },
     {
       "check": "base M6 contribution",
-      "actual": -34836.3333,
-      "expected": -34836.3333,
+      "actual": -41709.1493,
+      "expected": -41709.1493,
       "pass": true
     },
     {
       "check": "base M6 cash_net",
-      "actual": 2102.7917,
-      "expected": 2102.7917,
+      "actual": -4770.0243,
+      "expected": -4770.0243,
       "pass": true
     },
     {
       "check": "base M6 cumulative_cash",
-      "actual": -90476.375,
-      "expected": -90476.375,
+      "actual": -153911.9548,
+      "expected": -153911.9548,
+      "pass": true
+    },
+    {
+      "check": "base M6 project_weeks",
+      "actual": 3.9167,
+      "expected": 3.9167,
+      "pass": true
+    },
+    {
+      "check": "base M6 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -623,8 +1343,8 @@
     },
     {
       "check": "base M7 fixed",
-      "actual": 17333.3333,
-      "expected": 17333.3333,
+      "actual": 30332.7661,
+      "expected": 30332.7661,
       "pass": true
     },
     {
@@ -641,20 +1361,32 @@
     },
     {
       "check": "base M7 contribution",
-      "actual": -17897.2083,
-      "expected": -17897.2083,
+      "actual": -30896.6411,
+      "expected": -30896.6411,
       "pass": true
     },
     {
       "check": "base M7 cash_net",
-      "actual": -32836.3333,
-      "expected": -32836.3333,
+      "actual": -45835.7661,
+      "expected": -45835.7661,
       "pass": true
     },
     {
       "check": "base M7 cumulative_cash",
-      "actual": -123312.7083,
-      "expected": -123312.7083,
+      "actual": -199747.7208,
+      "expected": -199747.7208,
+      "pass": true
+    },
+    {
+      "check": "base M7 project_weeks",
+      "actual": 3.9167,
+      "expected": 3.9167,
+      "pass": true
+    },
+    {
+      "check": "base M7 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -701,8 +1433,8 @@
     },
     {
       "check": "base M8 fixed",
-      "actual": 14333.3333,
-      "expected": 14333.3333,
+      "actual": 21206.1493,
+      "expected": 21206.1493,
       "pass": true
     },
     {
@@ -719,20 +1451,32 @@
     },
     {
       "check": "base M8 contribution",
-      "actual": 24719.1667,
-      "expected": 24719.1667,
+      "actual": 17846.3507,
+      "expected": 17846.3507,
       "pass": true
     },
     {
       "check": "base M8 cash_net",
-      "actual": -14897.2083,
-      "expected": -14897.2083,
+      "actual": -21770.0243,
+      "expected": -21770.0243,
       "pass": true
     },
     {
       "check": "base M8 cumulative_cash",
-      "actual": -138209.9167,
-      "expected": -138209.9167,
+      "actual": -221517.7451,
+      "expected": -221517.7451,
+      "pass": true
+    },
+    {
+      "check": "base M8 project_weeks",
+      "actual": 3.9167,
+      "expected": 3.9167,
+      "pass": true
+    },
+    {
+      "check": "base M8 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -779,8 +1523,8 @@
     },
     {
       "check": "base M9 fixed",
-      "actual": 16333.3333,
-      "expected": 16333.3333,
+      "actual": 23206.1493,
+      "expected": 23206.1493,
       "pass": true
     },
     {
@@ -797,20 +1541,32 @@
     },
     {
       "check": "base M9 contribution",
-      "actual": -45915.3333,
-      "expected": -45915.3333,
+      "actual": -52788.1493,
+      "expected": -52788.1493,
       "pass": true
     },
     {
       "check": "base M9 cash_net",
-      "actual": 42756.6667,
-      "expected": 42756.6667,
+      "actual": 35883.8507,
+      "expected": 35883.8507,
       "pass": true
     },
     {
       "check": "base M9 cumulative_cash",
-      "actual": -95453.25,
-      "expected": -95453.25,
+      "actual": -185633.8944,
+      "expected": -185633.8944,
+      "pass": true
+    },
+    {
+      "check": "base M9 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "base M9 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -857,8 +1613,8 @@
     },
     {
       "check": "base M10 fixed",
-      "actual": 16333.3333,
-      "expected": 16333.3333,
+      "actual": 29332.7661,
+      "expected": 29332.7661,
       "pass": true
     },
     {
@@ -875,20 +1631,32 @@
     },
     {
       "check": "base M10 contribution",
-      "actual": -55953.7083,
-      "expected": -55953.7083,
+      "actual": -68953.1411,
+      "expected": -68953.1411,
       "pass": true
     },
     {
       "check": "base M10 cash_net",
-      "actual": -44959.0833,
-      "expected": -44959.0833,
+      "actual": -57958.5161,
+      "expected": -57958.5161,
       "pass": true
     },
     {
       "check": "base M10 cumulative_cash",
-      "actual": -140412.3333,
-      "expected": -140412.3333,
+      "actual": -243592.4105,
+      "expected": -243592.4105,
+      "pass": true
+    },
+    {
+      "check": "base M10 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "base M10 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -935,8 +1703,8 @@
     },
     {
       "check": "base M11 fixed",
-      "actual": 16333.3333,
-      "expected": 16333.3333,
+      "actual": 23206.1493,
+      "expected": 23206.1493,
       "pass": true
     },
     {
@@ -953,20 +1721,32 @@
     },
     {
       "check": "base M11 contribution",
-      "actual": -1165.3333,
-      "expected": -1165.3333,
+      "actual": -8038.1493,
+      "expected": -8038.1493,
       "pass": true
     },
     {
       "check": "base M11 cash_net",
-      "actual": 16046.2917,
-      "expected": 16046.2917,
+      "actual": 9173.4757,
+      "expected": 9173.4757,
       "pass": true
     },
     {
       "check": "base M11 cumulative_cash",
-      "actual": -124366.0417,
-      "expected": -124366.0417,
+      "actual": -234418.9348,
+      "expected": -234418.9348,
+      "pass": true
+    },
+    {
+      "check": "base M11 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "base M11 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1013,8 +1793,8 @@
     },
     {
       "check": "base M12 fixed",
-      "actual": 19333.3333,
-      "expected": 19333.3333,
+      "actual": 26206.1493,
+      "expected": 26206.1493,
       "pass": true
     },
     {
@@ -1031,20 +1811,32 @@
     },
     {
       "check": "base M12 contribution",
-      "actual": 129333.2917,
-      "expected": 129333.2917,
+      "actual": 122460.4757,
+      "expected": 122460.4757,
       "pass": true
     },
     {
       "check": "base M12 cash_net",
-      "actual": -20740.3333,
-      "expected": -20740.3333,
+      "actual": -27613.1493,
+      "expected": -27613.1493,
       "pass": true
     },
     {
       "check": "base M12 cumulative_cash",
-      "actual": -145106.375,
-      "expected": -145106.375,
+      "actual": -262032.0841,
+      "expected": -262032.0841,
+      "pass": true
+    },
+    {
+      "check": "base M12 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "base M12 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1091,8 +1883,8 @@
     },
     {
       "check": "base M13 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 32738.8246,
+      "expected": 32738.8246,
       "pass": true
     },
     {
@@ -1109,20 +1901,32 @@
     },
     {
       "check": "base M13 contribution",
-      "actual": -57343.4583,
-      "expected": -57343.4583,
+      "actual": -70798.9496,
+      "expected": -70798.9496,
       "pass": true
     },
     {
       "check": "base M13 cash_net",
-      "actual": 55058.2917,
-      "expected": 55058.2917,
+      "actual": 41602.8004,
+      "expected": 41602.8004,
       "pass": true
     },
     {
       "check": "base M13 cumulative_cash",
-      "actual": -90048.0833,
-      "expected": -90048.0833,
+      "actual": -220429.2837,
+      "expected": -220429.2837,
+      "pass": true
+    },
+    {
+      "check": "base M13 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "base M13 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1169,8 +1973,8 @@
     },
     {
       "check": "base M14 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 24706.1493,
+      "expected": 24706.1493,
       "pass": true
     },
     {
@@ -1187,20 +1991,32 @@
     },
     {
       "check": "base M14 contribution",
-      "actual": -61462.8333,
-      "expected": -61462.8333,
+      "actual": -66885.6493,
+      "expected": -66885.6493,
       "pass": true
     },
     {
       "check": "base M14 cash_net",
-      "actual": -34799.7083,
-      "expected": -34799.7083,
+      "actual": -40222.5243,
+      "expected": -40222.5243,
       "pass": true
     },
     {
       "check": "base M14 cumulative_cash",
-      "actual": -124847.7917,
-      "expected": -124847.7917,
+      "actual": -260651.808,
+      "expected": -260651.808,
+      "pass": true
+    },
+    {
+      "check": "base M14 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "base M14 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1247,8 +2063,8 @@
     },
     {
       "check": "base M15 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 29506.1493,
+      "expected": 29506.1493,
       "pass": true
     },
     {
@@ -1265,20 +2081,32 @@
     },
     {
       "check": "base M15 contribution",
-      "actual": 8240.7917,
-      "expected": 8240.7917,
+      "actual": -1982.0243,
+      "expected": -1982.0243,
       "pass": true
     },
     {
       "check": "base M15 cash_net",
-      "actual": 10537.1667,
-      "expected": 10537.1667,
+      "actual": 314.3507,
+      "expected": 314.3507,
       "pass": true
     },
     {
       "check": "base M15 cumulative_cash",
-      "actual": -114310.625,
-      "expected": -114310.625,
+      "actual": -260337.4573,
+      "expected": -260337.4573,
+      "pass": true
+    },
+    {
+      "check": "base M15 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "base M15 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1325,8 +2153,8 @@
     },
     {
       "check": "base M16 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 30832.7661,
+      "expected": 30832.7661,
       "pass": true
     },
     {
@@ -1343,20 +2171,32 @@
     },
     {
       "check": "base M16 contribution",
-      "actual": 131256.5417,
-      "expected": 131256.5417,
+      "actual": 119707.1089,
+      "expected": 119707.1089,
       "pass": true
     },
     {
       "check": "base M16 cash_net",
-      "actual": -12877.9583,
-      "expected": -12877.9583,
+      "actual": -24427.3911,
+      "expected": -24427.3911,
       "pass": true
     },
     {
       "check": "base M16 cumulative_cash",
-      "actual": -127188.5833,
-      "expected": -127188.5833,
+      "actual": -284764.8484,
+      "expected": -284764.8484,
+      "pass": true
+    },
+    {
+      "check": "base M16 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "base M16 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1403,8 +2243,8 @@
     },
     {
       "check": "base M17 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 24706.1493,
+      "expected": 24706.1493,
       "pass": true
     },
     {
@@ -1421,20 +2261,32 @@
     },
     {
       "check": "base M17 contribution",
-      "actual": -55348.4583,
-      "expected": -55348.4583,
+      "actual": -60771.2743,
+      "expected": -60771.2743,
       "pass": true
     },
     {
       "check": "base M17 cash_net",
-      "actual": 56931.5417,
-      "expected": 56931.5417,
+      "actual": 51508.7257,
+      "expected": 51508.7257,
       "pass": true
     },
     {
       "check": "base M17 cumulative_cash",
-      "actual": -70257.0417,
-      "expected": -70257.0417,
+      "actual": -233256.1227,
+      "expected": -233256.1227,
+      "pass": true
+    },
+    {
+      "check": "base M17 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "base M17 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1481,8 +2333,8 @@
     },
     {
       "check": "base M18 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 30706.1493,
+      "expected": 30706.1493,
       "pass": true
     },
     {
@@ -1499,20 +2351,32 @@
     },
     {
       "check": "base M18 contribution",
-      "actual": -59467.8333,
-      "expected": -59467.8333,
+      "actual": -70890.6493,
+      "expected": -70890.6493,
       "pass": true
     },
     {
       "check": "base M18 cash_net",
-      "actual": -32804.7083,
-      "expected": -32804.7083,
+      "actual": -44227.5243,
+      "expected": -44227.5243,
       "pass": true
     },
     {
       "check": "base M18 cumulative_cash",
-      "actual": -103061.75,
-      "expected": -103061.75,
+      "actual": -277483.647,
+      "expected": -277483.647,
+      "pass": true
+    },
+    {
+      "check": "base M18 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "base M18 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1559,8 +2423,8 @@
     },
     {
       "check": "base M19 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 30832.7661,
+      "expected": 30832.7661,
       "pass": true
     },
     {
@@ -1577,20 +2441,32 @@
     },
     {
       "check": "base M19 contribution",
-      "actual": 10235.7917,
-      "expected": 10235.7917,
+      "actual": -1313.6411,
+      "expected": -1313.6411,
       "pass": true
     },
     {
       "check": "base M19 cash_net",
-      "actual": 12532.1667,
-      "expected": 12532.1667,
+      "actual": 982.7339,
+      "expected": 982.7339,
       "pass": true
     },
     {
       "check": "base M19 cumulative_cash",
-      "actual": -90529.5833,
-      "expected": -90529.5833,
+      "actual": -276500.913,
+      "expected": -276500.913,
+      "pass": true
+    },
+    {
+      "check": "base M19 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "base M19 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1637,8 +2513,8 @@
     },
     {
       "check": "base M20 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 24706.1493,
+      "expected": 24706.1493,
       "pass": true
     },
     {
@@ -1655,20 +2531,32 @@
     },
     {
       "check": "base M20 contribution",
-      "actual": 133251.5417,
-      "expected": 133251.5417,
+      "actual": 127828.7257,
+      "expected": 127828.7257,
       "pass": true
     },
     {
       "check": "base M20 cash_net",
-      "actual": -10882.9583,
-      "expected": -10882.9583,
+      "actual": -16305.7743,
+      "expected": -16305.7743,
       "pass": true
     },
     {
       "check": "base M20 cumulative_cash",
-      "actual": -101412.5417,
-      "expected": -101412.5417,
+      "actual": -292806.6873,
+      "expected": -292806.6873,
+      "pass": true
+    },
+    {
+      "check": "base M20 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "base M20 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1715,8 +2603,8 @@
     },
     {
       "check": "base M21 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 24706.1493,
+      "expected": 24706.1493,
       "pass": true
     },
     {
@@ -1733,20 +2621,32 @@
     },
     {
       "check": "base M21 contribution",
-      "actual": -53353.4583,
-      "expected": -53353.4583,
+      "actual": -58776.2743,
+      "expected": -58776.2743,
       "pass": true
     },
     {
       "check": "base M21 cash_net",
-      "actual": 58926.5417,
-      "expected": 58926.5417,
+      "actual": 53503.7257,
+      "expected": 53503.7257,
       "pass": true
     },
     {
       "check": "base M21 cumulative_cash",
-      "actual": -42486.0,
-      "expected": -42486.0,
+      "actual": -239302.9617,
+      "expected": -239302.9617,
+      "pass": true
+    },
+    {
+      "check": "base M21 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "base M21 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1793,8 +2693,8 @@
     },
     {
       "check": "base M22 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 30832.7661,
+      "expected": 30832.7661,
       "pass": true
     },
     {
@@ -1811,20 +2711,32 @@
     },
     {
       "check": "base M22 contribution",
-      "actual": -57472.8333,
-      "expected": -57472.8333,
+      "actual": -69022.2661,
+      "expected": -69022.2661,
       "pass": true
     },
     {
       "check": "base M22 cash_net",
-      "actual": -30809.7083,
-      "expected": -30809.7083,
+      "actual": -42359.1411,
+      "expected": -42359.1411,
       "pass": true
     },
     {
       "check": "base M22 cumulative_cash",
-      "actual": -73295.7083,
-      "expected": -73295.7083,
+      "actual": -281662.1027,
+      "expected": -281662.1027,
+      "pass": true
+    },
+    {
+      "check": "base M22 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "base M22 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1871,8 +2783,8 @@
     },
     {
       "check": "base M23 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 24706.1493,
+      "expected": 24706.1493,
       "pass": true
     },
     {
@@ -1889,20 +2801,32 @@
     },
     {
       "check": "base M23 contribution",
-      "actual": 12230.7917,
-      "expected": 12230.7917,
+      "actual": 6807.9757,
+      "expected": 6807.9757,
       "pass": true
     },
     {
       "check": "base M23 cash_net",
-      "actual": 14527.1667,
-      "expected": 14527.1667,
+      "actual": 9104.3507,
+      "expected": 9104.3507,
       "pass": true
     },
     {
       "check": "base M23 cumulative_cash",
-      "actual": -58768.5417,
-      "expected": -58768.5417,
+      "actual": -272557.752,
+      "expected": -272557.752,
+      "pass": true
+    },
+    {
+      "check": "base M23 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "base M23 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -1949,8 +2873,8 @@
     },
     {
       "check": "base M24 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 30706.1493,
+      "expected": 30706.1493,
       "pass": true
     },
     {
@@ -1967,20 +2891,32 @@
     },
     {
       "check": "base M24 contribution",
-      "actual": 135246.5417,
-      "expected": 135246.5417,
+      "actual": 123823.7257,
+      "expected": 123823.7257,
       "pass": true
     },
     {
       "check": "base M24 cash_net",
-      "actual": -8887.9583,
-      "expected": -8887.9583,
+      "actual": -20310.7743,
+      "expected": -20310.7743,
       "pass": true
     },
     {
       "check": "base M24 cumulative_cash",
-      "actual": -67656.5,
-      "expected": -67656.5,
+      "actual": -292868.5263,
+      "expected": -292868.5263,
+      "pass": true
+    },
+    {
+      "check": "base M24 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "base M24 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -2027,8 +2963,8 @@
     },
     {
       "check": "base M25 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 36478.2165,
+      "expected": 36478.2165,
       "pass": true
     },
     {
@@ -2045,20 +2981,32 @@
     },
     {
       "check": "base M25 contribution",
-      "actual": -53808.4583,
-      "expected": -53808.4583,
+      "actual": -68553.3415,
+      "expected": -68553.3415,
       "pass": true
     },
     {
       "check": "base M25 cash_net",
-      "actual": 58471.5417,
-      "expected": 58471.5417,
+      "actual": 43726.6585,
+      "expected": 43726.6585,
       "pass": true
     },
     {
       "check": "base M25 cumulative_cash",
-      "actual": -9184.9583,
-      "expected": -9184.9583,
+      "actual": -249141.8678,
+      "expected": -249141.8678,
+      "pass": true
+    },
+    {
+      "check": "base M25 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "base M25 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -2105,8 +3053,8 @@
     },
     {
       "check": "base M26 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 26539.4826,
+      "expected": 26539.4826,
       "pass": true
     },
     {
@@ -2123,20 +3071,32 @@
     },
     {
       "check": "base M26 contribution",
-      "actual": -57927.8333,
-      "expected": -57927.8333,
+      "actual": -62733.9826,
+      "expected": -62733.9826,
       "pass": true
     },
     {
       "check": "base M26 cash_net",
-      "actual": -31264.7083,
-      "expected": -31264.7083,
+      "actual": -36070.8576,
+      "expected": -36070.8576,
       "pass": true
     },
     {
       "check": "base M26 cumulative_cash",
-      "actual": -40449.6667,
-      "expected": -40449.6667,
+      "actual": -285212.7254,
+      "expected": -285212.7254,
+      "pass": true
+    },
+    {
+      "check": "base M26 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "base M26 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -2183,8 +3143,8 @@
     },
     {
       "check": "base M27 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 31339.4826,
+      "expected": 31339.4826,
       "pass": true
     },
     {
@@ -2201,20 +3161,32 @@
     },
     {
       "check": "base M27 contribution",
-      "actual": 11775.7917,
-      "expected": 11775.7917,
+      "actual": 2169.6424,
+      "expected": 2169.6424,
       "pass": true
     },
     {
       "check": "base M27 cash_net",
-      "actual": 14072.1667,
-      "expected": 14072.1667,
+      "actual": 4466.0174,
+      "expected": 4466.0174,
       "pass": true
     },
     {
       "check": "base M27 cumulative_cash",
-      "actual": -26377.5,
-      "expected": -26377.5,
+      "actual": -280746.7081,
+      "expected": -280746.7081,
+      "pass": true
+    },
+    {
+      "check": "base M27 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "base M27 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -2261,8 +3233,8 @@
     },
     {
       "check": "base M28 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 32666.0994,
+      "expected": 32666.0994,
       "pass": true
     },
     {
@@ -2279,20 +3251,32 @@
     },
     {
       "check": "base M28 contribution",
-      "actual": 106329.0417,
-      "expected": 106329.0417,
+      "actual": 95396.2756,
+      "expected": 95396.2756,
       "pass": true
     },
     {
       "check": "base M28 cash_net",
-      "actual": 16194.5417,
-      "expected": 16194.5417,
+      "actual": 5261.7756,
+      "expected": 5261.7756,
       "pass": true
     },
     {
       "check": "base M28 cumulative_cash",
-      "actual": -10182.9583,
-      "expected": -10182.9583,
+      "actual": -275484.9325,
+      "expected": -275484.9325,
+      "pass": true
+    },
+    {
+      "check": "base M28 project_weeks",
+      "actual": 12.0,
+      "expected": 12.0,
+      "pass": true
+    },
+    {
+      "check": "base M28 production_active",
+      "actual": 2.0,
+      "expected": 2,
       "pass": true
     },
     {
@@ -2339,8 +3323,8 @@
     },
     {
       "check": "base M29 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 26539.4826,
+      "expected": 26539.4826,
       "pass": true
     },
     {
@@ -2357,20 +3341,32 @@
     },
     {
       "check": "base M29 contribution",
-      "actual": -51813.4583,
-      "expected": -51813.4583,
+      "actual": -56619.6076,
+      "expected": -56619.6076,
       "pass": true
     },
     {
       "check": "base M29 cash_net",
-      "actual": 6466.5417,
-      "expected": 6466.5417,
+      "actual": 1660.3924,
+      "expected": 1660.3924,
       "pass": true
     },
     {
       "check": "base M29 cumulative_cash",
-      "actual": -3716.4167,
-      "expected": -3716.4167,
+      "actual": -273824.5401,
+      "expected": -273824.5401,
+      "pass": true
+    },
+    {
+      "check": "base M29 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "base M29 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -2417,8 +3413,8 @@
     },
     {
       "check": "base M30 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 33539.4826,
+      "expected": 33539.4826,
       "pass": true
     },
     {
@@ -2435,20 +3431,32 @@
     },
     {
       "check": "base M30 contribution",
-      "actual": -55932.8333,
-      "expected": -55932.8333,
+      "actual": -67738.9826,
+      "expected": -67738.9826,
       "pass": true
     },
     {
       "check": "base M30 cash_net",
-      "actual": 42730.2917,
-      "expected": 42730.2917,
+      "actual": 30924.1424,
+      "expected": 30924.1424,
       "pass": true
     },
     {
       "check": "base M30 cumulative_cash",
-      "actual": 39013.875,
-      "expected": 39013.875,
+      "actual": -242900.3977,
+      "expected": -242900.3977,
+      "pass": true
+    },
+    {
+      "check": "base M30 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "base M30 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -2495,8 +3503,8 @@
     },
     {
       "check": "base M31 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 32666.0994,
+      "expected": 32666.0994,
       "pass": true
     },
     {
@@ -2513,20 +3521,32 @@
     },
     {
       "check": "base M31 contribution",
-      "actual": 162993.0417,
-      "expected": 162993.0417,
+      "actual": 152060.2756,
+      "expected": 152060.2756,
       "pass": true
     },
     {
       "check": "base M31 cash_net",
-      "actual": -30395.3333,
-      "expected": -30395.3333,
+      "actual": -41328.0994,
+      "expected": -41328.0994,
       "pass": true
     },
     {
       "check": "base M31 cumulative_cash",
-      "actual": 8618.5417,
-      "expected": 8618.5417,
+      "actual": -284228.4971,
+      "expected": -284228.4971,
+      "pass": true
+    },
+    {
+      "check": "base M31 project_weeks",
+      "actual": 15.9167,
+      "expected": 15.9167,
+      "pass": true
+    },
+    {
+      "check": "base M31 production_active",
+      "actual": 2.0,
+      "expected": 2,
       "pass": true
     },
     {
@@ -2573,8 +3593,8 @@
     },
     {
       "check": "base M32 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 26539.4826,
+      "expected": 26539.4826,
       "pass": true
     },
     {
@@ -2591,20 +3611,32 @@
     },
     {
       "check": "base M32 contribution",
-      "actual": -50384.7083,
-      "expected": -50384.7083,
+      "actual": -55190.8576,
+      "expected": -55190.8576,
       "pass": true
     },
     {
       "check": "base M32 cash_net",
-      "actual": 36511.7917,
-      "expected": 36511.7917,
+      "actual": 31705.6424,
+      "expected": 31705.6424,
       "pass": true
     },
     {
       "check": "base M32 cumulative_cash",
-      "actual": 45130.3333,
-      "expected": 45130.3333,
+      "actual": -252522.8548,
+      "expected": -252522.8548,
+      "pass": true
+    },
+    {
+      "check": "base M32 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "base M32 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -2651,8 +3683,8 @@
     },
     {
       "check": "base M33 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 26539.4826,
+      "expected": 26539.4826,
       "pass": true
     },
     {
@@ -2669,20 +3701,32 @@
     },
     {
       "check": "base M33 contribution",
-      "actual": -82511.4583,
-      "expected": -82511.4583,
+      "actual": -87317.6076,
+      "expected": -87317.6076,
       "pass": true
     },
     {
       "check": "base M33 cash_net",
-      "actual": 75196.5417,
-      "expected": 75196.5417,
+      "actual": 70390.3924,
+      "expected": 70390.3924,
       "pass": true
     },
     {
       "check": "base M33 cumulative_cash",
-      "actual": 120326.875,
-      "expected": 120326.875,
+      "actual": -182132.4624,
+      "expected": -182132.4624,
+      "pass": true
+    },
+    {
+      "check": "base M33 project_weeks",
+      "actual": 15.9167,
+      "expected": 15.9167,
+      "pass": true
+    },
+    {
+      "check": "base M33 production_active",
+      "actual": 2.0,
+      "expected": 2,
       "pass": true
     },
     {
@@ -2729,8 +3773,8 @@
     },
     {
       "check": "base M34 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 32666.0994,
+      "expected": 32666.0994,
       "pass": true
     },
     {
@@ -2747,20 +3791,32 @@
     },
     {
       "check": "base M34 contribution",
-      "actual": 164988.0417,
-      "expected": 164988.0417,
+      "actual": 154055.2756,
+      "expected": 154055.2756,
       "pass": true
     },
     {
       "check": "base M34 cash_net",
-      "actual": -82511.4583,
-      "expected": -82511.4583,
+      "actual": -93444.2244,
+      "expected": -93444.2244,
       "pass": true
     },
     {
       "check": "base M34 cumulative_cash",
-      "actual": 37815.4167,
-      "expected": 37815.4167,
+      "actual": -275576.6868,
+      "expected": -275576.6868,
+      "pass": true
+    },
+    {
+      "check": "base M34 project_weeks",
+      "actual": 15.9167,
+      "expected": 15.9167,
+      "pass": true
+    },
+    {
+      "check": "base M34 production_active",
+      "actual": 2.0,
+      "expected": 2,
       "pass": true
     },
     {
@@ -2807,8 +3863,8 @@
     },
     {
       "check": "base M35 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 26539.4826,
+      "expected": 26539.4826,
       "pass": true
     },
     {
@@ -2825,20 +3881,32 @@
     },
     {
       "check": "base M35 contribution",
-      "actual": -37464.7083,
-      "expected": -37464.7083,
+      "actual": -42270.8576,
+      "expected": -42270.8576,
       "pass": true
     },
     {
       "check": "base M35 cash_net",
-      "actual": 99431.7917,
-      "expected": 99431.7917,
+      "actual": 94625.6424,
+      "expected": 94625.6424,
       "pass": true
     },
     {
       "check": "base M35 cumulative_cash",
-      "actual": 137247.2083,
-      "expected": 137247.2083,
+      "actual": -180951.0444,
+      "expected": -180951.0444,
+      "pass": true
+    },
+    {
+      "check": "base M35 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "base M35 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -2885,8 +3953,8 @@
     },
     {
       "check": "base M36 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 33539.4826,
+      "expected": 33539.4826,
       "pass": true
     },
     {
@@ -2903,20 +3971,32 @@
     },
     {
       "check": "base M36 contribution",
-      "actual": 141012.0417,
-      "expected": 141012.0417,
+      "actual": 129205.8924,
+      "expected": 129205.8924,
       "pass": true
     },
     {
       "check": "base M36 cash_net",
-      "actual": -13964.7083,
-      "expected": -13964.7083,
+      "actual": -25770.8576,
+      "expected": -25770.8576,
       "pass": true
     },
     {
       "check": "base M36 cumulative_cash",
-      "actual": 123282.5,
-      "expected": 123282.5,
+      "actual": -206721.9021,
+      "expected": -206721.9021,
+      "pass": true
+    },
+    {
+      "check": "base M36 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "base M36 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -2957,8 +4037,8 @@
     },
     {
       "check": "base Y1 fixed",
-      "actual": 210000.0,
-      "expected": 210000.0,
+      "actual": 326925.71,
+      "expected": 326925.7091,
       "pass": true
     },
     {
@@ -2969,8 +4049,20 @@
     },
     {
       "check": "base Y1 contribution",
-      "actual": -86477.25,
-      "expected": -86477.25,
+      "actual": -203402.96,
+      "expected": -203402.9591,
+      "pass": true
+    },
+    {
+      "check": "base total cost 0",
+      "actual": 538402.96,
+      "expected": 538402.96,
+      "pass": true
+    },
+    {
+      "check": "base pool 0",
+      "actual": 3,
+      "expected": 3,
       "pass": true
     },
     {
@@ -3011,8 +4103,8 @@
     },
     {
       "check": "base Y2 fixed",
-      "actual": 231400.0,
-      "expected": 231400.0,
+      "actual": 339686.32,
+      "expected": 339686.3172,
       "pass": true
     },
     {
@@ -3023,8 +4115,20 @@
     },
     {
       "check": "base Y2 contribution",
-      "actual": 86013.12,
-      "expected": 86013.125,
+      "actual": -22273.19,
+      "expected": -22273.1922,
+      "pass": true
+    },
+    {
+      "check": "base total cost 1",
+      "actual": 844273.2,
+      "expected": 844273.2,
+      "pass": true
+    },
+    {
+      "check": "base pool 1",
+      "actual": 4,
+      "expected": 4,
       "pass": true
     },
     {
@@ -3065,8 +4169,8 @@
     },
     {
       "check": "base Y3 fixed",
-      "actual": 260800.0,
-      "expected": 260800.0,
+      "actual": 365592.38,
+      "expected": 365592.3758,
       "pass": true
     },
     {
@@ -3077,20 +4181,32 @@
     },
     {
       "check": "base Y3 contribution",
-      "actual": 197254.5,
-      "expected": 197254.5,
+      "actual": 92462.12,
+      "expected": 92462.1242,
+      "pass": true
+    },
+    {
+      "check": "base total cost 2",
+      "actual": 1026537.88,
+      "expected": 1026537.88,
+      "pass": true
+    },
+    {
+      "check": "base pool 2",
+      "actual": 5,
+      "expected": 5,
       "pass": true
     },
     {
       "check": "base liquidity",
-      "actual": 166872.3312,
-      "expected": 166872.33,
+      "actual": 336798.8053,
+      "expected": 336798.81,
       "pass": true
     },
     {
       "check": "base contribution36",
-      "actual": 196790.375,
-      "expected": 196790.38,
+      "actual": -133214.0271,
+      "expected": -133214.03,
       "pass": true
     },
     {
@@ -3137,8 +4253,8 @@
     },
     {
       "check": "delay6 M1 fixed",
-      "actual": 23333.3333,
-      "expected": 23333.3333,
+      "actual": 40144.8831,
+      "expected": 40144.8831,
       "pass": true
     },
     {
@@ -3155,20 +4271,32 @@
     },
     {
       "check": "delay6 M1 contribution",
-      "actual": -23333.3333,
-      "expected": -23333.3333,
+      "actual": -40144.8831,
+      "expected": -40144.8831,
       "pass": true
     },
     {
       "check": "delay6 M1 cash_net",
-      "actual": -25333.3333,
-      "expected": -25333.3333,
+      "actual": -42144.8831,
+      "expected": -42144.8831,
       "pass": true
     },
     {
       "check": "delay6 M1 cumulative_cash",
-      "actual": -25333.3333,
-      "expected": -25333.3333,
+      "actual": -42144.8831,
+      "expected": -42144.8831,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -3215,8 +4343,8 @@
     },
     {
       "check": "delay6 M2 fixed",
-      "actual": 17333.3333,
-      "expected": 17333.3333,
+      "actual": 24206.1493,
+      "expected": 24206.1493,
       "pass": true
     },
     {
@@ -3233,20 +4361,32 @@
     },
     {
       "check": "delay6 M2 contribution",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -24206.1493,
+      "expected": -24206.1493,
       "pass": true
     },
     {
       "check": "delay6 M2 cash_net",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -24206.1493,
+      "expected": -24206.1493,
       "pass": true
     },
     {
       "check": "delay6 M2 cumulative_cash",
-      "actual": -42666.6667,
-      "expected": -42666.6667,
+      "actual": -66351.0324,
+      "expected": -66351.0324,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -3293,8 +4433,8 @@
     },
     {
       "check": "delay6 M3 fixed",
-      "actual": 17333.3333,
-      "expected": 17333.3333,
+      "actual": 30339.4826,
+      "expected": 30339.4826,
       "pass": true
     },
     {
@@ -3311,20 +4451,32 @@
     },
     {
       "check": "delay6 M3 contribution",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -30339.4826,
+      "expected": -30339.4826,
       "pass": true
     },
     {
       "check": "delay6 M3 cash_net",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -30339.4826,
+      "expected": -30339.4826,
       "pass": true
     },
     {
       "check": "delay6 M3 cumulative_cash",
-      "actual": -60000.0,
-      "expected": -60000.0,
+      "actual": -96690.5151,
+      "expected": -96690.5151,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -3371,8 +4523,8 @@
     },
     {
       "check": "delay6 M4 fixed",
-      "actual": 15333.3333,
-      "expected": 15333.3333,
+      "actual": 28332.7661,
+      "expected": 28332.7661,
       "pass": true
     },
     {
@@ -3389,20 +4541,32 @@
     },
     {
       "check": "delay6 M4 contribution",
-      "actual": -15333.3333,
-      "expected": -15333.3333,
+      "actual": -28332.7661,
+      "expected": -28332.7661,
       "pass": true
     },
     {
       "check": "delay6 M4 cash_net",
-      "actual": -15333.3333,
-      "expected": -15333.3333,
+      "actual": -28332.7661,
+      "expected": -28332.7661,
       "pass": true
     },
     {
       "check": "delay6 M4 cumulative_cash",
-      "actual": -75333.3333,
-      "expected": -75333.3333,
+      "actual": -125023.2811,
+      "expected": -125023.2811,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -3449,8 +4613,8 @@
     },
     {
       "check": "delay6 M5 fixed",
-      "actual": 17333.3333,
-      "expected": 17333.3333,
+      "actual": 24206.1493,
+      "expected": 24206.1493,
       "pass": true
     },
     {
@@ -3467,20 +4631,32 @@
     },
     {
       "check": "delay6 M5 contribution",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -24206.1493,
+      "expected": -24206.1493,
       "pass": true
     },
     {
       "check": "delay6 M5 cash_net",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -24206.1493,
+      "expected": -24206.1493,
       "pass": true
     },
     {
       "check": "delay6 M5 cumulative_cash",
-      "actual": -92666.6667,
-      "expected": -92666.6667,
+      "actual": -149229.4305,
+      "expected": -149229.4305,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -3527,8 +4703,8 @@
     },
     {
       "check": "delay6 M6 fixed",
-      "actual": 19333.3333,
-      "expected": 19333.3333,
+      "actual": 26206.1493,
+      "expected": 26206.1493,
       "pass": true
     },
     {
@@ -3545,20 +4721,32 @@
     },
     {
       "check": "delay6 M6 contribution",
-      "actual": -19333.3333,
-      "expected": -19333.3333,
+      "actual": -26206.1493,
+      "expected": -26206.1493,
       "pass": true
     },
     {
       "check": "delay6 M6 cash_net",
-      "actual": -19333.3333,
-      "expected": -19333.3333,
+      "actual": -26206.1493,
+      "expected": -26206.1493,
       "pass": true
     },
     {
       "check": "delay6 M6 cumulative_cash",
-      "actual": -112000.0,
-      "expected": -112000.0,
+      "actual": -175435.5798,
+      "expected": -175435.5798,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -3605,8 +4793,8 @@
     },
     {
       "check": "delay6 M7 fixed",
-      "actual": 17333.3333,
-      "expected": 17333.3333,
+      "actual": 30332.7661,
+      "expected": 30332.7661,
       "pass": true
     },
     {
@@ -3623,20 +4811,32 @@
     },
     {
       "check": "delay6 M7 contribution",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -30332.7661,
+      "expected": -30332.7661,
       "pass": true
     },
     {
       "check": "delay6 M7 cash_net",
-      "actual": -17333.3333,
-      "expected": -17333.3333,
+      "actual": -30332.7661,
+      "expected": -30332.7661,
       "pass": true
     },
     {
       "check": "delay6 M7 cumulative_cash",
-      "actual": -129333.3333,
-      "expected": -129333.3333,
+      "actual": -205768.3458,
+      "expected": -205768.3458,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -3683,8 +4883,8 @@
     },
     {
       "check": "delay6 M8 fixed",
-      "actual": 14333.3333,
-      "expected": 14333.3333,
+      "actual": 21206.1493,
+      "expected": 21206.1493,
       "pass": true
     },
     {
@@ -3701,20 +4901,32 @@
     },
     {
       "check": "delay6 M8 contribution",
-      "actual": -14333.3333,
-      "expected": -14333.3333,
+      "actual": -21206.1493,
+      "expected": -21206.1493,
       "pass": true
     },
     {
       "check": "delay6 M8 cash_net",
-      "actual": -14333.3333,
-      "expected": -14333.3333,
+      "actual": -21206.1493,
+      "expected": -21206.1493,
       "pass": true
     },
     {
       "check": "delay6 M8 cumulative_cash",
-      "actual": -143666.6667,
-      "expected": -143666.6667,
+      "actual": -226974.4951,
+      "expected": -226974.4951,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -3761,8 +4973,8 @@
     },
     {
       "check": "delay6 M9 fixed",
-      "actual": 16333.3333,
-      "expected": 16333.3333,
+      "actual": 23206.1493,
+      "expected": 23206.1493,
       "pass": true
     },
     {
@@ -3779,20 +4991,32 @@
     },
     {
       "check": "delay6 M9 contribution",
-      "actual": -16333.3333,
-      "expected": -16333.3333,
+      "actual": -23206.1493,
+      "expected": -23206.1493,
       "pass": true
     },
     {
       "check": "delay6 M9 cash_net",
-      "actual": -16333.3333,
-      "expected": -16333.3333,
+      "actual": -23206.1493,
+      "expected": -23206.1493,
       "pass": true
     },
     {
       "check": "delay6 M9 cumulative_cash",
-      "actual": -160000.0,
-      "expected": -160000.0,
+      "actual": -250180.6444,
+      "expected": -250180.6444,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -3839,8 +5063,8 @@
     },
     {
       "check": "delay6 M10 fixed",
-      "actual": 16333.3333,
-      "expected": 16333.3333,
+      "actual": 29332.7661,
+      "expected": 29332.7661,
       "pass": true
     },
     {
@@ -3857,20 +5081,32 @@
     },
     {
       "check": "delay6 M10 contribution",
-      "actual": -20789.5833,
-      "expected": -20789.5833,
+      "actual": -33789.0161,
+      "expected": -33789.0161,
       "pass": true
     },
     {
       "check": "delay6 M10 cash_net",
-      "actual": -11789.5833,
-      "expected": -11789.5833,
+      "actual": -24789.0161,
+      "expected": -24789.0161,
       "pass": true
     },
     {
       "check": "delay6 M10 cumulative_cash",
-      "actual": -171789.5833,
-      "expected": -171789.5833,
+      "actual": -274969.6605,
+      "expected": -274969.6605,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 project_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -3917,8 +5153,8 @@
     },
     {
       "check": "delay6 M11 fixed",
-      "actual": 16333.3333,
-      "expected": 16333.3333,
+      "actual": 23206.1493,
+      "expected": 23206.1493,
       "pass": true
     },
     {
@@ -3935,20 +5171,32 @@
     },
     {
       "check": "delay6 M11 contribution",
-      "actual": -5972.2083,
-      "expected": -5972.2083,
+      "actual": -12845.0243,
+      "expected": -12845.0243,
       "pass": true
     },
     {
       "check": "delay6 M11 cash_net",
-      "actual": -20789.5833,
-      "expected": -20789.5833,
+      "actual": -27662.3993,
+      "expected": -27662.3993,
       "pass": true
     },
     {
       "check": "delay6 M11 cumulative_cash",
-      "actual": -192579.1667,
-      "expected": -192579.1667,
+      "actual": -302632.0598,
+      "expected": -302632.0598,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 project_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -3995,8 +5243,8 @@
     },
     {
       "check": "delay6 M12 fixed",
-      "actual": 19333.3333,
-      "expected": 19333.3333,
+      "actual": 26206.1493,
+      "expected": 26206.1493,
       "pass": true
     },
     {
@@ -4013,20 +5261,32 @@
     },
     {
       "check": "delay6 M12 contribution",
-      "actual": -34836.3333,
-      "expected": -34836.3333,
+      "actual": -41709.1493,
+      "expected": -41709.1493,
       "pass": true
     },
     {
       "check": "delay6 M12 cash_net",
-      "actual": 2102.7917,
-      "expected": 2102.7917,
+      "actual": -4770.0243,
+      "expected": -4770.0243,
       "pass": true
     },
     {
       "check": "delay6 M12 cumulative_cash",
-      "actual": -190476.375,
-      "expected": -190476.375,
+      "actual": -307402.0841,
+      "expected": -307402.0841,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 project_weeks",
+      "actual": 3.9167,
+      "expected": 3.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -4073,8 +5333,8 @@
     },
     {
       "check": "delay6 M13 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 32738.8246,
+      "expected": 32738.8246,
       "pass": true
     },
     {
@@ -4091,20 +5351,32 @@
     },
     {
       "check": "delay6 M13 contribution",
-      "actual": -19847.2083,
-      "expected": -19847.2083,
+      "actual": -33302.6996,
+      "expected": -33302.6996,
       "pass": true
     },
     {
       "check": "delay6 M13 cash_net",
-      "actual": -34786.3333,
-      "expected": -34786.3333,
+      "actual": -48241.8246,
+      "expected": -48241.8246,
       "pass": true
     },
     {
       "check": "delay6 M13 cumulative_cash",
-      "actual": -225262.7083,
-      "expected": -225262.7083,
+      "actual": -355643.9087,
+      "expected": -355643.9087,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 project_weeks",
+      "actual": 3.9167,
+      "expected": 3.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -4151,8 +5423,8 @@
     },
     {
       "check": "delay6 M14 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 24706.1493,
+      "expected": 24706.1493,
       "pass": true
     },
     {
@@ -4169,20 +5441,32 @@
     },
     {
       "check": "delay6 M14 contribution",
-      "actual": 19769.1667,
-      "expected": 19769.1667,
+      "actual": 14346.3507,
+      "expected": 14346.3507,
       "pass": true
     },
     {
       "check": "delay6 M14 cash_net",
-      "actual": -19847.2083,
-      "expected": -19847.2083,
+      "actual": -25270.0243,
+      "expected": -25270.0243,
       "pass": true
     },
     {
       "check": "delay6 M14 cumulative_cash",
-      "actual": -245109.9167,
-      "expected": -245109.9167,
+      "actual": -380913.933,
+      "expected": -380913.933,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 project_weeks",
+      "actual": 3.9167,
+      "expected": 3.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 production_active",
+      "actual": 0.0,
+      "expected": 0,
       "pass": true
     },
     {
@@ -4229,8 +5513,8 @@
     },
     {
       "check": "delay6 M15 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 29506.1493,
+      "expected": 29506.1493,
       "pass": true
     },
     {
@@ -4247,20 +5531,32 @@
     },
     {
       "check": "delay6 M15 contribution",
-      "actual": -48865.3333,
-      "expected": -48865.3333,
+      "actual": -59088.1493,
+      "expected": -59088.1493,
       "pass": true
     },
     {
       "check": "delay6 M15 cash_net",
-      "actual": 39806.6667,
-      "expected": 39806.6667,
+      "actual": 29583.8507,
+      "expected": 29583.8507,
       "pass": true
     },
     {
       "check": "delay6 M15 cumulative_cash",
-      "actual": -205303.25,
-      "expected": -205303.25,
+      "actual": -351330.0823,
+      "expected": -351330.0823,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -4307,8 +5603,8 @@
     },
     {
       "check": "delay6 M16 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 30832.7661,
+      "expected": 30832.7661,
       "pass": true
     },
     {
@@ -4325,20 +5621,32 @@
     },
     {
       "check": "delay6 M16 contribution",
-      "actual": -58903.7083,
-      "expected": -58903.7083,
+      "actual": -70453.1411,
+      "expected": -70453.1411,
       "pass": true
     },
     {
       "check": "delay6 M16 cash_net",
-      "actual": -47909.0833,
-      "expected": -47909.0833,
+      "actual": -59458.5161,
+      "expected": -59458.5161,
       "pass": true
     },
     {
       "check": "delay6 M16 cumulative_cash",
-      "actual": -253212.3333,
-      "expected": -253212.3333,
+      "actual": -410788.5984,
+      "expected": -410788.5984,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -4385,8 +5693,8 @@
     },
     {
       "check": "delay6 M17 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 24706.1493,
+      "expected": 24706.1493,
       "pass": true
     },
     {
@@ -4403,20 +5711,32 @@
     },
     {
       "check": "delay6 M17 contribution",
-      "actual": -4115.3333,
-      "expected": -4115.3333,
+      "actual": -9538.1493,
+      "expected": -9538.1493,
       "pass": true
     },
     {
       "check": "delay6 M17 cash_net",
-      "actual": 13096.2917,
-      "expected": 13096.2917,
+      "actual": 7673.4757,
+      "expected": 7673.4757,
       "pass": true
     },
     {
       "check": "delay6 M17 cumulative_cash",
-      "actual": -240116.0417,
-      "expected": -240116.0417,
+      "actual": -403115.1227,
+      "expected": -403115.1227,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -4463,8 +5783,8 @@
     },
     {
       "check": "delay6 M18 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 30706.1493,
+      "expected": 30706.1493,
       "pass": true
     },
     {
@@ -4481,20 +5801,32 @@
     },
     {
       "check": "delay6 M18 contribution",
-      "actual": 129383.2917,
-      "expected": 129383.2917,
+      "actual": 117960.4757,
+      "expected": 117960.4757,
       "pass": true
     },
     {
       "check": "delay6 M18 cash_net",
-      "actual": -20690.3333,
-      "expected": -20690.3333,
+      "actual": -32113.1493,
+      "expected": -32113.1493,
       "pass": true
     },
     {
       "check": "delay6 M18 cumulative_cash",
-      "actual": -260806.375,
-      "expected": -260806.375,
+      "actual": -435228.272,
+      "expected": -435228.272,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -4541,8 +5873,8 @@
     },
     {
       "check": "delay6 M19 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 30832.7661,
+      "expected": 30832.7661,
       "pass": true
     },
     {
@@ -4559,20 +5891,32 @@
     },
     {
       "check": "delay6 M19 contribution",
-      "actual": -57343.4583,
-      "expected": -57343.4583,
+      "actual": -68892.8911,
+      "expected": -68892.8911,
       "pass": true
     },
     {
       "check": "delay6 M19 cash_net",
-      "actual": 55058.2917,
-      "expected": 55058.2917,
+      "actual": 43508.8589,
+      "expected": 43508.8589,
       "pass": true
     },
     {
       "check": "delay6 M19 cumulative_cash",
-      "actual": -205748.0833,
-      "expected": -205748.0833,
+      "actual": -391719.413,
+      "expected": -391719.413,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -4619,8 +5963,8 @@
     },
     {
       "check": "delay6 M20 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 24706.1493,
+      "expected": 24706.1493,
       "pass": true
     },
     {
@@ -4637,20 +5981,32 @@
     },
     {
       "check": "delay6 M20 contribution",
-      "actual": -61462.8333,
-      "expected": -61462.8333,
+      "actual": -66885.6493,
+      "expected": -66885.6493,
       "pass": true
     },
     {
       "check": "delay6 M20 cash_net",
-      "actual": -34799.7083,
-      "expected": -34799.7083,
+      "actual": -40222.5243,
+      "expected": -40222.5243,
       "pass": true
     },
     {
       "check": "delay6 M20 cumulative_cash",
-      "actual": -240547.7917,
-      "expected": -240547.7917,
+      "actual": -431941.9373,
+      "expected": -431941.9373,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -4697,8 +6053,8 @@
     },
     {
       "check": "delay6 M21 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 24706.1493,
+      "expected": 24706.1493,
       "pass": true
     },
     {
@@ -4715,20 +6071,32 @@
     },
     {
       "check": "delay6 M21 contribution",
-      "actual": 8240.7917,
-      "expected": 8240.7917,
+      "actual": 2817.9757,
+      "expected": 2817.9757,
       "pass": true
     },
     {
       "check": "delay6 M21 cash_net",
-      "actual": 10537.1667,
-      "expected": 10537.1667,
+      "actual": 5114.3507,
+      "expected": 5114.3507,
       "pass": true
     },
     {
       "check": "delay6 M21 cumulative_cash",
-      "actual": -230010.625,
-      "expected": -230010.625,
+      "actual": -426827.5867,
+      "expected": -426827.5867,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -4775,8 +6143,8 @@
     },
     {
       "check": "delay6 M22 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 30832.7661,
+      "expected": 30832.7661,
       "pass": true
     },
     {
@@ -4793,20 +6161,32 @@
     },
     {
       "check": "delay6 M22 contribution",
-      "actual": 131256.5417,
-      "expected": 131256.5417,
+      "actual": 119707.1089,
+      "expected": 119707.1089,
       "pass": true
     },
     {
       "check": "delay6 M22 cash_net",
-      "actual": -12877.9583,
-      "expected": -12877.9583,
+      "actual": -24427.3911,
+      "expected": -24427.3911,
       "pass": true
     },
     {
       "check": "delay6 M22 cumulative_cash",
-      "actual": -242888.5833,
-      "expected": -242888.5833,
+      "actual": -451254.9777,
+      "expected": -451254.9777,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -4853,8 +6233,8 @@
     },
     {
       "check": "delay6 M23 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 24706.1493,
+      "expected": 24706.1493,
       "pass": true
     },
     {
@@ -4871,20 +6251,32 @@
     },
     {
       "check": "delay6 M23 contribution",
-      "actual": -55348.4583,
-      "expected": -55348.4583,
+      "actual": -60771.2743,
+      "expected": -60771.2743,
       "pass": true
     },
     {
       "check": "delay6 M23 cash_net",
-      "actual": 56931.5417,
-      "expected": 56931.5417,
+      "actual": 51508.7257,
+      "expected": 51508.7257,
       "pass": true
     },
     {
       "check": "delay6 M23 cumulative_cash",
-      "actual": -185957.0417,
-      "expected": -185957.0417,
+      "actual": -399746.252,
+      "expected": -399746.252,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -4931,8 +6323,8 @@
     },
     {
       "check": "delay6 M24 fixed",
-      "actual": 19283.3333,
-      "expected": 19283.3333,
+      "actual": 30706.1493,
+      "expected": 30706.1493,
       "pass": true
     },
     {
@@ -4949,20 +6341,32 @@
     },
     {
       "check": "delay6 M24 contribution",
-      "actual": -59467.8333,
-      "expected": -59467.8333,
+      "actual": -70890.6493,
+      "expected": -70890.6493,
       "pass": true
     },
     {
       "check": "delay6 M24 cash_net",
-      "actual": -32804.7083,
-      "expected": -32804.7083,
+      "actual": -44227.5243,
+      "expected": -44227.5243,
       "pass": true
     },
     {
       "check": "delay6 M24 cumulative_cash",
-      "actual": -218761.75,
-      "expected": -218761.75,
+      "actual": -443973.7763,
+      "expected": -443973.7763,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5009,8 +6413,8 @@
     },
     {
       "check": "delay6 M25 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 36478.2165,
+      "expected": 36478.2165,
       "pass": true
     },
     {
@@ -5027,20 +6431,32 @@
     },
     {
       "check": "delay6 M25 contribution",
-      "actual": 7785.7917,
-      "expected": 7785.7917,
+      "actual": -6959.0915,
+      "expected": -6959.0915,
       "pass": true
     },
     {
       "check": "delay6 M25 cash_net",
-      "actual": 10082.1667,
-      "expected": 10082.1667,
+      "actual": -4662.7165,
+      "expected": -4662.7165,
       "pass": true
     },
     {
       "check": "delay6 M25 cumulative_cash",
-      "actual": -208679.5833,
-      "expected": -208679.5833,
+      "actual": -448636.4928,
+      "expected": -448636.4928,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5087,8 +6503,8 @@
     },
     {
       "check": "delay6 M26 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 26539.4826,
+      "expected": 26539.4826,
       "pass": true
     },
     {
@@ -5105,20 +6521,32 @@
     },
     {
       "check": "delay6 M26 contribution",
-      "actual": 130801.5417,
-      "expected": 130801.5417,
+      "actual": 125995.3924,
+      "expected": 125995.3924,
       "pass": true
     },
     {
       "check": "delay6 M26 cash_net",
-      "actual": -13332.9583,
-      "expected": -13332.9583,
+      "actual": -18139.1076,
+      "expected": -18139.1076,
       "pass": true
     },
     {
       "check": "delay6 M26 cumulative_cash",
-      "actual": -222012.5417,
-      "expected": -222012.5417,
+      "actual": -466775.6004,
+      "expected": -466775.6004,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5165,8 +6593,8 @@
     },
     {
       "check": "delay6 M27 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 31339.4826,
+      "expected": 31339.4826,
       "pass": true
     },
     {
@@ -5183,20 +6611,32 @@
     },
     {
       "check": "delay6 M27 contribution",
-      "actual": -55803.4583,
-      "expected": -55803.4583,
+      "actual": -65409.6076,
+      "expected": -65409.6076,
       "pass": true
     },
     {
       "check": "delay6 M27 cash_net",
-      "actual": 56476.5417,
-      "expected": 56476.5417,
+      "actual": 46870.3924,
+      "expected": 46870.3924,
       "pass": true
     },
     {
       "check": "delay6 M27 cumulative_cash",
-      "actual": -165536.0,
-      "expected": -165536.0,
+      "actual": -419905.2081,
+      "expected": -419905.2081,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5243,8 +6683,8 @@
     },
     {
       "check": "delay6 M28 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 32666.0994,
+      "expected": 32666.0994,
       "pass": true
     },
     {
@@ -5261,20 +6701,32 @@
     },
     {
       "check": "delay6 M28 contribution",
-      "actual": -59922.8333,
-      "expected": -59922.8333,
+      "actual": -70855.5994,
+      "expected": -70855.5994,
       "pass": true
     },
     {
       "check": "delay6 M28 cash_net",
-      "actual": -33259.7083,
-      "expected": -33259.7083,
+      "actual": -44192.4744,
+      "expected": -44192.4744,
       "pass": true
     },
     {
       "check": "delay6 M28 cumulative_cash",
-      "actual": -198795.7083,
-      "expected": -198795.7083,
+      "actual": -464097.6825,
+      "expected": -464097.6825,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5321,8 +6773,8 @@
     },
     {
       "check": "delay6 M29 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 26539.4826,
+      "expected": 26539.4826,
       "pass": true
     },
     {
@@ -5339,20 +6791,32 @@
     },
     {
       "check": "delay6 M29 contribution",
-      "actual": 9780.7917,
-      "expected": 9780.7917,
+      "actual": 4974.6424,
+      "expected": 4974.6424,
       "pass": true
     },
     {
       "check": "delay6 M29 cash_net",
-      "actual": 12077.1667,
-      "expected": 12077.1667,
+      "actual": 7271.0174,
+      "expected": 7271.0174,
       "pass": true
     },
     {
       "check": "delay6 M29 cumulative_cash",
-      "actual": -186718.5417,
-      "expected": -186718.5417,
+      "actual": -456826.6651,
+      "expected": -456826.6651,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5399,8 +6863,8 @@
     },
     {
       "check": "delay6 M30 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 33539.4826,
+      "expected": 33539.4826,
       "pass": true
     },
     {
@@ -5417,20 +6881,32 @@
     },
     {
       "check": "delay6 M30 contribution",
-      "actual": 132796.5417,
-      "expected": 132796.5417,
+      "actual": 120990.3924,
+      "expected": 120990.3924,
       "pass": true
     },
     {
       "check": "delay6 M30 cash_net",
-      "actual": -11337.9583,
-      "expected": -11337.9583,
+      "actual": -23144.1076,
+      "expected": -23144.1076,
       "pass": true
     },
     {
       "check": "delay6 M30 cumulative_cash",
-      "actual": -198056.5,
-      "expected": -198056.5,
+      "actual": -479970.7727,
+      "expected": -479970.7727,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5477,8 +6953,8 @@
     },
     {
       "check": "delay6 M31 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 32666.0994,
+      "expected": 32666.0994,
       "pass": true
     },
     {
@@ -5495,20 +6971,32 @@
     },
     {
       "check": "delay6 M31 contribution",
-      "actual": -53808.4583,
-      "expected": -53808.4583,
+      "actual": -64741.2244,
+      "expected": -64741.2244,
       "pass": true
     },
     {
       "check": "delay6 M31 cash_net",
-      "actual": 58471.5417,
-      "expected": 58471.5417,
+      "actual": 47538.7756,
+      "expected": 47538.7756,
       "pass": true
     },
     {
       "check": "delay6 M31 cumulative_cash",
-      "actual": -139584.9583,
-      "expected": -139584.9583,
+      "actual": -432431.9971,
+      "expected": -432431.9971,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5555,8 +7043,8 @@
     },
     {
       "check": "delay6 M32 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 26539.4826,
+      "expected": 26539.4826,
       "pass": true
     },
     {
@@ -5573,20 +7061,32 @@
     },
     {
       "check": "delay6 M32 contribution",
-      "actual": -57927.8333,
-      "expected": -57927.8333,
+      "actual": -62733.9826,
+      "expected": -62733.9826,
       "pass": true
     },
     {
       "check": "delay6 M32 cash_net",
-      "actual": -31264.7083,
-      "expected": -31264.7083,
+      "actual": -36070.8576,
+      "expected": -36070.8576,
       "pass": true
     },
     {
       "check": "delay6 M32 cumulative_cash",
-      "actual": -170849.6667,
-      "expected": -170849.6667,
+      "actual": -468502.8548,
+      "expected": -468502.8548,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5633,8 +7133,8 @@
     },
     {
       "check": "delay6 M33 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 26539.4826,
+      "expected": 26539.4826,
       "pass": true
     },
     {
@@ -5651,20 +7151,32 @@
     },
     {
       "check": "delay6 M33 contribution",
-      "actual": 11775.7917,
-      "expected": 11775.7917,
+      "actual": 6969.6424,
+      "expected": 6969.6424,
       "pass": true
     },
     {
       "check": "delay6 M33 cash_net",
-      "actual": 14072.1667,
-      "expected": 14072.1667,
+      "actual": 9266.0174,
+      "expected": 9266.0174,
       "pass": true
     },
     {
       "check": "delay6 M33 cumulative_cash",
-      "actual": -156777.5,
-      "expected": -156777.5,
+      "actual": -459236.8374,
+      "expected": -459236.8374,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5711,8 +7223,8 @@
     },
     {
       "check": "delay6 M34 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 32666.0994,
+      "expected": 32666.0994,
       "pass": true
     },
     {
@@ -5729,20 +7241,32 @@
     },
     {
       "check": "delay6 M34 contribution",
-      "actual": 106329.0417,
-      "expected": 106329.0417,
+      "actual": 95396.2756,
+      "expected": 95396.2756,
       "pass": true
     },
     {
       "check": "delay6 M34 cash_net",
-      "actual": 16194.5417,
-      "expected": 16194.5417,
+      "actual": 5261.7756,
+      "expected": 5261.7756,
       "pass": true
     },
     {
       "check": "delay6 M34 cumulative_cash",
-      "actual": -140582.9583,
-      "expected": -140582.9583,
+      "actual": -453975.0618,
+      "expected": -453975.0618,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 project_weeks",
+      "actual": 12.0,
+      "expected": 12.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 production_active",
+      "actual": 2.0,
+      "expected": 2,
       "pass": true
     },
     {
@@ -5789,8 +7313,8 @@
     },
     {
       "check": "delay6 M35 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 26539.4826,
+      "expected": 26539.4826,
       "pass": true
     },
     {
@@ -5807,20 +7331,32 @@
     },
     {
       "check": "delay6 M35 contribution",
-      "actual": -51813.4583,
-      "expected": -51813.4583,
+      "actual": -56619.6076,
+      "expected": -56619.6076,
       "pass": true
     },
     {
       "check": "delay6 M35 cash_net",
-      "actual": 6466.5417,
-      "expected": 6466.5417,
+      "actual": 1660.3924,
+      "expected": 1660.3924,
       "pass": true
     },
     {
       "check": "delay6 M35 cumulative_cash",
-      "actual": -134116.4167,
-      "expected": -134116.4167,
+      "actual": -452314.6694,
+      "expected": -452314.6694,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5867,8 +7403,8 @@
     },
     {
       "check": "delay6 M36 fixed",
-      "actual": 21733.3333,
-      "expected": 21733.3333,
+      "actual": 33539.4826,
+      "expected": 33539.4826,
       "pass": true
     },
     {
@@ -5885,20 +7421,32 @@
     },
     {
       "check": "delay6 M36 contribution",
-      "actual": -55932.8333,
-      "expected": -55932.8333,
+      "actual": -67738.9826,
+      "expected": -67738.9826,
       "pass": true
     },
     {
       "check": "delay6 M36 cash_net",
-      "actual": 42730.2917,
-      "expected": 42730.2917,
+      "actual": 30924.1424,
+      "expected": 30924.1424,
       "pass": true
     },
     {
       "check": "delay6 M36 cumulative_cash",
-      "actual": -91386.125,
-      "expected": -91386.125,
+      "actual": -421390.5271,
+      "expected": -421390.5271,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 production_active",
+      "actual": 1.0,
+      "expected": 1,
       "pass": true
     },
     {
@@ -5939,8 +7487,8 @@
     },
     {
       "check": "delay6 Y1 fixed",
-      "actual": 210000.0,
-      "expected": 210000.0,
+      "actual": 326925.71,
+      "expected": 326925.7091,
       "pass": true
     },
     {
@@ -5951,8 +7499,20 @@
     },
     {
       "check": "delay6 Y1 contribution",
-      "actual": -219598.12,
-      "expected": -219598.125,
+      "actual": -336523.83,
+      "expected": -336523.8341,
+      "pass": true
+    },
+    {
+      "check": "delay6 total cost 0",
+      "actual": 351523.84,
+      "expected": 351523.84,
+      "pass": true
+    },
+    {
+      "check": "delay6 pool 0",
+      "actual": 2,
+      "expected": 2,
       "pass": true
     },
     {
@@ -5993,8 +7553,8 @@
     },
     {
       "check": "delay6 Y2 fixed",
-      "actual": 231400.0,
-      "expected": 231400.0,
+      "actual": 339686.32,
+      "expected": 339686.3172,
       "pass": true
     },
     {
@@ -6005,8 +7565,20 @@
     },
     {
       "check": "delay6 Y2 contribution",
-      "actual": -76704.37,
-      "expected": -76704.375,
+      "actual": -184990.69,
+      "expected": -184990.6922,
+      "pass": true
+    },
+    {
+      "check": "delay6 total cost 1",
+      "actual": 778990.7,
+      "expected": 778990.7,
+      "pass": true
+    },
+    {
+      "check": "delay6 pool 1",
+      "actual": 3,
+      "expected": 3,
       "pass": true
     },
     {
@@ -6047,8 +7619,8 @@
     },
     {
       "check": "delay6 Y3 fixed",
-      "actual": 260800.0,
-      "expected": 260800.0,
+      "actual": 365592.38,
+      "expected": 365592.3758,
       "pass": true
     },
     {
@@ -6059,44 +7631,3506 @@
     },
     {
       "check": "delay6 Y3 contribution",
-      "actual": 64060.63,
-      "expected": 64060.625,
+      "actual": -40731.75,
+      "expected": -40731.7508,
+      "pass": true
+    },
+    {
+      "check": "delay6 total cost 2",
+      "actual": 916731.76,
+      "expected": 916731.76,
+      "pass": true
+    },
+    {
+      "check": "delay6 pool 2",
+      "actual": 4,
+      "expected": 4,
       "pass": true
     },
     {
       "check": "delay6 liquidity",
-      "actual": 299927.3313,
-      "expected": 299927.33,
+      "actual": 551966.3887,
+      "expected": 551966.39,
       "pass": true
     },
     {
       "check": "delay6 contribution36",
-      "actual": -232241.875,
-      "expected": -232241.87,
+      "actual": -562246.2771,
+      "expected": -562246.28,
+      "pass": true
+    },
+    {
+      "check": "growth M1 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M1 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M1 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M1 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M1 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M1 commission_cash",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M1 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M1 fixed",
+      "actual": 40144.8831,
+      "expected": 40144.8831,
+      "pass": true
+    },
+    {
+      "check": "growth M1 deposit_out",
+      "actual": 2000,
+      "expected": 2000,
+      "pass": true
+    },
+    {
+      "check": "growth M1 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M1 contribution",
+      "actual": -40144.8831,
+      "expected": -40144.8831,
+      "pass": true
+    },
+    {
+      "check": "growth M1 cash_net",
+      "actual": -42144.8831,
+      "expected": -42144.8831,
+      "pass": true
+    },
+    {
+      "check": "growth M1 cumulative_cash",
+      "actual": -42144.8831,
+      "expected": -42144.8831,
+      "pass": true
+    },
+    {
+      "check": "growth M1 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M1 production_active",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M2 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M2 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M2 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M2 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M2 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M2 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M2 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M2 fixed",
+      "actual": 24206.1493,
+      "expected": 24206.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M2 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M2 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M2 contribution",
+      "actual": -24206.1493,
+      "expected": -24206.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M2 cash_net",
+      "actual": -24206.1493,
+      "expected": -24206.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M2 cumulative_cash",
+      "actual": -66351.0324,
+      "expected": -66351.0324,
+      "pass": true
+    },
+    {
+      "check": "growth M2 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M2 production_active",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M3 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M3 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M3 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M3 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M3 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M3 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M3 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M3 fixed",
+      "actual": 30339.4826,
+      "expected": 30339.4826,
+      "pass": true
+    },
+    {
+      "check": "growth M3 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M3 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M3 contribution",
+      "actual": -30339.4826,
+      "expected": -30339.4826,
+      "pass": true
+    },
+    {
+      "check": "growth M3 cash_net",
+      "actual": -30339.4826,
+      "expected": -30339.4826,
+      "pass": true
+    },
+    {
+      "check": "growth M3 cumulative_cash",
+      "actual": -96690.5151,
+      "expected": -96690.5151,
+      "pass": true
+    },
+    {
+      "check": "growth M3 project_weeks",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M3 production_active",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M4 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M4 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M4 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M4 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "pass": true
+    },
+    {
+      "check": "growth M4 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M4 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M4 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M4 fixed",
+      "actual": 28332.7661,
+      "expected": 28332.7661,
+      "pass": true
+    },
+    {
+      "check": "growth M4 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M4 gross_profit",
+      "actual": -4456.25,
+      "expected": -4456.25,
+      "pass": true
+    },
+    {
+      "check": "growth M4 contribution",
+      "actual": -32789.0161,
+      "expected": -32789.0161,
+      "pass": true
+    },
+    {
+      "check": "growth M4 cash_net",
+      "actual": -23789.0161,
+      "expected": -23789.0161,
+      "pass": true
+    },
+    {
+      "check": "growth M4 cumulative_cash",
+      "actual": -120479.5311,
+      "expected": -120479.5311,
+      "pass": true
+    },
+    {
+      "check": "growth M4 project_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "pass": true
+    },
+    {
+      "check": "growth M4 production_active",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M5 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M5 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M5 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M5 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "pass": true
+    },
+    {
+      "check": "growth M5 commission",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "growth M5 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M5 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M5 fixed",
+      "actual": 24206.1493,
+      "expected": 24206.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M5 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M5 gross_profit",
+      "actual": 10543.75,
+      "expected": 10543.75,
+      "pass": true
+    },
+    {
+      "check": "growth M5 contribution",
+      "actual": -13845.0243,
+      "expected": -13845.0243,
+      "pass": true
+    },
+    {
+      "check": "growth M5 cash_net",
+      "actual": -28662.3993,
+      "expected": -28662.3993,
+      "pass": true
+    },
+    {
+      "check": "growth M5 cumulative_cash",
+      "actual": -149141.9305,
+      "expected": -149141.9305,
+      "pass": true
+    },
+    {
+      "check": "growth M5 project_weeks",
+      "actual": 1.25,
+      "expected": 1.25,
+      "pass": true
+    },
+    {
+      "check": "growth M5 production_active",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M6 bookings",
+      "actual": 70000.0,
+      "expected": 70000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M6 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M6 receipts",
+      "actual": 37000.0,
+      "expected": 37000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M6 direct",
+      "actual": 15381.25,
+      "expected": 15381.25,
+      "pass": true
+    },
+    {
+      "check": "growth M6 commission",
+      "actual": 121.75,
+      "expected": 121.75,
+      "pass": true
+    },
+    {
+      "check": "growth M6 commission_cash",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "growth M6 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M6 fixed",
+      "actual": 26206.1493,
+      "expected": 26206.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M6 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M6 gross_profit",
+      "actual": -15381.25,
+      "expected": -15381.25,
+      "pass": true
+    },
+    {
+      "check": "growth M6 contribution",
+      "actual": -41709.1493,
+      "expected": -41709.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M6 cash_net",
+      "actual": -4770.0243,
+      "expected": -4770.0243,
+      "pass": true
+    },
+    {
+      "check": "growth M6 cumulative_cash",
+      "actual": -153911.9548,
+      "expected": -153911.9548,
+      "pass": true
+    },
+    {
+      "check": "growth M6 project_weeks",
+      "actual": 3.9167,
+      "expected": 3.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M6 production_active",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M7 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M7 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M7 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M7 direct",
+      "actual": 15381.25,
+      "expected": 15381.25,
+      "pass": true
+    },
+    {
+      "check": "growth M7 commission",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "growth M7 commission_cash",
+      "actual": 121.75,
+      "expected": 121.75,
+      "pass": true
+    },
+    {
+      "check": "growth M7 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M7 fixed",
+      "actual": 30332.7661,
+      "expected": 30332.7661,
+      "pass": true
+    },
+    {
+      "check": "growth M7 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M7 gross_profit",
+      "actual": -381.25,
+      "expected": -381.25,
+      "pass": true
+    },
+    {
+      "check": "growth M7 contribution",
+      "actual": -30896.6411,
+      "expected": -30896.6411,
+      "pass": true
+    },
+    {
+      "check": "growth M7 cash_net",
+      "actual": -45835.7661,
+      "expected": -45835.7661,
+      "pass": true
+    },
+    {
+      "check": "growth M7 cumulative_cash",
+      "actual": -199747.7208,
+      "expected": -199747.7208,
+      "pass": true
+    },
+    {
+      "check": "growth M7 project_weeks",
+      "actual": 3.9167,
+      "expected": 3.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M7 production_active",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M8 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M8 revenue",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M8 receipts",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M8 direct",
+      "actual": 15381.25,
+      "expected": 15381.25,
+      "pass": true
+    },
+    {
+      "check": "growth M8 commission",
+      "actual": 566.25,
+      "expected": 566.25,
+      "pass": true
+    },
+    {
+      "check": "growth M8 commission_cash",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "growth M8 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M8 fixed",
+      "actual": 21206.1493,
+      "expected": 21206.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M8 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M8 gross_profit",
+      "actual": 39618.75,
+      "expected": 39618.75,
+      "pass": true
+    },
+    {
+      "check": "growth M8 contribution",
+      "actual": 17846.3507,
+      "expected": 17846.3507,
+      "pass": true
+    },
+    {
+      "check": "growth M8 cash_net",
+      "actual": -21770.0243,
+      "expected": -21770.0243,
+      "pass": true
+    },
+    {
+      "check": "growth M8 cumulative_cash",
+      "actual": -221517.7451,
+      "expected": -221517.7451,
+      "pass": true
+    },
+    {
+      "check": "growth M8 project_weeks",
+      "actual": 3.9167,
+      "expected": 3.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M8 production_active",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M9 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M9 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M9 receipts",
+      "actual": 103500.0,
+      "expected": 103500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M9 direct",
+      "actual": 43843.75,
+      "expected": 43843.75,
+      "pass": true
+    },
+    {
+      "check": "growth M9 commission",
+      "actual": 738.25,
+      "expected": 738.25,
+      "pass": true
+    },
+    {
+      "check": "growth M9 commission_cash",
+      "actual": 566.25,
+      "expected": 566.25,
+      "pass": true
+    },
+    {
+      "check": "growth M9 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M9 fixed",
+      "actual": 23206.1493,
+      "expected": 23206.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M9 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M9 gross_profit",
+      "actual": -28843.75,
+      "expected": -28843.75,
+      "pass": true
+    },
+    {
+      "check": "growth M9 contribution",
+      "actual": -52788.1493,
+      "expected": -52788.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M9 cash_net",
+      "actual": 35883.8507,
+      "expected": 35883.8507,
+      "pass": true
+    },
+    {
+      "check": "growth M9 cumulative_cash",
+      "actual": -185633.8944,
+      "expected": -185633.8944,
+      "pass": true
+    },
+    {
+      "check": "growth M9 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M9 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M10 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M10 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M10 receipts",
+      "actual": 11500.0,
+      "expected": 11500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M10 direct",
+      "actual": 39387.5,
+      "expected": 39387.5,
+      "pass": true
+    },
+    {
+      "check": "growth M10 commission",
+      "actual": 232.875,
+      "expected": 232.875,
+      "pass": true
+    },
+    {
+      "check": "growth M10 commission_cash",
+      "actual": 738.25,
+      "expected": 738.25,
+      "pass": true
+    },
+    {
+      "check": "growth M10 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M10 fixed",
+      "actual": 29332.7661,
+      "expected": 29332.7661,
+      "pass": true
+    },
+    {
+      "check": "growth M10 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M10 gross_profit",
+      "actual": -39387.5,
+      "expected": -39387.5,
+      "pass": true
+    },
+    {
+      "check": "growth M10 contribution",
+      "actual": -68953.1411,
+      "expected": -68953.1411,
+      "pass": true
+    },
+    {
+      "check": "growth M10 cash_net",
+      "actual": -57958.5161,
+      "expected": -57958.5161,
+      "pass": true
+    },
+    {
+      "check": "growth M10 cumulative_cash",
+      "actual": -243592.4105,
+      "expected": -243592.4105,
+      "pass": true
+    },
+    {
+      "check": "growth M10 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "growth M10 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M11 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M11 revenue",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M11 receipts",
+      "actual": 72000.0,
+      "expected": 72000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M11 direct",
+      "actual": 39387.5,
+      "expected": 39387.5,
+      "pass": true
+    },
+    {
+      "check": "growth M11 commission",
+      "actual": 444.5,
+      "expected": 444.5,
+      "pass": true
+    },
+    {
+      "check": "growth M11 commission_cash",
+      "actual": 232.875,
+      "expected": 232.875,
+      "pass": true
+    },
+    {
+      "check": "growth M11 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M11 fixed",
+      "actual": 23206.1493,
+      "expected": 23206.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M11 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M11 gross_profit",
+      "actual": 15612.5,
+      "expected": 15612.5,
+      "pass": true
+    },
+    {
+      "check": "growth M11 contribution",
+      "actual": -8038.1493,
+      "expected": -8038.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M11 cash_net",
+      "actual": 9173.4757,
+      "expected": 9173.4757,
+      "pass": true
+    },
+    {
+      "check": "growth M11 cumulative_cash",
+      "actual": -234418.9348,
+      "expected": -234418.9348,
+      "pass": true
+    },
+    {
+      "check": "growth M11 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "growth M11 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M12 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M12 revenue",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M12 receipts",
+      "actual": 27500.0,
+      "expected": 27500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M12 direct",
+      "actual": 28462.5,
+      "expected": 28462.5,
+      "pass": true
+    },
+    {
+      "check": "growth M12 commission",
+      "actual": 2870.875,
+      "expected": 2870.875,
+      "pass": true
+    },
+    {
+      "check": "growth M12 commission_cash",
+      "actual": 444.5,
+      "expected": 444.5,
+      "pass": true
+    },
+    {
+      "check": "growth M12 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M12 fixed",
+      "actual": 26206.1493,
+      "expected": 26206.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M12 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M12 gross_profit",
+      "actual": 151537.5,
+      "expected": 151537.5,
+      "pass": true
+    },
+    {
+      "check": "growth M12 contribution",
+      "actual": 122460.4757,
+      "expected": 122460.4757,
+      "pass": true
+    },
+    {
+      "check": "growth M12 cash_net",
+      "actual": -27613.1493,
+      "expected": -27613.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M12 cumulative_cash",
+      "actual": -262032.0841,
+      "expected": -262032.0841,
+      "pass": true
+    },
+    {
+      "check": "growth M12 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "growth M12 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M13 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M13 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M13 receipts",
+      "actual": 117500.0,
+      "expected": 117500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M13 direct",
+      "actual": 40287.5,
+      "expected": 40287.5,
+      "pass": true
+    },
+    {
+      "check": "growth M13 commission",
+      "actual": 772.625,
+      "expected": 772.625,
+      "pass": true
+    },
+    {
+      "check": "growth M13 commission_cash",
+      "actual": 2870.875,
+      "expected": 2870.875,
+      "pass": true
+    },
+    {
+      "check": "growth M13 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M13 fixed",
+      "actual": 32738.8246,
+      "expected": 32738.8246,
+      "pass": true
+    },
+    {
+      "check": "growth M13 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M13 gross_profit",
+      "actual": -37287.5,
+      "expected": -37287.5,
+      "pass": true
+    },
+    {
+      "check": "growth M13 contribution",
+      "actual": -70798.9496,
+      "expected": -70798.9496,
+      "pass": true
+    },
+    {
+      "check": "growth M13 cash_net",
+      "actual": 41602.8004,
+      "expected": 41602.8004,
+      "pass": true
+    },
+    {
+      "check": "growth M13 cumulative_cash",
+      "actual": -220429.2837,
+      "expected": -220429.2837,
+      "pass": true
+    },
+    {
+      "check": "growth M13 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "growth M13 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M14 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M14 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M14 receipts",
+      "actual": 30000.0,
+      "expected": 30000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M14 direct",
+      "actual": 44743.75,
+      "expected": 44743.75,
+      "pass": true
+    },
+    {
+      "check": "growth M14 commission",
+      "actual": 435.75,
+      "expected": 435.75,
+      "pass": true
+    },
+    {
+      "check": "growth M14 commission_cash",
+      "actual": 772.625,
+      "expected": 772.625,
+      "pass": true
+    },
+    {
+      "check": "growth M14 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M14 fixed",
+      "actual": 24706.1493,
+      "expected": 24706.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M14 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M14 gross_profit",
+      "actual": -41743.75,
+      "expected": -41743.75,
+      "pass": true
+    },
+    {
+      "check": "growth M14 contribution",
+      "actual": -66885.6493,
+      "expected": -66885.6493,
+      "pass": true
+    },
+    {
+      "check": "growth M14 cash_net",
+      "actual": -40222.5243,
+      "expected": -40222.5243,
+      "pass": true
+    },
+    {
+      "check": "growth M14 cumulative_cash",
+      "actual": -260651.808,
+      "expected": -260651.808,
+      "pass": true
+    },
+    {
+      "check": "growth M14 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M14 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M15 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M15 revenue",
+      "actual": 73000.0,
+      "expected": 73000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M15 receipts",
+      "actual": 75000.0,
+      "expected": 75000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M15 direct",
+      "actual": 44743.75,
+      "expected": 44743.75,
+      "pass": true
+    },
+    {
+      "check": "growth M15 commission",
+      "actual": 732.125,
+      "expected": 732.125,
+      "pass": true
+    },
+    {
+      "check": "growth M15 commission_cash",
+      "actual": 435.75,
+      "expected": 435.75,
+      "pass": true
+    },
+    {
+      "check": "growth M15 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M15 fixed",
+      "actual": 29506.1493,
+      "expected": 29506.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M15 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M15 gross_profit",
+      "actual": 28256.25,
+      "expected": 28256.25,
+      "pass": true
+    },
+    {
+      "check": "growth M15 contribution",
+      "actual": -1982.0243,
+      "expected": -1982.0243,
+      "pass": true
+    },
+    {
+      "check": "growth M15 cash_net",
+      "actual": 314.3507,
+      "expected": 314.3507,
+      "pass": true
+    },
+    {
+      "check": "growth M15 cumulative_cash",
+      "actual": -260337.4573,
+      "expected": -260337.4573,
+      "pass": true
+    },
+    {
+      "check": "growth M15 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M15 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M16 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M16 revenue",
+      "actual": 183000.0,
+      "expected": 183000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M16 receipts",
+      "actual": 36500.0,
+      "expected": 36500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M16 direct",
+      "actual": 29362.5,
+      "expected": 29362.5,
+      "pass": true
+    },
+    {
+      "check": "growth M16 commission",
+      "actual": 3097.625,
+      "expected": 3097.625,
+      "pass": true
+    },
+    {
+      "check": "growth M16 commission_cash",
+      "actual": 732.125,
+      "expected": 732.125,
+      "pass": true
+    },
+    {
+      "check": "growth M16 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M16 fixed",
+      "actual": 30832.7661,
+      "expected": 30832.7661,
+      "pass": true
+    },
+    {
+      "check": "growth M16 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M16 gross_profit",
+      "actual": 153637.5,
+      "expected": 153637.5,
+      "pass": true
+    },
+    {
+      "check": "growth M16 contribution",
+      "actual": 119707.1089,
+      "expected": 119707.1089,
+      "pass": true
+    },
+    {
+      "check": "growth M16 cash_net",
+      "actual": -24427.3911,
+      "expected": -24427.3911,
+      "pass": true
+    },
+    {
+      "check": "growth M16 cumulative_cash",
+      "actual": -284764.8484,
+      "expected": -284764.8484,
+      "pass": true
+    },
+    {
+      "check": "growth M16 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "growth M16 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M17 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M17 revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M17 receipts",
+      "actual": 120500.0,
+      "expected": 120500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M17 direct",
+      "actual": 41187.5,
+      "expected": 41187.5,
+      "pass": true
+    },
+    {
+      "check": "growth M17 commission",
+      "actual": 877.625,
+      "expected": 877.625,
+      "pass": true
+    },
+    {
+      "check": "growth M17 commission_cash",
+      "actual": 3097.625,
+      "expected": 3097.625,
+      "pass": true
+    },
+    {
+      "check": "growth M17 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M17 fixed",
+      "actual": 24706.1493,
+      "expected": 24706.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M17 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M17 gross_profit",
+      "actual": -35187.5,
+      "expected": -35187.5,
+      "pass": true
+    },
+    {
+      "check": "growth M17 contribution",
+      "actual": -60771.2743,
+      "expected": -60771.2743,
+      "pass": true
+    },
+    {
+      "check": "growth M17 cash_net",
+      "actual": 51508.7257,
+      "expected": 51508.7257,
+      "pass": true
+    },
+    {
+      "check": "growth M17 cumulative_cash",
+      "actual": -233256.1227,
+      "expected": -233256.1227,
+      "pass": true
+    },
+    {
+      "check": "growth M17 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "growth M17 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M18 bookings",
+      "actual": 195000.0,
+      "expected": 195000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M18 revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M18 receipts",
+      "actual": 87000.0,
+      "expected": 87000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M18 direct",
+      "actual": 74106.25,
+      "expected": 74106.25,
+      "pass": true
+    },
+    {
+      "check": "growth M18 commission",
+      "actual": 540.75,
+      "expected": 540.75,
+      "pass": true
+    },
+    {
+      "check": "growth M18 commission_cash",
+      "actual": 877.625,
+      "expected": 877.625,
+      "pass": true
+    },
+    {
+      "check": "growth M18 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M18 fixed",
+      "actual": 30706.1493,
+      "expected": 30706.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M18 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M18 gross_profit",
+      "actual": -68106.25,
+      "expected": -68106.25,
+      "pass": true
+    },
+    {
+      "check": "growth M18 contribution",
+      "actual": -99353.1493,
+      "expected": -99353.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M18 cash_net",
+      "actual": -18690.0243,
+      "expected": -18690.0243,
+      "pass": true
+    },
+    {
+      "check": "growth M18 cumulative_cash",
+      "actual": -251946.147,
+      "expected": -251946.147,
+      "pass": true
+    },
+    {
+      "check": "growth M18 project_weeks",
+      "actual": 15.9167,
+      "expected": 15.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M18 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M19 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M19 revenue",
+      "actual": 76000.0,
+      "expected": 76000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M19 receipts",
+      "actual": 78000.0,
+      "expected": 78000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M19 direct",
+      "actual": 74106.25,
+      "expected": 74106.25,
+      "pass": true
+    },
+    {
+      "check": "growth M19 commission",
+      "actual": 837.125,
+      "expected": 837.125,
+      "pass": true
+    },
+    {
+      "check": "growth M19 commission_cash",
+      "actual": 540.75,
+      "expected": 540.75,
+      "pass": true
+    },
+    {
+      "check": "growth M19 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M19 fixed",
+      "actual": 30832.7661,
+      "expected": 30832.7661,
+      "pass": true
+    },
+    {
+      "check": "growth M19 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M19 gross_profit",
+      "actual": 1893.75,
+      "expected": 1893.75,
+      "pass": true
+    },
+    {
+      "check": "growth M19 contribution",
+      "actual": -29776.1411,
+      "expected": -29776.1411,
+      "pass": true
+    },
+    {
+      "check": "growth M19 cash_net",
+      "actual": -27479.7661,
+      "expected": -27479.7661,
+      "pass": true
+    },
+    {
+      "check": "growth M19 cumulative_cash",
+      "actual": -279425.913,
+      "expected": -279425.913,
+      "pass": true
+    },
+    {
+      "check": "growth M19 project_weeks",
+      "actual": 15.9167,
+      "expected": 15.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M19 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M20 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M20 revenue",
+      "actual": 186000.0,
+      "expected": 186000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M20 receipts",
+      "actual": 111500.0,
+      "expected": 111500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M20 direct",
+      "actual": 58725.0,
+      "expected": 58725.0,
+      "pass": true
+    },
+    {
+      "check": "growth M20 commission",
+      "actual": 3202.625,
+      "expected": 3202.625,
+      "pass": true
+    },
+    {
+      "check": "growth M20 commission_cash",
+      "actual": 837.125,
+      "expected": 837.125,
+      "pass": true
+    },
+    {
+      "check": "growth M20 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M20 fixed",
+      "actual": 24706.1493,
+      "expected": 24706.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M20 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M20 gross_profit",
+      "actual": 127275.0,
+      "expected": 127275.0,
+      "pass": true
+    },
+    {
+      "check": "growth M20 contribution",
+      "actual": 99366.2257,
+      "expected": 99366.2257,
+      "pass": true
+    },
+    {
+      "check": "growth M20 cash_net",
+      "actual": 27231.7257,
+      "expected": 27231.7257,
+      "pass": true
+    },
+    {
+      "check": "growth M20 cumulative_cash",
+      "actual": -252194.1873,
+      "expected": -252194.1873,
+      "pass": true
+    },
+    {
+      "check": "growth M20 project_weeks",
+      "actual": 12.0,
+      "expected": 12.0,
+      "pass": true
+    },
+    {
+      "check": "growth M20 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M21 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M21 revenue",
+      "actual": 189000.0,
+      "expected": 189000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M21 receipts",
+      "actual": 123500.0,
+      "expected": 123500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M21 direct",
+      "actual": 70550.0,
+      "expected": 70550.0,
+      "pass": true
+    },
+    {
+      "check": "growth M21 commission",
+      "actual": 3297.875,
+      "expected": 3297.875,
+      "pass": true
+    },
+    {
+      "check": "growth M21 commission_cash",
+      "actual": 3202.625,
+      "expected": 3202.625,
+      "pass": true
+    },
+    {
+      "check": "growth M21 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M21 fixed",
+      "actual": 24706.1493,
+      "expected": 24706.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M21 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M21 gross_profit",
+      "actual": 118450.0,
+      "expected": 118450.0,
+      "pass": true
+    },
+    {
+      "check": "growth M21 contribution",
+      "actual": 90445.9757,
+      "expected": 90445.9757,
+      "pass": true
+    },
+    {
+      "check": "growth M21 cash_net",
+      "actual": 25041.2257,
+      "expected": 25041.2257,
+      "pass": true
+    },
+    {
+      "check": "growth M21 cumulative_cash",
+      "actual": -227152.9617,
+      "expected": -227152.9617,
+      "pass": true
+    },
+    {
+      "check": "growth M21 project_weeks",
+      "actual": 14.6667,
+      "expected": 14.6667,
+      "pass": true
+    },
+    {
+      "check": "growth M21 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M22 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M22 revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M22 receipts",
+      "actual": 72000.0,
+      "expected": 72000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M22 direct",
+      "actual": 47443.75,
+      "expected": 47443.75,
+      "pass": true
+    },
+    {
+      "check": "growth M22 commission",
+      "actual": 1307.25,
+      "expected": 1307.25,
+      "pass": true
+    },
+    {
+      "check": "growth M22 commission_cash",
+      "actual": 3297.875,
+      "expected": 3297.875,
+      "pass": true
+    },
+    {
+      "check": "growth M22 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M22 fixed",
+      "actual": 30832.7661,
+      "expected": 30832.7661,
+      "pass": true
+    },
+    {
+      "check": "growth M22 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M22 gross_profit",
+      "actual": -35443.75,
+      "expected": -35443.75,
+      "pass": true
+    },
+    {
+      "check": "growth M22 contribution",
+      "actual": -67583.7661,
+      "expected": -67583.7661,
+      "pass": true
+    },
+    {
+      "check": "growth M22 cash_net",
+      "actual": -9574.3911,
+      "expected": -9574.3911,
+      "pass": true
+    },
+    {
+      "check": "growth M22 cumulative_cash",
+      "actual": -236727.3527,
+      "expected": -236727.3527,
+      "pass": true
+    },
+    {
+      "check": "growth M22 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M22 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M23 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M23 revenue",
+      "actual": 82000.0,
+      "expected": 82000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M23 receipts",
+      "actual": 102000.0,
+      "expected": 102000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M23 direct",
+      "actual": 47443.75,
+      "expected": 47443.75,
+      "pass": true
+    },
+    {
+      "check": "growth M23 commission",
+      "actual": 1377.875,
+      "expected": 1377.875,
+      "pass": true
+    },
+    {
+      "check": "growth M23 commission_cash",
+      "actual": 1307.25,
+      "expected": 1307.25,
+      "pass": true
+    },
+    {
+      "check": "growth M23 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M23 fixed",
+      "actual": 24706.1493,
+      "expected": 24706.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M23 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M23 gross_profit",
+      "actual": 34556.25,
+      "expected": 34556.25,
+      "pass": true
+    },
+    {
+      "check": "growth M23 contribution",
+      "actual": 8472.2257,
+      "expected": 8472.2257,
+      "pass": true
+    },
+    {
+      "check": "growth M23 cash_net",
+      "actual": 28542.8507,
+      "expected": 28542.8507,
+      "pass": true
+    },
+    {
+      "check": "growth M23 cumulative_cash",
+      "actual": -208184.502,
+      "expected": -208184.502,
+      "pass": true
+    },
+    {
+      "check": "growth M23 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M23 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M24 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M24 revenue",
+      "actual": 192000.0,
+      "expected": 192000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M24 receipts",
+      "actual": 45500.0,
+      "expected": 45500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M24 direct",
+      "actual": 32062.5,
+      "expected": 32062.5,
+      "pass": true
+    },
+    {
+      "check": "growth M24 commission",
+      "actual": 3412.625,
+      "expected": 3412.625,
+      "pass": true
+    },
+    {
+      "check": "growth M24 commission_cash",
+      "actual": 1377.875,
+      "expected": 1377.875,
+      "pass": true
+    },
+    {
+      "check": "growth M24 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M24 fixed",
+      "actual": 30706.1493,
+      "expected": 30706.1493,
+      "pass": true
+    },
+    {
+      "check": "growth M24 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M24 gross_profit",
+      "actual": 159937.5,
+      "expected": 159937.5,
+      "pass": true
+    },
+    {
+      "check": "growth M24 contribution",
+      "actual": 125818.7257,
+      "expected": 125818.7257,
+      "pass": true
+    },
+    {
+      "check": "growth M24 cash_net",
+      "actual": -18646.5243,
+      "expected": -18646.5243,
+      "pass": true
+    },
+    {
+      "check": "growth M24 cumulative_cash",
+      "actual": -226831.0263,
+      "expected": -226831.0263,
+      "pass": true
+    },
+    {
+      "check": "growth M24 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "growth M24 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M25 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M25 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M25 receipts",
+      "actual": 129500.0,
+      "expected": 129500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M25 direct",
+      "actual": 43887.5,
+      "expected": 43887.5,
+      "pass": true
+    },
+    {
+      "check": "growth M25 commission",
+      "actual": 1192.625,
+      "expected": 1192.625,
+      "pass": true
+    },
+    {
+      "check": "growth M25 commission_cash",
+      "actual": 3412.625,
+      "expected": 3412.625,
+      "pass": true
+    },
+    {
+      "check": "growth M25 support_revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M25 fixed",
+      "actual": 36478.2165,
+      "expected": 36478.2165,
+      "pass": true
+    },
+    {
+      "check": "growth M25 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M25 gross_profit",
+      "actual": -28887.5,
+      "expected": -28887.5,
+      "pass": true
+    },
+    {
+      "check": "growth M25 contribution",
+      "actual": -66558.3415,
+      "expected": -66558.3415,
+      "pass": true
+    },
+    {
+      "check": "growth M25 cash_net",
+      "actual": 45721.6585,
+      "expected": 45721.6585,
+      "pass": true
+    },
+    {
+      "check": "growth M25 cumulative_cash",
+      "actual": -181109.3678,
+      "expected": -181109.3678,
+      "pass": true
+    },
+    {
+      "check": "growth M25 project_weeks",
+      "actual": 8.6667,
+      "expected": 8.6667,
+      "pass": true
+    },
+    {
+      "check": "growth M25 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M26 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M26 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M26 receipts",
+      "actual": 42000.0,
+      "expected": 42000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M26 direct",
+      "actual": 48343.75,
+      "expected": 48343.75,
+      "pass": true
+    },
+    {
+      "check": "growth M26 commission",
+      "actual": 855.75,
+      "expected": 855.75,
+      "pass": true
+    },
+    {
+      "check": "growth M26 commission_cash",
+      "actual": 1192.625,
+      "expected": 1192.625,
+      "pass": true
+    },
+    {
+      "check": "growth M26 support_revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M26 fixed",
+      "actual": 26539.4826,
+      "expected": 26539.4826,
+      "pass": true
+    },
+    {
+      "check": "growth M26 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M26 gross_profit",
+      "actual": -33343.75,
+      "expected": -33343.75,
+      "pass": true
+    },
+    {
+      "check": "growth M26 contribution",
+      "actual": -60738.9826,
+      "expected": -60738.9826,
+      "pass": true
+    },
+    {
+      "check": "growth M26 cash_net",
+      "actual": -34075.8576,
+      "expected": -34075.8576,
+      "pass": true
+    },
+    {
+      "check": "growth M26 cumulative_cash",
+      "actual": -215185.2254,
+      "expected": -215185.2254,
+      "pass": true
+    },
+    {
+      "check": "growth M26 project_weeks",
+      "actual": 9.9167,
+      "expected": 9.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M26 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M27 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M27 revenue",
+      "actual": 85000.0,
+      "expected": 85000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M27 receipts",
+      "actual": 141000.0,
+      "expected": 141000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M27 direct",
+      "actual": 76806.25,
+      "expected": 76806.25,
+      "pass": true
+    },
+    {
+      "check": "growth M27 commission",
+      "actual": 1152.125,
+      "expected": 1152.125,
+      "pass": true
+    },
+    {
+      "check": "growth M27 commission_cash",
+      "actual": 855.75,
+      "expected": 855.75,
+      "pass": true
+    },
+    {
+      "check": "growth M27 support_revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M27 fixed",
+      "actual": 31339.4826,
+      "expected": 31339.4826,
+      "pass": true
+    },
+    {
+      "check": "growth M27 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M27 gross_profit",
+      "actual": 8193.75,
+      "expected": 8193.75,
+      "pass": true
+    },
+    {
+      "check": "growth M27 contribution",
+      "actual": -24297.8576,
+      "expected": -24297.8576,
+      "pass": true
+    },
+    {
+      "check": "growth M27 cash_net",
+      "actual": 31998.5174,
+      "expected": 31998.5174,
+      "pass": true
+    },
+    {
+      "check": "growth M27 cumulative_cash",
+      "actual": -183186.7081,
+      "expected": -183186.7081,
+      "pass": true
+    },
+    {
+      "check": "growth M27 project_weeks",
+      "actual": 15.9167,
+      "expected": 15.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M27 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M28 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M28 revenue",
+      "actual": 195000.0,
+      "expected": 195000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M28 receipts",
+      "actual": 48500.0,
+      "expected": 48500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M28 direct",
+      "actual": 61425.0,
+      "expected": 61425.0,
+      "pass": true
+    },
+    {
+      "check": "growth M28 commission",
+      "actual": 3517.625,
+      "expected": 3517.625,
+      "pass": true
+    },
+    {
+      "check": "growth M28 commission_cash",
+      "actual": 1152.125,
+      "expected": 1152.125,
+      "pass": true
+    },
+    {
+      "check": "growth M28 support_revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M28 fixed",
+      "actual": 32666.0994,
+      "expected": 32666.0994,
+      "pass": true
+    },
+    {
+      "check": "growth M28 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M28 gross_profit",
+      "actual": 133575.0,
+      "expected": 133575.0,
+      "pass": true
+    },
+    {
+      "check": "growth M28 contribution",
+      "actual": 97391.2756,
+      "expected": 97391.2756,
+      "pass": true
+    },
+    {
+      "check": "growth M28 cash_net",
+      "actual": -46743.2244,
+      "expected": -46743.2244,
+      "pass": true
+    },
+    {
+      "check": "growth M28 cumulative_cash",
+      "actual": -229929.9325,
+      "expected": -229929.9325,
+      "pass": true
+    },
+    {
+      "check": "growth M28 project_weeks",
+      "actual": 12.0,
+      "expected": 12.0,
+      "pass": true
+    },
+    {
+      "check": "growth M28 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M29 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M29 revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M29 receipts",
+      "actual": 204500.0,
+      "expected": 204500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M29 direct",
+      "actual": 73250.0,
+      "expected": 73250.0,
+      "pass": true
+    },
+    {
+      "check": "growth M29 commission",
+      "actual": 1297.625,
+      "expected": 1297.625,
+      "pass": true
+    },
+    {
+      "check": "growth M29 commission_cash",
+      "actual": 3517.625,
+      "expected": 3517.625,
+      "pass": true
+    },
+    {
+      "check": "growth M29 support_revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M29 fixed",
+      "actual": 26539.4826,
+      "expected": 26539.4826,
+      "pass": true
+    },
+    {
+      "check": "growth M29 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M29 gross_profit",
+      "actual": -55250.0,
+      "expected": -55250.0,
+      "pass": true
+    },
+    {
+      "check": "growth M29 contribution",
+      "actual": -83087.1076,
+      "expected": -83087.1076,
+      "pass": true
+    },
+    {
+      "check": "growth M29 cash_net",
+      "actual": 101192.8924,
+      "expected": 101192.8924,
+      "pass": true
+    },
+    {
+      "check": "growth M29 cumulative_cash",
+      "actual": -128737.0401,
+      "expected": -128737.0401,
+      "pass": true
+    },
+    {
+      "check": "growth M29 project_weeks",
+      "actual": 14.6667,
+      "expected": 14.6667,
+      "pass": true
+    },
+    {
+      "check": "growth M29 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M30 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M30 revenue",
+      "actual": 198000.0,
+      "expected": 198000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M30 receipts",
+      "actual": 45000.0,
+      "expected": 45000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M30 direct",
+      "actual": 77706.25,
+      "expected": 77706.25,
+      "pass": true
+    },
+    {
+      "check": "growth M30 commission",
+      "actual": 3276.0,
+      "expected": 3276.0,
+      "pass": true
+    },
+    {
+      "check": "growth M30 commission_cash",
+      "actual": 1297.625,
+      "expected": 1297.625,
+      "pass": true
+    },
+    {
+      "check": "growth M30 support_revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M30 fixed",
+      "actual": 33539.4826,
+      "expected": 33539.4826,
+      "pass": true
+    },
+    {
+      "check": "growth M30 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M30 gross_profit",
+      "actual": 120293.75,
+      "expected": 120293.75,
+      "pass": true
+    },
+    {
+      "check": "growth M30 contribution",
+      "actual": 83478.2674,
+      "expected": 83478.2674,
+      "pass": true
+    },
+    {
+      "check": "growth M30 cash_net",
+      "actual": -67543.3576,
+      "expected": -67543.3576,
+      "pass": true
+    },
+    {
+      "check": "growth M30 cumulative_cash",
+      "actual": -196280.3977,
+      "expected": -196280.3977,
+      "pass": true
+    },
+    {
+      "check": "growth M30 project_weeks",
+      "actual": 15.9167,
+      "expected": 15.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M30 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M31 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M31 revenue",
+      "actual": 91000.0,
+      "expected": 91000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M31 receipts",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M31 direct",
+      "actual": 78606.25,
+      "expected": 78606.25,
+      "pass": true
+    },
+    {
+      "check": "growth M31 commission",
+      "actual": 1918.625,
+      "expected": 1918.625,
+      "pass": true
+    },
+    {
+      "check": "growth M31 commission_cash",
+      "actual": 3276.0,
+      "expected": 3276.0,
+      "pass": true
+    },
+    {
+      "check": "growth M31 support_revenue",
+      "actual": 21000.0,
+      "expected": 21000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M31 fixed",
+      "actual": 32666.0994,
+      "expected": 32666.0994,
+      "pass": true
+    },
+    {
+      "check": "growth M31 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M31 gross_profit",
+      "actual": 12393.75,
+      "expected": 12393.75,
+      "pass": true
+    },
+    {
+      "check": "growth M31 contribution",
+      "actual": -22190.9744,
+      "expected": -22190.9744,
+      "pass": true
+    },
+    {
+      "check": "growth M31 cash_net",
+      "actual": 65451.6506,
+      "expected": 65451.6506,
+      "pass": true
+    },
+    {
+      "check": "growth M31 cumulative_cash",
+      "actual": -130828.7471,
+      "expected": -130828.7471,
+      "pass": true
+    },
+    {
+      "check": "growth M31 project_weeks",
+      "actual": 15.9167,
+      "expected": 15.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M31 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M32 bookings",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M32 revenue",
+      "actual": 201000.0,
+      "expected": 201000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M32 receipts",
+      "actual": 94500.0,
+      "expected": 94500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M32 direct",
+      "actual": 74150.0,
+      "expected": 74150.0,
+      "pass": true
+    },
+    {
+      "check": "growth M32 commission",
+      "actual": 4058.375,
+      "expected": 4058.375,
+      "pass": true
+    },
+    {
+      "check": "growth M32 commission_cash",
+      "actual": 1918.625,
+      "expected": 1918.625,
+      "pass": true
+    },
+    {
+      "check": "growth M32 support_revenue",
+      "actual": 21000.0,
+      "expected": 21000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M32 fixed",
+      "actual": 26539.4826,
+      "expected": 26539.4826,
+      "pass": true
+    },
+    {
+      "check": "growth M32 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M32 gross_profit",
+      "actual": 126850.0,
+      "expected": 126850.0,
+      "pass": true
+    },
+    {
+      "check": "growth M32 contribution",
+      "actual": 96252.1424,
+      "expected": 96252.1424,
+      "pass": true
+    },
+    {
+      "check": "growth M32 cash_net",
+      "actual": -8108.1076,
+      "expected": -8108.1076,
+      "pass": true
+    },
+    {
+      "check": "growth M32 cumulative_cash",
+      "actual": -138936.8548,
+      "expected": -138936.8548,
+      "pass": true
+    },
+    {
+      "check": "growth M32 project_weeks",
+      "actual": 14.6667,
+      "expected": 14.6667,
+      "pass": true
+    },
+    {
+      "check": "growth M32 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M33 bookings",
+      "actual": 195000.0,
+      "expected": 195000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M33 revenue",
+      "actual": 24000.0,
+      "expected": 24000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M33 receipts",
+      "actual": 197500.0,
+      "expected": 197500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M33 direct",
+      "actual": 79506.25,
+      "expected": 79506.25,
+      "pass": true
+    },
+    {
+      "check": "growth M33 commission",
+      "actual": 1507.625,
+      "expected": 1507.625,
+      "pass": true
+    },
+    {
+      "check": "growth M33 commission_cash",
+      "actual": 4058.375,
+      "expected": 4058.375,
+      "pass": true
+    },
+    {
+      "check": "growth M33 support_revenue",
+      "actual": 24000.0,
+      "expected": 24000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M33 fixed",
+      "actual": 26539.4826,
+      "expected": 26539.4826,
+      "pass": true
+    },
+    {
+      "check": "growth M33 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M33 gross_profit",
+      "actual": -55506.25,
+      "expected": -55506.25,
+      "pass": true
+    },
+    {
+      "check": "growth M33 contribution",
+      "actual": -83553.3576,
+      "expected": -83553.3576,
+      "pass": true
+    },
+    {
+      "check": "growth M33 cash_net",
+      "actual": 87395.8924,
+      "expected": 87395.8924,
+      "pass": true
+    },
+    {
+      "check": "growth M33 cumulative_cash",
+      "actual": -51540.9624,
+      "expected": -51540.9624,
+      "pass": true
+    },
+    {
+      "check": "growth M33 project_weeks",
+      "actual": 15.9167,
+      "expected": 15.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M33 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M34 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M34 revenue",
+      "actual": 274000.0,
+      "expected": 274000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M34 receipts",
+      "actual": 42000.0,
+      "expected": 42000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M34 direct",
+      "actual": 79506.25,
+      "expected": 79506.25,
+      "pass": true
+    },
+    {
+      "check": "growth M34 commission",
+      "actual": 4113.125,
+      "expected": 4113.125,
+      "pass": true
+    },
+    {
+      "check": "growth M34 commission_cash",
+      "actual": 1507.625,
+      "expected": 1507.625,
+      "pass": true
+    },
+    {
+      "check": "growth M34 support_revenue",
+      "actual": 24000.0,
+      "expected": 24000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M34 fixed",
+      "actual": 32666.0994,
+      "expected": 32666.0994,
+      "pass": true
+    },
+    {
+      "check": "growth M34 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M34 gross_profit",
+      "actual": 194493.75,
+      "expected": 194493.75,
+      "pass": true
+    },
+    {
+      "check": "growth M34 contribution",
+      "actual": 157714.5256,
+      "expected": 157714.5256,
+      "pass": true
+    },
+    {
+      "check": "growth M34 cash_net",
+      "actual": -71679.9744,
+      "expected": -71679.9744,
+      "pass": true
+    },
+    {
+      "check": "growth M34 cumulative_cash",
+      "actual": -123220.9368,
+      "expected": -123220.9368,
+      "pass": true
+    },
+    {
+      "check": "growth M34 project_weeks",
+      "actual": 15.9167,
+      "expected": 15.9167,
+      "pass": true
+    },
+    {
+      "check": "growth M34 production_active",
+      "actual": 2.0,
+      "expected": 2,
+      "pass": true
+    },
+    {
+      "check": "growth M35 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M35 revenue",
+      "actual": 27000.0,
+      "expected": 27000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M35 receipts",
+      "actual": 165500.0,
+      "expected": 165500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M35 direct",
+      "actual": 36562.5,
+      "expected": 36562.5,
+      "pass": true
+    },
+    {
+      "check": "growth M35 commission",
+      "actual": 2178.875,
+      "expected": 2178.875,
+      "pass": true
+    },
+    {
+      "check": "growth M35 commission_cash",
+      "actual": 4113.125,
+      "expected": 4113.125,
+      "pass": true
+    },
+    {
+      "check": "growth M35 support_revenue",
+      "actual": 27000.0,
+      "expected": 27000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M35 fixed",
+      "actual": 26539.4826,
+      "expected": 26539.4826,
+      "pass": true
+    },
+    {
+      "check": "growth M35 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M35 gross_profit",
+      "actual": -9562.5,
+      "expected": -9562.5,
+      "pass": true
+    },
+    {
+      "check": "growth M35 contribution",
+      "actual": -38280.8576,
+      "expected": -38280.8576,
+      "pass": true
+    },
+    {
+      "check": "growth M35 cash_net",
+      "actual": 98284.8924,
+      "expected": 98284.8924,
+      "pass": true
+    },
+    {
+      "check": "growth M35 cumulative_cash",
+      "actual": -24936.0444,
+      "expected": -24936.0444,
+      "pass": true
+    },
+    {
+      "check": "growth M35 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "growth M35 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth M36 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth M36 revenue",
+      "actual": 207000.0,
+      "expected": 207000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M36 receipts",
+      "actual": 50500.0,
+      "expected": 50500.0,
+      "pass": true
+    },
+    {
+      "check": "growth M36 direct",
+      "actual": 36562.5,
+      "expected": 36562.5,
+      "pass": true
+    },
+    {
+      "check": "growth M36 commission",
+      "actual": 3702.125,
+      "expected": 3702.125,
+      "pass": true
+    },
+    {
+      "check": "growth M36 commission_cash",
+      "actual": 2178.875,
+      "expected": 2178.875,
+      "pass": true
+    },
+    {
+      "check": "growth M36 support_revenue",
+      "actual": 27000.0,
+      "expected": 27000.0,
+      "pass": true
+    },
+    {
+      "check": "growth M36 fixed",
+      "actual": 33539.4826,
+      "expected": 33539.4826,
+      "pass": true
+    },
+    {
+      "check": "growth M36 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "growth M36 gross_profit",
+      "actual": 170437.5,
+      "expected": 170437.5,
+      "pass": true
+    },
+    {
+      "check": "growth M36 contribution",
+      "actual": 133195.8924,
+      "expected": 133195.8924,
+      "pass": true
+    },
+    {
+      "check": "growth M36 cash_net",
+      "actual": -21780.8576,
+      "expected": -21780.8576,
+      "pass": true
+    },
+    {
+      "check": "growth M36 cumulative_cash",
+      "actual": -46716.9021,
+      "expected": -46716.9021,
+      "pass": true
+    },
+    {
+      "check": "growth M36 project_weeks",
+      "actual": 6.0,
+      "expected": 6.0,
+      "pass": true
+    },
+    {
+      "check": "growth M36 production_active",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "growth Y1 bookings",
+      "actual": 335000.0,
+      "expected": 335000.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y1 revenue",
+      "actual": 335000.0,
+      "expected": 335000.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y1 receipts",
+      "actual": 275500.0,
+      "expected": 275500.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y1 direct",
+      "actual": 206137.5,
+      "expected": 206137.5,
+      "pass": true
+    },
+    {
+      "check": "growth Y1 commission",
+      "actual": 5339.75,
+      "expected": 5339.75,
+      "pass": true
+    },
+    {
+      "check": "growth Y1 commission_cash",
+      "actual": 2468.88,
+      "expected": 2468.875,
+      "pass": true
+    },
+    {
+      "check": "growth Y1 fixed",
+      "actual": 326925.71,
+      "expected": 326925.7091,
+      "pass": true
+    },
+    {
+      "check": "growth Y1 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y1 contribution",
+      "actual": -203402.96,
+      "expected": -203402.9591,
+      "pass": true
+    },
+    {
+      "check": "growth total cost 0",
+      "actual": 538402.96,
+      "expected": 538402.96,
+      "pass": true
+    },
+    {
+      "check": "growth pool 0",
+      "actual": 3,
+      "expected": 3,
+      "pass": true
+    },
+    {
+      "check": "growth Y2 bookings",
+      "actual": 930000.0,
+      "expected": 930000.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y2 revenue",
+      "actual": 1011000.0,
+      "expected": 1011000.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y2 receipts",
+      "actual": 999000.0,
+      "expected": 999000.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y2 direct",
+      "actual": 604762.5,
+      "expected": 604762.5,
+      "pass": true
+    },
+    {
+      "check": "growth Y2 commission",
+      "actual": 19891.88,
+      "expected": 19891.875,
+      "pass": true
+    },
+    {
+      "check": "growth Y2 commission_cash",
+      "actual": 19350.12,
+      "expected": 19350.125,
+      "pass": true
+    },
+    {
+      "check": "growth Y2 fixed",
+      "actual": 339686.32,
+      "expected": 339686.3172,
+      "pass": true
+    },
+    {
+      "check": "growth Y2 support_revenue",
+      "actual": 81000.0,
+      "expected": 81000.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y2 contribution",
+      "actual": 46659.31,
+      "expected": 46659.3078,
+      "pass": true
+    },
+    {
+      "check": "growth total cost 1",
+      "actual": 964340.7,
+      "expected": 964340.7,
+      "pass": true
+    },
+    {
+      "check": "growth pool 1",
+      "actual": 5,
+      "expected": 5,
+      "pass": true
+    },
+    {
+      "check": "growth Y3 bookings",
+      "actual": 1110000.0,
+      "expected": 1110000.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y3 revenue",
+      "actual": 1350000.0,
+      "expected": 1350000.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y3 receipts",
+      "actual": 1340500.0,
+      "expected": 1340500.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y3 direct",
+      "actual": 766312.5,
+      "expected": 766312.5,
+      "pass": true
+    },
+    {
+      "check": "growth Y3 commission",
+      "actual": 28770.5,
+      "expected": 28770.5,
+      "pass": true
+    },
+    {
+      "check": "growth Y3 commission_cash",
+      "actual": 28481.0,
+      "expected": 28481.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y3 fixed",
+      "actual": 365592.38,
+      "expected": 365592.3758,
+      "pass": true
+    },
+    {
+      "check": "growth Y3 support_revenue",
+      "actual": 240000.0,
+      "expected": 240000.0,
+      "pass": true
+    },
+    {
+      "check": "growth Y3 contribution",
+      "actual": 189324.62,
+      "expected": 189324.6242,
+      "pass": true
+    },
+    {
+      "check": "growth total cost 2",
+      "actual": 1160675.38,
+      "expected": 1160675.38,
+      "pass": true
+    },
+    {
+      "check": "growth pool 2",
+      "actual": 6,
+      "expected": 6,
+      "pass": true
+    },
+    {
+      "check": "growth liquidity",
+      "actual": 327479.5756,
+      "expected": 327479.58,
+      "pass": true
+    },
+    {
+      "check": "growth contribution36",
+      "actual": 32580.9729,
+      "expected": 32580.97,
       "pass": true
     },
     {
       "check": "breakeven 0.35",
-      "actual": 631578.9474,
-      "expected": 631578.95,
+      "actual": 983235.2153,
+      "expected": 983235.2153,
       "pass": true
     },
     {
       "check": "breakeven 0.4",
-      "actual": 552631.5789,
-      "expected": 552631.58,
+      "actual": 860330.8134,
+      "expected": 860330.8134,
       "pass": true
     },
     {
       "check": "breakeven 0.45",
-      "actual": 491228.0702,
-      "expected": 491228.07,
+      "actual": 764738.5008,
+      "expected": 764738.5008,
       "pass": true
     }
   ],
   "previous_version_unchanged": true,
   "pdf_pages": [
-    7,
-    7
+    10,
+    10
   ]
 }

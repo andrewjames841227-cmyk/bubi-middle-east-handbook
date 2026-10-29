@@ -1,5 +1,5 @@
 {
-  "version": "V4.0 / HQ DIRECT",
+  "version": "V4.1 / HQ DIRECT",
   "date": "2026.10.29",
   "title": {
     "zh": "总部直管 · 外派国家销售总经理",
@@ -19,12 +19,16 @@
       "en": "One country sales GM resides in the Gulf and reports directly to HQ. Contracts, finance, product and technology follow HQ authority."
     },
     {
-      "zh": "首年基础配置21万美元：个人及雇主成本12.9万、销售活动4.5万、总部非计费售前3.6万；含15%预留为24.15万。",
-      "en": "Y1 base resources: USD210k - personal / employer cost 129k, sales activity 45k and non-billable HQ presales 36k. With 15% reserve: USD241.5k."
+      "zh": "首年固定配置USD326,926：含AED600,000年薪谈判目标，住宿、车辆、餐补、差旅及两国签证另列。含15%预留USD375,965。",
+      "en": "Y1 fixed resources USD 326,926, including AED 600,000 fixed-pay negotiation target; housing, vehicle, meals, travel and two-country visas are separate. With 15% reserve: USD 375,965."
     },
     {
       "zh": "首年基准目标为3项诊断、2项试点、1项生产实施：签约及确认收入33.5万美元，收款27.55万美元；全成本销售贡献仍为负。",
-      "en": "Y1 base goal: three discoveries, two pilots and one production scope - USD335k bookings / revenue and USD275.5k receipts. Full-cost sales contribution remains negative."
+      "en": "Y1 base goal: three discoveries, two pilots and one production scope - USD 335k bookings / revenue and USD 275.5k receipts. Full-cost sales contribution remains negative."
+    },
+    {
+      "zh": "按新成本，原组合三年累计贡献约为负13.32万美元。增长情景将Y2/Y3实施验收数提高至4/5项，配置总部交付资源后，三年累计约正3.26万美元；均为规划情景。",
+      "en": "At revised costs the original mix produces about -USD 133.2k over three years. The growth case lifts Y2/Y3 production acceptances to 4/5, with HQ delivery capacity, for about +USD 32.6k cumulative contribution. Both are planning cases."
     }
   ],
   "capabilities": [
@@ -292,7 +296,7 @@
       },
       "output": {
         "zh": "基准33.5万美元收入、27.55万美元收款；若延期，滚动到下一年度。",
-        "en": "Base USD335k revenue and USD275.5k receipts; roll into the next year if delayed."
+        "en": "Base USD 335k revenue and USD 275.5k receipts; roll into the next year if delayed."
       }
     },
     {
@@ -302,12 +306,12 @@
         "en": "Group replication / service"
       },
       "body": {
-        "zh": "目标3项诊断、3项试点和3项实施验收；优先做同一集团和生态内复制。总部按项目配置交付人员。",
-        "en": "Target three discoveries, three pilots and three production acceptances, prioritizing group / ecosystem reuse. HQ resources delivery by project."
+        "zh": "基准3项诊断、3项试点、3项实施；增长方案增加1项生产订单至4项，必须匹配采购日历、预售支持与总部交付资源。",
+        "en": "Base 3 discoveries /3 pilots /3 production scopes. Growth adds one production order to 4, requiring client purchasing, presales and HQ delivery capacity."
       },
       "output": {
-        "zh": "基准收入82.2万美元；服务收入7.2万美元包含在内。",
-        "en": "Base revenue USD822k, including USD72k support."
+        "zh": "基准收入82.2万美元；增长情景101.1万美元。第二年目标以具体项目清单逐季度校准。",
+        "en": "Base revenue USD 822k; growth USD 1.011m. Reconcile year-two targets to named projects each quarter."
       }
     },
     {
@@ -317,12 +321,12 @@
         "en": "Repeatable expansion / second market"
       },
       "body": {
-        "zh": "目标3项诊断、3项试点及4项实施验收；服务续约与增量需求优先。进入第二国按项目另做用工、合同和税务判断。",
-        "en": "Target three discoveries, three pilots and four production acceptances. Prioritize renewals / expansion; assess second-market employment, contracts and tax separately."
+        "zh": "基准3项诊断、3项试点、4项实施；增长方案5项实施并错峰交付。服务续约与增量优先，第二国工作权限单独落实。",
+        "en": "Base 3 discoveries /3 pilots /4 production scopes; growth 5 productions with staggered delivery. Prioritize renewals / expansion and secure separate second-country work rights."
       },
       "output": {
-        "zh": "基准收入111.9万美元；国家级平台另行立项。",
-        "en": "Base revenue USD1.119m; national platforms are separate projects."
+        "zh": "基准收入111.9万美元；增长情景135万美元。三年看累计贡献，不将第三年单年转正等同回本。",
+        "en": "Base revenue USD 1.119m; growth USD 1.350m. Assess cumulative contribution, not only a positive third year."
       }
     }
   ],
@@ -367,7 +371,7 @@
       "20%",
       {
         "zh": "Y1基准335,000美元；有效合同、可履约范围，不含意向或MOU。",
-        "en": "Y1 base USD335,000 in effective, deliverable contracts; excludes interest / MOUs."
+        "en": "Y1 base USD 335,000 in effective, deliverable contracts; excludes interest / MOUs."
       }
     ],
     [
@@ -378,7 +382,7 @@
       "40%",
       {
         "zh": "Y1基准275,500美元；银行到账并与合同、发票对应。",
-        "en": "Y1 base USD275,500 received and reconciled to contracts / invoices."
+        "en": "Y1 base USD 275,500 received and reconciled to contracts / invoices."
       }
     ],
     [
@@ -420,14 +424,14 @@
   ],
   "sources": [
     {
-      "id": "H40",
+      "id": "H41",
       "title": {
         "zh": "本版成本、目标和月度模型",
         "en": "This version’s cost / target / monthly model"
       },
       "note": {
-        "zh": "2026.10.29专业规划假设；无个人实付账单及总部成本原账。工资、驻外费用、工作量、单价与时间可据真实数据替换。",
-        "en": "Authored planning assumptions, 29 Oct 2026; no personal expense claims or actual HQ ledgers. Replace compensation, expenses, effort, prices and dates with actual inputs."
+        "zh": "2026.10.29修订：AED600,000固定薪酬谈判目标；福利、两国工作许可和雇佣支持单列。基准/延期/增长三情景由月度事件计算，未经确认的旧工资预算不抵扣。",
+        "en": "29 Oct 2026 revision: AED 600,000 fixed-pay negotiation target; separate benefits, two-country work permission and employment support. Monthly-event base / delayed / growth cases; no unconfirmed payroll credit."
       },
       "url": "files/model.json"
     },
@@ -439,7 +443,7 @@
       },
       "note": {
         "zh": "沿用诊断/试点/实施15,000/55,000/180,000美元和3,000美元月服务的范围与人周；全额交付成本计入本版。",
-        "en": "Retain discovery / pilot / production prices of USD15k/55k/180k and USD3k monthly support with defined scope / effort. This version includes full delivery cost."
+        "en": "Retain discovery / pilot / production prices of USD 15k/55k/180k and USD 3k monthly support with defined scope / effort. This version includes full delivery cost."
       },
       "url": "../files/strategy-model-v3.6.json"
     },
@@ -513,6 +517,65 @@
         "en": "Account, transaction, contract, asset and block interfaces; confirm the sold product scope with technical owners."
       },
       "url": "https://docs.bubi.cn/docs/sdk-tutorial/nodejs-sdk"
+    },
+    {
+      "id": "R01",
+      "title": {
+        "zh": "历史福利政策摘录（脱敏）",
+        "en": "Historic benefit-policy extract (redacted)"
+      },
+      "note": {
+        "zh": "Refine2024年12月offer已逐页阅图：餐补AED150/天、单人住房、车辆、按制度报销年假机票。仅参考结构，原薪资、私人资料和合同原件不公开。",
+        "en": "Refine Dec 2024 offer visually reviewed: AED 150/day meals, single-person accommodation, vehicle and annual-leave airfare under policy. Structure reference only; prior salary, personal details and original remain private."
+      }
+    },
+    {
+      "id": "FX1",
+      "title": {
+        "zh": "阿联酋央行预算汇率参考",
+        "en": "CBUAE FX reference"
+      },
+      "url": "https://www.centralbank.ae/media/5xmpymzi/fx-swaps-facility-t-c_06-04-2023.pdf",
+      "note": {
+        "zh": "采用1USD=3.6725AED作预算折算，不是银行实际结汇报价。",
+        "en": "Use AED 3.6725/USD for budget conversion, not a bank settlement quote."
+      }
+    },
+    {
+      "id": "FX2",
+      "title": {
+        "zh": "沙特央行汇率政策",
+        "en": "SAMA exchange-rate policy"
+      },
+      "url": "https://sama.gov.sa/en-US/MediaCenter/News/Pages/news-557.aspx",
+      "note": {
+        "zh": "采用1USD=3.75SAR作预算折算。",
+        "en": "Use SAR 3.75/USD for budget conversion."
+      }
+    },
+    {
+      "id": "S01",
+      "title": {
+        "zh": "沙特雇主费用承担规则",
+        "en": "Saudi employer-borne costs"
+      },
+      "url": "https://www.hrsd.gov.sa/en/knowledge-centre/articles/64434-0",
+      "note": {
+        "zh": "HRSD第40条涉及雇主承担工作许可、居留等费用。此项支持费用归属，不证明预算总额或已获工作资格。",
+        "en": "HRSD Article 40 assigns work-permit / residence and related costs to the employer. Supports cost ownership, not total price or work approval."
+      }
+    },
+    {
+      "id": "S02",
+      "title": {
+        "zh": "沙特工作许可费用指南",
+        "en": "Saudi work-license fee guide"
+      },
+      "url": "https://www.hrsd.gov.sa/sites/default/files/2021-11/07032022.pdf",
+      "note": {
+        "zh": "历史指南列100SAR许可费及700/800SAR月附加费；年度汇总栏与月数计算存在不一致。本版取800×12+100=9,700SAR作保守额度，实际以Qiwa缴款单及豁免为准。",
+        "en": "Historic guide lists SAR 100 fee plus monthly 700/800 levy; annual cells differ from monthly arithmetic. Reserve 800×12+100=SAR 9,700; actual Qiwa assessment / exemptions govern."
+      }
     }
   ]
 }

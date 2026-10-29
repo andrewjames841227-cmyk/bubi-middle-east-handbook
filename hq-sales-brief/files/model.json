@@ -1,0 +1,2034 @@
+{
+  "currency": "USD",
+  "products": {
+    "D": {
+      "name": {
+        "zh": "场景诊断",
+        "en": "Discovery"
+      },
+      "price": 15000,
+      "weeks": 2.5,
+      "rate": 2500,
+      "external": 1500,
+      "duration": 2,
+      "terms": [
+        [
+          0,
+          0.6
+        ],
+        [
+          2,
+          0.4
+        ]
+      ],
+      "scope": {
+        "zh": "一个业务问题、流程与数据基线、下一阶段SOW；约2个有效周，客户日历4-8周。",
+        "en": "One problem, workflow / data baseline and next-stage SOW; about two active weeks across 4-8 calendar weeks."
+      },
+      "cost": 8912.5,
+      "gp": 6087.5
+    },
+    "V": {
+      "name": {
+        "zh": "受控试点",
+        "en": "Bounded pilot"
+      },
+      "price": 55000,
+      "weeks": 8,
+      "rate": 3000,
+      "external": 4500,
+      "duration": 3,
+      "terms": [
+        [
+          0,
+          0.4
+        ],
+        [
+          3,
+          0.5
+        ],
+        [
+          4,
+          0.1
+        ]
+      ],
+      "scope": {
+        "zh": "一种凭证、两类参与方、最多3个接口和一个测试流程；约6个技术周，客户日历8-16周。",
+        "en": "One credential, two roles, up to three interfaces and one test workflow; about six technical weeks across 8-16 calendar weeks."
+      },
+      "cost": 32775.0,
+      "gp": 22225.0
+    },
+    "E": {
+      "name": {
+        "zh": "生产实施",
+        "en": "Production implementation"
+      },
+      "price": 180000,
+      "weeks": 24,
+      "rate": 3500,
+      "external": 15000,
+      "duration": 4,
+      "terms": [
+        [
+          0,
+          0.3
+        ],
+        [
+          2,
+          0.4
+        ],
+        [
+          4,
+          0.2
+        ],
+        [
+          5,
+          0.1
+        ]
+      ],
+      "scope": {
+        "zh": "一个运营主体、一个流程、最多3个既有系统接口；24人周，客户日历基线4个月。",
+        "en": "One operator, one workflow and up to three existing-system interfaces; 24 person-weeks over a four-month baseline."
+      },
+      "cost": 113850.0,
+      "gp": 66150.0
+    }
+  },
+  "projects": [
+    {
+      "id": "D1",
+      "kind": "D",
+      "start": 4,
+      "end": 5
+    },
+    {
+      "id": "D2",
+      "kind": "D",
+      "start": 6,
+      "end": 7
+    },
+    {
+      "id": "D3",
+      "kind": "D",
+      "start": 8,
+      "end": 9
+    },
+    {
+      "id": "D4",
+      "kind": "D",
+      "start": 14,
+      "end": 15
+    },
+    {
+      "id": "D5",
+      "kind": "D",
+      "start": 18,
+      "end": 19
+    },
+    {
+      "id": "D6",
+      "kind": "D",
+      "start": 22,
+      "end": 23
+    },
+    {
+      "id": "D7",
+      "kind": "D",
+      "start": 26,
+      "end": 27
+    },
+    {
+      "id": "D8",
+      "kind": "D",
+      "start": 30,
+      "end": 31
+    },
+    {
+      "id": "D9",
+      "kind": "D",
+      "start": 33,
+      "end": 34
+    },
+    {
+      "id": "V1",
+      "kind": "V",
+      "start": 6,
+      "end": 8
+    },
+    {
+      "id": "V2",
+      "kind": "V",
+      "start": 9,
+      "end": 11
+    },
+    {
+      "id": "V3",
+      "kind": "V",
+      "start": 13,
+      "end": 15
+    },
+    {
+      "id": "V4",
+      "kind": "V",
+      "start": 17,
+      "end": 19
+    },
+    {
+      "id": "V5",
+      "kind": "V",
+      "start": 21,
+      "end": 23
+    },
+    {
+      "id": "V6",
+      "kind": "V",
+      "start": 25,
+      "end": 27
+    },
+    {
+      "id": "V7",
+      "kind": "V",
+      "start": 29,
+      "end": 31
+    },
+    {
+      "id": "V8",
+      "kind": "V",
+      "start": 32,
+      "end": 34
+    },
+    {
+      "id": "E1",
+      "kind": "E",
+      "start": 9,
+      "end": 12
+    },
+    {
+      "id": "E2",
+      "kind": "E",
+      "start": 13,
+      "end": 16
+    },
+    {
+      "id": "E3",
+      "kind": "E",
+      "start": 17,
+      "end": 20
+    },
+    {
+      "id": "E4",
+      "kind": "E",
+      "start": 21,
+      "end": 24
+    },
+    {
+      "id": "E5",
+      "kind": "E",
+      "start": 25,
+      "end": 28
+    },
+    {
+      "id": "E6",
+      "kind": "E",
+      "start": 28,
+      "end": 31
+    },
+    {
+      "id": "E7",
+      "kind": "E",
+      "start": 31,
+      "end": 34
+    },
+    {
+      "id": "E8",
+      "kind": "E",
+      "start": 33,
+      "end": 36
+    }
+  ],
+  "support": {
+    "price": 3000,
+    "cost": 900,
+    "scope": {
+      "zh": "每个上线项目每月1个人日支持USD700，加云与监测USD200；额外服务另报。",
+      "en": "Per live project: one support person-day USD 700 + cloud / monitoring USD 200 per month; extra work priced separately."
+    }
+  },
+  "cases": {
+    "base": {
+      "delay": 0,
+      "projects": [
+        {
+          "id": "D1",
+          "kind": "D",
+          "start": 4,
+          "end": 5
+        },
+        {
+          "id": "D2",
+          "kind": "D",
+          "start": 6,
+          "end": 7
+        },
+        {
+          "id": "D3",
+          "kind": "D",
+          "start": 8,
+          "end": 9
+        },
+        {
+          "id": "D4",
+          "kind": "D",
+          "start": 14,
+          "end": 15
+        },
+        {
+          "id": "D5",
+          "kind": "D",
+          "start": 18,
+          "end": 19
+        },
+        {
+          "id": "D6",
+          "kind": "D",
+          "start": 22,
+          "end": 23
+        },
+        {
+          "id": "D7",
+          "kind": "D",
+          "start": 26,
+          "end": 27
+        },
+        {
+          "id": "D8",
+          "kind": "D",
+          "start": 30,
+          "end": 31
+        },
+        {
+          "id": "D9",
+          "kind": "D",
+          "start": 33,
+          "end": 34
+        },
+        {
+          "id": "V1",
+          "kind": "V",
+          "start": 6,
+          "end": 8
+        },
+        {
+          "id": "V2",
+          "kind": "V",
+          "start": 9,
+          "end": 11
+        },
+        {
+          "id": "V3",
+          "kind": "V",
+          "start": 13,
+          "end": 15
+        },
+        {
+          "id": "V4",
+          "kind": "V",
+          "start": 17,
+          "end": 19
+        },
+        {
+          "id": "V5",
+          "kind": "V",
+          "start": 21,
+          "end": 23
+        },
+        {
+          "id": "V6",
+          "kind": "V",
+          "start": 25,
+          "end": 27
+        },
+        {
+          "id": "V7",
+          "kind": "V",
+          "start": 29,
+          "end": 31
+        },
+        {
+          "id": "V8",
+          "kind": "V",
+          "start": 32,
+          "end": 34
+        },
+        {
+          "id": "E1",
+          "kind": "E",
+          "start": 9,
+          "end": 12
+        },
+        {
+          "id": "E2",
+          "kind": "E",
+          "start": 13,
+          "end": 16
+        },
+        {
+          "id": "E3",
+          "kind": "E",
+          "start": 17,
+          "end": 20
+        },
+        {
+          "id": "E4",
+          "kind": "E",
+          "start": 21,
+          "end": 24
+        },
+        {
+          "id": "E5",
+          "kind": "E",
+          "start": 25,
+          "end": 28
+        },
+        {
+          "id": "E6",
+          "kind": "E",
+          "start": 28,
+          "end": 31
+        },
+        {
+          "id": "E7",
+          "kind": "E",
+          "start": 31,
+          "end": 34
+        },
+        {
+          "id": "E8",
+          "kind": "E",
+          "start": 33,
+          "end": 36
+        }
+      ],
+      "years": [
+        {
+          "year": 1,
+          "bookings": 335000.0,
+          "revenue": 335000.0,
+          "receipts": 275500.0,
+          "direct": 206137.5,
+          "gross_profit": 128862.5,
+          "support_revenue": 0.0,
+          "accepted": {
+            "D": 3,
+            "V": 2,
+            "E": 1
+          },
+          "signed": {
+            "D": 3,
+            "V": 2,
+            "E": 1
+          },
+          "project_pool": 3,
+          "max_parallel_production": 1.0
+        },
+        {
+          "year": 2,
+          "bookings": 750000.0,
+          "revenue": 822000.0,
+          "receipts": 813000.0,
+          "direct": 488212.5,
+          "gross_profit": 333787.5,
+          "support_revenue": 72000.0,
+          "accepted": {
+            "D": 3,
+            "V": 3,
+            "E": 3
+          },
+          "signed": {
+            "D": 3,
+            "V": 3,
+            "E": 3
+          },
+          "project_pool": 4,
+          "max_parallel_production": 1.0
+        },
+        {
+          "year": 3,
+          "bookings": 930000.0,
+          "revenue": 1119000.0,
+          "receipts": 1112500.0,
+          "direct": 637162.5,
+          "gross_profit": 481837.5,
+          "support_revenue": 189000.0,
+          "accepted": {
+            "D": 3,
+            "V": 3,
+            "E": 4
+          },
+          "signed": {
+            "D": 3,
+            "V": 3,
+            "E": 4
+          },
+          "project_pool": 5,
+          "max_parallel_production": 2.0
+        }
+      ],
+      "months": [
+        {
+          "month": 1,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 2,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 3,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 4,
+          "bookings": 15000.0,
+          "revenue": 0.0,
+          "receipts": 9000.0,
+          "direct": 4456.25,
+          "support_revenue": 0.0,
+          "project_weeks": 1.25,
+          "production_active": 0.0
+        },
+        {
+          "month": 5,
+          "bookings": 0.0,
+          "revenue": 15000.0,
+          "receipts": 0.0,
+          "direct": 4456.25,
+          "support_revenue": 0.0,
+          "project_weeks": 1.25,
+          "production_active": 0.0
+        },
+        {
+          "month": 6,
+          "bookings": 70000.0,
+          "revenue": 0.0,
+          "receipts": 37000.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 7,
+          "bookings": 0.0,
+          "revenue": 15000.0,
+          "receipts": 0.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 8,
+          "bookings": 15000.0,
+          "revenue": 55000.0,
+          "receipts": 15000.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 9,
+          "bookings": 235000.0,
+          "revenue": 15000.0,
+          "receipts": 103500.0,
+          "direct": 43843.75,
+          "support_revenue": 0.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 10,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 11500.0,
+          "direct": 39387.5,
+          "support_revenue": 0.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 11,
+          "bookings": 0.0,
+          "revenue": 55000.0,
+          "receipts": 72000.0,
+          "direct": 39387.5,
+          "support_revenue": 0.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 12,
+          "bookings": 0.0,
+          "revenue": 180000.0,
+          "receipts": 27500.0,
+          "direct": 28462.5,
+          "support_revenue": 0.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 13,
+          "bookings": 235000.0,
+          "revenue": 3000.0,
+          "receipts": 117500.0,
+          "direct": 40287.5,
+          "support_revenue": 3000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 14,
+          "bookings": 15000.0,
+          "revenue": 3000.0,
+          "receipts": 30000.0,
+          "direct": 44743.75,
+          "support_revenue": 3000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 15,
+          "bookings": 0.0,
+          "revenue": 73000.0,
+          "receipts": 75000.0,
+          "direct": 44743.75,
+          "support_revenue": 3000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 16,
+          "bookings": 0.0,
+          "revenue": 183000.0,
+          "receipts": 36500.0,
+          "direct": 29362.5,
+          "support_revenue": 3000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 17,
+          "bookings": 235000.0,
+          "revenue": 6000.0,
+          "receipts": 120500.0,
+          "direct": 41187.5,
+          "support_revenue": 6000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 18,
+          "bookings": 15000.0,
+          "revenue": 6000.0,
+          "receipts": 33000.0,
+          "direct": 45643.75,
+          "support_revenue": 6000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 19,
+          "bookings": 0.0,
+          "revenue": 76000.0,
+          "receipts": 78000.0,
+          "direct": 45643.75,
+          "support_revenue": 6000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 20,
+          "bookings": 0.0,
+          "revenue": 186000.0,
+          "receipts": 39500.0,
+          "direct": 30262.5,
+          "support_revenue": 6000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 21,
+          "bookings": 235000.0,
+          "revenue": 9000.0,
+          "receipts": 123500.0,
+          "direct": 42087.5,
+          "support_revenue": 9000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 22,
+          "bookings": 15000.0,
+          "revenue": 9000.0,
+          "receipts": 36000.0,
+          "direct": 46543.75,
+          "support_revenue": 9000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 23,
+          "bookings": 0.0,
+          "revenue": 79000.0,
+          "receipts": 81000.0,
+          "direct": 46543.75,
+          "support_revenue": 9000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 24,
+          "bookings": 0.0,
+          "revenue": 189000.0,
+          "receipts": 42500.0,
+          "direct": 31162.5,
+          "support_revenue": 9000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 25,
+          "bookings": 235000.0,
+          "revenue": 12000.0,
+          "receipts": 126500.0,
+          "direct": 42987.5,
+          "support_revenue": 12000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 26,
+          "bookings": 15000.0,
+          "revenue": 12000.0,
+          "receipts": 39000.0,
+          "direct": 47443.75,
+          "support_revenue": 12000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 27,
+          "bookings": 0.0,
+          "revenue": 82000.0,
+          "receipts": 84000.0,
+          "direct": 47443.75,
+          "support_revenue": 12000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 28,
+          "bookings": 180000.0,
+          "revenue": 192000.0,
+          "receipts": 99500.0,
+          "direct": 60525.0,
+          "support_revenue": 12000.0,
+          "project_weeks": 12.0,
+          "production_active": 2.0
+        },
+        {
+          "month": 29,
+          "bookings": 55000.0,
+          "revenue": 15000.0,
+          "receipts": 75500.0,
+          "direct": 43887.5,
+          "support_revenue": 15000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 30,
+          "bookings": 15000.0,
+          "revenue": 15000.0,
+          "receipts": 114000.0,
+          "direct": 48343.75,
+          "support_revenue": 15000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 31,
+          "bookings": 180000.0,
+          "revenue": 265000.0,
+          "receipts": 69000.0,
+          "direct": 76806.25,
+          "support_revenue": 15000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 32,
+          "bookings": 55000.0,
+          "revenue": 18000.0,
+          "receipts": 106500.0,
+          "direct": 44787.5,
+          "support_revenue": 18000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 33,
+          "bookings": 195000.0,
+          "revenue": 18000.0,
+          "receipts": 176500.0,
+          "direct": 77706.25,
+          "support_revenue": 18000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 34,
+          "bookings": 0.0,
+          "revenue": 268000.0,
+          "receipts": 18000.0,
+          "direct": 77706.25,
+          "support_revenue": 18000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 35,
+          "bookings": 0.0,
+          "revenue": 21000.0,
+          "receipts": 159500.0,
+          "direct": 34762.5,
+          "support_revenue": 21000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 36,
+          "bookings": 0.0,
+          "revenue": 201000.0,
+          "receipts": 44500.0,
+          "direct": 34762.5,
+          "support_revenue": 21000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        }
+      ]
+    },
+    "delay6": {
+      "delay": 6,
+      "projects": [
+        {
+          "id": "D1",
+          "kind": "D",
+          "start": 4,
+          "end": 5
+        },
+        {
+          "id": "D2",
+          "kind": "D",
+          "start": 6,
+          "end": 7
+        },
+        {
+          "id": "D3",
+          "kind": "D",
+          "start": 8,
+          "end": 9
+        },
+        {
+          "id": "D4",
+          "kind": "D",
+          "start": 14,
+          "end": 15
+        },
+        {
+          "id": "D5",
+          "kind": "D",
+          "start": 18,
+          "end": 19
+        },
+        {
+          "id": "D6",
+          "kind": "D",
+          "start": 22,
+          "end": 23
+        },
+        {
+          "id": "D7",
+          "kind": "D",
+          "start": 26,
+          "end": 27
+        },
+        {
+          "id": "D8",
+          "kind": "D",
+          "start": 30,
+          "end": 31
+        },
+        {
+          "id": "D9",
+          "kind": "D",
+          "start": 33,
+          "end": 34
+        },
+        {
+          "id": "V1",
+          "kind": "V",
+          "start": 6,
+          "end": 8
+        },
+        {
+          "id": "V2",
+          "kind": "V",
+          "start": 9,
+          "end": 11
+        },
+        {
+          "id": "V3",
+          "kind": "V",
+          "start": 13,
+          "end": 15
+        },
+        {
+          "id": "V4",
+          "kind": "V",
+          "start": 17,
+          "end": 19
+        },
+        {
+          "id": "V5",
+          "kind": "V",
+          "start": 21,
+          "end": 23
+        },
+        {
+          "id": "V6",
+          "kind": "V",
+          "start": 25,
+          "end": 27
+        },
+        {
+          "id": "V7",
+          "kind": "V",
+          "start": 29,
+          "end": 31
+        },
+        {
+          "id": "V8",
+          "kind": "V",
+          "start": 32,
+          "end": 34
+        },
+        {
+          "id": "E1",
+          "kind": "E",
+          "start": 9,
+          "end": 12
+        },
+        {
+          "id": "E2",
+          "kind": "E",
+          "start": 13,
+          "end": 16
+        },
+        {
+          "id": "E3",
+          "kind": "E",
+          "start": 17,
+          "end": 20
+        },
+        {
+          "id": "E4",
+          "kind": "E",
+          "start": 21,
+          "end": 24
+        },
+        {
+          "id": "E5",
+          "kind": "E",
+          "start": 25,
+          "end": 28
+        },
+        {
+          "id": "E6",
+          "kind": "E",
+          "start": 28,
+          "end": 31
+        },
+        {
+          "id": "E7",
+          "kind": "E",
+          "start": 31,
+          "end": 34
+        },
+        {
+          "id": "E8",
+          "kind": "E",
+          "start": 33,
+          "end": 36
+        }
+      ],
+      "years": [
+        {
+          "year": 1,
+          "bookings": 85000.0,
+          "revenue": 15000.0,
+          "receipts": 46000.0,
+          "direct": 24293.75,
+          "gross_profit": -9293.75,
+          "support_revenue": 0.0,
+          "accepted": {
+            "D": 1,
+            "V": 0,
+            "E": 0
+          },
+          "signed": {
+            "D": 2,
+            "V": 1,
+            "E": 0
+          },
+          "project_pool": 2,
+          "max_parallel_production": 0.0
+        },
+        {
+          "year": 2,
+          "bookings": 750000.0,
+          "revenue": 594000.0,
+          "receipts": 642000.0,
+          "direct": 427812.5,
+          "gross_profit": 166187.5,
+          "support_revenue": 24000.0,
+          "accepted": {
+            "D": 3,
+            "V": 3,
+            "E": 2
+          },
+          "signed": {
+            "D": 3,
+            "V": 3,
+            "E": 3
+          },
+          "project_pool": 3,
+          "max_parallel_production": 1.0
+        },
+        {
+          "year": 3,
+          "bookings": 750000.0,
+          "revenue": 876000.0,
+          "receipts": 939000.0,
+          "direct": 532875.0,
+          "gross_profit": 343125.0,
+          "support_revenue": 126000.0,
+          "accepted": {
+            "D": 3,
+            "V": 3,
+            "E": 3
+          },
+          "signed": {
+            "D": 3,
+            "V": 3,
+            "E": 3
+          },
+          "project_pool": 4,
+          "max_parallel_production": 2.0
+        }
+      ],
+      "months": [
+        {
+          "month": 1,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 2,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 3,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 4,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 5,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 6,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 7,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 8,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 9,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 10,
+          "bookings": 15000.0,
+          "revenue": 0.0,
+          "receipts": 9000.0,
+          "direct": 4456.25,
+          "support_revenue": 0.0,
+          "project_weeks": 1.25,
+          "production_active": 0.0
+        },
+        {
+          "month": 11,
+          "bookings": 0.0,
+          "revenue": 15000.0,
+          "receipts": 0.0,
+          "direct": 4456.25,
+          "support_revenue": 0.0,
+          "project_weeks": 1.25,
+          "production_active": 0.0
+        },
+        {
+          "month": 12,
+          "bookings": 70000.0,
+          "revenue": 0.0,
+          "receipts": 37000.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 13,
+          "bookings": 0.0,
+          "revenue": 15000.0,
+          "receipts": 0.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 14,
+          "bookings": 15000.0,
+          "revenue": 55000.0,
+          "receipts": 15000.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 15,
+          "bookings": 235000.0,
+          "revenue": 15000.0,
+          "receipts": 103500.0,
+          "direct": 43843.75,
+          "support_revenue": 0.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 16,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 11500.0,
+          "direct": 39387.5,
+          "support_revenue": 0.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 17,
+          "bookings": 0.0,
+          "revenue": 55000.0,
+          "receipts": 72000.0,
+          "direct": 39387.5,
+          "support_revenue": 0.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 18,
+          "bookings": 0.0,
+          "revenue": 180000.0,
+          "receipts": 27500.0,
+          "direct": 28462.5,
+          "support_revenue": 0.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 19,
+          "bookings": 235000.0,
+          "revenue": 3000.0,
+          "receipts": 117500.0,
+          "direct": 40287.5,
+          "support_revenue": 3000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 20,
+          "bookings": 15000.0,
+          "revenue": 3000.0,
+          "receipts": 30000.0,
+          "direct": 44743.75,
+          "support_revenue": 3000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 21,
+          "bookings": 0.0,
+          "revenue": 73000.0,
+          "receipts": 75000.0,
+          "direct": 44743.75,
+          "support_revenue": 3000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 22,
+          "bookings": 0.0,
+          "revenue": 183000.0,
+          "receipts": 36500.0,
+          "direct": 29362.5,
+          "support_revenue": 3000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 23,
+          "bookings": 235000.0,
+          "revenue": 6000.0,
+          "receipts": 120500.0,
+          "direct": 41187.5,
+          "support_revenue": 6000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 24,
+          "bookings": 15000.0,
+          "revenue": 6000.0,
+          "receipts": 33000.0,
+          "direct": 45643.75,
+          "support_revenue": 6000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 25,
+          "bookings": 0.0,
+          "revenue": 76000.0,
+          "receipts": 78000.0,
+          "direct": 45643.75,
+          "support_revenue": 6000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 26,
+          "bookings": 0.0,
+          "revenue": 186000.0,
+          "receipts": 39500.0,
+          "direct": 30262.5,
+          "support_revenue": 6000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 27,
+          "bookings": 235000.0,
+          "revenue": 9000.0,
+          "receipts": 123500.0,
+          "direct": 42087.5,
+          "support_revenue": 9000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 28,
+          "bookings": 15000.0,
+          "revenue": 9000.0,
+          "receipts": 36000.0,
+          "direct": 46543.75,
+          "support_revenue": 9000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 29,
+          "bookings": 0.0,
+          "revenue": 79000.0,
+          "receipts": 81000.0,
+          "direct": 46543.75,
+          "support_revenue": 9000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 30,
+          "bookings": 0.0,
+          "revenue": 189000.0,
+          "receipts": 42500.0,
+          "direct": 31162.5,
+          "support_revenue": 9000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 31,
+          "bookings": 235000.0,
+          "revenue": 12000.0,
+          "receipts": 126500.0,
+          "direct": 42987.5,
+          "support_revenue": 12000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 32,
+          "bookings": 15000.0,
+          "revenue": 12000.0,
+          "receipts": 39000.0,
+          "direct": 47443.75,
+          "support_revenue": 12000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 33,
+          "bookings": 0.0,
+          "revenue": 82000.0,
+          "receipts": 84000.0,
+          "direct": 47443.75,
+          "support_revenue": 12000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 34,
+          "bookings": 180000.0,
+          "revenue": 192000.0,
+          "receipts": 99500.0,
+          "direct": 60525.0,
+          "support_revenue": 12000.0,
+          "project_weeks": 12.0,
+          "production_active": 2.0
+        },
+        {
+          "month": 35,
+          "bookings": 55000.0,
+          "revenue": 15000.0,
+          "receipts": 75500.0,
+          "direct": 43887.5,
+          "support_revenue": 15000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 36,
+          "bookings": 15000.0,
+          "revenue": 15000.0,
+          "receipts": 114000.0,
+          "direct": 48343.75,
+          "support_revenue": 15000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        }
+      ]
+    },
+    "growth": {
+      "delay": 0,
+      "projects": [
+        {
+          "id": "D1",
+          "kind": "D",
+          "start": 4,
+          "end": 5
+        },
+        {
+          "id": "D2",
+          "kind": "D",
+          "start": 6,
+          "end": 7
+        },
+        {
+          "id": "D3",
+          "kind": "D",
+          "start": 8,
+          "end": 9
+        },
+        {
+          "id": "D4",
+          "kind": "D",
+          "start": 14,
+          "end": 15
+        },
+        {
+          "id": "D5",
+          "kind": "D",
+          "start": 18,
+          "end": 19
+        },
+        {
+          "id": "D6",
+          "kind": "D",
+          "start": 22,
+          "end": 23
+        },
+        {
+          "id": "D7",
+          "kind": "D",
+          "start": 26,
+          "end": 27
+        },
+        {
+          "id": "D8",
+          "kind": "D",
+          "start": 30,
+          "end": 31
+        },
+        {
+          "id": "D9",
+          "kind": "D",
+          "start": 33,
+          "end": 34
+        },
+        {
+          "id": "V1",
+          "kind": "V",
+          "start": 6,
+          "end": 8
+        },
+        {
+          "id": "V2",
+          "kind": "V",
+          "start": 9,
+          "end": 11
+        },
+        {
+          "id": "V3",
+          "kind": "V",
+          "start": 13,
+          "end": 15
+        },
+        {
+          "id": "V4",
+          "kind": "V",
+          "start": 17,
+          "end": 19
+        },
+        {
+          "id": "V5",
+          "kind": "V",
+          "start": 21,
+          "end": 23
+        },
+        {
+          "id": "V6",
+          "kind": "V",
+          "start": 25,
+          "end": 27
+        },
+        {
+          "id": "V7",
+          "kind": "V",
+          "start": 29,
+          "end": 31
+        },
+        {
+          "id": "V8",
+          "kind": "V",
+          "start": 32,
+          "end": 34
+        },
+        {
+          "id": "E1",
+          "kind": "E",
+          "start": 9,
+          "end": 12
+        },
+        {
+          "id": "E2",
+          "kind": "E",
+          "start": 13,
+          "end": 16
+        },
+        {
+          "id": "E3",
+          "kind": "E",
+          "start": 17,
+          "end": 20
+        },
+        {
+          "id": "E4",
+          "kind": "E",
+          "start": 18,
+          "end": 21
+        },
+        {
+          "id": "E5",
+          "kind": "E",
+          "start": 21,
+          "end": 24
+        },
+        {
+          "id": "E6",
+          "kind": "E",
+          "start": 25,
+          "end": 28
+        },
+        {
+          "id": "E7",
+          "kind": "E",
+          "start": 27,
+          "end": 30
+        },
+        {
+          "id": "E8",
+          "kind": "E",
+          "start": 29,
+          "end": 32
+        },
+        {
+          "id": "E9",
+          "kind": "E",
+          "start": 31,
+          "end": 34
+        },
+        {
+          "id": "E10",
+          "kind": "E",
+          "start": 33,
+          "end": 36
+        }
+      ],
+      "years": [
+        {
+          "year": 1,
+          "bookings": 335000.0,
+          "revenue": 335000.0,
+          "receipts": 275500.0,
+          "direct": 206137.5,
+          "gross_profit": 128862.5,
+          "support_revenue": 0.0,
+          "accepted": {
+            "D": 3,
+            "V": 2,
+            "E": 1
+          },
+          "signed": {
+            "D": 3,
+            "V": 2,
+            "E": 1
+          },
+          "project_pool": 3,
+          "max_parallel_production": 1.0
+        },
+        {
+          "year": 2,
+          "bookings": 930000.0,
+          "revenue": 1011000.0,
+          "receipts": 999000.0,
+          "direct": 604762.5,
+          "gross_profit": 406237.5,
+          "support_revenue": 81000.0,
+          "accepted": {
+            "D": 3,
+            "V": 3,
+            "E": 4
+          },
+          "signed": {
+            "D": 3,
+            "V": 3,
+            "E": 4
+          },
+          "project_pool": 5,
+          "max_parallel_production": 2.0
+        },
+        {
+          "year": 3,
+          "bookings": 1110000.0,
+          "revenue": 1350000.0,
+          "receipts": 1340500.0,
+          "direct": 766312.5,
+          "gross_profit": 583687.5,
+          "support_revenue": 240000.0,
+          "accepted": {
+            "D": 3,
+            "V": 3,
+            "E": 5
+          },
+          "signed": {
+            "D": 3,
+            "V": 3,
+            "E": 5
+          },
+          "project_pool": 6,
+          "max_parallel_production": 2.0
+        }
+      ],
+      "months": [
+        {
+          "month": 1,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 2,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 3,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 4,
+          "bookings": 15000.0,
+          "revenue": 0.0,
+          "receipts": 9000.0,
+          "direct": 4456.25,
+          "support_revenue": 0.0,
+          "project_weeks": 1.25,
+          "production_active": 0.0
+        },
+        {
+          "month": 5,
+          "bookings": 0.0,
+          "revenue": 15000.0,
+          "receipts": 0.0,
+          "direct": 4456.25,
+          "support_revenue": 0.0,
+          "project_weeks": 1.25,
+          "production_active": 0.0
+        },
+        {
+          "month": 6,
+          "bookings": 70000.0,
+          "revenue": 0.0,
+          "receipts": 37000.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 7,
+          "bookings": 0.0,
+          "revenue": 15000.0,
+          "receipts": 0.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 8,
+          "bookings": 15000.0,
+          "revenue": 55000.0,
+          "receipts": 15000.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 9,
+          "bookings": 235000.0,
+          "revenue": 15000.0,
+          "receipts": 103500.0,
+          "direct": 43843.75,
+          "support_revenue": 0.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 10,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 11500.0,
+          "direct": 39387.5,
+          "support_revenue": 0.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 11,
+          "bookings": 0.0,
+          "revenue": 55000.0,
+          "receipts": 72000.0,
+          "direct": 39387.5,
+          "support_revenue": 0.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 12,
+          "bookings": 0.0,
+          "revenue": 180000.0,
+          "receipts": 27500.0,
+          "direct": 28462.5,
+          "support_revenue": 0.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 13,
+          "bookings": 235000.0,
+          "revenue": 3000.0,
+          "receipts": 117500.0,
+          "direct": 40287.5,
+          "support_revenue": 3000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 14,
+          "bookings": 15000.0,
+          "revenue": 3000.0,
+          "receipts": 30000.0,
+          "direct": 44743.75,
+          "support_revenue": 3000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 15,
+          "bookings": 0.0,
+          "revenue": 73000.0,
+          "receipts": 75000.0,
+          "direct": 44743.75,
+          "support_revenue": 3000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 16,
+          "bookings": 0.0,
+          "revenue": 183000.0,
+          "receipts": 36500.0,
+          "direct": 29362.5,
+          "support_revenue": 3000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 17,
+          "bookings": 235000.0,
+          "revenue": 6000.0,
+          "receipts": 120500.0,
+          "direct": 41187.5,
+          "support_revenue": 6000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 18,
+          "bookings": 195000.0,
+          "revenue": 6000.0,
+          "receipts": 87000.0,
+          "direct": 74106.25,
+          "support_revenue": 6000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 19,
+          "bookings": 0.0,
+          "revenue": 76000.0,
+          "receipts": 78000.0,
+          "direct": 74106.25,
+          "support_revenue": 6000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 20,
+          "bookings": 0.0,
+          "revenue": 186000.0,
+          "receipts": 111500.0,
+          "direct": 58725.0,
+          "support_revenue": 6000.0,
+          "project_weeks": 12.0,
+          "production_active": 2.0
+        },
+        {
+          "month": 21,
+          "bookings": 235000.0,
+          "revenue": 189000.0,
+          "receipts": 123500.0,
+          "direct": 70550.0,
+          "support_revenue": 9000.0,
+          "project_weeks": 14.666666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 22,
+          "bookings": 15000.0,
+          "revenue": 12000.0,
+          "receipts": 72000.0,
+          "direct": 47443.75,
+          "support_revenue": 12000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 23,
+          "bookings": 0.0,
+          "revenue": 82000.0,
+          "receipts": 102000.0,
+          "direct": 47443.75,
+          "support_revenue": 12000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 24,
+          "bookings": 0.0,
+          "revenue": 192000.0,
+          "receipts": 45500.0,
+          "direct": 32062.5,
+          "support_revenue": 12000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 25,
+          "bookings": 235000.0,
+          "revenue": 15000.0,
+          "receipts": 129500.0,
+          "direct": 43887.5,
+          "support_revenue": 15000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 26,
+          "bookings": 15000.0,
+          "revenue": 15000.0,
+          "receipts": 42000.0,
+          "direct": 48343.75,
+          "support_revenue": 15000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 27,
+          "bookings": 180000.0,
+          "revenue": 85000.0,
+          "receipts": 141000.0,
+          "direct": 76806.25,
+          "support_revenue": 15000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 28,
+          "bookings": 0.0,
+          "revenue": 195000.0,
+          "receipts": 48500.0,
+          "direct": 61425.0,
+          "support_revenue": 15000.0,
+          "project_weeks": 12.0,
+          "production_active": 2.0
+        },
+        {
+          "month": 29,
+          "bookings": 235000.0,
+          "revenue": 18000.0,
+          "receipts": 204500.0,
+          "direct": 73250.0,
+          "support_revenue": 18000.0,
+          "project_weeks": 14.666666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 30,
+          "bookings": 15000.0,
+          "revenue": 198000.0,
+          "receipts": 45000.0,
+          "direct": 77706.25,
+          "support_revenue": 18000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 31,
+          "bookings": 180000.0,
+          "revenue": 91000.0,
+          "receipts": 180000.0,
+          "direct": 78606.25,
+          "support_revenue": 21000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 32,
+          "bookings": 55000.0,
+          "revenue": 201000.0,
+          "receipts": 94500.0,
+          "direct": 74150.0,
+          "support_revenue": 21000.0,
+          "project_weeks": 14.666666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 33,
+          "bookings": 195000.0,
+          "revenue": 24000.0,
+          "receipts": 197500.0,
+          "direct": 79506.25,
+          "support_revenue": 24000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 34,
+          "bookings": 0.0,
+          "revenue": 274000.0,
+          "receipts": 42000.0,
+          "direct": 79506.25,
+          "support_revenue": 24000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 35,
+          "bookings": 0.0,
+          "revenue": 27000.0,
+          "receipts": 165500.0,
+          "direct": 36562.5,
+          "support_revenue": 27000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 36,
+          "bookings": 0.0,
+          "revenue": 207000.0,
+          "receipts": 50500.0,
+          "direct": 36562.5,
+          "support_revenue": 27000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        }
+      ]
+    }
+  },
+  "version": "4.3-HQ-BRIEF",
+  "date": "2026-10-29",
+  "classification": {
+    "zh": "总部直管销售提案；项目价格、数量、交付和回款为规划输入，非客户订单或实际业绩。",
+    "en": "HQ-managed sales proposal. Prices, volumes, delivery and receipts are planning inputs, not customer orders or actual results."
+  },
+  "assumptions": [
+    {
+      "zh": "收入按计划验收与服务月份列示，签约、收入和回款分开。产品毛利仅扣直接交付成本，不等于经营净利润。",
+      "en": "Plan revenue by acceptance / service months and distinguish bookings, revenue and receipts. Product margin deducts direct delivery only; it is not net profit."
+    },
+    {
+      "zh": "基准、增长和延期路径供客户开发与总部资源安排使用，按季度滚动校准。",
+      "en": "Use base, growth and delayed paths for account development and HQ resources; update quarterly."
+    }
+  ]
+}

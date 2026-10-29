@@ -1,0 +1,490 @@
+{
+  "version": "V4.3 / HQ SALES BRIEF",
+  "date": "2026.10.29",
+  "title": {
+    "zh": "总部直管 · 外派国家销售总经理",
+    "en": "HQ-managed country sales general manager"
+  },
+  "opening": {
+    "zh": "以信任打开对话，以履约沉淀关系。",
+    "en": "Trust opens dialogue. Delivery sustains relationships."
+  },
+  "promise": {
+    "zh": "总部组织产品与交付，驻外负责人把资源推进为客户、合同和回款。",
+    "en": "HQ organizes products and delivery. The resident sales lead turns access into clients, contracts and cash."
+  },
+  "summary": [
+    {
+      "zh": "总部直管、一名外派国家销售总经理；前线推进客户、商务、采购及回款，总部负责产品、授权、合同和交付。",
+      "en": "HQ-managed, with one resident country sales GM. Field sales advances accounts, commercial discussions, purchasing and receipts; HQ owns products, authority, contracts and delivery."
+    },
+    {
+      "zh": "以Emaar、Al-Futtaim、Saif Belhasa和DMCC四个直接入口组织客户议题，再推进到具名业务负责人、工作会和可采购范围。",
+      "en": "Organize themes through four direct routes: Emaar, Al-Futtaim, Saif Belhasa and DMCC, then advance named process owners, working sessions and purchasable scope."
+    },
+    {
+      "zh": "首年基准为3项诊断、2项试点和1项实施：规划签约及收入33.5万美元，回款27.55万美元。三年按基准、增长和延期路径推进。",
+      "en": "Y1 base:3 discoveries,2 pilots and1 production scope, with planned bookings / revenue USD335k and receipts USD275.5k. Follow base, growth and delayed paths over three years."
+    }
+  ],
+  "capabilities": [
+    [
+      {
+        "zh": "资源与客户开发",
+        "en": "Access and account development"
+      },
+      {
+        "zh": "可直接对接Emaar、Al-Futtaim、Saif Belhasa、DMCC，并通过既有链路安排战略关系交流。职责是把介绍推进到具名业务负责人和采购。",
+        "en": "Direct access to Emaar, Al-Futtaim, Saif Belhasa and DMCC, with established strategic introductions. Progress from introduction to named process owners and purchasing."
+      }
+    ],
+    [
+      {
+        "zh": "把需求讲清楚",
+        "en": "Explain the business need"
+      },
+      {
+        "zh": "Refine海湾顾问项目中的市场进入及“设计—报价—交付”经验，可用于梳理技术方案、报价范围与交付边界。",
+        "en": "Refine Gulf advisory experience in market entry and design-to-price-to-delivery helps define propositions, priced scope and delivery boundaries."
+      }
+    ],
+    [
+      {
+        "zh": "谈判与总部协调",
+        "en": "Negotiation and HQ coordination"
+      },
+      {
+        "zh": "Emaar开发商对接经历对应高层沟通、工作会和商务衔接；总部负责产品承诺、合同审定和价格例外。",
+        "en": "Emaar developer engagement maps to senior dialogue, working meetings and commercial coordination. HQ approves commitments, contracts and pricing exceptions."
+      }
+    ],
+    [
+      {
+        "zh": "成本、执行与回款跟进",
+        "en": "Cost, execution and collections"
+      },
+      {
+        "zh": "库迪阿联酋经营经历对应费用、供应商、跨职能协作与周报。销售岗位应用到项目进度、交付协调和回款问题处理。",
+        "en": "Cotti UAE operations maps to costs, suppliers, cross-functional work and operating reviews. Apply it to project progress, delivery coordination and collection issues."
+      }
+    ]
+  ],
+  "cases": [
+    [
+      {
+        "zh": "库迪阿联酋 / 经营主责",
+        "en": "Cotti UAE / operating responsibility"
+      },
+      {
+        "zh": "经营协调、费用与当地支持，说明在地执行及跨部门沟通经验。本版将经验用于销售跟进与服务衔接。",
+        "en": "Operations, costs and local support show on-the-ground execution / coordination experience. Apply that experience to sales follow-through and service handover."
+      }
+    ],
+    [
+      {
+        "zh": "Refine海湾项目 / 商务顾问",
+        "en": "Refine Gulf / commercial advisory"
+      },
+      {
+        "zh": "通过集团入口开发业务，把非标服务整理为可报价的交付方案，应用到BUBIX诊断、试点和实施产品。",
+        "en": "Use group access to develop business and convert bespoke services into priceable delivery offers; apply this to BUBIX discovery, pilot and implementation."
+      }
+    ],
+    [
+      {
+        "zh": "Emaar / 资源与谈判",
+        "en": "Emaar / access and negotiation"
+      },
+      {
+        "zh": "通过既有介绍链组织开发商讨论，应用到找业务归口、组织工作会和推动采购。职责按履历整理。",
+        "en": "Arrange developer dialogue through established introductions; apply this to process ownership, working sessions and purchasing. Roles follow the supplied CV."
+      }
+    ]
+  ],
+  "accounts": [
+    {
+      "name": "Emaar",
+      "theme": {
+        "zh": "工程验收、租户或供应商履约记录",
+        "en": "Project acceptance / tenant or supplier evidence"
+      },
+      "entry": {
+        "zh": "工程、物业或供应商管理负责人；与数字化、采购一起评估一个流程。",
+        "en": "Project, property or supplier-management owner, with digital and purchasing teams reviewing one workflow."
+      },
+      "ask": {
+        "zh": "用一张流程图和凭证演示争取诊断工作会。",
+        "en": "Use a workflow map and credential demo to seek a discovery session."
+      }
+    },
+    {
+      "name": "Al-Futtaim",
+      "theme": {
+        "zh": "汽车售后、供应商协作或跨系统对账",
+        "en": "Aftersales, supplier collaboration or reconciliation"
+      },
+      "entry": {
+        "zh": "先选一个业务单元，找流程负责人，不从集团整体改造谈起。",
+        "en": "Choose one business unit and process owner for a bounded first scope."
+      },
+      "ask": {
+        "zh": "识别一个跨方核验问题，再安排总部技术交流。",
+        "en": "Identify one cross-party verification issue, then arrange HQ technical dialogue."
+      }
+    },
+    {
+      "name": "Saif Belhasa Holding",
+      "theme": {
+        "zh": "车辆、设备或供应商凭证",
+        "en": "Vehicle, equipment or supplier credentials"
+      },
+      "entry": {
+        "zh": "家族/集团关系衔接职业管理团队，选一种凭证及两类参与方。",
+        "en": "Connect group / family access to management, selecting one credential and two roles."
+      },
+      "ask": {
+        "zh": "明确签发、核验和更正责任，提出受控试点范围。",
+        "en": "Define issuing, verification and correction roles for a bounded pilot."
+      }
+    },
+    {
+      "name": "DMCC",
+      "theme": {
+        "zh": "成员贸易企业的凭证衔接",
+        "en": "Member-trader credential interoperability"
+      },
+      "entry": {
+        "zh": "生态及成员服务团队，再转到具名贸易企业；评估与已有平台的互补。",
+        "en": "Ecosystem / member services, then named traders; assess complementarity with existing platforms."
+      },
+      "ask": {
+        "zh": "小型行业交流后跟进企业需求；DMCC不预设为买方。",
+        "en": "Follow focused dialogue with member needs; do not assume DMCC is the buyer."
+      }
+    }
+  ],
+  "strategic": {
+    "zh": "沙特王室两条既有通路、Yasir Al-Rumayyan相关商务圈层及泛阿拉伯机构交流均为可触达资源。由介绍人安排正式交流，请对方指定企业业务联系人，再进入工作会、方案和采购。资源经营需要时间和费用。",
+    "en": "The two established Saudi royal routes, Yasir Al-Rumayyan-related business circle and pan-Arab institutional route are reachable. The introducer arranges dialogue and a named business contact, followed by working sessions, proposals and procurement. Allow time and resources."
+  },
+  "roles": [
+    [
+      {
+        "zh": "国家销售总经理",
+        "en": "Country sales GM"
+      },
+      {
+        "zh": "客户计划、关系沟通、需求梳理、演示组织、商务谈判、采购推进、交付协调、催收与客户维护。",
+        "en": "Account plans, relationship dialogue, needs, demos, negotiation, purchasing, delivery coordination, collections and retention."
+      }
+    ],
+    [
+      {
+        "zh": "总部产品与售前",
+        "en": "HQ product / presales"
+      },
+      {
+        "zh": "产品边界、技术方案、演示、工作量、交付排期与验收指标；首年售前配置12个有效人周。",
+        "en": "Product boundaries, technical scope, demos, effort, delivery calendar and acceptance; 12 effective presales weeks in Y1."
+      }
+    ],
+    [
+      {
+        "zh": "总部管理、法务与财务",
+        "en": "HQ management / legal / finance"
+      },
+      {
+        "zh": "岗位授权、价格底线、例外审批、合同签署、开票收款、收入与激励核定，以及驻外用工与税务判断。",
+        "en": "Authority, price floors, exceptions, signing, invoicing, receipts, revenue / incentive approval and employment / tax assessment."
+      }
+    ],
+    [
+      {
+        "zh": "按项目调用的合作方",
+        "en": "Project-based partners"
+      },
+      {
+        "zh": "在获批范围内提供阿语、PRO、雇佣服务或本地集成；按范围签约，不以引荐关系替代许可与采购。",
+        "en": "Provide approved Arabic, PRO, employment or local integration services under scoped contracts, with appropriate permissions and purchasing."
+      }
+    ]
+  ],
+  "authority": [
+    {
+      "zh": "可按批准的客户计划沟通与谈判；超出报价底线、账期、数据或产品承诺，回总部审定。",
+      "en": "Discuss and negotiate under approved account plans; HQ approves price, payment, data and product exceptions."
+    },
+    {
+      "zh": "总部或依法确定的获批签约主体签合同、开票和对公收款；个人不代收客户资金。",
+      "en": "HQ or the legally approved contracting entity signs, invoices and receives business payments. The individual does not collect customer funds."
+    },
+    {
+      "zh": "建议约定：2个工作日指派售前；材料齐全后5个工作日给初步范围；复杂报价及合同按双方排期。",
+      "en": "Proposed response agreement: assign presales within two business days; give initial scope within five working days of complete inputs; schedule complex proposals / contracts jointly."
+    }
+  ],
+  "chain": [
+    {
+      "zh": "现有介绍与议题",
+      "en": "Existing access / theme"
+    },
+    {
+      "zh": "具名业务负责人",
+      "en": "Named process owner"
+    },
+    {
+      "zh": "总部演示与范围",
+      "en": "HQ demo / scope"
+    },
+    {
+      "zh": "方案、采购与合同",
+      "en": "Proposal / purchasing / contract"
+    },
+    {
+      "zh": "总部组织交付",
+      "en": "HQ-managed delivery"
+    },
+    {
+      "zh": "对公回款与维护",
+      "en": "Business receipts / retention"
+    }
+  ],
+  "phases": [
+    {
+      "time": "M1-3",
+      "title": {
+        "zh": "产品熟悉与客户准备",
+        "en": "Product orientation / account preparation"
+      },
+      "body": {
+        "zh": "熟悉产品并明确岗位授权和总部支持，形成四份客户议题及一套演示。逐步拜访、倾听，优先两条深度工作线。",
+        "en": "Learn products, agree authority / HQ support and prepare four account themes plus one demo. Visit and listen, prioritizing two deep workstreams."
+      },
+      "output": {
+        "zh": "客户计划、总部支持表、拜访纪要与下次会面。",
+        "en": "Account plans, HQ support roster, meeting notes and agreed next meetings."
+      }
+    },
+    {
+      "time": "M4-8",
+      "title": {
+        "zh": "诊断与首个受控试点",
+        "en": "Discovery / initial bounded pilot"
+      },
+      "body": {
+        "zh": "基准诊断从M4、M6、M8陆续启动；首个试点安排M6-8。并行客户排期、供应商准入和安全/数据审阅。",
+        "en": "Base discoveries start M4, M6 and M8; first pilot M6-8. Allow for onboarding and security / data reviews."
+      },
+      "output": {
+        "zh": "付费范围、测试结果、项目排期与报价。",
+        "en": "Paid scopes, test results, project calendars and proposals."
+      }
+    },
+    {
+      "time": "M9-12",
+      "title": {
+        "zh": "实施采购与首年复盘",
+        "en": "Implementation purchasing / year-one review"
+      },
+      "body": {
+        "zh": "首个试点完成后，基准生产实施M9-12；第二试点M9-11。按合同管理验收、账期和客户问题。",
+        "en": "After the first pilot, base production runs M9-12; second pilot M9-11. Manage acceptance, payments and client issues against contracts."
+      },
+      "output": {
+        "zh": "基准33.5万美元收入、27.55万美元收款；若延期，滚动到下一年度。",
+        "en": "Base USD 335k revenue and USD 275.5k receipts; roll into the next year if delayed."
+      }
+    },
+    {
+      "time": "Y2",
+      "title": {
+        "zh": "集团复制与持续服务",
+        "en": "Group replication / service"
+      },
+      "body": {
+        "zh": "基准3项诊断、3项试点、3项实施；增长路径4项实施。随客户采购日历和总部交付能力滚动调整。",
+        "en": "Base3 discoveries /3 pilots /3 production acceptances; growth4 productions. Review against purchasing calendars and HQ capacity."
+      },
+      "output": {
+        "zh": "基准收入82.2万美元；增长情景101.1万美元。第二年目标以具体项目清单逐季度校准。",
+        "en": "Base revenue USD 822k; growth USD 1.011m. Reconcile year-two targets to named projects each quarter."
+      }
+    },
+    {
+      "time": "Y3",
+      "title": {
+        "zh": "复用扩大与第二市场",
+        "en": "Repeatable expansion / second market"
+      },
+      "body": {
+        "zh": "基准3项诊断、3项试点、4项实施；增长5项实施并错峰交付。优先续约、集团复制和增量需求。",
+        "en": "Base3 discoveries,3 pilots and4 productions; growth5 staggered productions. Prioritize renewals, group replication and expansion."
+      },
+      "output": {
+        "zh": "基准收入111.9万美元，增长路径135万美元；均为项目规划目标，按实际采购与交付能力校准。",
+        "en": "Base revenue USD1.119m; growth USD1.350m. Project-planning goals, calibrated to purchasing and delivery capacity."
+      }
+    }
+  ],
+  "planb": [
+    [
+      {
+        "zh": "会面顺延4-8周",
+        "en": "Meeting slips 4-8 weeks"
+      },
+      {
+        "zh": "继续另一核心客户，复用演示，减少专属材料与无效差旅；跟进时间与客户约定。",
+        "en": "Work another core account, reuse demos and reduce custom materials / unnecessary travel; agree follow-up timing."
+      }
+    ],
+    [
+      {
+        "zh": "采购多2-3个月",
+        "en": "Purchasing adds 2-3 months"
+      },
+      {
+        "zh": "总部生产人员不提前满配；可独立采购的诊断另成合同，客户日历整体后移。",
+        "en": "Do not fully mobilize production early. Contract independent discovery where suitable and roll the calendar."
+      }
+    ],
+    [
+      {
+        "zh": "整体顺延6个月",
+        "en": "Overall six-month slip"
+      },
+      {
+        "zh": "切换延后情景，暂停下一批活动扩张并重排售前；模型保留原预算，另看节流后的正式版本。",
+        "en": "Use the delayed case, pause activity expansion and reallocate presales. The model retains budget before any approved savings."
+      }
+    ]
+  ],
+  "kpis": [
+    [
+      {
+        "zh": "项目签约",
+        "en": "Project bookings"
+      },
+      "20%",
+      {
+        "zh": "Y1基准335,000美元；有效合同、可履约范围，不含意向或MOU。",
+        "en": "Y1 base USD 335,000 in effective, deliverable contracts; excludes interest / MOUs."
+      }
+    ],
+    [
+      {
+        "zh": "实际回款",
+        "en": "Cash receipts"
+      },
+      "40%",
+      {
+        "zh": "Y1基准275,500美元；银行到账并与合同、发票对应。",
+        "en": "Y1 base USD 275,500 received and reconciled to contracts / invoices."
+      }
+    ],
+    [
+      {
+        "zh": "核定项目毛利",
+        "en": "Verified project margin"
+      },
+      "30%",
+      {
+        "zh": "以交付成本、退款及费用扣项后的毛利评价；不以平台流水代替。",
+        "en": "Assess margin after delivery costs, refunds and charges; platform flows are not a substitute."
+      }
+    ],
+    [
+      {
+        "zh": "客户推进与续约",
+        "en": "Account progress / retention"
+      },
+      "10%",
+      {
+        "zh": "早期看业务归口、工作会和付费范围；上线后看问题关闭与服务续约。",
+        "en": "Early: process ownership, working sessions and paid scope. Later: issue closure and service renewal."
+      }
+    ]
+  ],
+  "compliance": [
+    {
+      "zh": "即便合同由总部签署，驻外人员经常谈成合同或固定经营场所仍可能涉及当地常设机构。法务与税务顾问按真实权限和活动判断，必要登记及税费另计。",
+      "en": "HQ signatures do not eliminate PE exposure from habitual contract negotiation or a fixed place of business. Assess actual authority / activity and add required registrations / tax."
+    },
+    {
+      "zh": "企业软件、跨境服务、数据处理和金融/虚拟资产经营分别判断。实际产品进入受监管活动前，先明确主管机构和许可范围。",
+      "en": "Assess enterprise software, cross-border services, data processing and financial / virtual-asset activities separately; establish the regulator and permissions before regulated activity."
+    }
+  ],
+  "sources": [
+    {
+      "id": "H43",
+      "title": {
+        "zh": "七章销售提案与项目模型",
+        "en": "Seven-section sales proposal / project model"
+      },
+      "note": {
+        "zh": "2026.10.29独立版本，仅含原第1、2、3、6、7、8、9项。客户计划、产品工作包、三年销售目标、推进和回款考核构成主线。",
+        "en": "Independent edition,29 Oct2026, retaining original sections1,2,3,6,7,8,9: account plans, product scopes, three-year sales goals, execution and cash-based reviews."
+      },
+      "url": "files/model.json"
+    },
+    {
+      "id": "P36",
+      "title": {
+        "zh": "前版产品工作包",
+        "en": "Prior product work packages"
+      },
+      "note": {
+        "zh": "沿用诊断/试点/实施15,000/55,000/180,000美元和3,000美元月服务的范围与人周；全额交付成本计入本版。",
+        "en": "Retain discovery / pilot / production prices of USD 15k/55k/180k and USD 3k monthly support with defined scope / effort. This version includes full delivery cost."
+      },
+      "url": "../files/strategy-model-v3.6.json"
+    },
+    {
+      "id": "C01",
+      "title": {
+        "zh": "履历、中东资源与Wasta材料",
+        "en": "CV, Middle East resources and Wasta materials"
+      },
+      "note": {
+        "zh": "已披露可触达入口与项目职责；本版不复制未经独立复核的历史营收数字或私人联系信息。",
+        "en": "Disclosed access / project roles; do not copy unverified historical revenue figures or private contact details."
+      }
+    },
+    {
+      "id": "L03",
+      "title": {
+        "zh": "FTA常设机构说明",
+        "en": "FTA permanent-establishment guidance"
+      },
+      "note": {
+        "zh": "固定场所、经常缔约或实质谈约需结合事实评估。",
+        "en": "Assess fixed place, habitual conclusion / negotiation of contracts against facts."
+      },
+      "url": "https://tax.gov.ae/en/taxes/corporate.tax/corporate.tax.topics/permanent.establishment.aspx"
+    },
+    {
+      "id": "L04",
+      "title": {
+        "zh": "VARA许可活动",
+        "en": "VARA licensed activities"
+      },
+      "note": {
+        "zh": "按实际活动判断金融及虚拟资产许可。",
+        "en": "Assess financial / virtual-asset permissions by actual activity."
+      },
+      "url": "https://www.vara.ae/en/licenses-and-register/licensed-activities/"
+    },
+    {
+      "id": "B01",
+      "title": {
+        "zh": "布比官方文档",
+        "en": "Bubi official documentation"
+      },
+      "note": {
+        "zh": "账户、交易、合约、资产及区块接口能力；具体产品范围另经技术团队确认。",
+        "en": "Account, transaction, contract, asset and block interfaces; confirm the sold product scope with technical owners."
+      },
+      "url": "https://docs.bubi.cn/docs/sdk-tutorial/nodejs-sdk"
+    }
+  ]
+}

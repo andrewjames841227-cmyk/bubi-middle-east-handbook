@@ -1,0 +1,6102 @@
+{
+  "version": "4.0-HQ",
+  "basis": "Independent reconstruction of authored planning assumptions, not validation of future client conversion.",
+  "passed": 1015,
+  "checks": [
+    {
+      "check": "Y1 personal",
+      "actual": 129000,
+      "expected": 129000,
+      "pass": true
+    },
+    {
+      "check": "Y1 sales",
+      "actual": 45000,
+      "expected": 45000,
+      "pass": true
+    },
+    {
+      "check": "Y1 hq",
+      "actual": 36000,
+      "expected": 36000,
+      "pass": true
+    },
+    {
+      "check": "Y1 fixed",
+      "actual": 210000,
+      "expected": 210000,
+      "pass": true
+    },
+    {
+      "check": "Y2 personal",
+      "actual": 129400,
+      "expected": 129400,
+      "pass": true
+    },
+    {
+      "check": "Y2 sales",
+      "actual": 54000,
+      "expected": 54000,
+      "pass": true
+    },
+    {
+      "check": "Y2 hq",
+      "actual": 48000,
+      "expected": 48000,
+      "pass": true
+    },
+    {
+      "check": "Y2 fixed",
+      "actual": 231400,
+      "expected": 231400,
+      "pass": true
+    },
+    {
+      "check": "Y3 personal",
+      "actual": 134800,
+      "expected": 134800,
+      "pass": true
+    },
+    {
+      "check": "Y3 sales",
+      "actual": 66000,
+      "expected": 66000,
+      "pass": true
+    },
+    {
+      "check": "Y3 hq",
+      "actual": 60000,
+      "expected": 60000,
+      "pass": true
+    },
+    {
+      "check": "Y3 fixed",
+      "actual": 260800,
+      "expected": 260800,
+      "pass": true
+    },
+    {
+      "check": "D cost",
+      "actual": 8912.5,
+      "expected": 8912.5,
+      "pass": true
+    },
+    {
+      "check": "D payment",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "V cost",
+      "actual": 32775.0,
+      "expected": 32775.0,
+      "pass": true
+    },
+    {
+      "check": "V payment",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "E cost",
+      "actual": 113850.0,
+      "expected": 113850.0,
+      "pass": true
+    },
+    {
+      "check": "E payment",
+      "actual": 1.0,
+      "expected": 1,
+      "pass": true
+    },
+    {
+      "check": "base M1 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M1 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M1 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M1 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M1 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M1 commission_cash",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M1 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M1 fixed",
+      "actual": 23333.3333,
+      "expected": 23333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M1 deposit_out",
+      "actual": 2000,
+      "expected": 2000,
+      "pass": true
+    },
+    {
+      "check": "base M1 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M1 contribution",
+      "actual": -23333.3333,
+      "expected": -23333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M1 cash_net",
+      "actual": -25333.3333,
+      "expected": -25333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M1 cumulative_cash",
+      "actual": -25333.3333,
+      "expected": -25333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M2 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M2 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M2 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M2 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M2 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M2 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M2 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M2 fixed",
+      "actual": 17333.3333,
+      "expected": 17333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M2 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M2 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M2 contribution",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M2 cash_net",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M2 cumulative_cash",
+      "actual": -42666.6667,
+      "expected": -42666.6667,
+      "pass": true
+    },
+    {
+      "check": "base M3 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M3 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M3 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M3 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M3 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M3 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M3 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M3 fixed",
+      "actual": 17333.3333,
+      "expected": 17333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M3 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M3 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M3 contribution",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M3 cash_net",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M3 cumulative_cash",
+      "actual": -60000.0,
+      "expected": -60000.0,
+      "pass": true
+    },
+    {
+      "check": "base M4 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M4 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M4 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "base M4 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "pass": true
+    },
+    {
+      "check": "base M4 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M4 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M4 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M4 fixed",
+      "actual": 15333.3333,
+      "expected": 15333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M4 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M4 gross_profit",
+      "actual": -4456.25,
+      "expected": -4456.25,
+      "pass": true
+    },
+    {
+      "check": "base M4 contribution",
+      "actual": -19789.5833,
+      "expected": -19789.5833,
+      "pass": true
+    },
+    {
+      "check": "base M4 cash_net",
+      "actual": -10789.5833,
+      "expected": -10789.5833,
+      "pass": true
+    },
+    {
+      "check": "base M4 cumulative_cash",
+      "actual": -70789.5833,
+      "expected": -70789.5833,
+      "pass": true
+    },
+    {
+      "check": "base M5 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M5 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M5 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M5 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "pass": true
+    },
+    {
+      "check": "base M5 commission",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "base M5 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M5 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M5 fixed",
+      "actual": 17333.3333,
+      "expected": 17333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M5 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M5 gross_profit",
+      "actual": 10543.75,
+      "expected": 10543.75,
+      "pass": true
+    },
+    {
+      "check": "base M5 contribution",
+      "actual": -6972.2083,
+      "expected": -6972.2083,
+      "pass": true
+    },
+    {
+      "check": "base M5 cash_net",
+      "actual": -21789.5833,
+      "expected": -21789.5833,
+      "pass": true
+    },
+    {
+      "check": "base M5 cumulative_cash",
+      "actual": -92579.1667,
+      "expected": -92579.1667,
+      "pass": true
+    },
+    {
+      "check": "base M6 bookings",
+      "actual": 70000.0,
+      "expected": 70000.0,
+      "pass": true
+    },
+    {
+      "check": "base M6 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M6 receipts",
+      "actual": 37000.0,
+      "expected": 37000.0,
+      "pass": true
+    },
+    {
+      "check": "base M6 direct",
+      "actual": 15381.25,
+      "expected": 15381.25,
+      "pass": true
+    },
+    {
+      "check": "base M6 commission",
+      "actual": 121.75,
+      "expected": 121.75,
+      "pass": true
+    },
+    {
+      "check": "base M6 commission_cash",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "base M6 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M6 fixed",
+      "actual": 19333.3333,
+      "expected": 19333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M6 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M6 gross_profit",
+      "actual": -15381.25,
+      "expected": -15381.25,
+      "pass": true
+    },
+    {
+      "check": "base M6 contribution",
+      "actual": -34836.3333,
+      "expected": -34836.3333,
+      "pass": true
+    },
+    {
+      "check": "base M6 cash_net",
+      "actual": 2102.7917,
+      "expected": 2102.7917,
+      "pass": true
+    },
+    {
+      "check": "base M6 cumulative_cash",
+      "actual": -90476.375,
+      "expected": -90476.375,
+      "pass": true
+    },
+    {
+      "check": "base M7 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M7 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M7 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M7 direct",
+      "actual": 15381.25,
+      "expected": 15381.25,
+      "pass": true
+    },
+    {
+      "check": "base M7 commission",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "base M7 commission_cash",
+      "actual": 121.75,
+      "expected": 121.75,
+      "pass": true
+    },
+    {
+      "check": "base M7 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M7 fixed",
+      "actual": 17333.3333,
+      "expected": 17333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M7 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M7 gross_profit",
+      "actual": -381.25,
+      "expected": -381.25,
+      "pass": true
+    },
+    {
+      "check": "base M7 contribution",
+      "actual": -17897.2083,
+      "expected": -17897.2083,
+      "pass": true
+    },
+    {
+      "check": "base M7 cash_net",
+      "actual": -32836.3333,
+      "expected": -32836.3333,
+      "pass": true
+    },
+    {
+      "check": "base M7 cumulative_cash",
+      "actual": -123312.7083,
+      "expected": -123312.7083,
+      "pass": true
+    },
+    {
+      "check": "base M8 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M8 revenue",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "pass": true
+    },
+    {
+      "check": "base M8 receipts",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M8 direct",
+      "actual": 15381.25,
+      "expected": 15381.25,
+      "pass": true
+    },
+    {
+      "check": "base M8 commission",
+      "actual": 566.25,
+      "expected": 566.25,
+      "pass": true
+    },
+    {
+      "check": "base M8 commission_cash",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "base M8 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M8 fixed",
+      "actual": 14333.3333,
+      "expected": 14333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M8 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M8 gross_profit",
+      "actual": 39618.75,
+      "expected": 39618.75,
+      "pass": true
+    },
+    {
+      "check": "base M8 contribution",
+      "actual": 24719.1667,
+      "expected": 24719.1667,
+      "pass": true
+    },
+    {
+      "check": "base M8 cash_net",
+      "actual": -14897.2083,
+      "expected": -14897.2083,
+      "pass": true
+    },
+    {
+      "check": "base M8 cumulative_cash",
+      "actual": -138209.9167,
+      "expected": -138209.9167,
+      "pass": true
+    },
+    {
+      "check": "base M9 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "base M9 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M9 receipts",
+      "actual": 103500.0,
+      "expected": 103500.0,
+      "pass": true
+    },
+    {
+      "check": "base M9 direct",
+      "actual": 43843.75,
+      "expected": 43843.75,
+      "pass": true
+    },
+    {
+      "check": "base M9 commission",
+      "actual": 738.25,
+      "expected": 738.25,
+      "pass": true
+    },
+    {
+      "check": "base M9 commission_cash",
+      "actual": 566.25,
+      "expected": 566.25,
+      "pass": true
+    },
+    {
+      "check": "base M9 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M9 fixed",
+      "actual": 16333.3333,
+      "expected": 16333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M9 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M9 gross_profit",
+      "actual": -28843.75,
+      "expected": -28843.75,
+      "pass": true
+    },
+    {
+      "check": "base M9 contribution",
+      "actual": -45915.3333,
+      "expected": -45915.3333,
+      "pass": true
+    },
+    {
+      "check": "base M9 cash_net",
+      "actual": 42756.6667,
+      "expected": 42756.6667,
+      "pass": true
+    },
+    {
+      "check": "base M9 cumulative_cash",
+      "actual": -95453.25,
+      "expected": -95453.25,
+      "pass": true
+    },
+    {
+      "check": "base M10 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M10 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M10 receipts",
+      "actual": 11500.0,
+      "expected": 11500.0,
+      "pass": true
+    },
+    {
+      "check": "base M10 direct",
+      "actual": 39387.5,
+      "expected": 39387.5,
+      "pass": true
+    },
+    {
+      "check": "base M10 commission",
+      "actual": 232.875,
+      "expected": 232.875,
+      "pass": true
+    },
+    {
+      "check": "base M10 commission_cash",
+      "actual": 738.25,
+      "expected": 738.25,
+      "pass": true
+    },
+    {
+      "check": "base M10 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M10 fixed",
+      "actual": 16333.3333,
+      "expected": 16333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M10 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M10 gross_profit",
+      "actual": -39387.5,
+      "expected": -39387.5,
+      "pass": true
+    },
+    {
+      "check": "base M10 contribution",
+      "actual": -55953.7083,
+      "expected": -55953.7083,
+      "pass": true
+    },
+    {
+      "check": "base M10 cash_net",
+      "actual": -44959.0833,
+      "expected": -44959.0833,
+      "pass": true
+    },
+    {
+      "check": "base M10 cumulative_cash",
+      "actual": -140412.3333,
+      "expected": -140412.3333,
+      "pass": true
+    },
+    {
+      "check": "base M11 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M11 revenue",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "pass": true
+    },
+    {
+      "check": "base M11 receipts",
+      "actual": 72000.0,
+      "expected": 72000.0,
+      "pass": true
+    },
+    {
+      "check": "base M11 direct",
+      "actual": 39387.5,
+      "expected": 39387.5,
+      "pass": true
+    },
+    {
+      "check": "base M11 commission",
+      "actual": 444.5,
+      "expected": 444.5,
+      "pass": true
+    },
+    {
+      "check": "base M11 commission_cash",
+      "actual": 232.875,
+      "expected": 232.875,
+      "pass": true
+    },
+    {
+      "check": "base M11 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M11 fixed",
+      "actual": 16333.3333,
+      "expected": 16333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M11 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M11 gross_profit",
+      "actual": 15612.5,
+      "expected": 15612.5,
+      "pass": true
+    },
+    {
+      "check": "base M11 contribution",
+      "actual": -1165.3333,
+      "expected": -1165.3333,
+      "pass": true
+    },
+    {
+      "check": "base M11 cash_net",
+      "actual": 16046.2917,
+      "expected": 16046.2917,
+      "pass": true
+    },
+    {
+      "check": "base M11 cumulative_cash",
+      "actual": -124366.0417,
+      "expected": -124366.0417,
+      "pass": true
+    },
+    {
+      "check": "base M12 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M12 revenue",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "pass": true
+    },
+    {
+      "check": "base M12 receipts",
+      "actual": 27500.0,
+      "expected": 27500.0,
+      "pass": true
+    },
+    {
+      "check": "base M12 direct",
+      "actual": 28462.5,
+      "expected": 28462.5,
+      "pass": true
+    },
+    {
+      "check": "base M12 commission",
+      "actual": 2870.875,
+      "expected": 2870.875,
+      "pass": true
+    },
+    {
+      "check": "base M12 commission_cash",
+      "actual": 444.5,
+      "expected": 444.5,
+      "pass": true
+    },
+    {
+      "check": "base M12 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M12 fixed",
+      "actual": 19333.3333,
+      "expected": 19333.3333,
+      "pass": true
+    },
+    {
+      "check": "base M12 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M12 gross_profit",
+      "actual": 151537.5,
+      "expected": 151537.5,
+      "pass": true
+    },
+    {
+      "check": "base M12 contribution",
+      "actual": 129333.2917,
+      "expected": 129333.2917,
+      "pass": true
+    },
+    {
+      "check": "base M12 cash_net",
+      "actual": -20740.3333,
+      "expected": -20740.3333,
+      "pass": true
+    },
+    {
+      "check": "base M12 cumulative_cash",
+      "actual": -145106.375,
+      "expected": -145106.375,
+      "pass": true
+    },
+    {
+      "check": "base M13 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "base M13 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "base M13 receipts",
+      "actual": 117500.0,
+      "expected": 117500.0,
+      "pass": true
+    },
+    {
+      "check": "base M13 direct",
+      "actual": 40287.5,
+      "expected": 40287.5,
+      "pass": true
+    },
+    {
+      "check": "base M13 commission",
+      "actual": 772.625,
+      "expected": 772.625,
+      "pass": true
+    },
+    {
+      "check": "base M13 commission_cash",
+      "actual": 2870.875,
+      "expected": 2870.875,
+      "pass": true
+    },
+    {
+      "check": "base M13 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "base M13 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M13 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M13 gross_profit",
+      "actual": -37287.5,
+      "expected": -37287.5,
+      "pass": true
+    },
+    {
+      "check": "base M13 contribution",
+      "actual": -57343.4583,
+      "expected": -57343.4583,
+      "pass": true
+    },
+    {
+      "check": "base M13 cash_net",
+      "actual": 55058.2917,
+      "expected": 55058.2917,
+      "pass": true
+    },
+    {
+      "check": "base M13 cumulative_cash",
+      "actual": -90048.0833,
+      "expected": -90048.0833,
+      "pass": true
+    },
+    {
+      "check": "base M14 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M14 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "base M14 receipts",
+      "actual": 30000.0,
+      "expected": 30000.0,
+      "pass": true
+    },
+    {
+      "check": "base M14 direct",
+      "actual": 44743.75,
+      "expected": 44743.75,
+      "pass": true
+    },
+    {
+      "check": "base M14 commission",
+      "actual": 435.75,
+      "expected": 435.75,
+      "pass": true
+    },
+    {
+      "check": "base M14 commission_cash",
+      "actual": 772.625,
+      "expected": 772.625,
+      "pass": true
+    },
+    {
+      "check": "base M14 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "base M14 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M14 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M14 gross_profit",
+      "actual": -41743.75,
+      "expected": -41743.75,
+      "pass": true
+    },
+    {
+      "check": "base M14 contribution",
+      "actual": -61462.8333,
+      "expected": -61462.8333,
+      "pass": true
+    },
+    {
+      "check": "base M14 cash_net",
+      "actual": -34799.7083,
+      "expected": -34799.7083,
+      "pass": true
+    },
+    {
+      "check": "base M14 cumulative_cash",
+      "actual": -124847.7917,
+      "expected": -124847.7917,
+      "pass": true
+    },
+    {
+      "check": "base M15 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M15 revenue",
+      "actual": 73000.0,
+      "expected": 73000.0,
+      "pass": true
+    },
+    {
+      "check": "base M15 receipts",
+      "actual": 75000.0,
+      "expected": 75000.0,
+      "pass": true
+    },
+    {
+      "check": "base M15 direct",
+      "actual": 44743.75,
+      "expected": 44743.75,
+      "pass": true
+    },
+    {
+      "check": "base M15 commission",
+      "actual": 732.125,
+      "expected": 732.125,
+      "pass": true
+    },
+    {
+      "check": "base M15 commission_cash",
+      "actual": 435.75,
+      "expected": 435.75,
+      "pass": true
+    },
+    {
+      "check": "base M15 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "base M15 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M15 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M15 gross_profit",
+      "actual": 28256.25,
+      "expected": 28256.25,
+      "pass": true
+    },
+    {
+      "check": "base M15 contribution",
+      "actual": 8240.7917,
+      "expected": 8240.7917,
+      "pass": true
+    },
+    {
+      "check": "base M15 cash_net",
+      "actual": 10537.1667,
+      "expected": 10537.1667,
+      "pass": true
+    },
+    {
+      "check": "base M15 cumulative_cash",
+      "actual": -114310.625,
+      "expected": -114310.625,
+      "pass": true
+    },
+    {
+      "check": "base M16 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M16 revenue",
+      "actual": 183000.0,
+      "expected": 183000.0,
+      "pass": true
+    },
+    {
+      "check": "base M16 receipts",
+      "actual": 36500.0,
+      "expected": 36500.0,
+      "pass": true
+    },
+    {
+      "check": "base M16 direct",
+      "actual": 29362.5,
+      "expected": 29362.5,
+      "pass": true
+    },
+    {
+      "check": "base M16 commission",
+      "actual": 3097.625,
+      "expected": 3097.625,
+      "pass": true
+    },
+    {
+      "check": "base M16 commission_cash",
+      "actual": 732.125,
+      "expected": 732.125,
+      "pass": true
+    },
+    {
+      "check": "base M16 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "base M16 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M16 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M16 gross_profit",
+      "actual": 153637.5,
+      "expected": 153637.5,
+      "pass": true
+    },
+    {
+      "check": "base M16 contribution",
+      "actual": 131256.5417,
+      "expected": 131256.5417,
+      "pass": true
+    },
+    {
+      "check": "base M16 cash_net",
+      "actual": -12877.9583,
+      "expected": -12877.9583,
+      "pass": true
+    },
+    {
+      "check": "base M16 cumulative_cash",
+      "actual": -127188.5833,
+      "expected": -127188.5833,
+      "pass": true
+    },
+    {
+      "check": "base M17 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "base M17 revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "base M17 receipts",
+      "actual": 120500.0,
+      "expected": 120500.0,
+      "pass": true
+    },
+    {
+      "check": "base M17 direct",
+      "actual": 41187.5,
+      "expected": 41187.5,
+      "pass": true
+    },
+    {
+      "check": "base M17 commission",
+      "actual": 877.625,
+      "expected": 877.625,
+      "pass": true
+    },
+    {
+      "check": "base M17 commission_cash",
+      "actual": 3097.625,
+      "expected": 3097.625,
+      "pass": true
+    },
+    {
+      "check": "base M17 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "base M17 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M17 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M17 gross_profit",
+      "actual": -35187.5,
+      "expected": -35187.5,
+      "pass": true
+    },
+    {
+      "check": "base M17 contribution",
+      "actual": -55348.4583,
+      "expected": -55348.4583,
+      "pass": true
+    },
+    {
+      "check": "base M17 cash_net",
+      "actual": 56931.5417,
+      "expected": 56931.5417,
+      "pass": true
+    },
+    {
+      "check": "base M17 cumulative_cash",
+      "actual": -70257.0417,
+      "expected": -70257.0417,
+      "pass": true
+    },
+    {
+      "check": "base M18 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M18 revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "base M18 receipts",
+      "actual": 33000.0,
+      "expected": 33000.0,
+      "pass": true
+    },
+    {
+      "check": "base M18 direct",
+      "actual": 45643.75,
+      "expected": 45643.75,
+      "pass": true
+    },
+    {
+      "check": "base M18 commission",
+      "actual": 540.75,
+      "expected": 540.75,
+      "pass": true
+    },
+    {
+      "check": "base M18 commission_cash",
+      "actual": 877.625,
+      "expected": 877.625,
+      "pass": true
+    },
+    {
+      "check": "base M18 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "base M18 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M18 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M18 gross_profit",
+      "actual": -39643.75,
+      "expected": -39643.75,
+      "pass": true
+    },
+    {
+      "check": "base M18 contribution",
+      "actual": -59467.8333,
+      "expected": -59467.8333,
+      "pass": true
+    },
+    {
+      "check": "base M18 cash_net",
+      "actual": -32804.7083,
+      "expected": -32804.7083,
+      "pass": true
+    },
+    {
+      "check": "base M18 cumulative_cash",
+      "actual": -103061.75,
+      "expected": -103061.75,
+      "pass": true
+    },
+    {
+      "check": "base M19 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M19 revenue",
+      "actual": 76000.0,
+      "expected": 76000.0,
+      "pass": true
+    },
+    {
+      "check": "base M19 receipts",
+      "actual": 78000.0,
+      "expected": 78000.0,
+      "pass": true
+    },
+    {
+      "check": "base M19 direct",
+      "actual": 45643.75,
+      "expected": 45643.75,
+      "pass": true
+    },
+    {
+      "check": "base M19 commission",
+      "actual": 837.125,
+      "expected": 837.125,
+      "pass": true
+    },
+    {
+      "check": "base M19 commission_cash",
+      "actual": 540.75,
+      "expected": 540.75,
+      "pass": true
+    },
+    {
+      "check": "base M19 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "base M19 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M19 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M19 gross_profit",
+      "actual": 30356.25,
+      "expected": 30356.25,
+      "pass": true
+    },
+    {
+      "check": "base M19 contribution",
+      "actual": 10235.7917,
+      "expected": 10235.7917,
+      "pass": true
+    },
+    {
+      "check": "base M19 cash_net",
+      "actual": 12532.1667,
+      "expected": 12532.1667,
+      "pass": true
+    },
+    {
+      "check": "base M19 cumulative_cash",
+      "actual": -90529.5833,
+      "expected": -90529.5833,
+      "pass": true
+    },
+    {
+      "check": "base M20 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M20 revenue",
+      "actual": 186000.0,
+      "expected": 186000.0,
+      "pass": true
+    },
+    {
+      "check": "base M20 receipts",
+      "actual": 39500.0,
+      "expected": 39500.0,
+      "pass": true
+    },
+    {
+      "check": "base M20 direct",
+      "actual": 30262.5,
+      "expected": 30262.5,
+      "pass": true
+    },
+    {
+      "check": "base M20 commission",
+      "actual": 3202.625,
+      "expected": 3202.625,
+      "pass": true
+    },
+    {
+      "check": "base M20 commission_cash",
+      "actual": 837.125,
+      "expected": 837.125,
+      "pass": true
+    },
+    {
+      "check": "base M20 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "base M20 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M20 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M20 gross_profit",
+      "actual": 155737.5,
+      "expected": 155737.5,
+      "pass": true
+    },
+    {
+      "check": "base M20 contribution",
+      "actual": 133251.5417,
+      "expected": 133251.5417,
+      "pass": true
+    },
+    {
+      "check": "base M20 cash_net",
+      "actual": -10882.9583,
+      "expected": -10882.9583,
+      "pass": true
+    },
+    {
+      "check": "base M20 cumulative_cash",
+      "actual": -101412.5417,
+      "expected": -101412.5417,
+      "pass": true
+    },
+    {
+      "check": "base M21 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "base M21 revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "base M21 receipts",
+      "actual": 123500.0,
+      "expected": 123500.0,
+      "pass": true
+    },
+    {
+      "check": "base M21 direct",
+      "actual": 42087.5,
+      "expected": 42087.5,
+      "pass": true
+    },
+    {
+      "check": "base M21 commission",
+      "actual": 982.625,
+      "expected": 982.625,
+      "pass": true
+    },
+    {
+      "check": "base M21 commission_cash",
+      "actual": 3202.625,
+      "expected": 3202.625,
+      "pass": true
+    },
+    {
+      "check": "base M21 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "base M21 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M21 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M21 gross_profit",
+      "actual": -33087.5,
+      "expected": -33087.5,
+      "pass": true
+    },
+    {
+      "check": "base M21 contribution",
+      "actual": -53353.4583,
+      "expected": -53353.4583,
+      "pass": true
+    },
+    {
+      "check": "base M21 cash_net",
+      "actual": 58926.5417,
+      "expected": 58926.5417,
+      "pass": true
+    },
+    {
+      "check": "base M21 cumulative_cash",
+      "actual": -42486.0,
+      "expected": -42486.0,
+      "pass": true
+    },
+    {
+      "check": "base M22 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M22 revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "base M22 receipts",
+      "actual": 36000.0,
+      "expected": 36000.0,
+      "pass": true
+    },
+    {
+      "check": "base M22 direct",
+      "actual": 46543.75,
+      "expected": 46543.75,
+      "pass": true
+    },
+    {
+      "check": "base M22 commission",
+      "actual": 645.75,
+      "expected": 645.75,
+      "pass": true
+    },
+    {
+      "check": "base M22 commission_cash",
+      "actual": 982.625,
+      "expected": 982.625,
+      "pass": true
+    },
+    {
+      "check": "base M22 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "base M22 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M22 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M22 gross_profit",
+      "actual": -37543.75,
+      "expected": -37543.75,
+      "pass": true
+    },
+    {
+      "check": "base M22 contribution",
+      "actual": -57472.8333,
+      "expected": -57472.8333,
+      "pass": true
+    },
+    {
+      "check": "base M22 cash_net",
+      "actual": -30809.7083,
+      "expected": -30809.7083,
+      "pass": true
+    },
+    {
+      "check": "base M22 cumulative_cash",
+      "actual": -73295.7083,
+      "expected": -73295.7083,
+      "pass": true
+    },
+    {
+      "check": "base M23 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M23 revenue",
+      "actual": 79000.0,
+      "expected": 79000.0,
+      "pass": true
+    },
+    {
+      "check": "base M23 receipts",
+      "actual": 81000.0,
+      "expected": 81000.0,
+      "pass": true
+    },
+    {
+      "check": "base M23 direct",
+      "actual": 46543.75,
+      "expected": 46543.75,
+      "pass": true
+    },
+    {
+      "check": "base M23 commission",
+      "actual": 942.125,
+      "expected": 942.125,
+      "pass": true
+    },
+    {
+      "check": "base M23 commission_cash",
+      "actual": 645.75,
+      "expected": 645.75,
+      "pass": true
+    },
+    {
+      "check": "base M23 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "base M23 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M23 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M23 gross_profit",
+      "actual": 32456.25,
+      "expected": 32456.25,
+      "pass": true
+    },
+    {
+      "check": "base M23 contribution",
+      "actual": 12230.7917,
+      "expected": 12230.7917,
+      "pass": true
+    },
+    {
+      "check": "base M23 cash_net",
+      "actual": 14527.1667,
+      "expected": 14527.1667,
+      "pass": true
+    },
+    {
+      "check": "base M23 cumulative_cash",
+      "actual": -58768.5417,
+      "expected": -58768.5417,
+      "pass": true
+    },
+    {
+      "check": "base M24 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M24 revenue",
+      "actual": 189000.0,
+      "expected": 189000.0,
+      "pass": true
+    },
+    {
+      "check": "base M24 receipts",
+      "actual": 42500.0,
+      "expected": 42500.0,
+      "pass": true
+    },
+    {
+      "check": "base M24 direct",
+      "actual": 31162.5,
+      "expected": 31162.5,
+      "pass": true
+    },
+    {
+      "check": "base M24 commission",
+      "actual": 3307.625,
+      "expected": 3307.625,
+      "pass": true
+    },
+    {
+      "check": "base M24 commission_cash",
+      "actual": 942.125,
+      "expected": 942.125,
+      "pass": true
+    },
+    {
+      "check": "base M24 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "base M24 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "base M24 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M24 gross_profit",
+      "actual": 157837.5,
+      "expected": 157837.5,
+      "pass": true
+    },
+    {
+      "check": "base M24 contribution",
+      "actual": 135246.5417,
+      "expected": 135246.5417,
+      "pass": true
+    },
+    {
+      "check": "base M24 cash_net",
+      "actual": -8887.9583,
+      "expected": -8887.9583,
+      "pass": true
+    },
+    {
+      "check": "base M24 cumulative_cash",
+      "actual": -67656.5,
+      "expected": -67656.5,
+      "pass": true
+    },
+    {
+      "check": "base M25 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "base M25 revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "base M25 receipts",
+      "actual": 126500.0,
+      "expected": 126500.0,
+      "pass": true
+    },
+    {
+      "check": "base M25 direct",
+      "actual": 42987.5,
+      "expected": 42987.5,
+      "pass": true
+    },
+    {
+      "check": "base M25 commission",
+      "actual": 1087.625,
+      "expected": 1087.625,
+      "pass": true
+    },
+    {
+      "check": "base M25 commission_cash",
+      "actual": 3307.625,
+      "expected": 3307.625,
+      "pass": true
+    },
+    {
+      "check": "base M25 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "base M25 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M25 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M25 gross_profit",
+      "actual": -30987.5,
+      "expected": -30987.5,
+      "pass": true
+    },
+    {
+      "check": "base M25 contribution",
+      "actual": -53808.4583,
+      "expected": -53808.4583,
+      "pass": true
+    },
+    {
+      "check": "base M25 cash_net",
+      "actual": 58471.5417,
+      "expected": 58471.5417,
+      "pass": true
+    },
+    {
+      "check": "base M25 cumulative_cash",
+      "actual": -9184.9583,
+      "expected": -9184.9583,
+      "pass": true
+    },
+    {
+      "check": "base M26 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M26 revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "base M26 receipts",
+      "actual": 39000.0,
+      "expected": 39000.0,
+      "pass": true
+    },
+    {
+      "check": "base M26 direct",
+      "actual": 47443.75,
+      "expected": 47443.75,
+      "pass": true
+    },
+    {
+      "check": "base M26 commission",
+      "actual": 750.75,
+      "expected": 750.75,
+      "pass": true
+    },
+    {
+      "check": "base M26 commission_cash",
+      "actual": 1087.625,
+      "expected": 1087.625,
+      "pass": true
+    },
+    {
+      "check": "base M26 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "base M26 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M26 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M26 gross_profit",
+      "actual": -35443.75,
+      "expected": -35443.75,
+      "pass": true
+    },
+    {
+      "check": "base M26 contribution",
+      "actual": -57927.8333,
+      "expected": -57927.8333,
+      "pass": true
+    },
+    {
+      "check": "base M26 cash_net",
+      "actual": -31264.7083,
+      "expected": -31264.7083,
+      "pass": true
+    },
+    {
+      "check": "base M26 cumulative_cash",
+      "actual": -40449.6667,
+      "expected": -40449.6667,
+      "pass": true
+    },
+    {
+      "check": "base M27 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M27 revenue",
+      "actual": 82000.0,
+      "expected": 82000.0,
+      "pass": true
+    },
+    {
+      "check": "base M27 receipts",
+      "actual": 84000.0,
+      "expected": 84000.0,
+      "pass": true
+    },
+    {
+      "check": "base M27 direct",
+      "actual": 47443.75,
+      "expected": 47443.75,
+      "pass": true
+    },
+    {
+      "check": "base M27 commission",
+      "actual": 1047.125,
+      "expected": 1047.125,
+      "pass": true
+    },
+    {
+      "check": "base M27 commission_cash",
+      "actual": 750.75,
+      "expected": 750.75,
+      "pass": true
+    },
+    {
+      "check": "base M27 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "base M27 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M27 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M27 gross_profit",
+      "actual": 34556.25,
+      "expected": 34556.25,
+      "pass": true
+    },
+    {
+      "check": "base M27 contribution",
+      "actual": 11775.7917,
+      "expected": 11775.7917,
+      "pass": true
+    },
+    {
+      "check": "base M27 cash_net",
+      "actual": 14072.1667,
+      "expected": 14072.1667,
+      "pass": true
+    },
+    {
+      "check": "base M27 cumulative_cash",
+      "actual": -26377.5,
+      "expected": -26377.5,
+      "pass": true
+    },
+    {
+      "check": "base M28 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "pass": true
+    },
+    {
+      "check": "base M28 revenue",
+      "actual": 192000.0,
+      "expected": 192000.0,
+      "pass": true
+    },
+    {
+      "check": "base M28 receipts",
+      "actual": 99500.0,
+      "expected": 99500.0,
+      "pass": true
+    },
+    {
+      "check": "base M28 direct",
+      "actual": 60525.0,
+      "expected": 60525.0,
+      "pass": true
+    },
+    {
+      "check": "base M28 commission",
+      "actual": 3412.625,
+      "expected": 3412.625,
+      "pass": true
+    },
+    {
+      "check": "base M28 commission_cash",
+      "actual": 1047.125,
+      "expected": 1047.125,
+      "pass": true
+    },
+    {
+      "check": "base M28 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "base M28 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M28 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M28 gross_profit",
+      "actual": 131475.0,
+      "expected": 131475.0,
+      "pass": true
+    },
+    {
+      "check": "base M28 contribution",
+      "actual": 106329.0417,
+      "expected": 106329.0417,
+      "pass": true
+    },
+    {
+      "check": "base M28 cash_net",
+      "actual": 16194.5417,
+      "expected": 16194.5417,
+      "pass": true
+    },
+    {
+      "check": "base M28 cumulative_cash",
+      "actual": -10182.9583,
+      "expected": -10182.9583,
+      "pass": true
+    },
+    {
+      "check": "base M29 bookings",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "pass": true
+    },
+    {
+      "check": "base M29 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M29 receipts",
+      "actual": 75500.0,
+      "expected": 75500.0,
+      "pass": true
+    },
+    {
+      "check": "base M29 direct",
+      "actual": 43887.5,
+      "expected": 43887.5,
+      "pass": true
+    },
+    {
+      "check": "base M29 commission",
+      "actual": 1192.625,
+      "expected": 1192.625,
+      "pass": true
+    },
+    {
+      "check": "base M29 commission_cash",
+      "actual": 3412.625,
+      "expected": 3412.625,
+      "pass": true
+    },
+    {
+      "check": "base M29 support_revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M29 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M29 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M29 gross_profit",
+      "actual": -28887.5,
+      "expected": -28887.5,
+      "pass": true
+    },
+    {
+      "check": "base M29 contribution",
+      "actual": -51813.4583,
+      "expected": -51813.4583,
+      "pass": true
+    },
+    {
+      "check": "base M29 cash_net",
+      "actual": 6466.5417,
+      "expected": 6466.5417,
+      "pass": true
+    },
+    {
+      "check": "base M29 cumulative_cash",
+      "actual": -3716.4167,
+      "expected": -3716.4167,
+      "pass": true
+    },
+    {
+      "check": "base M30 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M30 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M30 receipts",
+      "actual": 114000.0,
+      "expected": 114000.0,
+      "pass": true
+    },
+    {
+      "check": "base M30 direct",
+      "actual": 48343.75,
+      "expected": 48343.75,
+      "pass": true
+    },
+    {
+      "check": "base M30 commission",
+      "actual": 855.75,
+      "expected": 855.75,
+      "pass": true
+    },
+    {
+      "check": "base M30 commission_cash",
+      "actual": 1192.625,
+      "expected": 1192.625,
+      "pass": true
+    },
+    {
+      "check": "base M30 support_revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M30 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M30 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M30 gross_profit",
+      "actual": -33343.75,
+      "expected": -33343.75,
+      "pass": true
+    },
+    {
+      "check": "base M30 contribution",
+      "actual": -55932.8333,
+      "expected": -55932.8333,
+      "pass": true
+    },
+    {
+      "check": "base M30 cash_net",
+      "actual": 42730.2917,
+      "expected": 42730.2917,
+      "pass": true
+    },
+    {
+      "check": "base M30 cumulative_cash",
+      "actual": 39013.875,
+      "expected": 39013.875,
+      "pass": true
+    },
+    {
+      "check": "base M31 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "pass": true
+    },
+    {
+      "check": "base M31 revenue",
+      "actual": 265000.0,
+      "expected": 265000.0,
+      "pass": true
+    },
+    {
+      "check": "base M31 receipts",
+      "actual": 69000.0,
+      "expected": 69000.0,
+      "pass": true
+    },
+    {
+      "check": "base M31 direct",
+      "actual": 76806.25,
+      "expected": 76806.25,
+      "pass": true
+    },
+    {
+      "check": "base M31 commission",
+      "actual": 3467.375,
+      "expected": 3467.375,
+      "pass": true
+    },
+    {
+      "check": "base M31 commission_cash",
+      "actual": 855.75,
+      "expected": 855.75,
+      "pass": true
+    },
+    {
+      "check": "base M31 support_revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "base M31 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M31 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M31 gross_profit",
+      "actual": 188193.75,
+      "expected": 188193.75,
+      "pass": true
+    },
+    {
+      "check": "base M31 contribution",
+      "actual": 162993.0417,
+      "expected": 162993.0417,
+      "pass": true
+    },
+    {
+      "check": "base M31 cash_net",
+      "actual": -30395.3333,
+      "expected": -30395.3333,
+      "pass": true
+    },
+    {
+      "check": "base M31 cumulative_cash",
+      "actual": 8618.5417,
+      "expected": 8618.5417,
+      "pass": true
+    },
+    {
+      "check": "base M32 bookings",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "pass": true
+    },
+    {
+      "check": "base M32 revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "pass": true
+    },
+    {
+      "check": "base M32 receipts",
+      "actual": 106500.0,
+      "expected": 106500.0,
+      "pass": true
+    },
+    {
+      "check": "base M32 direct",
+      "actual": 44787.5,
+      "expected": 44787.5,
+      "pass": true
+    },
+    {
+      "check": "base M32 commission",
+      "actual": 1863.875,
+      "expected": 1863.875,
+      "pass": true
+    },
+    {
+      "check": "base M32 commission_cash",
+      "actual": 3467.375,
+      "expected": 3467.375,
+      "pass": true
+    },
+    {
+      "check": "base M32 support_revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "pass": true
+    },
+    {
+      "check": "base M32 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M32 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M32 gross_profit",
+      "actual": -26787.5,
+      "expected": -26787.5,
+      "pass": true
+    },
+    {
+      "check": "base M32 contribution",
+      "actual": -50384.7083,
+      "expected": -50384.7083,
+      "pass": true
+    },
+    {
+      "check": "base M32 cash_net",
+      "actual": 36511.7917,
+      "expected": 36511.7917,
+      "pass": true
+    },
+    {
+      "check": "base M32 cumulative_cash",
+      "actual": 45130.3333,
+      "expected": 45130.3333,
+      "pass": true
+    },
+    {
+      "check": "base M33 bookings",
+      "actual": 195000.0,
+      "expected": 195000.0,
+      "pass": true
+    },
+    {
+      "check": "base M33 revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "pass": true
+    },
+    {
+      "check": "base M33 receipts",
+      "actual": 176500.0,
+      "expected": 176500.0,
+      "pass": true
+    },
+    {
+      "check": "base M33 direct",
+      "actual": 77706.25,
+      "expected": 77706.25,
+      "pass": true
+    },
+    {
+      "check": "base M33 commission",
+      "actual": 1071.875,
+      "expected": 1071.875,
+      "pass": true
+    },
+    {
+      "check": "base M33 commission_cash",
+      "actual": 1863.875,
+      "expected": 1863.875,
+      "pass": true
+    },
+    {
+      "check": "base M33 support_revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "pass": true
+    },
+    {
+      "check": "base M33 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M33 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M33 gross_profit",
+      "actual": -59706.25,
+      "expected": -59706.25,
+      "pass": true
+    },
+    {
+      "check": "base M33 contribution",
+      "actual": -82511.4583,
+      "expected": -82511.4583,
+      "pass": true
+    },
+    {
+      "check": "base M33 cash_net",
+      "actual": 75196.5417,
+      "expected": 75196.5417,
+      "pass": true
+    },
+    {
+      "check": "base M33 cumulative_cash",
+      "actual": 120326.875,
+      "expected": 120326.875,
+      "pass": true
+    },
+    {
+      "check": "base M34 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M34 revenue",
+      "actual": 268000.0,
+      "expected": 268000.0,
+      "pass": true
+    },
+    {
+      "check": "base M34 receipts",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "pass": true
+    },
+    {
+      "check": "base M34 direct",
+      "actual": 77706.25,
+      "expected": 77706.25,
+      "pass": true
+    },
+    {
+      "check": "base M34 commission",
+      "actual": 3572.375,
+      "expected": 3572.375,
+      "pass": true
+    },
+    {
+      "check": "base M34 commission_cash",
+      "actual": 1071.875,
+      "expected": 1071.875,
+      "pass": true
+    },
+    {
+      "check": "base M34 support_revenue",
+      "actual": 18000.0,
+      "expected": 18000.0,
+      "pass": true
+    },
+    {
+      "check": "base M34 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M34 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M34 gross_profit",
+      "actual": 190293.75,
+      "expected": 190293.75,
+      "pass": true
+    },
+    {
+      "check": "base M34 contribution",
+      "actual": 164988.0417,
+      "expected": 164988.0417,
+      "pass": true
+    },
+    {
+      "check": "base M34 cash_net",
+      "actual": -82511.4583,
+      "expected": -82511.4583,
+      "pass": true
+    },
+    {
+      "check": "base M34 cumulative_cash",
+      "actual": 37815.4167,
+      "expected": 37815.4167,
+      "pass": true
+    },
+    {
+      "check": "base M35 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M35 revenue",
+      "actual": 21000.0,
+      "expected": 21000.0,
+      "pass": true
+    },
+    {
+      "check": "base M35 receipts",
+      "actual": 159500.0,
+      "expected": 159500.0,
+      "pass": true
+    },
+    {
+      "check": "base M35 direct",
+      "actual": 34762.5,
+      "expected": 34762.5,
+      "pass": true
+    },
+    {
+      "check": "base M35 commission",
+      "actual": 1968.875,
+      "expected": 1968.875,
+      "pass": true
+    },
+    {
+      "check": "base M35 commission_cash",
+      "actual": 3572.375,
+      "expected": 3572.375,
+      "pass": true
+    },
+    {
+      "check": "base M35 support_revenue",
+      "actual": 21000.0,
+      "expected": 21000.0,
+      "pass": true
+    },
+    {
+      "check": "base M35 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M35 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M35 gross_profit",
+      "actual": -13762.5,
+      "expected": -13762.5,
+      "pass": true
+    },
+    {
+      "check": "base M35 contribution",
+      "actual": -37464.7083,
+      "expected": -37464.7083,
+      "pass": true
+    },
+    {
+      "check": "base M35 cash_net",
+      "actual": 99431.7917,
+      "expected": 99431.7917,
+      "pass": true
+    },
+    {
+      "check": "base M35 cumulative_cash",
+      "actual": 137247.2083,
+      "expected": 137247.2083,
+      "pass": true
+    },
+    {
+      "check": "base M36 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base M36 revenue",
+      "actual": 201000.0,
+      "expected": 201000.0,
+      "pass": true
+    },
+    {
+      "check": "base M36 receipts",
+      "actual": 44500.0,
+      "expected": 44500.0,
+      "pass": true
+    },
+    {
+      "check": "base M36 direct",
+      "actual": 34762.5,
+      "expected": 34762.5,
+      "pass": true
+    },
+    {
+      "check": "base M36 commission",
+      "actual": 3492.125,
+      "expected": 3492.125,
+      "pass": true
+    },
+    {
+      "check": "base M36 commission_cash",
+      "actual": 1968.875,
+      "expected": 1968.875,
+      "pass": true
+    },
+    {
+      "check": "base M36 support_revenue",
+      "actual": 21000.0,
+      "expected": 21000.0,
+      "pass": true
+    },
+    {
+      "check": "base M36 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "base M36 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "base M36 gross_profit",
+      "actual": 166237.5,
+      "expected": 166237.5,
+      "pass": true
+    },
+    {
+      "check": "base M36 contribution",
+      "actual": 141012.0417,
+      "expected": 141012.0417,
+      "pass": true
+    },
+    {
+      "check": "base M36 cash_net",
+      "actual": -13964.7083,
+      "expected": -13964.7083,
+      "pass": true
+    },
+    {
+      "check": "base M36 cumulative_cash",
+      "actual": 123282.5,
+      "expected": 123282.5,
+      "pass": true
+    },
+    {
+      "check": "base Y1 bookings",
+      "actual": 335000.0,
+      "expected": 335000.0,
+      "pass": true
+    },
+    {
+      "check": "base Y1 revenue",
+      "actual": 335000.0,
+      "expected": 335000.0,
+      "pass": true
+    },
+    {
+      "check": "base Y1 receipts",
+      "actual": 275500.0,
+      "expected": 275500.0,
+      "pass": true
+    },
+    {
+      "check": "base Y1 direct",
+      "actual": 206137.5,
+      "expected": 206137.5,
+      "pass": true
+    },
+    {
+      "check": "base Y1 commission",
+      "actual": 5339.75,
+      "expected": 5339.75,
+      "pass": true
+    },
+    {
+      "check": "base Y1 commission_cash",
+      "actual": 2468.88,
+      "expected": 2468.875,
+      "pass": true
+    },
+    {
+      "check": "base Y1 fixed",
+      "actual": 210000.0,
+      "expected": 210000.0,
+      "pass": true
+    },
+    {
+      "check": "base Y1 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "base Y1 contribution",
+      "actual": -86477.25,
+      "expected": -86477.25,
+      "pass": true
+    },
+    {
+      "check": "base Y2 bookings",
+      "actual": 750000.0,
+      "expected": 750000.0,
+      "pass": true
+    },
+    {
+      "check": "base Y2 revenue",
+      "actual": 822000.0,
+      "expected": 822000.0,
+      "pass": true
+    },
+    {
+      "check": "base Y2 receipts",
+      "actual": 813000.0,
+      "expected": 813000.0,
+      "pass": true
+    },
+    {
+      "check": "base Y2 direct",
+      "actual": 488212.5,
+      "expected": 488212.5,
+      "pass": true
+    },
+    {
+      "check": "base Y2 commission",
+      "actual": 16374.38,
+      "expected": 16374.375,
+      "pass": true
+    },
+    {
+      "check": "base Y2 commission_cash",
+      "actual": 15937.62,
+      "expected": 15937.625,
+      "pass": true
+    },
+    {
+      "check": "base Y2 fixed",
+      "actual": 231400.0,
+      "expected": 231400.0,
+      "pass": true
+    },
+    {
+      "check": "base Y2 support_revenue",
+      "actual": 72000.0,
+      "expected": 72000.0,
+      "pass": true
+    },
+    {
+      "check": "base Y2 contribution",
+      "actual": 86013.12,
+      "expected": 86013.125,
+      "pass": true
+    },
+    {
+      "check": "base Y3 bookings",
+      "actual": 930000.0,
+      "expected": 930000.0,
+      "pass": true
+    },
+    {
+      "check": "base Y3 revenue",
+      "actual": 1119000.0,
+      "expected": 1119000.0,
+      "pass": true
+    },
+    {
+      "check": "base Y3 receipts",
+      "actual": 1112500.0,
+      "expected": 1112500.0,
+      "pass": true
+    },
+    {
+      "check": "base Y3 direct",
+      "actual": 637162.5,
+      "expected": 637162.5,
+      "pass": true
+    },
+    {
+      "check": "base Y3 commission",
+      "actual": 23783.0,
+      "expected": 23783.0,
+      "pass": true
+    },
+    {
+      "check": "base Y3 commission_cash",
+      "actual": 23598.5,
+      "expected": 23598.5,
+      "pass": true
+    },
+    {
+      "check": "base Y3 fixed",
+      "actual": 260800.0,
+      "expected": 260800.0,
+      "pass": true
+    },
+    {
+      "check": "base Y3 support_revenue",
+      "actual": 189000.0,
+      "expected": 189000.0,
+      "pass": true
+    },
+    {
+      "check": "base Y3 contribution",
+      "actual": 197254.5,
+      "expected": 197254.5,
+      "pass": true
+    },
+    {
+      "check": "base liquidity",
+      "actual": 166872.3312,
+      "expected": 166872.33,
+      "pass": true
+    },
+    {
+      "check": "base contribution36",
+      "actual": 196790.375,
+      "expected": 196790.38,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 commission_cash",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 fixed",
+      "actual": 23333.3333,
+      "expected": 23333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 deposit_out",
+      "actual": 2000,
+      "expected": 2000,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 contribution",
+      "actual": -23333.3333,
+      "expected": -23333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 cash_net",
+      "actual": -25333.3333,
+      "expected": -25333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M1 cumulative_cash",
+      "actual": -25333.3333,
+      "expected": -25333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 fixed",
+      "actual": 17333.3333,
+      "expected": 17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 contribution",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 cash_net",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M2 cumulative_cash",
+      "actual": -42666.6667,
+      "expected": -42666.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 fixed",
+      "actual": 17333.3333,
+      "expected": 17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 contribution",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 cash_net",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M3 cumulative_cash",
+      "actual": -60000.0,
+      "expected": -60000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 fixed",
+      "actual": 15333.3333,
+      "expected": 15333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 contribution",
+      "actual": -15333.3333,
+      "expected": -15333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 cash_net",
+      "actual": -15333.3333,
+      "expected": -15333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M4 cumulative_cash",
+      "actual": -75333.3333,
+      "expected": -75333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 fixed",
+      "actual": 17333.3333,
+      "expected": 17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 contribution",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 cash_net",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M5 cumulative_cash",
+      "actual": -92666.6667,
+      "expected": -92666.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 fixed",
+      "actual": 19333.3333,
+      "expected": 19333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 contribution",
+      "actual": -19333.3333,
+      "expected": -19333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 cash_net",
+      "actual": -19333.3333,
+      "expected": -19333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M6 cumulative_cash",
+      "actual": -112000.0,
+      "expected": -112000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 fixed",
+      "actual": 17333.3333,
+      "expected": 17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 contribution",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 cash_net",
+      "actual": -17333.3333,
+      "expected": -17333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M7 cumulative_cash",
+      "actual": -129333.3333,
+      "expected": -129333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 fixed",
+      "actual": 14333.3333,
+      "expected": 14333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 contribution",
+      "actual": -14333.3333,
+      "expected": -14333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 cash_net",
+      "actual": -14333.3333,
+      "expected": -14333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M8 cumulative_cash",
+      "actual": -143666.6667,
+      "expected": -143666.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 direct",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 fixed",
+      "actual": 16333.3333,
+      "expected": 16333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 gross_profit",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 contribution",
+      "actual": -16333.3333,
+      "expected": -16333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 cash_net",
+      "actual": -16333.3333,
+      "expected": -16333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M9 cumulative_cash",
+      "actual": -160000.0,
+      "expected": -160000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 receipts",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 commission",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 fixed",
+      "actual": 16333.3333,
+      "expected": 16333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 gross_profit",
+      "actual": -4456.25,
+      "expected": -4456.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 contribution",
+      "actual": -20789.5833,
+      "expected": -20789.5833,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 cash_net",
+      "actual": -11789.5833,
+      "expected": -11789.5833,
+      "pass": true
+    },
+    {
+      "check": "delay6 M10 cumulative_cash",
+      "actual": -171789.5833,
+      "expected": -171789.5833,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 direct",
+      "actual": 4456.25,
+      "expected": 4456.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 commission",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 commission_cash",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 fixed",
+      "actual": 16333.3333,
+      "expected": 16333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 gross_profit",
+      "actual": 10543.75,
+      "expected": 10543.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 contribution",
+      "actual": -5972.2083,
+      "expected": -5972.2083,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 cash_net",
+      "actual": -20789.5833,
+      "expected": -20789.5833,
+      "pass": true
+    },
+    {
+      "check": "delay6 M11 cumulative_cash",
+      "actual": -192579.1667,
+      "expected": -192579.1667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 bookings",
+      "actual": 70000.0,
+      "expected": 70000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 receipts",
+      "actual": 37000.0,
+      "expected": 37000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 direct",
+      "actual": 15381.25,
+      "expected": 15381.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 commission",
+      "actual": 121.75,
+      "expected": 121.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 commission_cash",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 fixed",
+      "actual": 19333.3333,
+      "expected": 19333.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 gross_profit",
+      "actual": -15381.25,
+      "expected": -15381.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 contribution",
+      "actual": -34836.3333,
+      "expected": -34836.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 cash_net",
+      "actual": 2102.7917,
+      "expected": 2102.7917,
+      "pass": true
+    },
+    {
+      "check": "delay6 M12 cumulative_cash",
+      "actual": -190476.375,
+      "expected": -190476.375,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 receipts",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 direct",
+      "actual": 15381.25,
+      "expected": 15381.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 commission",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 commission_cash",
+      "actual": 121.75,
+      "expected": 121.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 gross_profit",
+      "actual": -381.25,
+      "expected": -381.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 contribution",
+      "actual": -19847.2083,
+      "expected": -19847.2083,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 cash_net",
+      "actual": -34786.3333,
+      "expected": -34786.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M13 cumulative_cash",
+      "actual": -225262.7083,
+      "expected": -225262.7083,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 revenue",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 receipts",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 direct",
+      "actual": 15381.25,
+      "expected": 15381.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 commission",
+      "actual": 566.25,
+      "expected": 566.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 commission_cash",
+      "actual": 182.625,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 gross_profit",
+      "actual": 39618.75,
+      "expected": 39618.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 contribution",
+      "actual": 19769.1667,
+      "expected": 19769.1667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 cash_net",
+      "actual": -19847.2083,
+      "expected": -19847.2083,
+      "pass": true
+    },
+    {
+      "check": "delay6 M14 cumulative_cash",
+      "actual": -245109.9167,
+      "expected": -245109.9167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 receipts",
+      "actual": 103500.0,
+      "expected": 103500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 direct",
+      "actual": 43843.75,
+      "expected": 43843.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 commission",
+      "actual": 738.25,
+      "expected": 738.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 commission_cash",
+      "actual": 566.25,
+      "expected": 566.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 gross_profit",
+      "actual": -28843.75,
+      "expected": -28843.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 contribution",
+      "actual": -48865.3333,
+      "expected": -48865.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 cash_net",
+      "actual": 39806.6667,
+      "expected": 39806.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M15 cumulative_cash",
+      "actual": -205303.25,
+      "expected": -205303.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 receipts",
+      "actual": 11500.0,
+      "expected": 11500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 direct",
+      "actual": 39387.5,
+      "expected": 39387.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 commission",
+      "actual": 232.875,
+      "expected": 232.875,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 commission_cash",
+      "actual": 738.25,
+      "expected": 738.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 gross_profit",
+      "actual": -39387.5,
+      "expected": -39387.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 contribution",
+      "actual": -58903.7083,
+      "expected": -58903.7083,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 cash_net",
+      "actual": -47909.0833,
+      "expected": -47909.0833,
+      "pass": true
+    },
+    {
+      "check": "delay6 M16 cumulative_cash",
+      "actual": -253212.3333,
+      "expected": -253212.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 revenue",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 receipts",
+      "actual": 72000.0,
+      "expected": 72000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 direct",
+      "actual": 39387.5,
+      "expected": 39387.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 commission",
+      "actual": 444.5,
+      "expected": 444.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 commission_cash",
+      "actual": 232.875,
+      "expected": 232.875,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 gross_profit",
+      "actual": 15612.5,
+      "expected": 15612.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 contribution",
+      "actual": -4115.3333,
+      "expected": -4115.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 cash_net",
+      "actual": 13096.2917,
+      "expected": 13096.2917,
+      "pass": true
+    },
+    {
+      "check": "delay6 M17 cumulative_cash",
+      "actual": -240116.0417,
+      "expected": -240116.0417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 revenue",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 receipts",
+      "actual": 27500.0,
+      "expected": 27500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 direct",
+      "actual": 28462.5,
+      "expected": 28462.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 commission",
+      "actual": 2870.875,
+      "expected": 2870.875,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 commission_cash",
+      "actual": 444.5,
+      "expected": 444.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 gross_profit",
+      "actual": 151537.5,
+      "expected": 151537.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 contribution",
+      "actual": 129383.2917,
+      "expected": 129383.2917,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 cash_net",
+      "actual": -20690.3333,
+      "expected": -20690.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M18 cumulative_cash",
+      "actual": -260806.375,
+      "expected": -260806.375,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 receipts",
+      "actual": 117500.0,
+      "expected": 117500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 direct",
+      "actual": 40287.5,
+      "expected": 40287.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 commission",
+      "actual": 772.625,
+      "expected": 772.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 commission_cash",
+      "actual": 2870.875,
+      "expected": 2870.875,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 gross_profit",
+      "actual": -37287.5,
+      "expected": -37287.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 contribution",
+      "actual": -57343.4583,
+      "expected": -57343.4583,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 cash_net",
+      "actual": 55058.2917,
+      "expected": 55058.2917,
+      "pass": true
+    },
+    {
+      "check": "delay6 M19 cumulative_cash",
+      "actual": -205748.0833,
+      "expected": -205748.0833,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 receipts",
+      "actual": 30000.0,
+      "expected": 30000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 direct",
+      "actual": 44743.75,
+      "expected": 44743.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 commission",
+      "actual": 435.75,
+      "expected": 435.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 commission_cash",
+      "actual": 772.625,
+      "expected": 772.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 gross_profit",
+      "actual": -41743.75,
+      "expected": -41743.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 contribution",
+      "actual": -61462.8333,
+      "expected": -61462.8333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 cash_net",
+      "actual": -34799.7083,
+      "expected": -34799.7083,
+      "pass": true
+    },
+    {
+      "check": "delay6 M20 cumulative_cash",
+      "actual": -240547.7917,
+      "expected": -240547.7917,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 revenue",
+      "actual": 73000.0,
+      "expected": 73000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 receipts",
+      "actual": 75000.0,
+      "expected": 75000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 direct",
+      "actual": 44743.75,
+      "expected": 44743.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 commission",
+      "actual": 732.125,
+      "expected": 732.125,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 commission_cash",
+      "actual": 435.75,
+      "expected": 435.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 gross_profit",
+      "actual": 28256.25,
+      "expected": 28256.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 contribution",
+      "actual": 8240.7917,
+      "expected": 8240.7917,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 cash_net",
+      "actual": 10537.1667,
+      "expected": 10537.1667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M21 cumulative_cash",
+      "actual": -230010.625,
+      "expected": -230010.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 revenue",
+      "actual": 183000.0,
+      "expected": 183000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 receipts",
+      "actual": 36500.0,
+      "expected": 36500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 direct",
+      "actual": 29362.5,
+      "expected": 29362.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 commission",
+      "actual": 3097.625,
+      "expected": 3097.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 commission_cash",
+      "actual": 732.125,
+      "expected": 732.125,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 support_revenue",
+      "actual": 3000.0,
+      "expected": 3000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 gross_profit",
+      "actual": 153637.5,
+      "expected": 153637.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 contribution",
+      "actual": 131256.5417,
+      "expected": 131256.5417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 cash_net",
+      "actual": -12877.9583,
+      "expected": -12877.9583,
+      "pass": true
+    },
+    {
+      "check": "delay6 M22 cumulative_cash",
+      "actual": -242888.5833,
+      "expected": -242888.5833,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 receipts",
+      "actual": 120500.0,
+      "expected": 120500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 direct",
+      "actual": 41187.5,
+      "expected": 41187.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 commission",
+      "actual": 877.625,
+      "expected": 877.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 commission_cash",
+      "actual": 3097.625,
+      "expected": 3097.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 gross_profit",
+      "actual": -35187.5,
+      "expected": -35187.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 contribution",
+      "actual": -55348.4583,
+      "expected": -55348.4583,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 cash_net",
+      "actual": 56931.5417,
+      "expected": 56931.5417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M23 cumulative_cash",
+      "actual": -185957.0417,
+      "expected": -185957.0417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 receipts",
+      "actual": 33000.0,
+      "expected": 33000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 direct",
+      "actual": 45643.75,
+      "expected": 45643.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 commission",
+      "actual": 540.75,
+      "expected": 540.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 commission_cash",
+      "actual": 877.625,
+      "expected": 877.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 fixed",
+      "actual": 19283.3333,
+      "expected": 19283.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 gross_profit",
+      "actual": -39643.75,
+      "expected": -39643.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 contribution",
+      "actual": -59467.8333,
+      "expected": -59467.8333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 cash_net",
+      "actual": -32804.7083,
+      "expected": -32804.7083,
+      "pass": true
+    },
+    {
+      "check": "delay6 M24 cumulative_cash",
+      "actual": -218761.75,
+      "expected": -218761.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 revenue",
+      "actual": 76000.0,
+      "expected": 76000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 receipts",
+      "actual": 78000.0,
+      "expected": 78000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 direct",
+      "actual": 45643.75,
+      "expected": 45643.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 commission",
+      "actual": 837.125,
+      "expected": 837.125,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 commission_cash",
+      "actual": 540.75,
+      "expected": 540.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 gross_profit",
+      "actual": 30356.25,
+      "expected": 30356.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 contribution",
+      "actual": 7785.7917,
+      "expected": 7785.7917,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 cash_net",
+      "actual": 10082.1667,
+      "expected": 10082.1667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M25 cumulative_cash",
+      "actual": -208679.5833,
+      "expected": -208679.5833,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 revenue",
+      "actual": 186000.0,
+      "expected": 186000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 receipts",
+      "actual": 39500.0,
+      "expected": 39500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 direct",
+      "actual": 30262.5,
+      "expected": 30262.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 commission",
+      "actual": 3202.625,
+      "expected": 3202.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 commission_cash",
+      "actual": 837.125,
+      "expected": 837.125,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 support_revenue",
+      "actual": 6000.0,
+      "expected": 6000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 gross_profit",
+      "actual": 155737.5,
+      "expected": 155737.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 contribution",
+      "actual": 130801.5417,
+      "expected": 130801.5417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 cash_net",
+      "actual": -13332.9583,
+      "expected": -13332.9583,
+      "pass": true
+    },
+    {
+      "check": "delay6 M26 cumulative_cash",
+      "actual": -222012.5417,
+      "expected": -222012.5417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 receipts",
+      "actual": 123500.0,
+      "expected": 123500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 direct",
+      "actual": 42087.5,
+      "expected": 42087.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 commission",
+      "actual": 982.625,
+      "expected": 982.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 commission_cash",
+      "actual": 3202.625,
+      "expected": 3202.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 gross_profit",
+      "actual": -33087.5,
+      "expected": -33087.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 contribution",
+      "actual": -55803.4583,
+      "expected": -55803.4583,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 cash_net",
+      "actual": 56476.5417,
+      "expected": 56476.5417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M27 cumulative_cash",
+      "actual": -165536.0,
+      "expected": -165536.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 receipts",
+      "actual": 36000.0,
+      "expected": 36000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 direct",
+      "actual": 46543.75,
+      "expected": 46543.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 commission",
+      "actual": 645.75,
+      "expected": 645.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 commission_cash",
+      "actual": 982.625,
+      "expected": 982.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 gross_profit",
+      "actual": -37543.75,
+      "expected": -37543.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 contribution",
+      "actual": -59922.8333,
+      "expected": -59922.8333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 cash_net",
+      "actual": -33259.7083,
+      "expected": -33259.7083,
+      "pass": true
+    },
+    {
+      "check": "delay6 M28 cumulative_cash",
+      "actual": -198795.7083,
+      "expected": -198795.7083,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 revenue",
+      "actual": 79000.0,
+      "expected": 79000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 receipts",
+      "actual": 81000.0,
+      "expected": 81000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 direct",
+      "actual": 46543.75,
+      "expected": 46543.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 commission",
+      "actual": 942.125,
+      "expected": 942.125,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 commission_cash",
+      "actual": 645.75,
+      "expected": 645.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 gross_profit",
+      "actual": 32456.25,
+      "expected": 32456.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 contribution",
+      "actual": 9780.7917,
+      "expected": 9780.7917,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 cash_net",
+      "actual": 12077.1667,
+      "expected": 12077.1667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M29 cumulative_cash",
+      "actual": -186718.5417,
+      "expected": -186718.5417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 revenue",
+      "actual": 189000.0,
+      "expected": 189000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 receipts",
+      "actual": 42500.0,
+      "expected": 42500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 direct",
+      "actual": 31162.5,
+      "expected": 31162.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 commission",
+      "actual": 3307.625,
+      "expected": 3307.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 commission_cash",
+      "actual": 942.125,
+      "expected": 942.125,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 support_revenue",
+      "actual": 9000.0,
+      "expected": 9000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 gross_profit",
+      "actual": 157837.5,
+      "expected": 157837.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 contribution",
+      "actual": 132796.5417,
+      "expected": 132796.5417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 cash_net",
+      "actual": -11337.9583,
+      "expected": -11337.9583,
+      "pass": true
+    },
+    {
+      "check": "delay6 M30 cumulative_cash",
+      "actual": -198056.5,
+      "expected": -198056.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 bookings",
+      "actual": 235000.0,
+      "expected": 235000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 receipts",
+      "actual": 126500.0,
+      "expected": 126500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 direct",
+      "actual": 42987.5,
+      "expected": 42987.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 commission",
+      "actual": 1087.625,
+      "expected": 1087.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 commission_cash",
+      "actual": 3307.625,
+      "expected": 3307.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 gross_profit",
+      "actual": -30987.5,
+      "expected": -30987.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 contribution",
+      "actual": -53808.4583,
+      "expected": -53808.4583,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 cash_net",
+      "actual": 58471.5417,
+      "expected": 58471.5417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M31 cumulative_cash",
+      "actual": -139584.9583,
+      "expected": -139584.9583,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 receipts",
+      "actual": 39000.0,
+      "expected": 39000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 direct",
+      "actual": 47443.75,
+      "expected": 47443.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 commission",
+      "actual": 750.75,
+      "expected": 750.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 commission_cash",
+      "actual": 1087.625,
+      "expected": 1087.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 gross_profit",
+      "actual": -35443.75,
+      "expected": -35443.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 contribution",
+      "actual": -57927.8333,
+      "expected": -57927.8333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 cash_net",
+      "actual": -31264.7083,
+      "expected": -31264.7083,
+      "pass": true
+    },
+    {
+      "check": "delay6 M32 cumulative_cash",
+      "actual": -170849.6667,
+      "expected": -170849.6667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 bookings",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 revenue",
+      "actual": 82000.0,
+      "expected": 82000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 receipts",
+      "actual": 84000.0,
+      "expected": 84000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 direct",
+      "actual": 47443.75,
+      "expected": 47443.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 commission",
+      "actual": 1047.125,
+      "expected": 1047.125,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 commission_cash",
+      "actual": 750.75,
+      "expected": 750.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 gross_profit",
+      "actual": 34556.25,
+      "expected": 34556.25,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 contribution",
+      "actual": 11775.7917,
+      "expected": 11775.7917,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 cash_net",
+      "actual": 14072.1667,
+      "expected": 14072.1667,
+      "pass": true
+    },
+    {
+      "check": "delay6 M33 cumulative_cash",
+      "actual": -156777.5,
+      "expected": -156777.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 bookings",
+      "actual": 180000.0,
+      "expected": 180000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 revenue",
+      "actual": 192000.0,
+      "expected": 192000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 receipts",
+      "actual": 99500.0,
+      "expected": 99500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 direct",
+      "actual": 60525.0,
+      "expected": 60525.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 commission",
+      "actual": 3412.625,
+      "expected": 3412.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 commission_cash",
+      "actual": 1047.125,
+      "expected": 1047.125,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 support_revenue",
+      "actual": 12000.0,
+      "expected": 12000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 gross_profit",
+      "actual": 131475.0,
+      "expected": 131475.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 contribution",
+      "actual": 106329.0417,
+      "expected": 106329.0417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 cash_net",
+      "actual": 16194.5417,
+      "expected": 16194.5417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M34 cumulative_cash",
+      "actual": -140582.9583,
+      "expected": -140582.9583,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 bookings",
+      "actual": 55000.0,
+      "expected": 55000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 receipts",
+      "actual": 75500.0,
+      "expected": 75500.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 direct",
+      "actual": 43887.5,
+      "expected": 43887.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 commission",
+      "actual": 1192.625,
+      "expected": 1192.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 commission_cash",
+      "actual": 3412.625,
+      "expected": 3412.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 support_revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 gross_profit",
+      "actual": -28887.5,
+      "expected": -28887.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 contribution",
+      "actual": -51813.4583,
+      "expected": -51813.4583,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 cash_net",
+      "actual": 6466.5417,
+      "expected": 6466.5417,
+      "pass": true
+    },
+    {
+      "check": "delay6 M35 cumulative_cash",
+      "actual": -134116.4167,
+      "expected": -134116.4167,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 bookings",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 receipts",
+      "actual": 114000.0,
+      "expected": 114000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 direct",
+      "actual": 48343.75,
+      "expected": 48343.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 commission",
+      "actual": 855.75,
+      "expected": 855.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 commission_cash",
+      "actual": 1192.625,
+      "expected": 1192.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 support_revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 fixed",
+      "actual": 21733.3333,
+      "expected": 21733.3333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 deposit_out",
+      "actual": 0.0,
+      "expected": 0,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 gross_profit",
+      "actual": -33343.75,
+      "expected": -33343.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 contribution",
+      "actual": -55932.8333,
+      "expected": -55932.8333,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 cash_net",
+      "actual": 42730.2917,
+      "expected": 42730.2917,
+      "pass": true
+    },
+    {
+      "check": "delay6 M36 cumulative_cash",
+      "actual": -91386.125,
+      "expected": -91386.125,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y1 bookings",
+      "actual": 85000.0,
+      "expected": 85000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y1 revenue",
+      "actual": 15000.0,
+      "expected": 15000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y1 receipts",
+      "actual": 46000.0,
+      "expected": 46000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y1 direct",
+      "actual": 24293.75,
+      "expected": 24293.75,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y1 commission",
+      "actual": 304.38,
+      "expected": 304.375,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y1 commission_cash",
+      "actual": 182.62,
+      "expected": 182.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y1 fixed",
+      "actual": 210000.0,
+      "expected": 210000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y1 support_revenue",
+      "actual": 0.0,
+      "expected": 0.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y1 contribution",
+      "actual": -219598.12,
+      "expected": -219598.125,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y2 bookings",
+      "actual": 750000.0,
+      "expected": 750000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y2 revenue",
+      "actual": 594000.0,
+      "expected": 594000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y2 receipts",
+      "actual": 642000.0,
+      "expected": 642000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y2 direct",
+      "actual": 427812.5,
+      "expected": 427812.5,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y2 commission",
+      "actual": 11491.88,
+      "expected": 11491.875,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y2 commission_cash",
+      "actual": 11072.88,
+      "expected": 11072.875,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y2 fixed",
+      "actual": 231400.0,
+      "expected": 231400.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y2 support_revenue",
+      "actual": 24000.0,
+      "expected": 24000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y2 contribution",
+      "actual": -76704.37,
+      "expected": -76704.375,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y3 bookings",
+      "actual": 750000.0,
+      "expected": 750000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y3 revenue",
+      "actual": 876000.0,
+      "expected": 876000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y3 receipts",
+      "actual": 939000.0,
+      "expected": 939000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y3 direct",
+      "actual": 532875.0,
+      "expected": 532875.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y3 commission",
+      "actual": 18264.38,
+      "expected": 18264.375,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y3 commission_cash",
+      "actual": 17949.38,
+      "expected": 17949.375,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y3 fixed",
+      "actual": 260800.0,
+      "expected": 260800.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y3 support_revenue",
+      "actual": 126000.0,
+      "expected": 126000.0,
+      "pass": true
+    },
+    {
+      "check": "delay6 Y3 contribution",
+      "actual": 64060.63,
+      "expected": 64060.625,
+      "pass": true
+    },
+    {
+      "check": "delay6 liquidity",
+      "actual": 299927.3313,
+      "expected": 299927.33,
+      "pass": true
+    },
+    {
+      "check": "delay6 contribution36",
+      "actual": -232241.875,
+      "expected": -232241.87,
+      "pass": true
+    },
+    {
+      "check": "breakeven 0.35",
+      "actual": 631578.9474,
+      "expected": 631578.95,
+      "pass": true
+    },
+    {
+      "check": "breakeven 0.4",
+      "actual": 552631.5789,
+      "expected": 552631.58,
+      "pass": true
+    },
+    {
+      "check": "breakeven 0.45",
+      "actual": 491228.0702,
+      "expected": 491228.07,
+      "pass": true
+    }
+  ],
+  "previous_version_unchanged": true,
+  "pdf_pages": [
+    7,
+    7
+  ]
+}

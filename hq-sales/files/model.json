@@ -1,2917 +1,9 @@
 {
-  "version": "4.1-HQ",
-  "date": "2026-10-29",
-  "currency": "USD",
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "USD": 1
   },
-  "native_inputs": [
-    {
-      "id": "salary",
-      "currency": "AED",
-      "annual": [
-        600000,
-        600000,
-        600000
-      ]
-    },
-    {
-      "id": "employer",
-      "currency": "AED",
-      "annual": [
-        36000,
-        36000,
-        36000
-      ]
-    },
-    {
-      "id": "housing",
-      "currency": "AED",
-      "annual": [
-        90000,
-        90000,
-        90000
-      ]
-    },
-    {
-      "id": "mobility",
-      "currency": "AED",
-      "annual": [
-        26400,
-        26400,
-        26400
-      ]
-    },
-    {
-      "id": "food",
-      "currency": "AED",
-      "annual": [
-        54750,
-        54750,
-        54750
-      ]
-    },
-    {
-      "id": "phone",
-      "currency": "AED",
-      "annual": [
-        4400,
-        4400,
-        4400
-      ]
-    },
-    {
-      "id": "uae_health",
-      "currency": "AED",
-      "annual": [
-        6000,
-        6000,
-        6000
-      ]
-    },
-    {
-      "id": "sa_health",
-      "currency": "SAR",
-      "annual": [
-        3000,
-        3000,
-        3000
-      ]
-    },
-    {
-      "id": "hq_leave",
-      "currency": "USD",
-      "annual": [
-        4000,
-        4000,
-        4000
-      ]
-    },
-    {
-      "id": "mobilization",
-      "currency": "USD",
-      "annual": [
-        5000,
-        0,
-        0
-      ]
-    },
-    {
-      "id": "uae_permit",
-      "currency": "AED",
-      "annual": [
-        8000,
-        1000,
-        8000
-      ]
-    },
-    {
-      "id": "sa_permit",
-      "currency": "SAR",
-      "annual": [
-        20000,
-        15000,
-        15000
-      ]
-    },
-    {
-      "id": "gulf_visits",
-      "currency": "USD",
-      "annual": [
-        12000,
-        16000,
-        20000
-      ]
-    },
-    {
-      "id": "meetings",
-      "currency": "USD",
-      "annual": [
-        6000,
-        8000,
-        10000
-      ]
-    },
-    {
-      "id": "workshops",
-      "currency": "USD",
-      "annual": [
-        6000,
-        8000,
-        10000
-      ]
-    },
-    {
-      "id": "materials",
-      "currency": "USD",
-      "annual": [
-        5000,
-        6000,
-        8000
-      ]
-    },
-    {
-      "id": "counsel",
-      "currency": "USD",
-      "annual": [
-        6000,
-        6000,
-        8000
-      ]
-    },
-    {
-      "id": "pro",
-      "currency": "USD",
-      "annual": [
-        2000,
-        2000,
-        2000
-      ]
-    },
-    {
-      "id": "employment_service",
-      "currency": "USD",
-      "annual": [
-        14000,
-        14000,
-        14000
-      ]
-    },
-    {
-      "id": "presales",
-      "currency": "USD",
-      "annual": [
-        36000,
-        48000,
-        60000
-      ]
-    }
-  ],
-  "fixed_events": [
-    {
-      "row": "salary",
-      "month": 1,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 2,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 3,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 4,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 5,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 6,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 7,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 8,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 9,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 10,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 11,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 12,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 13,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 14,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 15,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 16,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 17,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 18,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 19,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 20,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 21,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 22,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 23,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 24,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 25,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 26,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 27,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 28,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 29,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 30,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 31,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 32,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 33,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 34,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 35,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "salary",
-      "month": 36,
-      "usd": 13614.703880190606
-    },
-    {
-      "row": "employer",
-      "month": 1,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 2,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 3,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 4,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 5,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 6,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 7,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 8,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 9,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 10,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 11,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 12,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 13,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 14,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 15,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 16,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 17,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 18,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 19,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 20,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 21,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 22,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 23,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 24,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 25,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 26,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 27,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 28,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 29,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 30,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 31,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 32,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 33,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 34,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 35,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "employer",
-      "month": 36,
-      "usd": 816.8822328114363
-    },
-    {
-      "row": "housing",
-      "month": 1,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "housing",
-      "month": 4,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "housing",
-      "month": 7,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "housing",
-      "month": 10,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "housing",
-      "month": 13,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "housing",
-      "month": 16,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "housing",
-      "month": 19,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "housing",
-      "month": 22,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "housing",
-      "month": 25,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "housing",
-      "month": 28,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "housing",
-      "month": 31,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "housing",
-      "month": 34,
-      "usd": 6126.616746085773
-    },
-    {
-      "row": "mobility",
-      "month": 1,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 2,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 3,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 4,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 5,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 6,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 7,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 8,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 9,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 10,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 11,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 12,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 13,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 14,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 15,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 16,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 17,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 18,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 19,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 20,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 21,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 22,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 23,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 24,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 25,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 26,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 27,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 28,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 29,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 30,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 31,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 32,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 33,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 34,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 35,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "mobility",
-      "month": 36,
-      "usd": 599.0469707283867
-    },
-    {
-      "row": "food",
-      "month": 1,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 2,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 3,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 4,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 5,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 6,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 7,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 8,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 9,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 10,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 11,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 12,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 13,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 14,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 15,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 16,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 17,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 18,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 19,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 20,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 21,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 22,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 23,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 24,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 25,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 26,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 27,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 28,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 29,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 30,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 31,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 32,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 33,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 34,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 35,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "food",
-      "month": 36,
-      "usd": 1242.3417290673929
-    },
-    {
-      "row": "phone",
-      "month": 1,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 2,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 3,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 4,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 5,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 6,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 7,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 8,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 9,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 10,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 11,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 12,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 13,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 14,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 15,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 16,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 17,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 18,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 19,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 20,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 21,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 22,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 23,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 24,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 25,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 26,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 27,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 28,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 29,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 30,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 31,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 32,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 33,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 34,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 35,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "phone",
-      "month": 36,
-      "usd": 99.84116178806444
-    },
-    {
-      "row": "uae_health",
-      "month": 1,
-      "usd": 1633.7644656228726
-    },
-    {
-      "row": "uae_health",
-      "month": 13,
-      "usd": 1633.7644656228726
-    },
-    {
-      "row": "uae_health",
-      "month": 25,
-      "usd": 1633.7644656228726
-    },
-    {
-      "row": "sa_health",
-      "month": 3,
-      "usd": 800.0
-    },
-    {
-      "row": "sa_health",
-      "month": 15,
-      "usd": 800.0
-    },
-    {
-      "row": "sa_health",
-      "month": 27,
-      "usd": 800.0
-    },
-    {
-      "row": "hq_leave",
-      "month": 6,
-      "usd": 2000.0
-    },
-    {
-      "row": "hq_leave",
-      "month": 12,
-      "usd": 2000.0
-    },
-    {
-      "row": "hq_leave",
-      "month": 18,
-      "usd": 2000.0
-    },
-    {
-      "row": "hq_leave",
-      "month": 24,
-      "usd": 2000.0
-    },
-    {
-      "row": "hq_leave",
-      "month": 30,
-      "usd": 2000.0
-    },
-    {
-      "row": "hq_leave",
-      "month": 36,
-      "usd": 2000.0
-    },
-    {
-      "row": "mobilization",
-      "month": 1,
-      "usd": 5000.0
-    },
-    {
-      "row": "mobilization",
-      "month": 13,
-      "usd": 0.0
-    },
-    {
-      "row": "mobilization",
-      "month": 25,
-      "usd": 0.0
-    },
-    {
-      "row": "uae_permit",
-      "month": 1,
-      "usd": 2178.352620830497
-    },
-    {
-      "row": "uae_permit",
-      "month": 13,
-      "usd": 272.2940776038121
-    },
-    {
-      "row": "uae_permit",
-      "month": 25,
-      "usd": 2178.352620830497
-    },
-    {
-      "row": "sa_permit",
-      "month": 3,
-      "usd": 5333.333333333333
-    },
-    {
-      "row": "sa_permit",
-      "month": 15,
-      "usd": 4000.0
-    },
-    {
-      "row": "sa_permit",
-      "month": 27,
-      "usd": 4000.0
-    },
-    {
-      "row": "gulf_visits",
-      "month": 3,
-      "usd": 2000.0
-    },
-    {
-      "row": "gulf_visits",
-      "month": 5,
-      "usd": 2000.0
-    },
-    {
-      "row": "gulf_visits",
-      "month": 7,
-      "usd": 2000.0
-    },
-    {
-      "row": "gulf_visits",
-      "month": 9,
-      "usd": 2000.0
-    },
-    {
-      "row": "gulf_visits",
-      "month": 10,
-      "usd": 2000.0
-    },
-    {
-      "row": "gulf_visits",
-      "month": 11,
-      "usd": 2000.0
-    },
-    {
-      "row": "gulf_visits",
-      "month": 13,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 14,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 15,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 16,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 17,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 18,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 19,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 20,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 21,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 22,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 23,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 24,
-      "usd": 1333.3333333333333
-    },
-    {
-      "row": "gulf_visits",
-      "month": 25,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "gulf_visits",
-      "month": 26,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "gulf_visits",
-      "month": 27,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "gulf_visits",
-      "month": 28,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "gulf_visits",
-      "month": 29,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "gulf_visits",
-      "month": 30,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "gulf_visits",
-      "month": 31,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "gulf_visits",
-      "month": 32,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "gulf_visits",
-      "month": 33,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "gulf_visits",
-      "month": 34,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "gulf_visits",
-      "month": 35,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "gulf_visits",
-      "month": 36,
-      "usd": 1666.6666666666665
-    },
-    {
-      "row": "meetings",
-      "month": 1,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 2,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 3,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 4,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 5,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 6,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 7,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 8,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 9,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 10,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 11,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 12,
-      "usd": 500.0
-    },
-    {
-      "row": "meetings",
-      "month": 13,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 14,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 15,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 16,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 17,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 18,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 19,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 20,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 21,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 22,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 23,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 24,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "meetings",
-      "month": 25,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "meetings",
-      "month": 26,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "meetings",
-      "month": 27,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "meetings",
-      "month": 28,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "meetings",
-      "month": 29,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "meetings",
-      "month": 30,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "meetings",
-      "month": 31,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "meetings",
-      "month": 32,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "meetings",
-      "month": 33,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "meetings",
-      "month": 34,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "meetings",
-      "month": 35,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "meetings",
-      "month": 36,
-      "usd": 833.3333333333333
-    },
-    {
-      "row": "workshops",
-      "month": 6,
-      "usd": 3000.0
-    },
-    {
-      "row": "workshops",
-      "month": 12,
-      "usd": 3000.0
-    },
-    {
-      "row": "workshops",
-      "month": 18,
-      "usd": 4000.0
-    },
-    {
-      "row": "workshops",
-      "month": 24,
-      "usd": 4000.0
-    },
-    {
-      "row": "workshops",
-      "month": 30,
-      "usd": 5000.0
-    },
-    {
-      "row": "workshops",
-      "month": 36,
-      "usd": 5000.0
-    },
-    {
-      "row": "materials",
-      "month": 1,
-      "usd": 1000.0
-    },
-    {
-      "row": "materials",
-      "month": 2,
-      "usd": 1000.0
-    },
-    {
-      "row": "materials",
-      "month": 3,
-      "usd": 1000.0
-    },
-    {
-      "row": "materials",
-      "month": 4,
-      "usd": 1000.0
-    },
-    {
-      "row": "materials",
-      "month": 5,
-      "usd": 1000.0
-    },
-    {
-      "row": "materials",
-      "month": 13,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 14,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 15,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 16,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 17,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 18,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 19,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 20,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 21,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 22,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 23,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 24,
-      "usd": 500.0
-    },
-    {
-      "row": "materials",
-      "month": 25,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "materials",
-      "month": 26,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "materials",
-      "month": 27,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "materials",
-      "month": 28,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "materials",
-      "month": 29,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "materials",
-      "month": 30,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "materials",
-      "month": 31,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "materials",
-      "month": 32,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "materials",
-      "month": 33,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "materials",
-      "month": 34,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "materials",
-      "month": 35,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "materials",
-      "month": 36,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 1,
-      "usd": 3000.0
-    },
-    {
-      "row": "counsel",
-      "month": 2,
-      "usd": 2000.0
-    },
-    {
-      "row": "counsel",
-      "month": 7,
-      "usd": 1000.0
-    },
-    {
-      "row": "counsel",
-      "month": 13,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 14,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 15,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 16,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 17,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 18,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 19,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 20,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 21,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 22,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 23,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 24,
-      "usd": 500.0
-    },
-    {
-      "row": "counsel",
-      "month": 25,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 26,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 27,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 28,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 29,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 30,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 31,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 32,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 33,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 34,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 35,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "counsel",
-      "month": 36,
-      "usd": 666.6666666666666
-    },
-    {
-      "row": "pro",
-      "month": 1,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 2,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 3,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 4,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 5,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 6,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 7,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 8,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 9,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 10,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 11,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 12,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 13,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 14,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 15,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 16,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 17,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 18,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 19,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 20,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 21,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 22,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 23,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 24,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 25,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 26,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 27,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 28,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 29,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 30,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 31,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 32,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 33,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 34,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 35,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "pro",
-      "month": 36,
-      "usd": 166.66666666666666
-    },
-    {
-      "row": "employment_service",
-      "month": 1,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 2,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 3,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 4,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 5,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 6,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 7,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 8,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 9,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 10,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 11,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 12,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 13,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 14,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 15,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 16,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 17,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 18,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 19,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 20,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 21,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 22,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 23,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 24,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 25,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 26,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 27,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 28,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 29,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 30,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 31,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 32,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 33,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 34,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 35,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "employment_service",
-      "month": 36,
-      "usd": 1166.6666666666665
-    },
-    {
-      "row": "presales",
-      "month": 1,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 2,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 3,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 4,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 5,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 6,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 7,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 8,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 9,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 10,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 11,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 12,
-      "usd": 3000.0
-    },
-    {
-      "row": "presales",
-      "month": 13,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 14,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 15,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 16,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 17,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 18,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 19,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 20,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 21,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 22,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 23,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 24,
-      "usd": 4000.0
-    },
-    {
-      "row": "presales",
-      "month": 25,
-      "usd": 5000.0
-    },
-    {
-      "row": "presales",
-      "month": 26,
-      "usd": 5000.0
-    },
-    {
-      "row": "presales",
-      "month": 27,
-      "usd": 5000.0
-    },
-    {
-      "row": "presales",
-      "month": 28,
-      "usd": 5000.0
-    },
-    {
-      "row": "presales",
-      "month": 29,
-      "usd": 5000.0
-    },
-    {
-      "row": "presales",
-      "month": 30,
-      "usd": 5000.0
-    },
-    {
-      "row": "presales",
-      "month": 31,
-      "usd": 5000.0
-    },
-    {
-      "row": "presales",
-      "month": 32,
-      "usd": 5000.0
-    },
-    {
-      "row": "presales",
-      "month": 33,
-      "usd": 5000.0
-    },
-    {
-      "row": "presales",
-      "month": 34,
-      "usd": 5000.0
-    },
-    {
-      "row": "presales",
-      "month": 35,
-      "usd": 5000.0
-    },
-    {
-      "row": "presales",
-      "month": 36,
-      "usd": 5000.0
-    }
-  ],
-  "monthly_fixed": [
-    40144.88314045836,
-    24206.14930791922,
-    30339.48264125255,
-    28332.76605400499,
-    24206.14930791922,
-    26206.14930791922,
-    30332.76605400499,
-    21206.14930791922,
-    23206.14930791922,
-    29332.76605400499,
-    23206.14930791922,
-    26206.14930791922,
-    32738.824597231676,
-    24706.14930791922,
-    29506.14930791922,
-    30832.76605400499,
-    24706.14930791922,
-    30706.14930791922,
-    30832.76605400499,
-    24706.14930791922,
-    24706.14930791922,
-    30832.76605400499,
-    24706.14930791922,
-    30706.14930791922,
-    36478.2164737917,
-    26539.48264125255,
-    31339.48264125255,
-    32666.099387338327,
-    26539.48264125255,
-    33539.48264125255,
-    32666.099387338327,
-    26539.48264125255,
-    26539.48264125255,
-    32666.099387338327,
-    26539.48264125255,
-    33539.48264125255
-  ],
-  "classification": {
-    "zh": "总部直管外派销售规划；工资为待协商目标，福利与成本为独立预算假设，均非已发生支出或客户订单。",
-    "en": "HQ-managed assignment plan. Pay is a negotiation target; benefits and costs are separate planning inputs, not incurred expense or customer orders."
-  },
-  "compensation": {
-    "salary_aed": 600000,
-    "monthly_aed": 50000,
-    "salary_usd": 163376.44656228728,
-    "monthly_usd": 13614.703880190606,
-    "status": {
-      "zh": "目标方案 / 待协商",
-      "en": "Target / subject to negotiation"
-    },
-    "meal_daily_aed": 150,
-    "meal_days": 365,
-    "reference": {
-      "zh": "Refine历史福利结构：餐补150迪拉姆/天、单人住房、车辆、年假机票；新岗位金额与适用天数另议。",
-      "en": "Historic Refine structure: AED 150/day meals, single-person housing, vehicle and annual-leave flights; negotiate new-role amounts / eligible days."
-    }
-  },
-  "visa_details": [
-    {
-      "country": "UAE",
-      "currency": "AED",
-      "rows": [
-        [
-          {
-            "zh": "工作许可额度",
-            "en": "Work-permit allowance"
-          },
-          3500,
-          0,
-          3500
-        ],
-        [
-          {
-            "zh": "入境/状态、居留与ID额度",
-            "en": "Entry / status, residence and ID allowance"
-          },
-          2500,
-          1000,
-          2500
-        ],
-        [
-          {
-            "zh": "签证体检",
-            "en": "Visa fitness examination"
-          },
-          400,
-          0,
-          400
-        ],
-        [
-          {
-            "zh": "证明、翻译与材料",
-            "en": "Certification / translation / documents"
-          },
-          1600,
-          0,
-          1600
-        ]
-      ],
-      "totals": [
-        8000,
-        1000,
-        8000
-      ]
-    },
-    {
-      "country": "Saudi Arabia",
-      "currency": "SAR",
-      "rows": [
-        [
-          {
-            "zh": "工作许可及外籍员工附加费额度",
-            "en": "Work permit / expatriate levy reserve"
-          },
-          9700,
-          9700,
-          9700
-        ],
-        [
-          {
-            "zh": "签证、居留及出入境额度",
-            "en": "Visa / residence / re-entry allowance"
-          },
-          4300,
-          3300,
-          3300
-        ],
-        [
-          {
-            "zh": "体检、认证及材料额度",
-            "en": "Medical / attestation / documents"
-          },
-          6000,
-          2000,
-          2000
-        ]
-      ],
-      "totals": [
-        20000,
-        15000,
-        15000
-      ]
-    }
-  ],
-  "budget_rows": [
-    [
-      "salary",
-      "personal",
-      {
-        "zh": "固定工资谈判目标",
-        "en": "Fixed-pay negotiation target"
-      },
-      {
-        "zh": "AED50,000/月×12；福利和费用另列，尚未达成协议",
-        "en": "AED 50,000/month ×12; benefits and expenses separate; not agreed"
-      },
-      163376.44656228728,
-      163376.44656228728,
-      163376.44656228728
-    ],
-    [
-      "employer",
-      "personal",
-      {
-        "zh": "雇主法定成本预留",
-        "en": "Employer statutory-cost reserve"
-      },
-      {
-        "zh": "暂列工资6%；终止服务金等按适用合同重算，不是统一法定税率",
-        "en": "6% of pay as a reserve; recalculate end-of-service / other duties under the contract, not a statutory flat rate"
-      },
-      9802.586793737237,
-      9802.586793737237,
-      9802.586793737237
-    ],
-    [
-      "housing",
-      "personal",
-      {
-        "zh": "单人驻地住宿与公用支出",
-        "en": "Single-person housing / utilities"
-      },
-      {
-        "zh": "AED7,500/月；公司提供或按上限报销二选一",
-        "en": "AED 7,500/month; company provision OR capped reimbursement"
-      },
-      24506.466984343093,
-      24506.466984343093,
-      24506.466984343093
-    ],
-    [
-      "mobility",
-      "personal",
-      {
-        "zh": "车辆与驻地交通",
-        "en": "Vehicle / local mobility"
-      },
-      {
-        "zh": "AED2,200/月；公司车辆或交通额度二选一",
-        "en": "AED 2,200/month; company vehicle OR mobility allowance"
-      },
-      7188.56364874064,
-      7188.56364874064,
-      7188.56364874064
-    ],
-    [
-      "food",
-      "personal",
-      {
-        "zh": "驻外餐补参考额度",
-        "en": "Assignment meal allowance"
-      },
-      {
-        "zh": "参考旧政策AED150/天×365；是否覆盖休假日待议，客户餐不重复报销",
-        "en": "Historic-policy reference AED 150/day ×365; leave-day eligibility pending; no duplicate meal claims"
-      },
-      14908.100748808714,
-      14908.100748808714,
-      14908.100748808714
-    ],
-    [
-      "phone",
-      "personal",
-      {
-        "zh": "通信与工作工具",
-        "en": "Connectivity / work tools"
-      },
-      {
-        "zh": "AED4,400/年，另于工资及交通之外",
-        "en": "AED 4,400/year, outside pay and mobility"
-      },
-      1198.0939414567733,
-      1198.0939414567733,
-      1198.0939414567733
-    ],
-    [
-      "uae_health",
-      "personal",
-      {
-        "zh": "阿联酋医疗保险",
-        "en": "UAE medical insurance"
-      },
-      {
-        "zh": "AED6,000/年为个人保单预算，签证体检另列",
-        "en": "AED 6,000/year planning premium; visa fitness exam separate"
-      },
-      1633.7644656228726,
-      1633.7644656228726,
-      1633.7644656228726
-    ],
-    [
-      "sa_health",
-      "personal",
-      {
-        "zh": "沙特医疗保险",
-        "en": "Saudi medical insurance"
-      },
-      {
-        "zh": "SAR3,000/年保单预算；两国保单衔接据承保范围核定",
-        "en": "SAR 3,000/year planning premium; coordinate two-country coverage"
-      },
-      800.0,
-      800.0,
-      800.0
-    ],
-    [
-      "hq_leave",
-      "personal",
-      {
-        "zh": "总部述职与年假往返机票",
-        "en": "HQ review / annual-leave flights"
-      },
-      {
-        "zh": "两次往返×USD2,000；含1次年假，年假工资已在12薪内",
-        "en": "Two returns ×USD 2,000, including one leave trip; paid leave already in 12-month salary"
-      },
-      4000.0,
-      4000.0,
-      4000.0
-    ],
-    [
-      "mobilization",
-      "personal",
-      {
-        "zh": "首次外派安置",
-        "en": "Initial mobilization"
-      },
-      {
-        "zh": "搬迁与设备USD5,000一次；押金另列现金占用",
-        "en": "USD 5,000 once for relocation / equipment; refundable deposit separate"
-      },
-      5000.0,
-      0.0,
-      0.0
-    ],
-    [
-      "uae_permit",
-      "permits",
-      {
-        "zh": "阿联酋工作许可与居留",
-        "en": "UAE work permission / residence"
-      },
-      {
-        "zh": "AED8,000办理、Y2预留1,000、Y3续办8,000；按实际期限替换",
-        "en": "AED 8,000 issue, Y2 allowance 1,000, Y3 renew 8,000; replace with actual validity"
-      },
-      2178.352620830497,
-      272.2940776038121,
-      2178.352620830497
-    ],
-    [
-      "sa_permit",
-      "permits",
-      {
-        "zh": "沙特工作签证与许可",
-        "en": "Saudi work visa / permission"
-      },
-      {
-        "zh": "SAR20,000首办、续年15,000；按一般雇主路径预留，须有合规承办主体",
-        "en": "SAR 20,000 initial /15,000 annual renewal; general employer-route reserve requires a lawful sponsor"
-      },
-      5333.333333333333,
-      4000.0,
-      4000.0
-    ],
-    [
-      "gulf_visits",
-      "sales",
-      {
-        "zh": "海湾客户差旅",
-        "en": "Gulf client travel"
-      },
-      {
-        "zh": "Y1六次×USD2,000；机票、酒店、接驳，餐补不重复",
-        "en": "Y1 six ×USD 2,000: flights / hotels / transfers; meals not duplicated"
-      },
-      12000.0,
-      16000.0,
-      20000.0
-    ],
-    [
-      "meetings",
-      "sales",
-      {
-        "zh": "客户工作会与阿语支持",
-        "en": "Client meetings / Arabic"
-      },
-      {
-        "zh": "Y1每月USD500；围绕具名客户议题",
-        "en": "Y1 USD 500/month for named-account themes"
-      },
-      6000.0,
-      8000.0,
-      10000.0
-    ],
-    [
-      "workshops",
-      "sales",
-      {
-        "zh": "小型行业交流与演示",
-        "en": "Focused industry sessions"
-      },
-      {
-        "zh": "Y1两场×USD3,000；以客户开发为用途",
-        "en": "Y1 two ×USD 3,000 for account development"
-      },
-      6000.0,
-      8000.0,
-      10000.0
-    ],
-    [
-      "materials",
-      "sales",
-      {
-        "zh": "客户材料与演示样例",
-        "en": "Account materials / demos"
-      },
-      {
-        "zh": "Y1五个工作包×USD1,000",
-        "en": "Y1 five packages ×USD 1,000"
-      },
-      5000.0,
-      6000.0,
-      8000.0
-    ],
-    [
-      "counsel",
-      "sales",
-      {
-        "zh": "用工、税务与合同顾问",
-        "en": "Employment / tax / contract advice"
-      },
-      {
-        "zh": "按次采购；两国工作安排、PE与商务条款",
-        "en": "Case-based advice on two-country work, PE and commercial terms"
-      },
-      6000.0,
-      6000.0,
-      8000.0
-    ],
-    [
-      "pro",
-      "sales",
-      {
-        "zh": "PRO按件办理服务",
-        "en": "Case-based PRO services"
-      },
-      {
-        "zh": "USD2,000/年仅为专业服务费；官方规费另列",
-        "en": "USD 2,000/year service fee only; official charges separate"
-      },
-      2000.0,
-      2000.0,
-      2000.0
-    ],
-    [
-      "employment_service",
-      "sales",
-      {
-        "zh": "两国合规雇佣服务预留",
-        "en": "Two-country employment-service reserve"
-      },
-      {
-        "zh": "阿联酋USD8,000+沙特USD6,000/年；不含工资、保险、签证规费；以获批路径报价替换",
-        "en": "UAE USD 8,000 + Saudi USD 6,000/year; excludes wages, insurance and permits; replace with approved-route quote"
-      },
-      14000.0,
-      14000.0,
-      14000.0
-    ],
-    [
-      "presales",
-      "hq",
-      {
-        "zh": "总部非计费售前",
-        "en": "Non-billable HQ presales"
-      },
-      {
-        "zh": "Y1十二个有效人周×USD3,000；付费交付另计",
-        "en": "Y1 twelve effective person-weeks ×USD 3,000; paid delivery separate"
-      },
-      36000.0,
-      48000.0,
-      60000.0
-    ]
-  ],
-  "annual": {
-    "personal": [
-      232414.0231449966,
-      227414.0231449966,
-      227414.0231449966
-    ],
-    "permits": [
-      7511.68595416383,
-      4272.294077603812,
-      6178.3526208304975
-    ],
-    "sales": [
-      51000.0,
-      60000.0,
-      72000.0
-    ],
-    "hq": [
-      36000.0,
-      48000.0,
-      60000.0
-    ]
-  },
-  "fixed": [
-    326925.70909916045,
-    339686.3172226004,
-    365592.37576582714
-  ],
-  "Q1": 94690.51508963013,
-  "Q1_with_reserve": 108894.09235307465,
   "products": {
     "D": {
       "name": {
@@ -3159,7 +251,6 @@
       "end": 36
     }
   ],
-  "commission_rate": 0.05,
   "support": {
     "price": 3000,
     "cost": 900,
@@ -3168,790 +259,96 @@
       "en": "Per live project: one support person-day USD 700 + cloud / monitoring USD 200 per month; extra work priced separately."
     }
   },
+  "visa_details": [
+    {
+      "country": "UAE",
+      "currency": "AED",
+      "rows": [
+        [
+          {
+            "zh": "工作许可额度",
+            "en": "Work-permit allowance"
+          },
+          3500,
+          0,
+          3500
+        ],
+        [
+          {
+            "zh": "入境/状态、居留与ID额度",
+            "en": "Entry / status, residence and ID allowance"
+          },
+          2500,
+          1000,
+          2500
+        ],
+        [
+          {
+            "zh": "签证体检",
+            "en": "Visa fitness examination"
+          },
+          400,
+          0,
+          400
+        ],
+        [
+          {
+            "zh": "证明、翻译与材料",
+            "en": "Certification / translation / documents"
+          },
+          1600,
+          0,
+          1600
+        ]
+      ],
+      "totals": [
+        8000,
+        1000,
+        8000
+      ]
+    },
+    {
+      "country": "Saudi Arabia",
+      "currency": "SAR",
+      "rows": [
+        [
+          {
+            "zh": "工作许可及外籍员工附加费额度",
+            "en": "Work permit / expatriate levy reserve"
+          },
+          9700,
+          9700,
+          9700
+        ],
+        [
+          {
+            "zh": "签证、居留及出入境额度",
+            "en": "Visa / residence / re-entry allowance"
+          },
+          4300,
+          3300,
+          3300
+        ],
+        [
+          {
+            "zh": "体检、认证及材料额度",
+            "en": "Medical / attestation / documents"
+          },
+          6000,
+          2000,
+          2000
+        ]
+      ],
+      "totals": [
+        20000,
+        15000,
+        15000
+      ]
+    }
+  ],
   "cases": {
     "base": {
       "delay": 0,
-      "years": [
-        {
-          "bookings": 335000.0,
-          "revenue": 335000.0,
-          "receipts": 275500.0,
-          "direct": 206137.5,
-          "gross_profit": 128862.5,
-          "fixed": 326925.71,
-          "commission": 5339.75,
-          "commission_cash": 2468.88,
-          "contribution": -203402.96,
-          "support_revenue": 0.0,
-          "deposit_out": 2000.0,
-          "year": 1,
-          "accepted": {
-            "D": 3,
-            "V": 2,
-            "E": 1
-          },
-          "signed": {
-            "D": 3,
-            "V": 2,
-            "E": 1
-          },
-          "peak_delivery_fte": 2.29,
-          "max_parallel_production": 1.0,
-          "project_pool": 3,
-          "funding_envelope": 375964.57,
-          "contribution_before_incentive": -198063.21,
-          "total_spend": 538402.96
-        },
-        {
-          "bookings": 750000.0,
-          "revenue": 822000.0,
-          "receipts": 813000.0,
-          "direct": 488212.5,
-          "gross_profit": 333787.5,
-          "fixed": 339686.32,
-          "commission": 16374.38,
-          "commission_cash": 15937.62,
-          "contribution": -22273.19,
-          "support_revenue": 72000.0,
-          "deposit_out": 0.0,
-          "year": 2,
-          "accepted": {
-            "D": 3,
-            "V": 3,
-            "E": 3
-          },
-          "signed": {
-            "D": 3,
-            "V": 3,
-            "E": 3
-          },
-          "peak_delivery_fte": 2.29,
-          "max_parallel_production": 1.0,
-          "project_pool": 4,
-          "funding_envelope": 390639.26,
-          "contribution_before_incentive": -5898.81,
-          "total_spend": 844273.2
-        },
-        {
-          "bookings": 930000.0,
-          "revenue": 1119000.0,
-          "receipts": 1112500.0,
-          "direct": 637162.5,
-          "gross_profit": 481837.5,
-          "fixed": 365592.38,
-          "commission": 23783.0,
-          "commission_cash": 23598.5,
-          "contribution": 92462.12,
-          "support_revenue": 189000.0,
-          "deposit_out": 0.0,
-          "year": 3,
-          "accepted": {
-            "D": 3,
-            "V": 3,
-            "E": 4
-          },
-          "signed": {
-            "D": 3,
-            "V": 3,
-            "E": 4
-          },
-          "peak_delivery_fte": 3.68,
-          "max_parallel_production": 2.0,
-          "project_pool": 5,
-          "funding_envelope": 420431.23,
-          "contribution_before_incentive": 116245.12,
-          "total_spend": 1026537.88
-        }
-      ],
-      "months": [
-        {
-          "bookings": 0.0,
-          "revenue": 0.0,
-          "receipts": 0.0,
-          "direct": 0.0,
-          "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
-          "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 2000,
-          "eligible_gp": 0.0,
-          "month": 1,
-          "fixed": 40144.88314045836,
-          "gross_profit": 0.0,
-          "contribution": -40144.88314045836,
-          "cash_net": -42144.88314045836,
-          "cumulative_cash": -42144.88314045836
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 0.0,
-          "receipts": 0.0,
-          "direct": 0.0,
-          "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
-          "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
-          "month": 2,
-          "fixed": 24206.14930791922,
-          "gross_profit": 0.0,
-          "contribution": -24206.14930791922,
-          "cash_net": -24206.14930791922,
-          "cumulative_cash": -66351.03244837758
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 0.0,
-          "receipts": 0.0,
-          "direct": 0.0,
-          "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
-          "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
-          "month": 3,
-          "fixed": 30339.48264125255,
-          "gross_profit": 0.0,
-          "contribution": -30339.48264125255,
-          "cash_net": -30339.48264125255,
-          "cumulative_cash": -96690.51508963012
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 0.0,
-          "receipts": 9000.0,
-          "direct": 4456.25,
-          "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
-          "project_weeks": 1.25,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
-          "month": 4,
-          "fixed": 28332.76605400499,
-          "gross_profit": -4456.25,
-          "contribution": -32789.01605400499,
-          "cash_net": -23789.01605400499,
-          "cumulative_cash": -120479.5311436351
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 15000.0,
-          "receipts": 0.0,
-          "direct": 4456.25,
-          "support_revenue": 0.0,
-          "commission": 182.625,
-          "commission_cash": 0.0,
-          "project_weeks": 1.25,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 3652.5,
-          "month": 5,
-          "fixed": 24206.14930791922,
-          "gross_profit": 10543.75,
-          "contribution": -13845.024307919219,
-          "cash_net": -28662.39930791922,
-          "cumulative_cash": -149141.93045155433
-        },
-        {
-          "bookings": 70000.0,
-          "revenue": 0.0,
-          "receipts": 37000.0,
-          "direct": 15381.25,
-          "support_revenue": 0.0,
-          "commission": 121.75,
-          "commission_cash": 182.625,
-          "project_weeks": 3.9166666666666665,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 2435.0,
-          "month": 6,
-          "fixed": 26206.14930791922,
-          "gross_profit": -15381.25,
-          "contribution": -41709.149307919215,
-          "cash_net": -4770.024307919219,
-          "cumulative_cash": -153911.95475947356
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 15000.0,
-          "receipts": 0.0,
-          "direct": 15381.25,
-          "support_revenue": 0.0,
-          "commission": 182.625,
-          "commission_cash": 121.75,
-          "project_weeks": 3.9166666666666665,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 3652.5,
-          "month": 7,
-          "fixed": 30332.76605400499,
-          "gross_profit": -381.25,
-          "contribution": -30896.64105400499,
-          "cash_net": -45835.76605400499,
-          "cumulative_cash": -199747.72081347855
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 55000.0,
-          "receipts": 15000.0,
-          "direct": 15381.25,
-          "support_revenue": 0.0,
-          "commission": 566.25,
-          "commission_cash": 182.625,
-          "project_weeks": 3.9166666666666665,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 11325.0,
-          "month": 8,
-          "fixed": 21206.14930791922,
-          "gross_profit": 39618.75,
-          "contribution": 17846.35069208078,
-          "cash_net": -21770.02430791922,
-          "cumulative_cash": -221517.74512139778
-        },
-        {
-          "bookings": 235000.0,
-          "revenue": 15000.0,
-          "receipts": 103500.0,
-          "direct": 43843.75,
-          "support_revenue": 0.0,
-          "commission": 738.25,
-          "commission_cash": 566.25,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 14765.0,
-          "month": 9,
-          "fixed": 23206.14930791922,
-          "gross_profit": -28843.75,
-          "contribution": -52788.149307919215,
-          "cash_net": 35883.850692080785,
-          "cumulative_cash": -185633.89442931698
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 0.0,
-          "receipts": 11500.0,
-          "direct": 39387.5,
-          "support_revenue": 0.0,
-          "commission": 232.875,
-          "commission_cash": 738.25,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 4657.5,
-          "month": 10,
-          "fixed": 29332.76605400499,
-          "gross_profit": -39387.5,
-          "contribution": -68953.14105400498,
-          "cash_net": -57958.51605400499,
-          "cumulative_cash": -243592.41048332196
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 55000.0,
-          "receipts": 72000.0,
-          "direct": 39387.5,
-          "support_revenue": 0.0,
-          "commission": 444.5,
-          "commission_cash": 232.875,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 8890.0,
-          "month": 11,
-          "fixed": 23206.14930791922,
-          "gross_profit": 15612.5,
-          "contribution": -8038.149307919219,
-          "cash_net": 9173.475692080781,
-          "cumulative_cash": -234418.9347912412
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 180000.0,
-          "receipts": 27500.0,
-          "direct": 28462.5,
-          "support_revenue": 0.0,
-          "commission": 2870.875,
-          "commission_cash": 444.5,
-          "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 57417.5,
-          "month": 12,
-          "fixed": 26206.14930791922,
-          "gross_profit": 151537.5,
-          "contribution": 122460.47569208078,
-          "cash_net": -27613.14930791922,
-          "cumulative_cash": -262032.08409916042
-        },
-        {
-          "bookings": 235000.0,
-          "revenue": 3000.0,
-          "receipts": 117500.0,
-          "direct": 40287.5,
-          "support_revenue": 3000.0,
-          "commission": 772.625,
-          "commission_cash": 2870.875,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 15452.5,
-          "month": 13,
-          "fixed": 32738.824597231676,
-          "gross_profit": -37287.5,
-          "contribution": -70798.94959723168,
-          "cash_net": 41602.80040276832,
-          "cumulative_cash": -220429.28369639209
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 3000.0,
-          "receipts": 30000.0,
-          "direct": 44743.75,
-          "support_revenue": 3000.0,
-          "commission": 435.75,
-          "commission_cash": 772.625,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 8715.0,
-          "month": 14,
-          "fixed": 24706.14930791922,
-          "gross_profit": -41743.75,
-          "contribution": -66885.64930791922,
-          "cash_net": -40222.524307919215,
-          "cumulative_cash": -260651.8080043113
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 73000.0,
-          "receipts": 75000.0,
-          "direct": 44743.75,
-          "support_revenue": 3000.0,
-          "commission": 732.125,
-          "commission_cash": 435.75,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 14642.5,
-          "month": 15,
-          "fixed": 29506.14930791922,
-          "gross_profit": 28256.25,
-          "contribution": -1982.0243079192187,
-          "cash_net": 314.3506920807813,
-          "cumulative_cash": -260337.45731223052
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 183000.0,
-          "receipts": 36500.0,
-          "direct": 29362.5,
-          "support_revenue": 3000.0,
-          "commission": 3097.625,
-          "commission_cash": 732.125,
-          "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 61952.5,
-          "month": 16,
-          "fixed": 30832.76605400499,
-          "gross_profit": 153637.5,
-          "contribution": 119707.10894599502,
-          "cash_net": -24427.39105400499,
-          "cumulative_cash": -284764.8483662355
-        },
-        {
-          "bookings": 235000.0,
-          "revenue": 6000.0,
-          "receipts": 120500.0,
-          "direct": 41187.5,
-          "support_revenue": 6000.0,
-          "commission": 877.625,
-          "commission_cash": 3097.625,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 17552.5,
-          "month": 17,
-          "fixed": 24706.14930791922,
-          "gross_profit": -35187.5,
-          "contribution": -60771.274307919215,
-          "cash_net": 51508.725692080785,
-          "cumulative_cash": -233256.1226741547
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 6000.0,
-          "receipts": 33000.0,
-          "direct": 45643.75,
-          "support_revenue": 6000.0,
-          "commission": 540.75,
-          "commission_cash": 877.625,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 10815.0,
-          "month": 18,
-          "fixed": 30706.14930791922,
-          "gross_profit": -39643.75,
-          "contribution": -70890.64930791922,
-          "cash_net": -44227.524307919215,
-          "cumulative_cash": -277483.6469820739
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 76000.0,
-          "receipts": 78000.0,
-          "direct": 45643.75,
-          "support_revenue": 6000.0,
-          "commission": 837.125,
-          "commission_cash": 540.75,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 16742.5,
-          "month": 19,
-          "fixed": 30832.76605400499,
-          "gross_profit": 30356.25,
-          "contribution": -1313.641054004991,
-          "cash_net": 982.733945995009,
-          "cumulative_cash": -276500.9130360789
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 186000.0,
-          "receipts": 39500.0,
-          "direct": 30262.5,
-          "support_revenue": 6000.0,
-          "commission": 3202.625,
-          "commission_cash": 837.125,
-          "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 64052.5,
-          "month": 20,
-          "fixed": 24706.14930791922,
-          "gross_profit": 155737.5,
-          "contribution": 127828.72569208078,
-          "cash_net": -16305.774307919219,
-          "cumulative_cash": -292806.6873439981
-        },
-        {
-          "bookings": 235000.0,
-          "revenue": 9000.0,
-          "receipts": 123500.0,
-          "direct": 42087.5,
-          "support_revenue": 9000.0,
-          "commission": 982.625,
-          "commission_cash": 3202.625,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 19652.5,
-          "month": 21,
-          "fixed": 24706.14930791922,
-          "gross_profit": -33087.5,
-          "contribution": -58776.274307919215,
-          "cash_net": 53503.725692080785,
-          "cumulative_cash": -239302.9616519173
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 9000.0,
-          "receipts": 36000.0,
-          "direct": 46543.75,
-          "support_revenue": 9000.0,
-          "commission": 645.75,
-          "commission_cash": 982.625,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 12915.0,
-          "month": 22,
-          "fixed": 30832.76605400499,
-          "gross_profit": -37543.75,
-          "contribution": -69022.26605400498,
-          "cash_net": -42359.14105400499,
-          "cumulative_cash": -281662.1027059223
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 79000.0,
-          "receipts": 81000.0,
-          "direct": 46543.75,
-          "support_revenue": 9000.0,
-          "commission": 942.125,
-          "commission_cash": 645.75,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 18842.5,
-          "month": 23,
-          "fixed": 24706.14930791922,
-          "gross_profit": 32456.25,
-          "contribution": 6807.975692080781,
-          "cash_net": 9104.350692080781,
-          "cumulative_cash": -272557.7520138415
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 189000.0,
-          "receipts": 42500.0,
-          "direct": 31162.5,
-          "support_revenue": 9000.0,
-          "commission": 3307.625,
-          "commission_cash": 942.125,
-          "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 66152.5,
-          "month": 24,
-          "fixed": 30706.14930791922,
-          "gross_profit": 157837.5,
-          "contribution": 123823.72569208078,
-          "cash_net": -20310.77430791922,
-          "cumulative_cash": -292868.5263217607
-        },
-        {
-          "bookings": 235000.0,
-          "revenue": 12000.0,
-          "receipts": 126500.0,
-          "direct": 42987.5,
-          "support_revenue": 12000.0,
-          "commission": 1087.625,
-          "commission_cash": 3307.625,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 21752.5,
-          "month": 25,
-          "fixed": 36478.2164737917,
-          "gross_profit": -30987.5,
-          "contribution": -68553.34147379169,
-          "cash_net": 43726.6585262083,
-          "cumulative_cash": -249141.86779555242
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 12000.0,
-          "receipts": 39000.0,
-          "direct": 47443.75,
-          "support_revenue": 12000.0,
-          "commission": 750.75,
-          "commission_cash": 1087.625,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 15015.0,
-          "month": 26,
-          "fixed": 26539.48264125255,
-          "gross_profit": -35443.75,
-          "contribution": -62733.98264125255,
-          "cash_net": -36070.85764125255,
-          "cumulative_cash": -285212.725436805
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 82000.0,
-          "receipts": 84000.0,
-          "direct": 47443.75,
-          "support_revenue": 12000.0,
-          "commission": 1047.125,
-          "commission_cash": 750.75,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 20942.5,
-          "month": 27,
-          "fixed": 31339.48264125255,
-          "gross_profit": 34556.25,
-          "contribution": 2169.642358747449,
-          "cash_net": 4466.017358747449,
-          "cumulative_cash": -280746.70807805756
-        },
-        {
-          "bookings": 180000.0,
-          "revenue": 192000.0,
-          "receipts": 99500.0,
-          "direct": 60525.0,
-          "support_revenue": 12000.0,
-          "commission": 3412.625,
-          "commission_cash": 1047.125,
-          "project_weeks": 12.0,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 68252.5,
-          "month": 28,
-          "fixed": 32666.099387338327,
-          "gross_profit": 131475.0,
-          "contribution": 95396.27561266167,
-          "cash_net": 5261.775612661673,
-          "cumulative_cash": -275484.9324653959
-        },
-        {
-          "bookings": 55000.0,
-          "revenue": 15000.0,
-          "receipts": 75500.0,
-          "direct": 43887.5,
-          "support_revenue": 15000.0,
-          "commission": 1192.625,
-          "commission_cash": 3412.625,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 23852.5,
-          "month": 29,
-          "fixed": 26539.48264125255,
-          "gross_profit": -28887.5,
-          "contribution": -56619.60764125255,
-          "cash_net": 1660.3923587474492,
-          "cumulative_cash": -273824.54010664846
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 15000.0,
-          "receipts": 114000.0,
-          "direct": 48343.75,
-          "support_revenue": 15000.0,
-          "commission": 855.75,
-          "commission_cash": 1192.625,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 17115.0,
-          "month": 30,
-          "fixed": 33539.48264125255,
-          "gross_profit": -33343.75,
-          "contribution": -67738.98264125254,
-          "cash_net": 30924.14235874745,
-          "cumulative_cash": -242900.397747901
-        },
-        {
-          "bookings": 180000.0,
-          "revenue": 265000.0,
-          "receipts": 69000.0,
-          "direct": 76806.25,
-          "support_revenue": 15000.0,
-          "commission": 3467.375,
-          "commission_cash": 855.75,
-          "project_weeks": 15.916666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 69347.5,
-          "month": 31,
-          "fixed": 32666.099387338327,
-          "gross_profit": 188193.75,
-          "contribution": 152060.27561266167,
-          "cash_net": -41328.09938733833,
-          "cumulative_cash": -284228.4971352393
-        },
-        {
-          "bookings": 55000.0,
-          "revenue": 18000.0,
-          "receipts": 106500.0,
-          "direct": 44787.5,
-          "support_revenue": 18000.0,
-          "commission": 1863.875,
-          "commission_cash": 3467.375,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 37277.5,
-          "month": 32,
-          "fixed": 26539.48264125255,
-          "gross_profit": -26787.5,
-          "contribution": -55190.85764125255,
-          "cash_net": 31705.64235874745,
-          "cumulative_cash": -252522.85477649185
-        },
-        {
-          "bookings": 195000.0,
-          "revenue": 18000.0,
-          "receipts": 176500.0,
-          "direct": 77706.25,
-          "support_revenue": 18000.0,
-          "commission": 1071.875,
-          "commission_cash": 1863.875,
-          "project_weeks": 15.916666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 21437.5,
-          "month": 33,
-          "fixed": 26539.48264125255,
-          "gross_profit": -59706.25,
-          "contribution": -87317.60764125254,
-          "cash_net": 70390.39235874746,
-          "cumulative_cash": -182132.4624177444
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 268000.0,
-          "receipts": 18000.0,
-          "direct": 77706.25,
-          "support_revenue": 18000.0,
-          "commission": 3572.375,
-          "commission_cash": 1071.875,
-          "project_weeks": 15.916666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 71447.5,
-          "month": 34,
-          "fixed": 32666.099387338327,
-          "gross_profit": 190293.75,
-          "contribution": 154055.27561266167,
-          "cash_net": -93444.22438733833,
-          "cumulative_cash": -275576.6868050827
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 21000.0,
-          "receipts": 159500.0,
-          "direct": 34762.5,
-          "support_revenue": 21000.0,
-          "commission": 1968.875,
-          "commission_cash": 3572.375,
-          "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 39377.5,
-          "month": 35,
-          "fixed": 26539.48264125255,
-          "gross_profit": -13762.5,
-          "contribution": -42270.85764125255,
-          "cash_net": 94625.64235874746,
-          "cumulative_cash": -180951.04444633526
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 201000.0,
-          "receipts": 44500.0,
-          "direct": 34762.5,
-          "support_revenue": 21000.0,
-          "commission": 3492.125,
-          "commission_cash": 1968.875,
-          "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 69842.5,
-          "month": 36,
-          "fixed": 33539.48264125255,
-          "gross_profit": 166237.5,
-          "contribution": 129205.89235874746,
-          "cash_net": -25770.85764125255,
-          "cumulative_cash": -206721.9020875878
-        }
-      ],
-      "peak_gap": 292868.53,
-      "liquidity": 336798.81,
-      "cumulative_contribution": -133214.03,
       "projects": [
         {
           "id": "D1",
@@ -4103,24 +500,598 @@
           "start": 33,
           "end": 36
         }
+      ],
+      "years": [
+        {
+          "year": 1,
+          "bookings": 335000.0,
+          "revenue": 335000.0,
+          "receipts": 275500.0,
+          "direct": 206137.5,
+          "gross_profit": 128862.5,
+          "support_revenue": 0.0,
+          "accepted": {
+            "D": 3,
+            "V": 2,
+            "E": 1
+          },
+          "signed": {
+            "D": 3,
+            "V": 2,
+            "E": 1
+          },
+          "project_pool": 3,
+          "max_parallel_production": 1.0
+        },
+        {
+          "year": 2,
+          "bookings": 750000.0,
+          "revenue": 822000.0,
+          "receipts": 813000.0,
+          "direct": 488212.5,
+          "gross_profit": 333787.5,
+          "support_revenue": 72000.0,
+          "accepted": {
+            "D": 3,
+            "V": 3,
+            "E": 3
+          },
+          "signed": {
+            "D": 3,
+            "V": 3,
+            "E": 3
+          },
+          "project_pool": 4,
+          "max_parallel_production": 1.0
+        },
+        {
+          "year": 3,
+          "bookings": 930000.0,
+          "revenue": 1119000.0,
+          "receipts": 1112500.0,
+          "direct": 637162.5,
+          "gross_profit": 481837.5,
+          "support_revenue": 189000.0,
+          "accepted": {
+            "D": 3,
+            "V": 3,
+            "E": 4
+          },
+          "signed": {
+            "D": 3,
+            "V": 3,
+            "E": 4
+          },
+          "project_pool": 5,
+          "max_parallel_production": 2.0
+        }
+      ],
+      "months": [
+        {
+          "month": 1,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 2,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 3,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 4,
+          "bookings": 15000.0,
+          "revenue": 0.0,
+          "receipts": 9000.0,
+          "direct": 4456.25,
+          "support_revenue": 0.0,
+          "project_weeks": 1.25,
+          "production_active": 0.0
+        },
+        {
+          "month": 5,
+          "bookings": 0.0,
+          "revenue": 15000.0,
+          "receipts": 0.0,
+          "direct": 4456.25,
+          "support_revenue": 0.0,
+          "project_weeks": 1.25,
+          "production_active": 0.0
+        },
+        {
+          "month": 6,
+          "bookings": 70000.0,
+          "revenue": 0.0,
+          "receipts": 37000.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 7,
+          "bookings": 0.0,
+          "revenue": 15000.0,
+          "receipts": 0.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 8,
+          "bookings": 15000.0,
+          "revenue": 55000.0,
+          "receipts": 15000.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 9,
+          "bookings": 235000.0,
+          "revenue": 15000.0,
+          "receipts": 103500.0,
+          "direct": 43843.75,
+          "support_revenue": 0.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 10,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 11500.0,
+          "direct": 39387.5,
+          "support_revenue": 0.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 11,
+          "bookings": 0.0,
+          "revenue": 55000.0,
+          "receipts": 72000.0,
+          "direct": 39387.5,
+          "support_revenue": 0.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 12,
+          "bookings": 0.0,
+          "revenue": 180000.0,
+          "receipts": 27500.0,
+          "direct": 28462.5,
+          "support_revenue": 0.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 13,
+          "bookings": 235000.0,
+          "revenue": 3000.0,
+          "receipts": 117500.0,
+          "direct": 40287.5,
+          "support_revenue": 3000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 14,
+          "bookings": 15000.0,
+          "revenue": 3000.0,
+          "receipts": 30000.0,
+          "direct": 44743.75,
+          "support_revenue": 3000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 15,
+          "bookings": 0.0,
+          "revenue": 73000.0,
+          "receipts": 75000.0,
+          "direct": 44743.75,
+          "support_revenue": 3000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 16,
+          "bookings": 0.0,
+          "revenue": 183000.0,
+          "receipts": 36500.0,
+          "direct": 29362.5,
+          "support_revenue": 3000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 17,
+          "bookings": 235000.0,
+          "revenue": 6000.0,
+          "receipts": 120500.0,
+          "direct": 41187.5,
+          "support_revenue": 6000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 18,
+          "bookings": 15000.0,
+          "revenue": 6000.0,
+          "receipts": 33000.0,
+          "direct": 45643.75,
+          "support_revenue": 6000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 19,
+          "bookings": 0.0,
+          "revenue": 76000.0,
+          "receipts": 78000.0,
+          "direct": 45643.75,
+          "support_revenue": 6000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 20,
+          "bookings": 0.0,
+          "revenue": 186000.0,
+          "receipts": 39500.0,
+          "direct": 30262.5,
+          "support_revenue": 6000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 21,
+          "bookings": 235000.0,
+          "revenue": 9000.0,
+          "receipts": 123500.0,
+          "direct": 42087.5,
+          "support_revenue": 9000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 22,
+          "bookings": 15000.0,
+          "revenue": 9000.0,
+          "receipts": 36000.0,
+          "direct": 46543.75,
+          "support_revenue": 9000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 23,
+          "bookings": 0.0,
+          "revenue": 79000.0,
+          "receipts": 81000.0,
+          "direct": 46543.75,
+          "support_revenue": 9000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 24,
+          "bookings": 0.0,
+          "revenue": 189000.0,
+          "receipts": 42500.0,
+          "direct": 31162.5,
+          "support_revenue": 9000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 25,
+          "bookings": 235000.0,
+          "revenue": 12000.0,
+          "receipts": 126500.0,
+          "direct": 42987.5,
+          "support_revenue": 12000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 26,
+          "bookings": 15000.0,
+          "revenue": 12000.0,
+          "receipts": 39000.0,
+          "direct": 47443.75,
+          "support_revenue": 12000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 27,
+          "bookings": 0.0,
+          "revenue": 82000.0,
+          "receipts": 84000.0,
+          "direct": 47443.75,
+          "support_revenue": 12000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 28,
+          "bookings": 180000.0,
+          "revenue": 192000.0,
+          "receipts": 99500.0,
+          "direct": 60525.0,
+          "support_revenue": 12000.0,
+          "project_weeks": 12.0,
+          "production_active": 2.0
+        },
+        {
+          "month": 29,
+          "bookings": 55000.0,
+          "revenue": 15000.0,
+          "receipts": 75500.0,
+          "direct": 43887.5,
+          "support_revenue": 15000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 30,
+          "bookings": 15000.0,
+          "revenue": 15000.0,
+          "receipts": 114000.0,
+          "direct": 48343.75,
+          "support_revenue": 15000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 31,
+          "bookings": 180000.0,
+          "revenue": 265000.0,
+          "receipts": 69000.0,
+          "direct": 76806.25,
+          "support_revenue": 15000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 32,
+          "bookings": 55000.0,
+          "revenue": 18000.0,
+          "receipts": 106500.0,
+          "direct": 44787.5,
+          "support_revenue": 18000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 33,
+          "bookings": 195000.0,
+          "revenue": 18000.0,
+          "receipts": 176500.0,
+          "direct": 77706.25,
+          "support_revenue": 18000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 34,
+          "bookings": 0.0,
+          "revenue": 268000.0,
+          "receipts": 18000.0,
+          "direct": 77706.25,
+          "support_revenue": 18000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 35,
+          "bookings": 0.0,
+          "revenue": 21000.0,
+          "receipts": 159500.0,
+          "direct": 34762.5,
+          "support_revenue": 21000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 36,
+          "bookings": 0.0,
+          "revenue": 201000.0,
+          "receipts": 44500.0,
+          "direct": 34762.5,
+          "support_revenue": 21000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        }
       ]
     },
     "delay6": {
       "delay": 6,
+      "projects": [
+        {
+          "id": "D1",
+          "kind": "D",
+          "start": 4,
+          "end": 5
+        },
+        {
+          "id": "D2",
+          "kind": "D",
+          "start": 6,
+          "end": 7
+        },
+        {
+          "id": "D3",
+          "kind": "D",
+          "start": 8,
+          "end": 9
+        },
+        {
+          "id": "D4",
+          "kind": "D",
+          "start": 14,
+          "end": 15
+        },
+        {
+          "id": "D5",
+          "kind": "D",
+          "start": 18,
+          "end": 19
+        },
+        {
+          "id": "D6",
+          "kind": "D",
+          "start": 22,
+          "end": 23
+        },
+        {
+          "id": "D7",
+          "kind": "D",
+          "start": 26,
+          "end": 27
+        },
+        {
+          "id": "D8",
+          "kind": "D",
+          "start": 30,
+          "end": 31
+        },
+        {
+          "id": "D9",
+          "kind": "D",
+          "start": 33,
+          "end": 34
+        },
+        {
+          "id": "V1",
+          "kind": "V",
+          "start": 6,
+          "end": 8
+        },
+        {
+          "id": "V2",
+          "kind": "V",
+          "start": 9,
+          "end": 11
+        },
+        {
+          "id": "V3",
+          "kind": "V",
+          "start": 13,
+          "end": 15
+        },
+        {
+          "id": "V4",
+          "kind": "V",
+          "start": 17,
+          "end": 19
+        },
+        {
+          "id": "V5",
+          "kind": "V",
+          "start": 21,
+          "end": 23
+        },
+        {
+          "id": "V6",
+          "kind": "V",
+          "start": 25,
+          "end": 27
+        },
+        {
+          "id": "V7",
+          "kind": "V",
+          "start": 29,
+          "end": 31
+        },
+        {
+          "id": "V8",
+          "kind": "V",
+          "start": 32,
+          "end": 34
+        },
+        {
+          "id": "E1",
+          "kind": "E",
+          "start": 9,
+          "end": 12
+        },
+        {
+          "id": "E2",
+          "kind": "E",
+          "start": 13,
+          "end": 16
+        },
+        {
+          "id": "E3",
+          "kind": "E",
+          "start": 17,
+          "end": 20
+        },
+        {
+          "id": "E4",
+          "kind": "E",
+          "start": 21,
+          "end": 24
+        },
+        {
+          "id": "E5",
+          "kind": "E",
+          "start": 25,
+          "end": 28
+        },
+        {
+          "id": "E6",
+          "kind": "E",
+          "start": 28,
+          "end": 31
+        },
+        {
+          "id": "E7",
+          "kind": "E",
+          "start": 31,
+          "end": 34
+        },
+        {
+          "id": "E8",
+          "kind": "E",
+          "start": 33,
+          "end": 36
+        }
+      ],
       "years": [
         {
+          "year": 1,
           "bookings": 85000.0,
           "revenue": 15000.0,
           "receipts": 46000.0,
           "direct": 24293.75,
           "gross_profit": -9293.75,
-          "fixed": 326925.71,
-          "commission": 304.38,
-          "commission_cash": 182.62,
-          "contribution": -336523.83,
           "support_revenue": 0.0,
-          "deposit_out": 2000.0,
-          "year": 1,
           "accepted": {
             "D": 1,
             "V": 0,
@@ -4131,26 +1102,17 @@
             "V": 1,
             "E": 0
           },
-          "peak_delivery_fte": 0.9,
-          "max_parallel_production": 0.0,
           "project_pool": 2,
-          "funding_envelope": 375964.57,
-          "contribution_before_incentive": -336219.45,
-          "total_spend": 351523.84
+          "max_parallel_production": 0.0
         },
         {
+          "year": 2,
           "bookings": 750000.0,
           "revenue": 594000.0,
           "receipts": 642000.0,
           "direct": 427812.5,
           "gross_profit": 166187.5,
-          "fixed": 339686.32,
-          "commission": 11491.88,
-          "commission_cash": 11072.88,
-          "contribution": -184990.69,
           "support_revenue": 24000.0,
-          "deposit_out": 0.0,
-          "year": 2,
           "accepted": {
             "D": 3,
             "V": 3,
@@ -4161,26 +1123,17 @@
             "V": 3,
             "E": 3
           },
-          "peak_delivery_fte": 2.29,
-          "max_parallel_production": 1.0,
           "project_pool": 3,
-          "funding_envelope": 390639.26,
-          "contribution_before_incentive": -173498.81,
-          "total_spend": 778990.7
+          "max_parallel_production": 1.0
         },
         {
+          "year": 3,
           "bookings": 750000.0,
           "revenue": 876000.0,
           "receipts": 939000.0,
           "direct": 532875.0,
           "gross_profit": 343125.0,
-          "fixed": 365592.38,
-          "commission": 18264.38,
-          "commission_cash": 17949.38,
-          "contribution": -40731.75,
           "support_revenue": 126000.0,
-          "deposit_out": 0.0,
-          "year": 3,
           "accepted": {
             "D": 3,
             "V": 3,
@@ -4191,1639 +1144,375 @@
             "V": 3,
             "E": 3
           },
-          "peak_delivery_fte": 2.77,
-          "max_parallel_production": 2.0,
           "project_pool": 4,
-          "funding_envelope": 420431.23,
-          "contribution_before_incentive": -22467.37,
-          "total_spend": 916731.76
+          "max_parallel_production": 2.0
         }
       ],
       "months": [
         {
-          "bookings": 0.0,
-          "revenue": 0.0,
-          "receipts": 0.0,
-          "direct": 0.0,
-          "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
-          "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 2000,
-          "eligible_gp": 0.0,
           "month": 1,
-          "fixed": 40144.88314045836,
-          "gross_profit": 0.0,
-          "contribution": -40144.88314045836,
-          "cash_net": -42144.88314045836,
-          "cumulative_cash": -42144.88314045836
-        },
-        {
           "bookings": 0.0,
           "revenue": 0.0,
           "receipts": 0.0,
           "direct": 0.0,
           "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
           "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
+          "production_active": 0.0
+        },
+        {
           "month": 2,
-          "fixed": 24206.14930791922,
-          "gross_profit": 0.0,
-          "contribution": -24206.14930791922,
-          "cash_net": -24206.14930791922,
-          "cumulative_cash": -66351.03244837758
-        },
-        {
           "bookings": 0.0,
           "revenue": 0.0,
           "receipts": 0.0,
           "direct": 0.0,
           "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
           "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
+          "production_active": 0.0
+        },
+        {
           "month": 3,
-          "fixed": 30339.48264125255,
-          "gross_profit": 0.0,
-          "contribution": -30339.48264125255,
-          "cash_net": -30339.48264125255,
-          "cumulative_cash": -96690.51508963012
-        },
-        {
           "bookings": 0.0,
           "revenue": 0.0,
           "receipts": 0.0,
           "direct": 0.0,
           "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
           "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
+          "production_active": 0.0
+        },
+        {
           "month": 4,
-          "fixed": 28332.76605400499,
-          "gross_profit": 0.0,
-          "contribution": -28332.76605400499,
-          "cash_net": -28332.76605400499,
-          "cumulative_cash": -125023.2811436351
-        },
-        {
           "bookings": 0.0,
           "revenue": 0.0,
           "receipts": 0.0,
           "direct": 0.0,
           "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
           "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
+          "production_active": 0.0
+        },
+        {
           "month": 5,
-          "fixed": 24206.14930791922,
-          "gross_profit": 0.0,
-          "contribution": -24206.14930791922,
-          "cash_net": -24206.14930791922,
-          "cumulative_cash": -149229.43045155433
-        },
-        {
           "bookings": 0.0,
           "revenue": 0.0,
           "receipts": 0.0,
           "direct": 0.0,
           "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
           "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
+          "production_active": 0.0
+        },
+        {
           "month": 6,
-          "fixed": 26206.14930791922,
-          "gross_profit": 0.0,
-          "contribution": -26206.14930791922,
-          "cash_net": -26206.14930791922,
-          "cumulative_cash": -175435.57975947356
-        },
-        {
           "bookings": 0.0,
           "revenue": 0.0,
           "receipts": 0.0,
           "direct": 0.0,
           "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
           "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
+          "production_active": 0.0
+        },
+        {
           "month": 7,
-          "fixed": 30332.76605400499,
-          "gross_profit": 0.0,
-          "contribution": -30332.76605400499,
-          "cash_net": -30332.76605400499,
-          "cumulative_cash": -205768.34581347855
-        },
-        {
           "bookings": 0.0,
           "revenue": 0.0,
           "receipts": 0.0,
           "direct": 0.0,
           "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
           "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
+          "production_active": 0.0
+        },
+        {
           "month": 8,
-          "fixed": 21206.14930791922,
-          "gross_profit": 0.0,
-          "contribution": -21206.14930791922,
-          "cash_net": -21206.14930791922,
-          "cumulative_cash": -226974.49512139778
-        },
-        {
           "bookings": 0.0,
           "revenue": 0.0,
           "receipts": 0.0,
           "direct": 0.0,
           "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
           "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
-          "month": 9,
-          "fixed": 23206.14930791922,
-          "gross_profit": 0.0,
-          "contribution": -23206.14930791922,
-          "cash_net": -23206.14930791922,
-          "cumulative_cash": -250180.644429317
+          "production_active": 0.0
         },
         {
+          "month": 9,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 10,
           "bookings": 15000.0,
           "revenue": 0.0,
           "receipts": 9000.0,
           "direct": 4456.25,
           "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
           "project_weeks": 1.25,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
-          "month": 10,
-          "fixed": 29332.76605400499,
-          "gross_profit": -4456.25,
-          "contribution": -33789.01605400499,
-          "cash_net": -24789.01605400499,
-          "cumulative_cash": -274969.660483322
+          "production_active": 0.0
         },
         {
+          "month": 11,
           "bookings": 0.0,
           "revenue": 15000.0,
           "receipts": 0.0,
           "direct": 4456.25,
           "support_revenue": 0.0,
-          "commission": 182.625,
-          "commission_cash": 0.0,
           "project_weeks": 1.25,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 3652.5,
-          "month": 11,
-          "fixed": 23206.14930791922,
-          "gross_profit": 10543.75,
-          "contribution": -12845.024307919219,
-          "cash_net": -27662.39930791922,
-          "cumulative_cash": -302632.0597912412
+          "production_active": 0.0
         },
         {
+          "month": 12,
           "bookings": 70000.0,
           "revenue": 0.0,
           "receipts": 37000.0,
           "direct": 15381.25,
           "support_revenue": 0.0,
-          "commission": 121.75,
-          "commission_cash": 182.625,
           "project_weeks": 3.9166666666666665,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 2435.0,
-          "month": 12,
-          "fixed": 26206.14930791922,
-          "gross_profit": -15381.25,
-          "contribution": -41709.149307919215,
-          "cash_net": -4770.024307919219,
-          "cumulative_cash": -307402.0840991604
+          "production_active": 0.0
         },
         {
+          "month": 13,
           "bookings": 0.0,
           "revenue": 15000.0,
           "receipts": 0.0,
           "direct": 15381.25,
           "support_revenue": 0.0,
-          "commission": 182.625,
-          "commission_cash": 121.75,
           "project_weeks": 3.9166666666666665,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 3652.5,
-          "month": 13,
-          "fixed": 32738.824597231676,
-          "gross_profit": -381.25,
-          "contribution": -33302.69959723168,
-          "cash_net": -48241.82459723168,
-          "cumulative_cash": -355643.9086963921
+          "production_active": 0.0
         },
         {
+          "month": 14,
           "bookings": 15000.0,
           "revenue": 55000.0,
           "receipts": 15000.0,
           "direct": 15381.25,
           "support_revenue": 0.0,
-          "commission": 566.25,
-          "commission_cash": 182.625,
           "project_weeks": 3.9166666666666665,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 11325.0,
-          "month": 14,
-          "fixed": 24706.14930791922,
-          "gross_profit": 39618.75,
-          "contribution": 14346.350692080781,
-          "cash_net": -25270.02430791922,
-          "cumulative_cash": -380913.9330043113
+          "production_active": 0.0
         },
         {
+          "month": 15,
           "bookings": 235000.0,
           "revenue": 15000.0,
           "receipts": 103500.0,
           "direct": 43843.75,
           "support_revenue": 0.0,
-          "commission": 738.25,
-          "commission_cash": 566.25,
           "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 14765.0,
-          "month": 15,
-          "fixed": 29506.14930791922,
-          "gross_profit": -28843.75,
-          "contribution": -59088.149307919215,
-          "cash_net": 29583.85069208078,
-          "cumulative_cash": -351330.0823122305
+          "production_active": 1.0
         },
         {
+          "month": 16,
           "bookings": 0.0,
           "revenue": 0.0,
           "receipts": 11500.0,
           "direct": 39387.5,
           "support_revenue": 0.0,
-          "commission": 232.875,
-          "commission_cash": 738.25,
           "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 4657.5,
-          "month": 16,
-          "fixed": 30832.76605400499,
-          "gross_profit": -39387.5,
-          "contribution": -70453.14105400498,
-          "cash_net": -59458.51605400499,
-          "cumulative_cash": -410788.5983662355
+          "production_active": 1.0
         },
         {
+          "month": 17,
           "bookings": 0.0,
           "revenue": 55000.0,
           "receipts": 72000.0,
           "direct": 39387.5,
           "support_revenue": 0.0,
-          "commission": 444.5,
-          "commission_cash": 232.875,
           "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 8890.0,
-          "month": 17,
-          "fixed": 24706.14930791922,
-          "gross_profit": 15612.5,
-          "contribution": -9538.149307919219,
-          "cash_net": 7673.475692080781,
-          "cumulative_cash": -403115.1226741547
+          "production_active": 1.0
         },
         {
+          "month": 18,
           "bookings": 0.0,
           "revenue": 180000.0,
           "receipts": 27500.0,
           "direct": 28462.5,
           "support_revenue": 0.0,
-          "commission": 2870.875,
-          "commission_cash": 444.5,
           "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 57417.5,
-          "month": 18,
-          "fixed": 30706.14930791922,
-          "gross_profit": 151537.5,
-          "contribution": 117960.47569208078,
-          "cash_net": -32113.14930791922,
-          "cumulative_cash": -435228.2719820739
+          "production_active": 1.0
         },
         {
+          "month": 19,
           "bookings": 235000.0,
           "revenue": 3000.0,
           "receipts": 117500.0,
           "direct": 40287.5,
           "support_revenue": 3000.0,
-          "commission": 772.625,
-          "commission_cash": 2870.875,
           "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 15452.5,
-          "month": 19,
-          "fixed": 30832.76605400499,
-          "gross_profit": -37287.5,
-          "contribution": -68892.89105400498,
-          "cash_net": 43508.85894599501,
-          "cumulative_cash": -391719.4130360789
+          "production_active": 1.0
         },
         {
+          "month": 20,
           "bookings": 15000.0,
           "revenue": 3000.0,
           "receipts": 30000.0,
           "direct": 44743.75,
           "support_revenue": 3000.0,
-          "commission": 435.75,
-          "commission_cash": 772.625,
           "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 8715.0,
-          "month": 20,
-          "fixed": 24706.14930791922,
-          "gross_profit": -41743.75,
-          "contribution": -66885.64930791922,
-          "cash_net": -40222.524307919215,
-          "cumulative_cash": -431941.9373439981
+          "production_active": 1.0
         },
         {
+          "month": 21,
           "bookings": 0.0,
           "revenue": 73000.0,
           "receipts": 75000.0,
           "direct": 44743.75,
           "support_revenue": 3000.0,
-          "commission": 732.125,
-          "commission_cash": 435.75,
           "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 14642.5,
-          "month": 21,
-          "fixed": 24706.14930791922,
-          "gross_profit": 28256.25,
-          "contribution": 2817.9756920807813,
-          "cash_net": 5114.350692080781,
-          "cumulative_cash": -426827.5866519173
+          "production_active": 1.0
         },
         {
+          "month": 22,
           "bookings": 0.0,
           "revenue": 183000.0,
           "receipts": 36500.0,
           "direct": 29362.5,
           "support_revenue": 3000.0,
-          "commission": 3097.625,
-          "commission_cash": 732.125,
           "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 61952.5,
-          "month": 22,
-          "fixed": 30832.76605400499,
-          "gross_profit": 153637.5,
-          "contribution": 119707.10894599502,
-          "cash_net": -24427.39105400499,
-          "cumulative_cash": -451254.9777059223
+          "production_active": 1.0
         },
         {
+          "month": 23,
           "bookings": 235000.0,
           "revenue": 6000.0,
           "receipts": 120500.0,
           "direct": 41187.5,
           "support_revenue": 6000.0,
-          "commission": 877.625,
-          "commission_cash": 3097.625,
           "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 17552.5,
-          "month": 23,
-          "fixed": 24706.14930791922,
-          "gross_profit": -35187.5,
-          "contribution": -60771.274307919215,
-          "cash_net": 51508.725692080785,
-          "cumulative_cash": -399746.2520138415
+          "production_active": 1.0
         },
         {
+          "month": 24,
           "bookings": 15000.0,
           "revenue": 6000.0,
           "receipts": 33000.0,
           "direct": 45643.75,
           "support_revenue": 6000.0,
-          "commission": 540.75,
-          "commission_cash": 877.625,
           "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 10815.0,
-          "month": 24,
-          "fixed": 30706.14930791922,
-          "gross_profit": -39643.75,
-          "contribution": -70890.64930791922,
-          "cash_net": -44227.524307919215,
-          "cumulative_cash": -443973.7763217607
+          "production_active": 1.0
         },
         {
+          "month": 25,
           "bookings": 0.0,
           "revenue": 76000.0,
           "receipts": 78000.0,
           "direct": 45643.75,
           "support_revenue": 6000.0,
-          "commission": 837.125,
-          "commission_cash": 540.75,
           "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 16742.5,
-          "month": 25,
-          "fixed": 36478.2164737917,
-          "gross_profit": 30356.25,
-          "contribution": -6959.091473791697,
-          "cash_net": -4662.716473791697,
-          "cumulative_cash": -448636.4927955524
+          "production_active": 1.0
         },
         {
+          "month": 26,
           "bookings": 0.0,
           "revenue": 186000.0,
           "receipts": 39500.0,
           "direct": 30262.5,
           "support_revenue": 6000.0,
-          "commission": 3202.625,
-          "commission_cash": 837.125,
           "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 64052.5,
-          "month": 26,
-          "fixed": 26539.48264125255,
-          "gross_profit": 155737.5,
-          "contribution": 125995.39235874746,
-          "cash_net": -18139.10764125255,
-          "cumulative_cash": -466775.600436805
+          "production_active": 1.0
         },
         {
+          "month": 27,
           "bookings": 235000.0,
           "revenue": 9000.0,
           "receipts": 123500.0,
           "direct": 42087.5,
           "support_revenue": 9000.0,
-          "commission": 982.625,
-          "commission_cash": 3202.625,
           "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 19652.5,
-          "month": 27,
-          "fixed": 31339.48264125255,
-          "gross_profit": -33087.5,
-          "contribution": -65409.60764125255,
-          "cash_net": 46870.39235874745,
-          "cumulative_cash": -419905.20807805756
+          "production_active": 1.0
         },
         {
+          "month": 28,
           "bookings": 15000.0,
           "revenue": 9000.0,
           "receipts": 36000.0,
           "direct": 46543.75,
           "support_revenue": 9000.0,
-          "commission": 645.75,
-          "commission_cash": 982.625,
           "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 12915.0,
-          "month": 28,
-          "fixed": 32666.099387338327,
-          "gross_profit": -37543.75,
-          "contribution": -70855.59938733833,
-          "cash_net": -44192.47438733833,
-          "cumulative_cash": -464097.6824653959
+          "production_active": 1.0
         },
         {
+          "month": 29,
           "bookings": 0.0,
           "revenue": 79000.0,
           "receipts": 81000.0,
           "direct": 46543.75,
           "support_revenue": 9000.0,
-          "commission": 942.125,
-          "commission_cash": 645.75,
           "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 18842.5,
-          "month": 29,
-          "fixed": 26539.48264125255,
-          "gross_profit": 32456.25,
-          "contribution": 4974.642358747449,
-          "cash_net": 7271.017358747449,
-          "cumulative_cash": -456826.66510664846
+          "production_active": 1.0
         },
         {
+          "month": 30,
           "bookings": 0.0,
           "revenue": 189000.0,
           "receipts": 42500.0,
           "direct": 31162.5,
           "support_revenue": 9000.0,
-          "commission": 3307.625,
-          "commission_cash": 942.125,
           "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 66152.5,
-          "month": 30,
-          "fixed": 33539.48264125255,
-          "gross_profit": 157837.5,
-          "contribution": 120990.39235874746,
-          "cash_net": -23144.10764125255,
-          "cumulative_cash": -479970.77274790104
+          "production_active": 1.0
         },
         {
+          "month": 31,
           "bookings": 235000.0,
           "revenue": 12000.0,
           "receipts": 126500.0,
           "direct": 42987.5,
           "support_revenue": 12000.0,
-          "commission": 1087.625,
-          "commission_cash": 3307.625,
           "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 21752.5,
-          "month": 31,
-          "fixed": 32666.099387338327,
-          "gross_profit": -30987.5,
-          "contribution": -64741.22438733833,
-          "cash_net": 47538.77561266167,
-          "cumulative_cash": -432431.99713523936
+          "production_active": 1.0
         },
         {
+          "month": 32,
           "bookings": 15000.0,
           "revenue": 12000.0,
           "receipts": 39000.0,
           "direct": 47443.75,
           "support_revenue": 12000.0,
-          "commission": 750.75,
-          "commission_cash": 1087.625,
           "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 15015.0,
-          "month": 32,
-          "fixed": 26539.48264125255,
-          "gross_profit": -35443.75,
-          "contribution": -62733.98264125255,
-          "cash_net": -36070.85764125255,
-          "cumulative_cash": -468502.85477649193
+          "production_active": 1.0
         },
         {
+          "month": 33,
           "bookings": 0.0,
           "revenue": 82000.0,
           "receipts": 84000.0,
           "direct": 47443.75,
           "support_revenue": 12000.0,
-          "commission": 1047.125,
-          "commission_cash": 750.75,
           "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 20942.5,
-          "month": 33,
-          "fixed": 26539.48264125255,
-          "gross_profit": 34556.25,
-          "contribution": 6969.642358747449,
-          "cash_net": 9266.01735874745,
-          "cumulative_cash": -459236.8374177445
+          "production_active": 1.0
         },
         {
+          "month": 34,
           "bookings": 180000.0,
           "revenue": 192000.0,
           "receipts": 99500.0,
           "direct": 60525.0,
           "support_revenue": 12000.0,
-          "commission": 3412.625,
-          "commission_cash": 1047.125,
           "project_weeks": 12.0,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 68252.5,
-          "month": 34,
-          "fixed": 32666.099387338327,
-          "gross_profit": 131475.0,
-          "contribution": 95396.27561266167,
-          "cash_net": 5261.775612661673,
-          "cumulative_cash": -453975.06180508283
+          "production_active": 2.0
         },
         {
+          "month": 35,
           "bookings": 55000.0,
           "revenue": 15000.0,
           "receipts": 75500.0,
           "direct": 43887.5,
           "support_revenue": 15000.0,
-          "commission": 1192.625,
-          "commission_cash": 3412.625,
           "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 23852.5,
-          "month": 35,
-          "fixed": 26539.48264125255,
-          "gross_profit": -28887.5,
-          "contribution": -56619.60764125255,
-          "cash_net": 1660.3923587474492,
-          "cumulative_cash": -452314.6694463354
+          "production_active": 1.0
         },
         {
+          "month": 36,
           "bookings": 15000.0,
           "revenue": 15000.0,
           "receipts": 114000.0,
           "direct": 48343.75,
           "support_revenue": 15000.0,
-          "commission": 855.75,
-          "commission_cash": 1192.625,
           "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 17115.0,
-          "month": 36,
-          "fixed": 33539.48264125255,
-          "gross_profit": -33343.75,
-          "contribution": -67738.98264125254,
-          "cash_net": 30924.14235874745,
-          "cumulative_cash": -421390.527087588
-        }
-      ],
-      "peak_gap": 479970.77,
-      "liquidity": 551966.39,
-      "cumulative_contribution": -562246.28,
-      "projects": [
-        {
-          "id": "D1",
-          "kind": "D",
-          "start": 4,
-          "end": 5
-        },
-        {
-          "id": "D2",
-          "kind": "D",
-          "start": 6,
-          "end": 7
-        },
-        {
-          "id": "D3",
-          "kind": "D",
-          "start": 8,
-          "end": 9
-        },
-        {
-          "id": "D4",
-          "kind": "D",
-          "start": 14,
-          "end": 15
-        },
-        {
-          "id": "D5",
-          "kind": "D",
-          "start": 18,
-          "end": 19
-        },
-        {
-          "id": "D6",
-          "kind": "D",
-          "start": 22,
-          "end": 23
-        },
-        {
-          "id": "D7",
-          "kind": "D",
-          "start": 26,
-          "end": 27
-        },
-        {
-          "id": "D8",
-          "kind": "D",
-          "start": 30,
-          "end": 31
-        },
-        {
-          "id": "D9",
-          "kind": "D",
-          "start": 33,
-          "end": 34
-        },
-        {
-          "id": "V1",
-          "kind": "V",
-          "start": 6,
-          "end": 8
-        },
-        {
-          "id": "V2",
-          "kind": "V",
-          "start": 9,
-          "end": 11
-        },
-        {
-          "id": "V3",
-          "kind": "V",
-          "start": 13,
-          "end": 15
-        },
-        {
-          "id": "V4",
-          "kind": "V",
-          "start": 17,
-          "end": 19
-        },
-        {
-          "id": "V5",
-          "kind": "V",
-          "start": 21,
-          "end": 23
-        },
-        {
-          "id": "V6",
-          "kind": "V",
-          "start": 25,
-          "end": 27
-        },
-        {
-          "id": "V7",
-          "kind": "V",
-          "start": 29,
-          "end": 31
-        },
-        {
-          "id": "V8",
-          "kind": "V",
-          "start": 32,
-          "end": 34
-        },
-        {
-          "id": "E1",
-          "kind": "E",
-          "start": 9,
-          "end": 12
-        },
-        {
-          "id": "E2",
-          "kind": "E",
-          "start": 13,
-          "end": 16
-        },
-        {
-          "id": "E3",
-          "kind": "E",
-          "start": 17,
-          "end": 20
-        },
-        {
-          "id": "E4",
-          "kind": "E",
-          "start": 21,
-          "end": 24
-        },
-        {
-          "id": "E5",
-          "kind": "E",
-          "start": 25,
-          "end": 28
-        },
-        {
-          "id": "E6",
-          "kind": "E",
-          "start": 28,
-          "end": 31
-        },
-        {
-          "id": "E7",
-          "kind": "E",
-          "start": 31,
-          "end": 34
-        },
-        {
-          "id": "E8",
-          "kind": "E",
-          "start": 33,
-          "end": 36
+          "production_active": 1.0
         }
       ]
     },
     "growth": {
       "delay": 0,
-      "years": [
-        {
-          "bookings": 335000.0,
-          "revenue": 335000.0,
-          "receipts": 275500.0,
-          "direct": 206137.5,
-          "gross_profit": 128862.5,
-          "fixed": 326925.71,
-          "commission": 5339.75,
-          "commission_cash": 2468.88,
-          "contribution": -203402.96,
-          "support_revenue": 0.0,
-          "deposit_out": 2000.0,
-          "year": 1,
-          "accepted": {
-            "D": 3,
-            "V": 2,
-            "E": 1
-          },
-          "signed": {
-            "D": 3,
-            "V": 2,
-            "E": 1
-          },
-          "peak_delivery_fte": 2.29,
-          "max_parallel_production": 1.0,
-          "project_pool": 3,
-          "funding_envelope": 375964.57,
-          "contribution_before_incentive": -198063.21,
-          "total_spend": 538402.96
-        },
-        {
-          "bookings": 930000.0,
-          "revenue": 1011000.0,
-          "receipts": 999000.0,
-          "direct": 604762.5,
-          "gross_profit": 406237.5,
-          "fixed": 339686.32,
-          "commission": 19891.88,
-          "commission_cash": 19350.12,
-          "contribution": 46659.31,
-          "support_revenue": 81000.0,
-          "deposit_out": 0.0,
-          "year": 2,
-          "accepted": {
-            "D": 3,
-            "V": 3,
-            "E": 4
-          },
-          "signed": {
-            "D": 3,
-            "V": 3,
-            "E": 4
-          },
-          "peak_delivery_fte": 3.68,
-          "max_parallel_production": 2.0,
-          "project_pool": 5,
-          "funding_envelope": 390639.26,
-          "contribution_before_incentive": 66551.19,
-          "total_spend": 964340.7
-        },
-        {
-          "bookings": 1110000.0,
-          "revenue": 1350000.0,
-          "receipts": 1340500.0,
-          "direct": 766312.5,
-          "gross_profit": 583687.5,
-          "fixed": 365592.38,
-          "commission": 28770.5,
-          "commission_cash": 28481.0,
-          "contribution": 189324.62,
-          "support_revenue": 240000.0,
-          "deposit_out": 0.0,
-          "year": 3,
-          "accepted": {
-            "D": 3,
-            "V": 3,
-            "E": 5
-          },
-          "signed": {
-            "D": 3,
-            "V": 3,
-            "E": 5
-          },
-          "peak_delivery_fte": 3.68,
-          "max_parallel_production": 2.0,
-          "project_pool": 6,
-          "funding_envelope": 420431.23,
-          "contribution_before_incentive": 218095.12,
-          "total_spend": 1160675.38
-        }
-      ],
-      "months": [
-        {
-          "bookings": 0.0,
-          "revenue": 0.0,
-          "receipts": 0.0,
-          "direct": 0.0,
-          "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
-          "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 2000,
-          "eligible_gp": 0.0,
-          "month": 1,
-          "fixed": 40144.88314045836,
-          "gross_profit": 0.0,
-          "contribution": -40144.88314045836,
-          "cash_net": -42144.88314045836,
-          "cumulative_cash": -42144.88314045836
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 0.0,
-          "receipts": 0.0,
-          "direct": 0.0,
-          "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
-          "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
-          "month": 2,
-          "fixed": 24206.14930791922,
-          "gross_profit": 0.0,
-          "contribution": -24206.14930791922,
-          "cash_net": -24206.14930791922,
-          "cumulative_cash": -66351.03244837758
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 0.0,
-          "receipts": 0.0,
-          "direct": 0.0,
-          "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
-          "project_weeks": 0.0,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
-          "month": 3,
-          "fixed": 30339.48264125255,
-          "gross_profit": 0.0,
-          "contribution": -30339.48264125255,
-          "cash_net": -30339.48264125255,
-          "cumulative_cash": -96690.51508963012
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 0.0,
-          "receipts": 9000.0,
-          "direct": 4456.25,
-          "support_revenue": 0.0,
-          "commission": 0.0,
-          "commission_cash": 0.0,
-          "project_weeks": 1.25,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 0.0,
-          "month": 4,
-          "fixed": 28332.76605400499,
-          "gross_profit": -4456.25,
-          "contribution": -32789.01605400499,
-          "cash_net": -23789.01605400499,
-          "cumulative_cash": -120479.5311436351
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 15000.0,
-          "receipts": 0.0,
-          "direct": 4456.25,
-          "support_revenue": 0.0,
-          "commission": 182.625,
-          "commission_cash": 0.0,
-          "project_weeks": 1.25,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 3652.5,
-          "month": 5,
-          "fixed": 24206.14930791922,
-          "gross_profit": 10543.75,
-          "contribution": -13845.024307919219,
-          "cash_net": -28662.39930791922,
-          "cumulative_cash": -149141.93045155433
-        },
-        {
-          "bookings": 70000.0,
-          "revenue": 0.0,
-          "receipts": 37000.0,
-          "direct": 15381.25,
-          "support_revenue": 0.0,
-          "commission": 121.75,
-          "commission_cash": 182.625,
-          "project_weeks": 3.9166666666666665,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 2435.0,
-          "month": 6,
-          "fixed": 26206.14930791922,
-          "gross_profit": -15381.25,
-          "contribution": -41709.149307919215,
-          "cash_net": -4770.024307919219,
-          "cumulative_cash": -153911.95475947356
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 15000.0,
-          "receipts": 0.0,
-          "direct": 15381.25,
-          "support_revenue": 0.0,
-          "commission": 182.625,
-          "commission_cash": 121.75,
-          "project_weeks": 3.9166666666666665,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 3652.5,
-          "month": 7,
-          "fixed": 30332.76605400499,
-          "gross_profit": -381.25,
-          "contribution": -30896.64105400499,
-          "cash_net": -45835.76605400499,
-          "cumulative_cash": -199747.72081347855
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 55000.0,
-          "receipts": 15000.0,
-          "direct": 15381.25,
-          "support_revenue": 0.0,
-          "commission": 566.25,
-          "commission_cash": 182.625,
-          "project_weeks": 3.9166666666666665,
-          "production_active": 0.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 11325.0,
-          "month": 8,
-          "fixed": 21206.14930791922,
-          "gross_profit": 39618.75,
-          "contribution": 17846.35069208078,
-          "cash_net": -21770.02430791922,
-          "cumulative_cash": -221517.74512139778
-        },
-        {
-          "bookings": 235000.0,
-          "revenue": 15000.0,
-          "receipts": 103500.0,
-          "direct": 43843.75,
-          "support_revenue": 0.0,
-          "commission": 738.25,
-          "commission_cash": 566.25,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 14765.0,
-          "month": 9,
-          "fixed": 23206.14930791922,
-          "gross_profit": -28843.75,
-          "contribution": -52788.149307919215,
-          "cash_net": 35883.850692080785,
-          "cumulative_cash": -185633.89442931698
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 0.0,
-          "receipts": 11500.0,
-          "direct": 39387.5,
-          "support_revenue": 0.0,
-          "commission": 232.875,
-          "commission_cash": 738.25,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 4657.5,
-          "month": 10,
-          "fixed": 29332.76605400499,
-          "gross_profit": -39387.5,
-          "contribution": -68953.14105400498,
-          "cash_net": -57958.51605400499,
-          "cumulative_cash": -243592.41048332196
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 55000.0,
-          "receipts": 72000.0,
-          "direct": 39387.5,
-          "support_revenue": 0.0,
-          "commission": 444.5,
-          "commission_cash": 232.875,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 8890.0,
-          "month": 11,
-          "fixed": 23206.14930791922,
-          "gross_profit": 15612.5,
-          "contribution": -8038.149307919219,
-          "cash_net": 9173.475692080781,
-          "cumulative_cash": -234418.9347912412
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 180000.0,
-          "receipts": 27500.0,
-          "direct": 28462.5,
-          "support_revenue": 0.0,
-          "commission": 2870.875,
-          "commission_cash": 444.5,
-          "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 57417.5,
-          "month": 12,
-          "fixed": 26206.14930791922,
-          "gross_profit": 151537.5,
-          "contribution": 122460.47569208078,
-          "cash_net": -27613.14930791922,
-          "cumulative_cash": -262032.08409916042
-        },
-        {
-          "bookings": 235000.0,
-          "revenue": 3000.0,
-          "receipts": 117500.0,
-          "direct": 40287.5,
-          "support_revenue": 3000.0,
-          "commission": 772.625,
-          "commission_cash": 2870.875,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 15452.5,
-          "month": 13,
-          "fixed": 32738.824597231676,
-          "gross_profit": -37287.5,
-          "contribution": -70798.94959723168,
-          "cash_net": 41602.80040276832,
-          "cumulative_cash": -220429.28369639209
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 3000.0,
-          "receipts": 30000.0,
-          "direct": 44743.75,
-          "support_revenue": 3000.0,
-          "commission": 435.75,
-          "commission_cash": 772.625,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 8715.0,
-          "month": 14,
-          "fixed": 24706.14930791922,
-          "gross_profit": -41743.75,
-          "contribution": -66885.64930791922,
-          "cash_net": -40222.524307919215,
-          "cumulative_cash": -260651.8080043113
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 73000.0,
-          "receipts": 75000.0,
-          "direct": 44743.75,
-          "support_revenue": 3000.0,
-          "commission": 732.125,
-          "commission_cash": 435.75,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 14642.5,
-          "month": 15,
-          "fixed": 29506.14930791922,
-          "gross_profit": 28256.25,
-          "contribution": -1982.0243079192187,
-          "cash_net": 314.3506920807813,
-          "cumulative_cash": -260337.45731223052
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 183000.0,
-          "receipts": 36500.0,
-          "direct": 29362.5,
-          "support_revenue": 3000.0,
-          "commission": 3097.625,
-          "commission_cash": 732.125,
-          "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 61952.5,
-          "month": 16,
-          "fixed": 30832.76605400499,
-          "gross_profit": 153637.5,
-          "contribution": 119707.10894599502,
-          "cash_net": -24427.39105400499,
-          "cumulative_cash": -284764.8483662355
-        },
-        {
-          "bookings": 235000.0,
-          "revenue": 6000.0,
-          "receipts": 120500.0,
-          "direct": 41187.5,
-          "support_revenue": 6000.0,
-          "commission": 877.625,
-          "commission_cash": 3097.625,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 17552.5,
-          "month": 17,
-          "fixed": 24706.14930791922,
-          "gross_profit": -35187.5,
-          "contribution": -60771.274307919215,
-          "cash_net": 51508.725692080785,
-          "cumulative_cash": -233256.1226741547
-        },
-        {
-          "bookings": 195000.0,
-          "revenue": 6000.0,
-          "receipts": 87000.0,
-          "direct": 74106.25,
-          "support_revenue": 6000.0,
-          "commission": 540.75,
-          "commission_cash": 877.625,
-          "project_weeks": 15.916666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 10815.0,
-          "month": 18,
-          "fixed": 30706.14930791922,
-          "gross_profit": -68106.25,
-          "contribution": -99353.14930791922,
-          "cash_net": -18690.02430791922,
-          "cumulative_cash": -251946.14698207393
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 76000.0,
-          "receipts": 78000.0,
-          "direct": 74106.25,
-          "support_revenue": 6000.0,
-          "commission": 837.125,
-          "commission_cash": 540.75,
-          "project_weeks": 15.916666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 16742.5,
-          "month": 19,
-          "fixed": 30832.76605400499,
-          "gross_profit": 1893.75,
-          "contribution": -29776.14105400499,
-          "cash_net": -27479.76605400499,
-          "cumulative_cash": -279425.9130360789
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 186000.0,
-          "receipts": 111500.0,
-          "direct": 58725.0,
-          "support_revenue": 6000.0,
-          "commission": 3202.625,
-          "commission_cash": 837.125,
-          "project_weeks": 12.0,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 64052.5,
-          "month": 20,
-          "fixed": 24706.14930791922,
-          "gross_profit": 127275.0,
-          "contribution": 99366.22569208078,
-          "cash_net": 27231.72569208078,
-          "cumulative_cash": -252194.18734399814
-        },
-        {
-          "bookings": 235000.0,
-          "revenue": 189000.0,
-          "receipts": 123500.0,
-          "direct": 70550.0,
-          "support_revenue": 9000.0,
-          "commission": 3297.875,
-          "commission_cash": 3202.625,
-          "project_weeks": 14.666666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 65957.5,
-          "month": 21,
-          "fixed": 24706.14930791922,
-          "gross_profit": 118450.0,
-          "contribution": 90445.97569208078,
-          "cash_net": 25041.22569208078,
-          "cumulative_cash": -227152.96165191737
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 12000.0,
-          "receipts": 72000.0,
-          "direct": 47443.75,
-          "support_revenue": 12000.0,
-          "commission": 1307.25,
-          "commission_cash": 3297.875,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 26145.0,
-          "month": 22,
-          "fixed": 30832.76605400499,
-          "gross_profit": -35443.75,
-          "contribution": -67583.76605400498,
-          "cash_net": -9574.391054004991,
-          "cumulative_cash": -236727.35270592236
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 82000.0,
-          "receipts": 102000.0,
-          "direct": 47443.75,
-          "support_revenue": 12000.0,
-          "commission": 1377.875,
-          "commission_cash": 1307.25,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 27557.5,
-          "month": 23,
-          "fixed": 24706.14930791922,
-          "gross_profit": 34556.25,
-          "contribution": 8472.225692080781,
-          "cash_net": 28542.85069208078,
-          "cumulative_cash": -208184.5020138416
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 192000.0,
-          "receipts": 45500.0,
-          "direct": 32062.5,
-          "support_revenue": 12000.0,
-          "commission": 3412.625,
-          "commission_cash": 1377.875,
-          "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 68252.5,
-          "month": 24,
-          "fixed": 30706.14930791922,
-          "gross_profit": 159937.5,
-          "contribution": 125818.72569208078,
-          "cash_net": -18646.52430791922,
-          "cumulative_cash": -226831.02632176082
-        },
-        {
-          "bookings": 235000.0,
-          "revenue": 15000.0,
-          "receipts": 129500.0,
-          "direct": 43887.5,
-          "support_revenue": 15000.0,
-          "commission": 1192.625,
-          "commission_cash": 3412.625,
-          "project_weeks": 8.666666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 23852.5,
-          "month": 25,
-          "fixed": 36478.2164737917,
-          "gross_profit": -28887.5,
-          "contribution": -66558.34147379169,
-          "cash_net": 45721.6585262083,
-          "cumulative_cash": -181109.3677955525
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 15000.0,
-          "receipts": 42000.0,
-          "direct": 48343.75,
-          "support_revenue": 15000.0,
-          "commission": 855.75,
-          "commission_cash": 1192.625,
-          "project_weeks": 9.916666666666666,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 17115.0,
-          "month": 26,
-          "fixed": 26539.48264125255,
-          "gross_profit": -33343.75,
-          "contribution": -60738.98264125255,
-          "cash_net": -34075.85764125255,
-          "cumulative_cash": -215185.22543680505
-        },
-        {
-          "bookings": 180000.0,
-          "revenue": 85000.0,
-          "receipts": 141000.0,
-          "direct": 76806.25,
-          "support_revenue": 15000.0,
-          "commission": 1152.125,
-          "commission_cash": 855.75,
-          "project_weeks": 15.916666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 23042.5,
-          "month": 27,
-          "fixed": 31339.48264125255,
-          "gross_profit": 8193.75,
-          "contribution": -24297.85764125255,
-          "cash_net": 31998.51735874745,
-          "cumulative_cash": -183186.7080780576
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 195000.0,
-          "receipts": 48500.0,
-          "direct": 61425.0,
-          "support_revenue": 15000.0,
-          "commission": 3517.625,
-          "commission_cash": 1152.125,
-          "project_weeks": 12.0,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 70352.5,
-          "month": 28,
-          "fixed": 32666.099387338327,
-          "gross_profit": 133575.0,
-          "contribution": 97391.27561266167,
-          "cash_net": -46743.22438733833,
-          "cumulative_cash": -229929.93246539592
-        },
-        {
-          "bookings": 235000.0,
-          "revenue": 18000.0,
-          "receipts": 204500.0,
-          "direct": 73250.0,
-          "support_revenue": 18000.0,
-          "commission": 1297.625,
-          "commission_cash": 3517.625,
-          "project_weeks": 14.666666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 25952.5,
-          "month": 29,
-          "fixed": 26539.48264125255,
-          "gross_profit": -55250.0,
-          "contribution": -83087.10764125254,
-          "cash_net": 101192.89235874746,
-          "cumulative_cash": -128737.04010664846
-        },
-        {
-          "bookings": 15000.0,
-          "revenue": 198000.0,
-          "receipts": 45000.0,
-          "direct": 77706.25,
-          "support_revenue": 18000.0,
-          "commission": 3276.0,
-          "commission_cash": 1297.625,
-          "project_weeks": 15.916666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 65520.0,
-          "month": 30,
-          "fixed": 33539.48264125255,
-          "gross_profit": 120293.75,
-          "contribution": 83478.26735874746,
-          "cash_net": -67543.35764125254,
-          "cumulative_cash": -196280.397747901
-        },
-        {
-          "bookings": 180000.0,
-          "revenue": 91000.0,
-          "receipts": 180000.0,
-          "direct": 78606.25,
-          "support_revenue": 21000.0,
-          "commission": 1918.625,
-          "commission_cash": 3276.0,
-          "project_weeks": 15.916666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 38372.5,
-          "month": 31,
-          "fixed": 32666.099387338327,
-          "gross_profit": 12393.75,
-          "contribution": -22190.974387338327,
-          "cash_net": 65451.65061266167,
-          "cumulative_cash": -130828.74713523933
-        },
-        {
-          "bookings": 55000.0,
-          "revenue": 201000.0,
-          "receipts": 94500.0,
-          "direct": 74150.0,
-          "support_revenue": 21000.0,
-          "commission": 4058.375,
-          "commission_cash": 1918.625,
-          "project_weeks": 14.666666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 81167.5,
-          "month": 32,
-          "fixed": 26539.48264125255,
-          "gross_profit": 126850.0,
-          "contribution": 96252.14235874746,
-          "cash_net": -8108.107641252551,
-          "cumulative_cash": -138936.85477649188
-        },
-        {
-          "bookings": 195000.0,
-          "revenue": 24000.0,
-          "receipts": 197500.0,
-          "direct": 79506.25,
-          "support_revenue": 24000.0,
-          "commission": 1507.625,
-          "commission_cash": 4058.375,
-          "project_weeks": 15.916666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 30152.5,
-          "month": 33,
-          "fixed": 26539.48264125255,
-          "gross_profit": -55506.25,
-          "contribution": -83553.35764125254,
-          "cash_net": 87395.89235874746,
-          "cumulative_cash": -51540.96241774442
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 274000.0,
-          "receipts": 42000.0,
-          "direct": 79506.25,
-          "support_revenue": 24000.0,
-          "commission": 4113.125,
-          "commission_cash": 1507.625,
-          "project_weeks": 15.916666666666666,
-          "production_active": 2.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 82262.5,
-          "month": 34,
-          "fixed": 32666.099387338327,
-          "gross_profit": 194493.75,
-          "contribution": 157714.52561266167,
-          "cash_net": -71679.97438733833,
-          "cumulative_cash": -123220.93680508275
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 27000.0,
-          "receipts": 165500.0,
-          "direct": 36562.5,
-          "support_revenue": 27000.0,
-          "commission": 2178.875,
-          "commission_cash": 4113.125,
-          "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 43577.5,
-          "month": 35,
-          "fixed": 26539.48264125255,
-          "gross_profit": -9562.5,
-          "contribution": -38280.85764125255,
-          "cash_net": 98284.89235874746,
-          "cumulative_cash": -24936.04444633529
-        },
-        {
-          "bookings": 0.0,
-          "revenue": 207000.0,
-          "receipts": 50500.0,
-          "direct": 36562.5,
-          "support_revenue": 27000.0,
-          "commission": 3702.125,
-          "commission_cash": 2178.875,
-          "project_weeks": 6.0,
-          "production_active": 1.0,
-          "deposit_out": 0.0,
-          "eligible_gp": 74042.5,
-          "month": 36,
-          "fixed": 33539.48264125255,
-          "gross_profit": 170437.5,
-          "contribution": 133195.89235874746,
-          "cash_net": -21780.85764125255,
-          "cumulative_cash": -46716.90208758784
-        }
-      ],
-      "peak_gap": 284764.85,
-      "liquidity": 327479.58,
-      "cumulative_contribution": 32580.97,
       "projects": [
         {
           "id": "D1",
@@ -5987,72 +1676,1031 @@
           "start": 33,
           "end": 36
         }
+      ],
+      "years": [
+        {
+          "year": 1,
+          "bookings": 335000.0,
+          "revenue": 335000.0,
+          "receipts": 275500.0,
+          "direct": 206137.5,
+          "gross_profit": 128862.5,
+          "support_revenue": 0.0,
+          "accepted": {
+            "D": 3,
+            "V": 2,
+            "E": 1
+          },
+          "signed": {
+            "D": 3,
+            "V": 2,
+            "E": 1
+          },
+          "project_pool": 3,
+          "max_parallel_production": 1.0
+        },
+        {
+          "year": 2,
+          "bookings": 930000.0,
+          "revenue": 1011000.0,
+          "receipts": 999000.0,
+          "direct": 604762.5,
+          "gross_profit": 406237.5,
+          "support_revenue": 81000.0,
+          "accepted": {
+            "D": 3,
+            "V": 3,
+            "E": 4
+          },
+          "signed": {
+            "D": 3,
+            "V": 3,
+            "E": 4
+          },
+          "project_pool": 5,
+          "max_parallel_production": 2.0
+        },
+        {
+          "year": 3,
+          "bookings": 1110000.0,
+          "revenue": 1350000.0,
+          "receipts": 1340500.0,
+          "direct": 766312.5,
+          "gross_profit": 583687.5,
+          "support_revenue": 240000.0,
+          "accepted": {
+            "D": 3,
+            "V": 3,
+            "E": 5
+          },
+          "signed": {
+            "D": 3,
+            "V": 3,
+            "E": 5
+          },
+          "project_pool": 6,
+          "max_parallel_production": 2.0
+        }
+      ],
+      "months": [
+        {
+          "month": 1,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 2,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 3,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 0.0,
+          "direct": 0.0,
+          "support_revenue": 0.0,
+          "project_weeks": 0.0,
+          "production_active": 0.0
+        },
+        {
+          "month": 4,
+          "bookings": 15000.0,
+          "revenue": 0.0,
+          "receipts": 9000.0,
+          "direct": 4456.25,
+          "support_revenue": 0.0,
+          "project_weeks": 1.25,
+          "production_active": 0.0
+        },
+        {
+          "month": 5,
+          "bookings": 0.0,
+          "revenue": 15000.0,
+          "receipts": 0.0,
+          "direct": 4456.25,
+          "support_revenue": 0.0,
+          "project_weeks": 1.25,
+          "production_active": 0.0
+        },
+        {
+          "month": 6,
+          "bookings": 70000.0,
+          "revenue": 0.0,
+          "receipts": 37000.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 7,
+          "bookings": 0.0,
+          "revenue": 15000.0,
+          "receipts": 0.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 8,
+          "bookings": 15000.0,
+          "revenue": 55000.0,
+          "receipts": 15000.0,
+          "direct": 15381.25,
+          "support_revenue": 0.0,
+          "project_weeks": 3.9166666666666665,
+          "production_active": 0.0
+        },
+        {
+          "month": 9,
+          "bookings": 235000.0,
+          "revenue": 15000.0,
+          "receipts": 103500.0,
+          "direct": 43843.75,
+          "support_revenue": 0.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 10,
+          "bookings": 0.0,
+          "revenue": 0.0,
+          "receipts": 11500.0,
+          "direct": 39387.5,
+          "support_revenue": 0.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 11,
+          "bookings": 0.0,
+          "revenue": 55000.0,
+          "receipts": 72000.0,
+          "direct": 39387.5,
+          "support_revenue": 0.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 12,
+          "bookings": 0.0,
+          "revenue": 180000.0,
+          "receipts": 27500.0,
+          "direct": 28462.5,
+          "support_revenue": 0.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 13,
+          "bookings": 235000.0,
+          "revenue": 3000.0,
+          "receipts": 117500.0,
+          "direct": 40287.5,
+          "support_revenue": 3000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 14,
+          "bookings": 15000.0,
+          "revenue": 3000.0,
+          "receipts": 30000.0,
+          "direct": 44743.75,
+          "support_revenue": 3000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 15,
+          "bookings": 0.0,
+          "revenue": 73000.0,
+          "receipts": 75000.0,
+          "direct": 44743.75,
+          "support_revenue": 3000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 16,
+          "bookings": 0.0,
+          "revenue": 183000.0,
+          "receipts": 36500.0,
+          "direct": 29362.5,
+          "support_revenue": 3000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 17,
+          "bookings": 235000.0,
+          "revenue": 6000.0,
+          "receipts": 120500.0,
+          "direct": 41187.5,
+          "support_revenue": 6000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 18,
+          "bookings": 195000.0,
+          "revenue": 6000.0,
+          "receipts": 87000.0,
+          "direct": 74106.25,
+          "support_revenue": 6000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 19,
+          "bookings": 0.0,
+          "revenue": 76000.0,
+          "receipts": 78000.0,
+          "direct": 74106.25,
+          "support_revenue": 6000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 20,
+          "bookings": 0.0,
+          "revenue": 186000.0,
+          "receipts": 111500.0,
+          "direct": 58725.0,
+          "support_revenue": 6000.0,
+          "project_weeks": 12.0,
+          "production_active": 2.0
+        },
+        {
+          "month": 21,
+          "bookings": 235000.0,
+          "revenue": 189000.0,
+          "receipts": 123500.0,
+          "direct": 70550.0,
+          "support_revenue": 9000.0,
+          "project_weeks": 14.666666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 22,
+          "bookings": 15000.0,
+          "revenue": 12000.0,
+          "receipts": 72000.0,
+          "direct": 47443.75,
+          "support_revenue": 12000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 23,
+          "bookings": 0.0,
+          "revenue": 82000.0,
+          "receipts": 102000.0,
+          "direct": 47443.75,
+          "support_revenue": 12000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 24,
+          "bookings": 0.0,
+          "revenue": 192000.0,
+          "receipts": 45500.0,
+          "direct": 32062.5,
+          "support_revenue": 12000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 25,
+          "bookings": 235000.0,
+          "revenue": 15000.0,
+          "receipts": 129500.0,
+          "direct": 43887.5,
+          "support_revenue": 15000.0,
+          "project_weeks": 8.666666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 26,
+          "bookings": 15000.0,
+          "revenue": 15000.0,
+          "receipts": 42000.0,
+          "direct": 48343.75,
+          "support_revenue": 15000.0,
+          "project_weeks": 9.916666666666666,
+          "production_active": 1.0
+        },
+        {
+          "month": 27,
+          "bookings": 180000.0,
+          "revenue": 85000.0,
+          "receipts": 141000.0,
+          "direct": 76806.25,
+          "support_revenue": 15000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 28,
+          "bookings": 0.0,
+          "revenue": 195000.0,
+          "receipts": 48500.0,
+          "direct": 61425.0,
+          "support_revenue": 15000.0,
+          "project_weeks": 12.0,
+          "production_active": 2.0
+        },
+        {
+          "month": 29,
+          "bookings": 235000.0,
+          "revenue": 18000.0,
+          "receipts": 204500.0,
+          "direct": 73250.0,
+          "support_revenue": 18000.0,
+          "project_weeks": 14.666666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 30,
+          "bookings": 15000.0,
+          "revenue": 198000.0,
+          "receipts": 45000.0,
+          "direct": 77706.25,
+          "support_revenue": 18000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 31,
+          "bookings": 180000.0,
+          "revenue": 91000.0,
+          "receipts": 180000.0,
+          "direct": 78606.25,
+          "support_revenue": 21000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 32,
+          "bookings": 55000.0,
+          "revenue": 201000.0,
+          "receipts": 94500.0,
+          "direct": 74150.0,
+          "support_revenue": 21000.0,
+          "project_weeks": 14.666666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 33,
+          "bookings": 195000.0,
+          "revenue": 24000.0,
+          "receipts": 197500.0,
+          "direct": 79506.25,
+          "support_revenue": 24000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 34,
+          "bookings": 0.0,
+          "revenue": 274000.0,
+          "receipts": 42000.0,
+          "direct": 79506.25,
+          "support_revenue": 24000.0,
+          "project_weeks": 15.916666666666666,
+          "production_active": 2.0
+        },
+        {
+          "month": 35,
+          "bookings": 0.0,
+          "revenue": 27000.0,
+          "receipts": 165500.0,
+          "direct": 36562.5,
+          "support_revenue": 27000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        },
+        {
+          "month": 36,
+          "bookings": 0.0,
+          "revenue": 207000.0,
+          "receipts": 50500.0,
+          "direct": 36562.5,
+          "support_revenue": 27000.0,
+          "project_weeks": 6.0,
+          "production_active": 1.0
+        }
       ]
     }
   },
-  "breakeven": [
+  "version": "4.2-HQ",
+  "date": "2026-10-29",
+  "currency": "USD",
+  "classification": {
+    "zh": "尚未启动薪酬条件洽谈；项目提成、雇主相关成本、个人及整体合计待定。金额为费用参考或销售规划，非已发生支出和客户订单。",
+    "en": "Compensation talks have not started. Commission, employer-related costs and personal / overall totals are TBD. Figures are expense references or sales plans, not actual spend / orders."
+  },
+  "compensation": {
+    "status": {
+      "zh": "尚未启动薪酬条件洽谈",
+      "en": "Compensation discussions have not started"
+    },
+    "salary_aed": null,
+    "commission_rate": null
+  },
+  "commission_rate": null,
+  "fixed": null,
+  "annual": null,
+  "breakeven": [],
+  "Q1": null,
+  "Q1_with_reserve": null,
+  "expense_rows": [
     {
-      "margin": 0.35,
-      "full": 983235.215335821,
-      "no_incentive": 934073.45456903
+      "id": "salary",
+      "group": "personal",
+      "name": {
+        "zh": "薪酬条件",
+        "en": "Compensation"
+      },
+      "basis": {
+        "zh": "尚未启动洽谈，不列金额",
+        "en": "Discussions have not started; no amount"
+      },
+      "currency": "AED",
+      "annual_native": [
+        null,
+        null,
+        null
+      ],
+      "annual_usd": [
+        null,
+        null,
+        null
+      ]
     },
     {
-      "margin": 0.4,
-      "full": 860330.8134188433,
-      "no_incentive": 817314.272747901
+      "id": "commission",
+      "group": "personal",
+      "name": {
+        "zh": "项目提成",
+        "en": "Project commission"
+      },
+      "basis": {
+        "zh": "待定，不预设比例",
+        "en": "TBD; no assumed percentage"
+      },
+      "currency": "AED",
+      "annual_native": [
+        null,
+        null,
+        null
+      ],
+      "annual_usd": [
+        null,
+        null,
+        null
+      ]
     },
     {
-      "margin": 0.45,
-      "full": 764738.5008167496,
-      "no_incentive": 726501.5757759121
+      "id": "employer",
+      "group": "personal",
+      "name": {
+        "zh": "雇主相关法定成本",
+        "en": "Employer statutory costs"
+      },
+      "basis": {
+        "zh": "薪酬及合同明确后另核，不再暂列工资比例",
+        "en": "Determine after compensation / contract; no assumed wage percentage"
+      },
+      "currency": "AED",
+      "annual_native": [
+        null,
+        null,
+        null
+      ],
+      "annual_usd": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "housing",
+      "group": "personal",
+      "name": {
+        "zh": "单人驻地住宿及公用支出",
+        "en": "Single-person housing / utilities"
+      },
+      "basis": {
+        "zh": "AED7,500/月；公司提供或额度报销二选一",
+        "en": "AED7,500/month; company provision OR capped reimbursement"
+      },
+      "currency": "AED",
+      "annual_native": [
+        90000,
+        90000,
+        90000
+      ],
+      "annual_usd": [
+        24506.466984343093,
+        24506.466984343093,
+        24506.466984343093
+      ]
+    },
+    {
+      "id": "rental",
+      "group": "personal",
+      "name": {
+        "zh": "车辆月租",
+        "en": "Monthly vehicle rental"
+      },
+      "basis": {
+        "zh": "暂按AED2,500/月；报价是否含VAT、保险及里程须确认",
+        "en": "AED2,500/month reference; verify VAT, insurance and mileage"
+      },
+      "currency": "AED",
+      "annual_native": [
+        30000,
+        30000,
+        30000
+      ],
+      "annual_usd": [
+        8168.822328114364,
+        8168.822328114364,
+        8168.822328114364
+      ]
+    },
+    {
+      "id": "fuel",
+      "group": "personal",
+      "name": {
+        "zh": "车辆燃油",
+        "en": "Vehicle fuel"
+      },
+      "basis": {
+        "zh": "暂估AED2,000/月；按拜访半径、频次与票据调整",
+        "en": "AED2,000/month estimate; adjust to radius, frequency and receipts"
+      },
+      "currency": "AED",
+      "annual_native": [
+        24000,
+        24000,
+        24000
+      ],
+      "annual_usd": [
+        6535.057862491491,
+        6535.057862491491,
+        6535.057862491491
+      ]
+    },
+    {
+      "id": "parking",
+      "group": "personal",
+      "name": {
+        "zh": "停车、Salik及车辆附加费",
+        "en": "Parking, Salik / vehicle additions"
+      },
+      "basis": {
+        "zh": "按实际发生核销；未含VAT、超里程、额外保险等另核",
+        "en": "Reimburse actuals; assess unquoted VAT, excess mileage / cover separately"
+      },
+      "currency": "AED",
+      "annual_native": [
+        null,
+        null,
+        null
+      ],
+      "annual_usd": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "food",
+      "group": "personal",
+      "name": {
+        "zh": "驻外餐补",
+        "en": "Assignment meals"
+      },
+      "basis": {
+        "zh": "AED150/天；年度暂按365天，休假日规则另议",
+        "en": "AED150/day;365-day planning basis, leave eligibility to agree"
+      },
+      "currency": "AED",
+      "annual_native": [
+        54750,
+        54750,
+        54750
+      ],
+      "annual_usd": [
+        14908.100748808714,
+        14908.100748808714,
+        14908.100748808714
+      ]
+    },
+    {
+      "id": "phone",
+      "group": "personal",
+      "name": {
+        "zh": "通信套餐",
+        "en": "Mobile plan"
+      },
+      "basis": {
+        "zh": "20GB+至少300分钟为需求；du可查20GB/600分钟，暂参考AED300+5%VAT=315/月；套餐与频次核定",
+        "en": "Need20GB /at least300 minutes; visible du20GB/600-minute plan, AED300+5%VAT=315/month reference; confirm plan / usage"
+      },
+      "currency": "AED",
+      "annual_native": [
+        3780,
+        3780,
+        3780
+      ],
+      "annual_usd": [
+        1029.2716133424099,
+        1029.2716133424099,
+        1029.2716133424099
+      ]
+    },
+    {
+      "id": "roaming",
+      "group": "personal",
+      "name": {
+        "zh": "通信超额及漫游",
+        "en": "Mobile overage / roaming"
+      },
+      "basis": {
+        "zh": "按套餐目的地、沟通频率和实际账单另核",
+        "en": "Assess destinations, call frequency and actual bills"
+      },
+      "currency": "AED",
+      "annual_native": [
+        null,
+        null,
+        null
+      ],
+      "annual_usd": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "uae_health",
+      "group": "personal",
+      "name": {
+        "zh": "阿联酋医疗保险",
+        "en": "UAE medical insurance"
+      },
+      "basis": {
+        "zh": "保留AED6,000/年；签证体检另列",
+        "en": "Retain AED6,000/year; visa fitness exam separate"
+      },
+      "currency": "AED",
+      "annual_native": [
+        6000,
+        6000,
+        6000
+      ],
+      "annual_usd": [
+        1633.7644656228726,
+        1633.7644656228726,
+        1633.7644656228726
+      ]
+    },
+    {
+      "id": "sa_health",
+      "group": "personal",
+      "name": {
+        "zh": "沙特医疗保险",
+        "en": "Saudi medical insurance"
+      },
+      "basis": {
+        "zh": "保留SAR3,000/年；按两国保单衔接核定",
+        "en": "Retain SAR3,000/year; coordinate two-country policies"
+      },
+      "currency": "SAR",
+      "annual_native": [
+        3000,
+        3000,
+        3000
+      ],
+      "annual_usd": [
+        800.0,
+        800.0,
+        800.0
+      ]
+    },
+    {
+      "id": "flights",
+      "group": "personal",
+      "name": {
+        "zh": "总部述职、年假及区域机票",
+        "en": "HQ review, leave / regional airfare"
+      },
+      "basis": {
+        "zh": "事前批准、实报实销；不设固定年包或单次票价",
+        "en": "Prior approval / actual reimbursement; no fixed annual or per-trip amount"
+      },
+      "currency": "USD",
+      "annual_native": [
+        null,
+        null,
+        null
+      ],
+      "annual_usd": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "mobilization",
+      "group": "personal",
+      "name": {
+        "zh": "首次外派安置",
+        "en": "Initial mobilization"
+      },
+      "basis": {
+        "zh": "保留USD5,000一次；可退押金为现金占用另列",
+        "en": "Retain USD5,000 once; refundable deposits separate cash use"
+      },
+      "currency": "USD",
+      "annual_native": [
+        5000,
+        0,
+        0
+      ],
+      "annual_usd": [
+        5000.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": "uae_permit",
+      "group": "permits",
+      "name": {
+        "zh": "阿联酋工作许可及居留",
+        "en": "UAE work permission / residence"
+      },
+      "basis": {
+        "zh": "签证另算：AED8,000/1,000/8,000三年办理额度",
+        "en": "Visas separate: AED8,000/1,000/8,000 planning allowances"
+      },
+      "currency": "AED",
+      "annual_native": [
+        8000,
+        1000,
+        8000
+      ],
+      "annual_usd": [
+        2178.352620830497,
+        272.2940776038121,
+        2178.352620830497
+      ]
+    },
+    {
+      "id": "sa_permit",
+      "group": "permits",
+      "name": {
+        "zh": "沙特工作许可及居留",
+        "en": "Saudi work permission / residence"
+      },
+      "basis": {
+        "zh": "签证另算：SAR20,000/15,000/15,000三年额度",
+        "en": "Visas separate: SAR20,000/15,000/15,000 planning allowances"
+      },
+      "currency": "SAR",
+      "annual_native": [
+        20000,
+        15000,
+        15000
+      ],
+      "annual_usd": [
+        5333.333333333333,
+        4000.0,
+        4000.0
+      ]
+    },
+    {
+      "id": "gulf_visits",
+      "group": "sales",
+      "name": {
+        "zh": "区域客户酒店及接驳",
+        "en": "Regional client hotels / transfers"
+      },
+      "basis": {
+        "zh": "按出访安排实报；机票移至统一机票行，燃油餐补不重复",
+        "en": "Actual trips; flights only in airfare row; no duplicate fuel / meals"
+      },
+      "currency": "USD",
+      "annual_native": [
+        null,
+        null,
+        null
+      ],
+      "annual_usd": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "meetings",
+      "group": "sales",
+      "name": {
+        "zh": "客户工作会及阿语",
+        "en": "Meetings / Arabic"
+      },
+      "basis": {
+        "zh": "沿用工作包预算；按实际范围核定",
+        "en": "Retained work-package allowance; confirm actual scope"
+      },
+      "currency": "USD",
+      "annual_native": [
+        6000,
+        8000,
+        10000
+      ],
+      "annual_usd": [
+        6000.0,
+        8000.0,
+        10000.0
+      ]
+    },
+    {
+      "id": "workshops",
+      "group": "sales",
+      "name": {
+        "zh": "小型行业交流与演示",
+        "en": "Focused sessions"
+      },
+      "basis": {
+        "zh": "沿用工作包预算；按实际范围核定",
+        "en": "Retained work-package allowance; confirm actual scope"
+      },
+      "currency": "USD",
+      "annual_native": [
+        6000,
+        8000,
+        10000
+      ],
+      "annual_usd": [
+        6000.0,
+        8000.0,
+        10000.0
+      ]
+    },
+    {
+      "id": "materials",
+      "group": "sales",
+      "name": {
+        "zh": "客户材料与场景样例",
+        "en": "Account materials"
+      },
+      "basis": {
+        "zh": "沿用工作包预算；按实际范围核定",
+        "en": "Retained work-package allowance; confirm actual scope"
+      },
+      "currency": "USD",
+      "annual_native": [
+        5000,
+        6000,
+        8000
+      ],
+      "annual_usd": [
+        5000.0,
+        6000.0,
+        8000.0
+      ]
+    },
+    {
+      "id": "counsel",
+      "group": "sales",
+      "name": {
+        "zh": "用工、税务及合同咨询",
+        "en": "Employment / tax / contract advice"
+      },
+      "basis": {
+        "zh": "沿用工作包预算；按实际范围核定",
+        "en": "Retained work-package allowance; confirm actual scope"
+      },
+      "currency": "USD",
+      "annual_native": [
+        6000,
+        6000,
+        8000
+      ],
+      "annual_usd": [
+        6000.0,
+        6000.0,
+        8000.0
+      ]
+    },
+    {
+      "id": "pro",
+      "group": "sales",
+      "name": {
+        "zh": "PRO按件服务费",
+        "en": "Case-based PRO service"
+      },
+      "basis": {
+        "zh": "沿用工作包预算；按实际范围核定",
+        "en": "Retained work-package allowance; confirm actual scope"
+      },
+      "currency": "USD",
+      "annual_native": [
+        2000,
+        2000,
+        2000
+      ],
+      "annual_usd": [
+        2000.0,
+        2000.0,
+        2000.0
+      ]
+    },
+    {
+      "id": "employment_service",
+      "group": "sales",
+      "name": {
+        "zh": "两国合规雇佣服务预留",
+        "en": "Two-country employment-service reserve"
+      },
+      "basis": {
+        "zh": "沿用工作包预算；按实际范围核定",
+        "en": "Retained work-package allowance; confirm actual scope"
+      },
+      "currency": "USD",
+      "annual_native": [
+        14000,
+        14000,
+        14000
+      ],
+      "annual_usd": [
+        14000.0,
+        14000.0,
+        14000.0
+      ]
+    },
+    {
+      "id": "presales",
+      "group": "hq",
+      "name": {
+        "zh": "总部非计费售前",
+        "en": "HQ non-billable presales"
+      },
+      "basis": {
+        "zh": "沿用工作包预算；按实际范围核定",
+        "en": "Retained work-package allowance; confirm actual scope"
+      },
+      "currency": "USD",
+      "annual_native": [
+        36000,
+        48000,
+        60000
+      ],
+      "annual_usd": [
+        36000.0,
+        48000.0,
+        60000.0
+      ]
     }
   ],
-  "old_y1_fixed": 210000,
-  "cost_increase": 116925.70909916045,
   "assumptions": [
     {
-      "zh": "住房按季度预拨、医疗保单按年支付，工资及其他福利按月预算。雇主法定权益预留按月计入资金安排，实际支出据适用制度替换。",
-      "en": "Budget housing quarterly, medical policies annually and pay / other benefits monthly. Employer statutory reserves are funded monthly; replace with actual applicable payment rules."
+      "zh": "未知费用保留null，不以零元代替。合计、完整销售贡献、回本收入及资金缺口均待定。",
+      "en": "Unknowns remain null, never zero. Totals, full contribution, break-even and funding gaps remain TBD."
     },
     {
-      "zh": "年薪AED600,000按12个月固定工资目标测算，未包含住宿、车辆、餐补、差旅、签证及雇主成本；薪酬拆分、税负和激励均待协商。三年不预设自动加薪。",
-      "en": "AED 600,000 is modelled as 12-month fixed-pay target, excluding housing, vehicle, meals, travel, visas and employer costs. Pay split, tax and incentive terms remain open; no automatic raises."
+      "zh": "租金2500与燃油2000迪拉姆分别估算；燃油不代表市场平均或每月必花。按实际里程与油票复核。",
+      "en": "Rental2500 and fuel2000 dirhams are separate estimates; fuel is not a market average or mandatory monthly spend. Reconcile mileage / receipts."
     },
     {
-      "zh": "Refine旧政策仅作为福利结构参考。AED150/天暂按365天；每减少30个计补日，年度成本减少AED4,500。带薪年假已包含12薪，不额外增加一个月工资。",
-      "en": "Refine is only a benefit-structure reference. AED 150/day is budgeted over 365 days; 30 fewer eligible days saves AED 4,500/year. Paid leave is inside 12 salaries, not a 13th payment."
+      "zh": "通信315迪拉姆/月仅取未优惠套餐加VAT参考，不保证相同20GB+300分钟组合、开户资格或长期价格。漫游与超额另核。",
+      "en": "AED315/month is an undiscounted plan plus VAT reference, not a guarantee of exact20GB+300-minute match, eligibility or ongoing price. Assess roaming / overages separately."
     },
     {
-      "zh": "两国签证预算为公司承担的办理额度，不是获批证明或官方套餐。实际由合法雇主/担保主体办理；不默认两份居留或工作许可可以同时成立。",
-      "en": "Two-country visa amounts are employer-funded allowances, not approvals or official packages. A lawful employer / sponsor arranges permission; concurrent residence / work rights are not presumed."
+      "zh": "费用不作薪酬要约；住宿、车辆、餐补等与未来薪酬安排分别讨论。机票统一按批准的实际支出处理。",
+      "en": "Expense references are not a pay offer. Discuss housing, vehicle and meals separately from future pay. Reimburse airfare at approved actuals."
     },
     {
-      "zh": "保险、体检、政府规费、PRO和雇佣服务费分开；同一事项不重复计费。获批替代路径应替换对应额度。",
-      "en": "Separate insurance, medical exams, official fees, PRO and employment-service charges. Avoid duplicates and replace the relevant allowance when an alternative route is approved."
-    },
-    {
-      "zh": "AED/USD3.6725、SAR/USD3.75为预算折算基准；支付时按银行汇率及手续费结算，美元展示取整、模型保留精度。",
-      "en": "Budget FX: AED 3.6725 and SAR 3.75 per USD. Settle at bank rates / fees; display rounded USD while retaining model precision."
-    },
-    {
-      "zh": "薪酬提高不自动提高客户购买力。保留原组合为基准，增长情景另增加生产订单及持续服务，并披露总部交付资源。",
-      "en": "Higher pay does not increase client demand. Retain the original base mix; a separate growth case adds production orders / support with explicit HQ delivery capacity."
-    },
-    {
-      "zh": "毛利激励5%仅为额外预算敏感性，未视为双方同意；若年包已含浮动部分，重新拆分，避免重复计薪。贡献同时可还原为无激励口径。",
-      "en": "A5% paid-margin incentive is a separate, unagreed sensitivity. If the package includes variable pay, split it to avoid duplication. Contribution can also be read before incentives."
-    },
-    {
-      "zh": "收入在计划验收时列入，直接成本实施期费用化，支持按月列入；管理模型并非审计会计报表。实际按合同及会计准则确认。",
-      "en": "Plan revenue at acceptance, expense delivery during implementation and recognize support monthly. This management model is not audited financial reporting; actual accounting follows contracts / standards."
-    },
-    {
-      "zh": "年度固定配置、项目直接成本和激励共同形成总支出；15%年度预留与峰值缺口15%缓冲属于不同视角，不重复相加。押金USD2,000仅为现金占用。",
-      "en": "Annual fixed resources, direct projects and incentives form total spend. Annual 15% reserve and 15% liquidity buffer are different views, not additive. USD 2,000 refundable deposit is cash use only."
-    },
-    {
-      "zh": "采用新聘岗位全成本口径，不扣除未经确认的既有总部工资预算。贡献未含总部全部管理分摊、所得税、VAT及法定追加成本。",
-      "en": "Use full new-hire cost without deducting unconfirmed existing HQ payroll. Contribution excludes unallocated HQ overhead, income tax, VAT and additional statutory obligations."
+      "zh": "订单与交付规划保留，不因尚未谈薪酬而改变客户采购假设。产品毛利不等于扣除全部费用后的利润。",
+      "en": "Retain orders / delivery plans without changing client-demand assumptions. Product gross profit is not profit after all costs."
     }
   ]
 }
